@@ -1,54 +1,5 @@
 # Notes
 
-##Confusion
-
-Dear Reader, before we can begin, we must discuss confusion.  Our journey together will be covering a significant amount of teritorry.  This will cause us difficulty because I am bringing my map to this terittory and you are brining yours.  This will cause significant strife and the next person you hand this book off to will have an even different brand of map.
-
-Together, we must agree that the map is not the territory.  When my map says one thing and the territory I am covering says another, I am going to stop.  I'm going to redraw my map so that it matches the territory.  I'm going to do this to the best of my ability.  Often the computation of the territory will require more time than I have in my short life and I will instead make an approximation of the territory.  If I am successful, my map will be less confusing after this approximation.  If it isn't, I have failed.
-
-As the author I will have a much easier time removing my confusiion than you will removing yours.  Such is a fault of typical books.  This book is not a typical book and is published as a git repository and I do accept pull request.  I will leave it to the reader to explore git repositories off line if they feel they have a contribution to make.  An added advantage to this is that one has the ability to go back and see how this work evolved.  I don't know how much information this will give, but if it helps clarify my meaning on even one occation than it is work its while since the technlogy makes tracking changes so easy.
-
-As much as I want the content to hang together with a cohesive wholeness, I also want to help make everyone's map match the territory.  If we have to take a side-road we will.
-
-To help facilite this I'll borrow a tool from "The Timeless Way of Building".  Each section will have **bold header that contains the meat of the section**. I would suggest reading through this book once and only reading the bold sections.  I will be able to do a much beter job at reducing your confusion if you know where we are headed.
-
-I will use regular text to to provide the lengthier justifications.  Return to these once you know our general direction
-
-Finally I will end with a section of *italicized text that will point to the potential rabit trails that we can go down to correct the many, many different maps that may exist.*  Because of these rabit trails, this book may never be "finished."  These sections can and probably should be skipped by most readers.
-
-Often the map will be corrected using code simulation.  Code will be written in [Literate CoffeeScript](http://coffeescript.org/#literate) in attempt to make the logic as readable as possible.  I will also attempt to provide runnable instances of the code that the reader can initialize and run with as few operations as possible.
-
-##A definition of Toward
-
-**There is nothing tricky in the way I am using 'toward' in my title of this book.  I believe there is an economics that can propel us toward a much, much longer life span for our minds.  This economics is not a magic bullet that can outstrip the laws of physics and the path from here to imortality being acheied may be a very, very long path. Also do not underestimate's mankind's ability to aim poorly. **
-
-####On linear increase in life expectancy
-####On Slope less than 1
-####On Slope greater than 1
-####On expoential life expectany
-####On convex life expectancy
-####On missing the mark
-
-##A definition of Immortality
-
-**When I speak of immortality I am speaking of a state of nature in which an intellegence has a reasonable expectation that it will continue to exist and operate, without defect or deteriorization, beyond a point in the future where technology can be expected to exist that can aliviate and heal any micro-defects.**
-
-####On Why death is bad
-####On Expectations
-####On Accidents
-####On Minds
-####On Atoms
-####On Immediate Hurdles
-####On Macro-hurdles
-####On the distant unseen
-
-
-##A definition of Economics
-
-####On Money
-####On Desire
-####On Value
-####On Greed
 
 ##Skipping to the end
 
@@ -61,6 +12,78 @@ Often the map will be corrected using code simulation.  Code will be written in 
 ###The Blind Raptor - The Market
 ###The Blind Break - Government
 ###Eyes for the blind - The Blockchain
+
+Ha! I wrote the above even before reading Lila.  Wow.  Not sure what to say.  Probably randomness...but maybe wholeness.
+
+
+-------------------------------
+
+
+Foreces of Nature -> Find the force that ratchets up  but doesn't ratchet down - Carbon -> Biology -> finds the method that ratchets up but not back down -> natural selection...the blind god -> Society -> finds the force that ratchets up but not back down -> Written Law -> allows for the freedom to use intelect for other than survival -> enables intellect ->  What force does intelect use? The market is closes...maybe it is science...but science leaves out quality...so maybe it is the execution of science in a market context...but can't stay ratcheted up...is it wrtiting?  time?  Is the Blockchain part of that...adding writing and time into the market force? -> Intellect -> Super intellegence
+
+It is value....quality at each level
+
+inorganic -> valued: forces
+biological -> valued: reproduction
+social -> valued: resources
+Intellectual -> valued: progress
+superIntelligence -> valued: ?
+
+
+The 50% tax of reproduction was worth the explosion in advancement to the next level.
+
+Is there a second level:
+
+inorganic -> valued: forces -> bio values: environment -> social values: architecture -> Intellectual values: utilitarian infrastructure(machinary?) -> SI values: sustainabile machinary
+
+biological -> valued: reproduction -> social values: 'the group' -> intellectual values: immortality -> SI: diaspora?(spreading out)
+
+social -> valued: resources -> intelectual values culture -> SI values: diversity?
+
+Intellectual -> valued: progress -> ?
+superIntelligence -> valued: ?
+
+Maybe each level has classic/romantic unification that is better....maybe it isn't superintellegnece that wants sustaiable machinary..maybe it is just the evolved formof utilitarian infarastructure
+
+
+What comes first in bootstrap is the classical...but it isn't perfected until the romantic is bolted on.
+
+| | Inorganic (1) | Biological (4) | Societal (9) | Intellectual (12) | Super Intellegence | Super Society
+| -- | -- | -- | -- | -- | -- | -- |
+| Inorganic | forces(2) / patterned forces(3) | environment (6) / structure (7) | architecture (15) / whole architecture (18)| machinery (16) / industry | ?(sustainability) | ?(generative language)
+| Biological | - | reproduction (5) / biodiversity (8) | grouping (10) / disbursement (11) | self preservation (14) / health | ? (immortality) | ?(diaspora)
+| Socital | - | - | resources (9) / money (19) | culture (17) / diversity | ? (remembrance/peace) | ?(hypercatallaxy)
+| Intellectual | - | - | - | observation (13) / science | ? (whole science/value of the pursuit) | ?(Open Source)
+| Super Intelegence | - | - | - | - | ? | ?
+
+*Man appears at about 16.5
+
+Biology mastering biodiveristy flowed over and bootstrapped the society layer and the intellectual layer.
+
+
+Each of the above splits is really the base plus either value or quality or whole.  ie forces -> valueble forces, quality forces, or forces with wholeness.
+
+You can actually go from left to right adding whole.
+
+forces -> quality forces = patterned forces
+patenred foces -> quality patterned forces = environment
+environment -> quality environment = structure
+structure -> quality structure(society context) = architecture
+architecture -> quality architecture = whole architecture
+whole architecture -> quality whole architecture => ?
+structure -> quality structure(intelecutal context) = machinery
+machinery -> quality machinery = industry
+industry -> quality industry = sustainable industry
+
+
+After the split from biology to Societal and Intellectual levels....do the merge in superintellegence?  or is that just a pushing beyond the intellectual.  What is beyond Societal?  Government?  yuck.
+
+Super society should come before super intellegence. because those principals will bootstrap the super intellegence.
+Contrarian:  The Super society should come after the super intellegence because then it will be immoral for the super intellegence to suppress the super society.
+
+
+The key economic principle is identfying the proper structure that bootstraps the focus on value at a romantic/classical point up into the next level.  For example, focus biodiversity to a point where it is valued and you endup with multiple groupings.  Focus value on health to quality health and you bootstrap to imortallity.
+
 
 
 
