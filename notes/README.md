@@ -53,7 +53,7 @@ What comes first in bootstrap is the classical...but it isn't perfected until th
 | Inorganic | forces(2) / patterned forces(3) | environment (6) / structure (7) | architecture (15) / whole architecture (18)| machinery (16) / industry | ?(sustainability) | ?(generative language)
 | Biological | - | reproduction (5) / biodiversity (8) | grouping (10) / disbursement (11) | self preservation (14) / health | ? (immortality) | ?(diaspora)
 | Socital | - | - | resources (9) / money (19) | culture (17) / diversity | ? (remembrance/peace) | ?(hypercatallaxy)
-| Intellectual | - | - | - | observation (13) / science | ? (whole science/value of the pursuit) | ?(Open Source)
+| Intellectual | - | - | - | observation(time?) (13) / science(replayability?) | ? (whole science/value of the pursuit) | ?(Open Source)
 | Super Intelegence | - | - | - | - | ? | ?
 
 *Man appears at about 16.5

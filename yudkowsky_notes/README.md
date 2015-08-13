@@ -153,7 +153,7 @@ Yudkowsky, Eliezer (2015-03-11). Rationality: From AI to Zombies (Kindle Locatio
 
 Yudkowsky, Eliezer (2015-03-11). Rationality: From AI to Zombies (Kindle Locations 19959-19961). Machine Intelligence Research Institute. Kindle Edition.
 
-Maybe making a broad bet on the economy will lose to a specific bet.  Is the 'market' vague? -AAF
+Maybe making a broad bet on the economy will lose to a specific bet.  Is the 'market' vague? Maybe this is exactly the innovation...make the broad bet 0 sum and still offer an advantage to being specific.-AAF
 
 > Precision or vagueness is a property of maps, not territories. Rather we should ask if the price in the supermarket stays constant or shifts about. A hypothesis of the “vague” sort is a good description of a price that shifts about. A precise map will suit a constant territory.
 
