@@ -1,0 +1,39 @@
+# The biological to the societal
+
+We have established that the inorganic bootstraped to the biological level.  At the biological level, reproduction is valued.  At this level a system survives only as well as it is able to reproduce.  Because biology is at a higher level than the inorganic level it has access to utilize the systems at that level for its own purposes.
+
+We find at the biological level an economy of environment that is used to increase reproduction.  This can be seen in ameboa surviving in wet swampy places and desert lizards needing to be...well...in the desert.
+
+Each of these biological systes survived because existing in the correct environment increase the likely hood that the builder's DNA would survive another generation.
+
+The natural flow here from base economy to bootstrap is the flow from enviornment to controled environment.  We see this in the creation of structure by biological systems
+
+This may start as simply as the membrane constructed around an ameoba to protect the survival of its DNA or may be as complicated as the structure of an ant bed to survive a rain storm. Ultimately we see biology overcoming environment with structure.
+
+How does it make this transition from overcoming environment to creating it?  It uses its value infrastructure, that is reproduction.
+
+Unfortunately evolution is a blind, mad god.  Often its adaptations lead no where.  Millions of years are wasted here and million there.  A comet comes along and wipes out a few hundred thousand lines of development. This is why this bootstrap took so much longer than the first.
+
+Ultimately though, we end up with biological systems developing the ability to create an system that exists beyond the biological-inorganic.  We call this this level 'societal.'  It is social.  It is a structure that exists only in a mind.  Some of these minds in nature are very primative and some, as with humans, are very very advanced.  The bootstrap here is from structure to society.  Once we get to society we again see a transfer away from the value at the lower level to a new value structure.  In a sense a new economy.  This economy may look much more familiar to you.  The value at the society level is one of resources.
+
+I'll first speak about primative societies and then extend that to more advanced societies.  Lets take a hive of Bees.  The bees clearly have the reproduction down and form a society around the collection of pollen and production of honey.  The shape of this society is goverened by the amount of resources the colony is able to collect.  If resources are scarce fewer drones are needed.  As soon as supppy increases, drone population returns to normal.  This is basic supply and demand operating at this societal level.
+
+When we see this operating in an 'advanced society' we see the emergence of modern markets based on complex tools that we call 'money'.  The classic side of this level is the procurment and use of resouces.  The romantic side is the development into a sophisticated market with cash and cash equivalents at the center. The concepts at the society level are much easier to relate to because we live them everyday.  Our woruld is saturated iwth society.  Everything around us from government, to educational institutions to the family unit revolves around our abiltiy to procure the resources we need to keep our society relevent.  It may be distateful to think about family being a function of the resources that that unit can bring to bear, but that is the reality of societal life.  Our modern life has be amplified by the tool of money.  Money allows us to drastically simplify the exchange of a held resource for a desired resource.  This tool of money is ultimatley what the bootstrap of society to super society will be based on. Much more on that later.
+
+The econimics of society are well known and can be found in many modern economic text books.  Supply. Demand. Utility. Seperation of labor.  The god of society is the market and the market is much more reasonable than the blind god of evolution. Unfortunately, this god's appitite is voracious.  I call the market a blind raptor.  The market doesn't see that its consumption will drain destroy the water supply...it just senses the heat and consumes.  It is a dynamic system and despite the fact that it consumes without prejiduce, it also happens to work really, really well.
+
+It especialy works really well when all the resources are hard goods.  When we run out of chickens, chickens get really really valuble and are consumed less.  When we bootstrap up to money though, we get to a dangerous territory where financial engeneering can cause recursive breakouts that consume all the way to the bone.
+
+The societal jump from the simple interplay of resources to a money society is a huge jump.  In fact we will look at a chart later and it will have more developments betweeen one and the other of any other item on the chart.
+
+To get to money we pass through a number of other systems that emerge on the societal level.  Remember, while the biological had the inorganic to play with, societal systems have both inorganic and biological systems to utilize and create economies around.
+
+First lets talk about how society creates an economy around the biological.  Since societal is closest to biological in the evolution, this is where society start creting economies.  Human society deals with biology on a moment to moment to bases.  Even when we sleep and are ignorant of the inorganic surrounds around us, we still breathe.
+
+Society builds on the biological and creates an economy of belonging.  This starts by creating groups that can operate together to facilitate the colletion of resources and dole them out in an appropriate manner.
+
+Something interesting happens almost immediately to this grouping.  Confilct.  When our classic conflict occrs we get our incredibly romantic solution of breaking the group apart and creating diversity.  This grouping/diversity split is what helped mankind fill the earth.  It can also get pretty nasty and erupt in violence once the ability to split away becomes more onerous than violence to maintain one's position.  Despite this, we've managed to create quite an array of cutures across our planet.
+
+One of the ways these diverse groups have managed to seperate themselves is via the way we interact, form and deal with the inorganic.  We call this art and architecture.  It is an outgrowth of the way biology formed the inorganic to into environments and structure.  We see this manifast itself in the way we structure our environments(architecture) and the way we fill thoses spaces(art).  The economy here is one of wholeness.  How does the societal mind see the art and the space.  Does it create a sense of life in the mind?  Because this level is so basic and since societes are so good at marshaling resources to create bad architecture and bad art, we see an emense amount of waste here.  The economy here is very inefficeint.  But one sitll exists.
+
+This system of society is dynamic enough to lead to a massive biodiversity on earth and culture in our human society.  Fortunately for us, the mad blind god didn't just stop with a mind for society, it also created another kind of mind, one that we call intellegence.

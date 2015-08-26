@@ -48,12 +48,12 @@ Maybe each level has classic/romantic unification that is better....maybe it isn
 
 What comes first in bootstrap is the classical...but it isn't perfected until the romantic is bolted on.
 
-| | Inorganic (1) | Biological (4) | Societal (9) | Intellectual (12) | Super Intellegence | Super Society
+| | Inorganic (1) | Biological (4) | Societal (9) | Intellectual (13) | Super Intellegence | Super Society
 | -- | -- | -- | -- | -- | -- | -- |
-| Inorganic | forces(2) / patterned forces(3) | environment (6) / structure (7) | architecture (15) / whole architecture (18)| machinery (16) / industry | ?(sustainability) | ?(generative language)
-| Biological | - | reproduction (5) / biodiversity (8) | grouping (10) / disbursement (11) | self preservation (14) / health | ? (immortality) | ?(diaspora)
-| Socital | - | - | resources (9) / money (19) | culture (17) / diversity | ? (remembrance/peace) | ?(hypercatallaxy)
-| Intellectual | - | - | - | observation(time?) (13) / science(replayability?) | ? (whole science/value of the pursuit) | ?(Open Source)
+| Inorganic | forces(2) / patterned forces(3) | environment (6) / structure (7) | architecture (16) / whole architecture (19)| machinery (18) / industry(21) | ?(sustainability) | ?(generative language)
+| Biological | - | reproduction (5) / biodiversity (8) | grouping (11) / disbursement (12) | self preservation (15) / health(22) | ? (immortality) | ?(diaspora)
+| Socital | - | - | resources (10) / money (20) | culture (17) / diversity(23) | ? (remembrance/peace) | ?(hypercatallaxy)
+| Intellectual | - | - | - | observation(time?) (14) / science(24)(replayability?) | ? (whole science/value of the pursuit) | ?(Open Source)
 | Super Intelegence | - | - | - | - | ? | ?
 
 *Man appears at about 16.5
