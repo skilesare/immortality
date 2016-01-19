@@ -22,13 +22,13 @@ In fact it is likely that if we spend enough time looking and changing our frame
 
 The forming, expanding, and dying of galexies may be at one end of the time and distance scale where we see emergence of entities, with diversity and interaction.
 
-On a much smaller scale, science is uncovering a number of inorganic pattenrns that can be maniplated to produce unique behavior.  It is likely that the conditins for some of these patterns to sustain themselves may take an intellegnce to produce.
+On a much smaller scale, science is uncovering a number of inorganic pattenrns that can be maniplated to produce unique behavior.  It is likely that the conditions for some of these patterns to sustain themselves may take an intellegnce to produce.
 
 Consider for example, an set of inorganiclly based neurons that have produce an intellegence that can sustain itself and spread itself.  From what we know about electricity and the forces involved, it is possible that this kind of bootstrap has already occured 'somewhere' out in the universe.  Many AI researchers are actively trying to pursue this kind of bootstrap.
 
 The key thing to consider here is what would identify something as a unique Bioloby II instead of just another branch of our current biologicall bootstrap.  The answer is that the underlying economics of this Biology II would not use reproduction as the basis of it's new economics.
 
-This is a very hard thing to even imagine, but lets try.  Consider something like 'the borg' in Star Trek.  Now this example has a bit of intellegence mixed in(otherwise it wouldn't be a very good story), but lets pretend that the borg didn't have an evel intellegence at its center, but instead just operated on the basis of 'assimilation'.  This system seeks to draw resources to itself and grow.
+This is a very hard thing to even imagine, but lets try.  Consider something like 'the borg' in Star Trek.  Now this example has a bit of intellegence mixed in(otherwise it wouldn't be a very good story), but lets pretend that the borg didn't have an evil intellegence at its center, but instead just operated on the basis of 'assimilation'.  This system seeks to draw resources to itself and grow.
 
 Like I said, the examples are hard, but there may be some merit in looking at genreal, base elements and considering, 'what system to I want to be at work here' and then aranging the elements in such a way that the elements pursue that agenda.  The bootstrap is what emerges out of that we don't expect.
 
@@ -38,7 +38,7 @@ In the end we still have the economics of patterned forces at the inorganic leve
 
 ##Biology to System III
 
-To date, biology has spawned two different bootstraps, the society bootstrap and the intellegence bootstrap.  What can we consider and say about a possible thrid system that could emerge out of biology?
+To date, biology has spawned two different bootstraps, the society bootstrap and the intellegence bootstrap.  What can we consider and say about a possible third system that could emerge out of biology?
 
 We have two systems, one that values resource allocation, and one that values the observation of time.  Do we just start picking out other things that exist and doing thought experaments?
 
@@ -58,6 +58,6 @@ It is the core tenet of this book that by reforming and targeting the way our mo
 
 ##Intellegence to Super-Intellegence
 
-This one is fairly straight forward, but may not play out the way many expect.  This bootstrap isn't just faster intellegence.  Faster intellegence gets us there faster because the bootsrap builds ontop of the underlying structure of science.  But what will the super intellegence be?  What systems will emerge when science is so basic to a thing that a is systems being built around it?
+This one is fairly straight forward, but may not play out the way many expect.  This bootstrap isn't just faster intellegence.  Faster intellegence gets us there faster because the bootsrap builds ontop of the underlying structure of science.  But what will the super intellegence be?  What systems will emerge when science is so basic to a thing that a  systems is being built around it?
 
 

@@ -1,1 +1,19 @@
 # The econimics of the bootstrap
+
+We have an emense amount of information of how economics work in the areas of financial markets.  I'm going to do my best to map these back to more basic bootstraps and show that the dynamics are similar and ultimately the effects of these economies manifest themselves in similar ways.
+
+The foundations of most economic theories are built on the ideas of 'labor specialization' and 'supply and demand.'
+
+We see these same patterns at work in at the inorganic level when we look at the supply and demand of forces.  These suppply as particle supply and demand these forces in consistant ways.  These consistancies lead to pattenred forces and ultimately carbon emerges as a molule taht can form highly specialized patterns that can be reliably reproduced.  At this level we see the economics of supply and demand and the benifit of specilized 'labor'.
+
+As we move to biology, we see an economy emerge that deals in reproduction.  Biology began to leverage the inorganic to form reliable environments and these environments each encouraged a different form of survival and reproduction.  The massive proliferation of environments and discovered advantageous adaptionons has lead to a significant biodiversity.  Through shear brute force biology bootstrapped society and intellegence.  Again we see the supply of and demand of reproduceability offered by DNA leading to a version of specialized 'labor' of biodiversity.
+
+At the level of society it is resouces that are supplied and demanded. Different sets of supplied resouces lead to very different societies.  So what should be looking for if society is going to bootstrap to a super-society?  It certainly isn't a mono-culture.  Until we find the type of soiety that bootstraps we need as many diverse societies as we can muster.  If this pattern follows the previous bootstraps we will have a large diversity of cultures all containg and preserving robust sub-groups with vibrant arts. These societies will will be moving away from each others(as in out from earth and out into the galaxy.)  When we do find the bootstrap we need to be careful because it will likely be so dominant that the results of that culture will look at other cultures the same way we look at the societes that form among the lesser species of nature.
+
+On the intellegence level we are dealing in the supply and demand of time.  Intellegenc operates on understanding the supply of time and demanding more of it.  This ultimately culminates in science delivering massive improvments in time availibility and the promise of more time leads to more science.  The super intellegence bootstrap likely emerges from the diversification and amassing of reliable time observations and the ability to act on 'many many many' of them at one time.  System 1 of our brains is pretty bad at operation on more than a couple obeservations at a time and System 2 ups that by lettings add in some processes that can let us build some complex systems, but it is likely that the super-intellegence is going to be operating on thousands and thousands of simultaneous, observations.
+
+It is tempting to dismiss the possibilites of a Biology II or System III bootstrap but recent advances in nano-tech and genetic engeneering put this back in play.  For biology II we should look to processes that generate reliable and consitent systems that are not carbon based.  This could lead to very different patterns than what carbon provides. For system III we can look toward teh future possiblity of engeneering new variants of species on a dasticly reduced timescale.  If we are able to do these while also avoiding a grey goo scenario or a bio-accidnet of global proportions we might see another kind of bootstrap, but I expect these would look very, very alien to us.
+
+
+
+

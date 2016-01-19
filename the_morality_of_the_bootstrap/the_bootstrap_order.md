@@ -4,12 +4,12 @@ Now that we have looked at each level, lets summarize how the bootstrap occured 
 
 | | Inorganic (1) | Biological (4) | Societal (9) | Intellectual (13)
 | -- | -- | -- | -- | -- | -- | -- |
-| Inorganic | forces(2) / patterned forces(3) | environment (6) / structure (7) | object creation (16) / art (19)| machinery (18) / industry(21)
-| Biological | - | reproduction (5) / biodiversity (8) | grouping (11) / disbursement (12) | self preservation (15) / health(22)
-| Socital | - | - | resources (10) / money (20) | culture (17) / diversity(23)
 | Intellectual | - | - | - | time observation (14) / science - replayability (24)
+| Socital | - | - | resources (10) / money (20) | culture (17) / diversity(23)
+| Biological | - | fitness (5) / biodiversity (8) | grouping (11) / disbursement (12) | self preservation (15) / health(22)
+| Inorganic | forces(2) / patterned forces(3) | environment (6) / structure (7) | object creation (16) / art (19)| machinery (18) / industry(21)
 
-The Inorganic(1) values Forces(2). Quality forces emerged in the form of pattenred forces(3) that bootstraped to the Biological(4).  The biological used a different value system based on Reproduction(5).  The biological began to seek environment(6) and realized that it could manipulate environment into a quality environment via structure(7).  The diffusion of biological life to various environaments and the ability to create multiple different strucures led to the bootstrap of bio-diversity(8).
+The Inorganic(1) values Forces(2). Quality forces emerged in the form of pattenred forces(3) that bootstraped to the Biological(4).  The biological used a different value system based on fitness(5).  The biological began to seek environment(6) and realized that it could manipulate environment into a quality environment via structure(7).  The diffusion of biological life to various environaments and the ability to create multiple different strucures led to the valuing of many different kinds of fitness that we call bio-diversity(8).
 
 This biodiversity eventually found a bootstrap via survival of the fittest to society(9).  This occured because organisms stumbled into an environment where working together allowed genes to survive from generation to generation.  These new societies valued resources(10) that they needed to maintain their organization.  Because resources were limited sociteis began to group(11).  As these groups sought more and more quality groupings they developed disbursement(12).  And the world was filled.
 

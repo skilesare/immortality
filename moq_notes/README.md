@@ -127,3 +127,38 @@ Moq
 - What the Metaphysics of Quality would do is take this separate category, Quality, and show how it contains within itself both subjects and objects.
 - Patterns of culture do not operate in accordance with the laws of physics. How are you going to prove in terms of the laws of physics that a certain attitude exists within a culture?
 - Data without generalization is just gossip.
+-
+
+
+
+
+---------------------
+
+http://members.tripod.com/~Glove_r/S2.htm
+
+Yes, Kantian experience - which I take to be equal to awareness - is
+dependent upon the time/space/causation (TSC) framework that is 100%
+true. Yes, TSC IS experience in the SOM (mind) sense, but MOQ's claim
+is that experience=value and that shifts the ground totally. If you
+have followed my SOTAQI idea and drop the Intellect=mind (-as-
+different-from-matter) idea and equalize Q-Intellect with
+subject-object thinking (awareness of self as subject (different from
+objects [other]) then time, space and causation can be seen as the
+first SO ideas that arose intricately interwoven with language and
+became the cornerstones upon which the intellectual edifice rose
+......to the height of a skyscraper; it became the whole of reality:
+A METAPHYSICS!!!!
+This is in SOM-lingo called "ability to think", "awareness",
+"sentience" or "consciousness", all with a ring of absolute to them
+....knowledge of good and evil.... in religious terms", but the
+Q-metaphysics takes it down a notch and tucks it in under itself. As
+the top static level admittedly, but subservient to the overall
+Quality system.
+
+
+
+--------------------------------
+
+"Dynamic Quality is a constant, these static patterns are different for everyone because each person has a different static pattern of life history. Both the Dynamic Quality and the static patterns influence his final judgment. That is why there is some uniformity among individual value judgments but not complete uniformity." -SODV
+
+If alexander is right, then the wholness laws drow ta unity around the dynamic quality.  Each subject in the system may have different histories, and may have a different perfered path to increase the whoness, but but the system as a whole has a 'more whonless direction and aless whonless direction'  The system needs to move toward wholeness.
