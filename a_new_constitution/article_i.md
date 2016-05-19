@@ -1,19 +1,268 @@
 # Article I
-Section. 1.
 
-All legislative Powers herein granted shall be vested in a Congress of the United States, which shall consist of a Senate and House of Representatives.
+##Section. 1.
+
+All legislative Powers herein granted shall be vested in a Congress of Earth, which shall consist of a Senate and House of Representatives.
 
 Section. 2.
 
-The House of Representatives shall be composed of Members chosen every second Year by the People of the several States, and the Electors in each State shall have the Qualifications requisite for Electors of the most numerous Branch of the State Legislature.
+The House of Representatives shall be composed of Members chosen every second Year by the People of each Level 0 geographic state, and the Electors in each state shall have the Qualifications requisite for Electors of the most numerous Branch of the Level 0 geographic State's Legislature.
 
-No Person shall be a Representative who shall not have attained to the Age of twenty five Years, and been seven Years a Citizen of the United States, and who shall not, when elected, be an Inhabitant of that State in which he shall be chosen.
+Each representative shall be limited to three regular elected terms in office after which they will be inelegible to serve in the House of Representatives.
 
-Representatives and direct Taxes shall be apportioned among the several States which may be included within this Union, according to their respective Numbers, which shall be determined by adding to the whole Number of free Persons, including those bound to Service for a Term of Years, and excluding Indians not taxed, three fifths of all other Persons. The actual Enumeration shall be made within three Years after the first Meeting of the Congress of the United States, and within every subsequent Term of ten Years, in such Manner as they shall by Law direct. The Number of Representatives shall not exceed one for every thirty Thousand, but each State shall have at Least one Representative; and until such enumeration shall be made, the State of New Hampshire shall be entitled to chuse three, Massachusetts eight, Rhode-Island and Providence Plantations one, Connecticut five, New-York six, New Jersey four, Pennsylvania eight, Delaware one, Maryland six, Virginia ten, North Carolina five, South Carolina five, and Georgia three.
+No Person shall be a Representative who shall not have attained to the Age of twenty five Years, and been four Years a Citizen of the state, and who shall not, when elected, be an Geographically Elected Inhabitant of that State in which they shall be chosen. Representatives must not have recieved private payments of cash or private allotments of capital for one year before taking office unless elected or assigned for a vacancy.  Representtives must elect to not recieve private payments while in office and for ten years after leaving office.
 
-When vacancies happen in the Representation from any State, the Executive Authority thereof shall issue Writs of Election to fill such Vacancies.
+The Number of Representatives shall number at least 500.  The number of Representatives from each Level 0 State shall not exceed the number of Geographically Elected Inhabitant of that state divided by the whole count of Accounted Citizens divided by 500, but each Level 0 State shall have at Least one Representative, and until such enumeration shall be made, the Level 0 States shale have the following allotment:
 
-The House of Representatives shall chuse their Speaker and other Officers; and shall have the sole Power of Impeachment.
+| State | Representatives |
+| -- | -- |
+| China | 96 |
+| India | 87 |
+|United States|22|
+|Indonesia|17|
+|Brazil|14|
+|Pakistan|12|
+|Nigeria|12|
+|Bangladesh|10|
+|Russia|9|
+|Japan|8|
+|Mexico|8|
+|Philippines|6|
+|Ethiopia|6|
+|Vietnam|6|
+|Germany|5|
+|Egypt|5|
+|Iran|5|
+|Turkey|5|
+|Congo, Democratic Republic of the|4|
+|Thailand|4|
+|France|4|
+|United Kingdom|4|
+|Italy|4|
+|Myanmar|3|
+|South Africa|3|
+|Korea, South|3|
+|Tanzania[a]|3|
+|Colombia|3|
+|Spain|3|
+|Ukraine|3|
+|Kenya|3|
+|Argentina|2|
+|Algeria|2|
+|Poland|2|
+|Sudan|2|
+|Uganda|2|
+|Canada|2|
+|Iraq|2|
+|Morocco|2|
+|Afghanistan|2|
+|Venezuela|2|
+|Peru|2|
+|Malaysia|2|
+|Uzbekistan|2|
+|Saudi Arabia|2|
+|Nepal|1|
+|Ghana|1|
+|Mozambique|1|
+|Korea, North|1|
+|Yemen|1|
+|Australia[b]|1|
+|Taiwan[c]|1|
+|Madagascar|1|
+|Cameroon|1|
+|Syria|1|
+|Romania|1|
+|Angola|1|
+|Sri Lanka|1|
+|Côte d'Ivoire|1|
+|Niger|1|
+|Chile|1|
+|Burkina Faso|1|
+|Netherlands|1|
+|Kazakhstan|1|
+|Malawi|1|
+|Ecuador|1|
+|Guatemala|1|
+|Mali|1|
+|Cambodia|1|
+|Zambia|1|
+|Zimbabwe|1|
+|Senegal|1|
+|Chad|1|
+|Rwanda|1|
+|Guinea|1|
+|South Sudan|1|
+|Cuba|1|
+|Greece|1|
+|Belgium|1|
+|Tunisia|1|
+|Czech Republic|1|
+|Bolivia|1|
+|Portugal|1|
+|Somalia|1|
+|Dominican Republic|1|
+|Benin|1|
+|Haiti|1|
+|Burundi|1|
+|Hungary|1|
+|Sweden|1|
+|Serbia[d]|1|
+|Azerbaijan|1|
+|Belarus|1|
+|United Arab Emirates|1|
+|Austria|1|
+|Tajikistan|1|
+|Honduras|1|
+|Switzerland|1|
+|Israel|1|
+|Papua New Guinea|1|
+|Jordan|1|
+|Bulgaria|1|
+|Hong Kong|1|
+|Togo|1|
+|Paraguay|1|
+|Laos|1|
+|El Salvador|1|
+|Eritrea|1|
+|Libya|1|
+|Sierra Leone|1|
+|Nicaragua|1|
+|Denmark|1|
+|Kyrgyzstan|1|
+|Slovakia|1|
+|Finland|1|
+|Singapore|1|
+|Turkmenistan|1|
+|Norway|1|
+|Costa Rica|1|
+|Lebanon|1|
+|Ireland|1|
+|Central African Republic|1|
+|New Zealand|1|
+|Congo, Republic of the|1|
+|Georgia|1|
+|Palestine|1|
+|Liberia|1|
+|Croatia|1|
+|Mauritania|1|
+|Panama|1|
+|Bosnia and Herzegovina|1|
+|Puerto Rico|1|
+|Oman|1|
+|Moldova|1|
+|Uruguay|1|
+|Kuwait|1|
+|Albania|1|
+|Lithuania|1|
+|Armenia|1|
+|Mongolia|1|
+|Jamaica|1|
+|Namibia|1|
+|Qatar|1|
+|Macedonia|1|
+|Lesotho|1|
+|Slovenia|1|
+|Latvia|1|
+|Botswana|1|
+|Gambia|1|
+|Guinea-Bissau|1|
+|Gabon|1|
+|Trinidad and Tobago|1|
+|Bahrain|1|
+|Estonia|1|
+|Swaziland|1|
+|Mauritius|1|
+|Cyprus[i]|1|
+|Timor-Leste|1|
+|Fiji|1|
+|Réunion|1|
+|Djibouti|1|
+|Guyana|1|
+|Equatorial Guinea|1|
+|Bhutan|1|
+|Comoros|1|
+|Montenegro|1|
+|Western Sahara|1|
+|Macau|1|
+|Solomon Islands|1|
+|Suriname|1|
+|Luxembourg|1|
+|Cape Verde|1|
+|Guadeloupe|1|
+|Malta|1|
+|Brunei|1|
+|Martinique|1|
+|Bahamas|1|
+|Maldives|1|
+|Belize|1|
+|Iceland|1|
+|Barbados|1|
+|French Polynesia|1|
+|New Caledonia|1|
+|Vanuatu|1|
+|French Guiana|1|
+|Mayotte|1|
+|São Tomé and Príncipe|1|
+|Samoa|1|
+|Saint Lucia|1|
+|Guam|1|
+|Guernsey &  Jersey|1|
+|Curaçao|1|
+|Saint Vincent and the Grenadines|1|
+|Virgin Islands, United States|1|
+|Grenada|1|
+|Tonga|1|
+|Micronesia, Federated States of|1|
+|Aruba|1|
+|Kiribati|1|
+|Seychelles|1|
+|Antigua and Barbuda|1|
+|Isle of Man|1|
+|Andorra|1|
+|Dominica|1|
+|Bermuda|1|
+|Cayman Islands|1|
+|Greenland|1|
+|American Samoa|1|
+|Saint Kitts and Nevis|1|
+|Northern Mariana Islands|1|
+|Marshall Islands|1|
+|Faroe Islands|1|
+|Sint Maarten|1|
+|Monaco|1|
+|Liechtenstein|1|
+|Turks and Caicos Islands|1|
+|San Marino|1|
+|Gibraltar|1|
+|Virgin Islands, British|1|
+|Palau|1|
+|Cook Islands|1|
+|Caribbean Netherlands|1|
+|Anguilla|1|
+|Wallis and Futuna|1|
+|Nauru|1|
+|Tuvalu|1|
+|Saint Pierre and Miquelon|1|
+|Montserrat|1|
+|Saint Helena, Ascension and Tristan da Cunha|1|
+|Falkland Islands|1|
+|Niue|1|
+|Tokelau|1|
+|Vatican City|1|
+
+The actual Enumeration shall be made within three Years after the first Meeting of the Congress, and within every subsequent Term of ten Years.
+
+Members shall be selected by ranked choice election by the inhabitants of the Level 0 state for which they are a candidate.
+
+Level 0 states in which elect more than 3 representatives will have their State sectioned into smaller subdistrics for elections by programatic geographic algorithm that proceedes in allocations of five miles squared from the North West corner of the territory and moving East, then south until the proportional number of geographically elected citizens is reached.
+
+No subdistrict shall elect more than 3 representatives.
+
+When vacancies happen in the Representation from any State, the Executive Authority thereof shall assign a temporary representative until a special ranked choice vote of the affected subdistrict is completed to elect a new member.
+
+The House of Representatives shall choose their Speaker and other Officers; and shall have the sole Power of Impeachment.
+
+-------------------------------
 
 Section. 3.
 
