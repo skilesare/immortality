@@ -1,10 +1,10 @@
 # A definitions of 'toward'
 
-**There is nothing tricky in the way I am using 'toward' in my title of this book.  I believe there is an economics that can propel us toward a much, much longer life span for our minds.  This economics is not a magic bullet that can outstrip the laws of physics and the path from here to imortality being acheied may be a very, very long path. Also do not underestimate's mankind's ability to aim poorly. **
+There is nothing tricky in the way I am using 'toward' in my title of this book.  I believe there is an economics that can propel us toward a much, much longer life span for our minds.  This economics is not a magic bullet that can outstrip the laws of physics and the path from here to imortality being acheied may be a very, very long path. Also do not underestimate's mankind's ability to aim poorly.
 
 ####On the shape of the change in life expectancy
 
-**What shape should we want to achieve in the change in life expectancy?  It turns out that the answer is 'a convex curve with a slope greater than one.'  This shape will help us reach a life expectancy that is for most practical cases 'immortal.'**
+What shape should we want to achieve in the change in life expectancy?  It turns out that the answer is 'a convex curve with a slope greater than one.'  This shape will help us reach a life expectancy that is for most practical cases 'immortal.'
 
 If I am a 20 year old male in 2015 and my life expectanccy is 80, and then a year later, in 2016, my life expectancy is 80.1, I have gained .1 years of life expectancy in a year.  The rate of change here is 1/10.  If that rate is constant we will end up with a life expectancy of 86 when we reach 80.  Six more years than we thought we'd get when we were 20! In fact, if we run the sim out to our expected death we see that we live an average of 86.7 years.
 

@@ -1,12 +1,12 @@
-# An Economics Toward Immortality
+# Preface
 
 I. A fresh start
 
-Let us live as man will live and think as man will think.  To make any progress in this volume, you will have to set aside what has been.  This may be difficult for you as it is for me, but if we would like a fresh start at this grand life it is a step we must constantly ask ourselves to take.
+Let us live as man will live in the future and think as man will think in the future.  To make any progress in this volume, you will have to set aside what has been.  This may be difficult for you as it is for me, but if we would like a fresh start at this grand life it is a step we must constantly ask ourselves to take.
 
 II. A philosophy
 
-I am not a scientist, but this work will take a scientific tone and my hope is to point us toward a world view where the generalizations I propose can be proven out by those better trained in the scientific arts and with more time.  This leaves me with the solemn reality that this is a work of philosophy and that many of the generalizations I make will be proven scientifically unsound.  If they are, my hope is that they, at least, point in the right vector of the real and can be corrected by those wiser than I am.
+Though I am not a scientist, this work will take a scientific tone.  I hope to point us toward a world view where the generalizations I propose can be proven out by those better trained in the scientific arts who have more time availible to them.  This leaves me with the solemn reality that this is a work of philosophy and that many of the generalizations I make will be proven scientifically unsound.  If they are, my hope is that they, at least, point in the right vector of the real and can be corrected by those wiser than I am.
 
 III. The great economies
 
@@ -20,19 +20,19 @@ This new economy did not deal in the supply and demand of patterned forces.  In 
 
 In addition to using the inorganic level, the biological level began to use its own economy to evolve itself into a more and more adept engine for reproduction.
 
-The **bootstrap**  occurs when a new economy is produced that leverages the pre-existing economies to create a new and stable economy that itself can grow and changed.
+The **bootstrap**  occurs when a new economy is produced that leverages the pre-existing economies to create a new and stable economy that itself can grow and change.
 
 IV. Two more bootstraps
 
 The diaspora of what can come to be balloons in new directions with each new bootstrap.  In addition to the inorganic -> biological bootstrap, we also have the biological -> societal bootstrap and the biological -> intellectual.
 
-The societal level is built on the inorganic and biological levels and deals in the economics of resources.  This is traditional economics as we know it in the 21st century.  At some point, the biological began to realize that by controlling a specific resource it could increase its fitness for itself and, potentially for many additional generations.  The original adaptation may have been to just hoard enough to get through the winter, but eventually, an economy that dealt in wealth and abundance emerged.  Like an organism building a nest, an organism that builds a society is protecting itself from the rapid evolution of the biological level. In a sense, a society tends to slow down the evolution because the organism can assure the survival of its genes by means other than biological adaptation.
+The societal level is built on the inorganic and biological levels and deals in the economics of resources.  This is traditional economics as we know it in the 21st century.  At some point, the biological began to realize that by controlling a specific resource it could increase its fitness for itself and, potentially for many additional generations.  The original adaptation may have been to just hoard enough to get through the winter, but eventually, an economy that dealt in wealth and abundance emerged.  Like an organism building a nest, an organism that builds a society is protecting itself from the need to evolve at the biological level. In a sense, a society tends to slow down the evolution because the organism can assure the survival of its genes by means other than biological adaptation.
 
-The intellectual level is built on the biological platform, but also has the advantage of bootstrapping after the societal level and thus has access to that infrastructure as well.  The intellectual deals in an economy of time-shifted reproduction of phenomena.  This is quite a mouthful, but what I mean is, in a sense, science.  The ability to anticipate the outcome of an action, and to trigger that action is not a given.  It is a development that is dependent on the intellectual level developing.  This ability generates things like language.  When I shout 'Duck!' I expect to get a certain response from those around me.  If I shout Duck! A Rock! I will have an anticipation of what will be in other's heads.
+The intellectual level is built on the biological platform, but also has the advantage of bootstrapping after the societal level and thus has access to that infrastructure as well.  The intellectual deals in an economy of time-shifted reproduction of phenomena.  This is quite a mouthful, but what I mean is, in a sense, science.  The ability to anticipate the outcome of an action, and to trigger that action is not a given.  It is a development that is dependent on the intellectual level developing.  This ability generates things like language.  When I shout 'Duck!' I expect to get a certain response from those around me.  If I shout Duck! Quack, Quack! I will have an anticipation of what will be in other's heads in these two different circumstances.
 
 V. A god in the dust
 
-Pirsig proposes further a concept called **Dynamic Quality** that he points to as the bleeding edge of reality as we cut through time.  Pirsig is permissive with his Dynamic Quality is chooses to let it lead where it will.  I will choose to pass this dynamic quality through th lens of Christopher Alexander's Nature of Order and focus it not on a random wandering, but on a purpose-filled generation of **Wholeness**.
+Pirsig proposes further a concept called **Dynamic Quality** that he points to as the bleeding edge of reality as we cut through time.  Pirsig is permissive with his Dynamic Quality is chooses to let it lead where it will.  I will choose to pass this dynamic quality through the lens of Christopher Alexander's Nature of Order and focus it not on a random wandering, but on a purpose-filled generation of **Wholeness**.
 
 This is a god in the dust of everything, and not so much in the thing as in the relation of each thing to the other.  In as much as a thing hangs together with the things around it, we can see this wholeness.  When this wholeness is present, dynamic quality passes from a nebulous thing to a static quality.  An entity emerges.  Many entities emerge.
 
@@ -40,11 +40,13 @@ VI. Moral Authority
 
 When we observe this pattern of bootstrap and the timescales that we currently consider to be reasonable for the age of the universe and the time taken for each bootstrap, we can make a generalization about the universe.  **The universe is in the business of bootstraps.**  Further, I will assume that it is a **moral imperative** of the universe that bootstraps occur.  Each bootstrap is an advancement and that advancement is given moral authority over the existing economies to reach a new bootstrap.
 
-To be put more plainly, the biological has the moral authority to attempt to overcome and even disrupt the patterned forces of the inorganic world.  Society has the moral authority to disrupt biology and shape the inorganic for its gains.  The intellectual has the authority to structure society, the manipulate biological, and subdue the inorganic to create repeatable symbolic realities.  This authority is real and it is **dangerous**.
+What right do I have to say that morality comes into it at all?  This is a very complicated question and one that I can't answer very well.  It is simply a presupissition at this time that is drawn from the fact that we, as human beings, are the result of three bootstraps.  I will lean some on Alexander's theoretical proposal for the equation of wholness here.  When things become a thing, it is good and right and the world is made.
+
+The biological has the moral authority to attempt to overcome and even disrupt the patterned forces of the inorganic world.  Society has the moral authority to disrupt biology and shape the inorganic for its gains.  The intellectual has the authority to structure society, the manipulate biological, and subdue the inorganic to create repeatable symbolic realities.  This authority is real and it is **dangerous**.
 
 VI.  Moral Responsibility
 
-The fact that the biological system bootstrapped twice reveals a key fact about the universe that helps redeem the moral tyranny that moral authority can suggest.  If society had completely subdued biology, the intellect would have never evolved.  While society has authority over biology it also has the **moral responsibility **to provide for all the additional bootstrapping that these unpredictable systems may have.
+The fact that the biological system bootstrapped twice reveals a key fact about the universe that helps redeem the moral tyranny that moral authority can suggest.  If society had completely subdued biology, the intellect would have never evolved.  While society has authority over biology it also has the **moral responsibility * to provide for all the additional bootstrapping that these unpredictable systems may have.
 
 Our approach to the future must recognize the authority but must act with responsibility because we cannot predict where the next great jump may occur.
 
@@ -100,7 +102,7 @@ So we must also add into our public ledger a vector of reality that is time-base
 
 XIII.  Hypercatallaxian Economy
 
-To increase the surface area the most we need to maximize the number of antifragile-stable systems that can emerge.  To do this I propose a type of economy that call hypercatallaxian.  The word 'catallaxy is derived for the Greek verb katalatto, which means 'to exchant,' or 'to become reconciled wiht,' or 'to admit into the community,' or,'to make an enemy a friend.'(wikipedia)  Catallaxy is generally discussed as a property arizing out of econmy.  We take these principles and build them into the economic system, thus, hyper.
+To increase the surface area the most we need to maximize the number of antifragile-stable systems that can emerge.  To do this I propose a type of economy that call hypercatallaxian.  The word 'catallaxy is derived for the Greek verb katalatto, which means 'to exchant,' or 'to become reconciled wiht,' or 'to admit into the community,' or,'to make an enemy a friend.'(wikipedia)  Catallaxy is generally discussed as a property arising out of econmy.  We take these principles and build them into the economic system, thus, hyper.
 
 At its core, this economy occurs on a public ledger.  As cash is held by an account, it begins to decay.  This decay rate incentivises a person to use or convert the cash into a capital asset as quickly as possible.  The cash does not decay into thin air.  Instead it travels back through the public ledger to those that provided the cash in proportion to the amount provided into the account.  This incentivises spenders to spend on accounts that they think will recieve more cash in the future.  They are rewarded by predicting success.  Those that guess best recieve a larger long term dividend than those that guess poorly.
 
@@ -108,7 +110,7 @@ The economic question transfers from a question of what can I get for my dollar 
 
 Over time this economy provides a mericratic base income to all participants in proportion to how well their contributions to the economy perform in the future.
 
-There are many more details that are discussed later in the pattern language in the section Art and Democratic Catallaxianism
+There are many more details that are discussed later in the pattern language in the section Art and Democratic Hypercatallaxy
 
 XIV. Neutralizing Risk
 

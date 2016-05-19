@@ -1,6 +1,6 @@
 # Yudkowsky, Pirsig, and Alexander walk into a bar, Taleb is tending bar
 
-The purpose of this chapter is to try to summarize the beliefs of four of my favorite authors that I think have something to say about these ideas and to show what each one gets right, and where I think they fall short.
+The purpose of this chapter is to try to summarize the beliefs of four authors that I think have something to say about these ideas and to show what each one gets right, and where I think they fall short.
 
 I understand the boldness of saying that these guys 'fall short.'  They are all smarter than I am and know their areas way better than I do. If anything insightful comes of this it is siimply because I was in the right place at the right time and I read this stuff in the right order.
 
@@ -166,13 +166,13 @@ Test:  Compare dynamic to static latches across a number of domains and compare 
 
 Yudkowsky comes down squarly on the side that the universe is completely hosital to us.  His big warining is that as we move toward an Artificial Intellegence, we must be very careful because it may decide that we are no longer needed and it could bring about the end of the human race.  I don't doubt that this is possible, but I think he misses the Luminous Ground that Alexander speaks of in the Nature of Order.  Now Yudkowsky would probably reject this seeminly silly concept out right.
 
-The Luminous Ground is a concept that there is some 'other' that causes nature to work toward wholness. To his credit Alexander spends hundreds of pages laying out empirical evidence that this is in fact the case.  Perhaps some of it is sketch and it needs fleshing out, especially in areas outside of architecture, but to Alexander's credit the is exactly what he is calling for.
+The Luminous Ground is a concept that there is some 'other' that causes nature to work toward wholeness. To his credit Alexander spends hundreds of pages laying out empirical evidence that this is in fact the case.  Perhaps some of it is sketch and it needs fleshing out, especially in areas outside of architecture, but to Alexander's credit the is exactly what he is calling for.
 
 If Alexander is correct then we less of a concern of rouge AI if the develpment of it follows a stepwise pathway that ensures that wholeness is increased.  A wholness aware and wholness preserving AI should preserve and augment humanity instead of destroying it.
 
 To be fair Alexander does point out ways in which some parts of a wholness may break themselves up in order to increase wholenss and it does take a bit of faith, an perhaps hubris, to say that human beings increase the wholness to an effect that an advanced AI would want to keep us around.
 
-Postulate: If we approach AI development from a  stepwise refinement manner and attempt to preserve and build wholness, we will find an easier path to friendly AI.
+Postulate: If we approach AI development from a stepwise refinement manner and attempt to preserve and build wholness, we will find an easier path to friendly AI.
 
 Theory: Past stepwise refinement has been in the business of increasing wholness and has typically not eleminated but enhanced existing culture and life.
 
@@ -184,13 +184,13 @@ Taleb's big concern is negative black swans that emerge out of the chaos of inte
 
 I think they would mostly agree, but I think that Alexander can take a bit of the edge off of Taleb's hardline conservative stance.  Alexander's point is that not all changes are bad...the wholness preserving and enhancing ones are good.  We want them.
 
-Let's take Taleb's argument against GMOs.  Of couse generating a form of wheat in a lab that adds many many new charachteristics at one time and releasing it on the world is a recipe for disaster.  But if we use stepwise refinement of the genome we can increase wholness.  This is the exact business that natural selection has been in the business of for hundreds of millions of years.  Must we wait for wholeness to increase at a biological pace?  I'd argue that we do not need to if we understand the wholness increasing process.  Of course it is hard and of course it takes longer to get to all the good things we want.  But, if we want a wheat that is resistent to diseas and produces 10x per acre, we have to move forward at a faster than biologial pace.
+Let's take Taleb's argument against GMOs.  Of couse generating a form of wheat in a lab that adds many many new charachteristics at one time and releasing it on the world is a recipe for disaster.  But if we use stepwise refinement of the genome we can increase wholness.  This is the exact business that natural selection has been in the business of for hundreds of millions of years.  Must we wait for wholeness to increase at a biological pace?  I'd argue that we do not need to if we understand the wholness increasing process.  Of course it is hard and of course it takes longer to get to all the good things we want.  But, if we want a wheat that is resistent to disease and produces 10x per acre, we have to move forward at a faster than biologial pace.
 
 Postulate:  Develope GMO techniques that follow stepwise refinement.
 
 ##Pirsig vs. Taleb
 
-I think Pirsig and Talev wold get along swimmingly.  TAleb's Antifragile is Pirsig's dynamic quality.  In the same way that I think that Taleb cold lose some of his conservative nature from Alexander, I think Prisig would help as well.  Pirsig's latch adds an element to Taleb's antifragile.  This latch could lead to massive change very quickly by amplifying the effect.  If we have huge upside via antifragility, and that upside occurs via a positive black swan and then this is amplified by another antifragile situation we can have rapidly moving advancment.  In fact I'll argue that Pirsig's levels derive from exactly these kinds of amplifications.  Later I'll refer to these amplified antifragile situations that latch as bootstraps.  They move so far that they appear to follow completely different sets of rules that the system that they emerged from.
+I think Pirsig and Taleb wold get along swimmingly.  Taleb's Antifragile is Pirsig's dynamic quality.  In the same way that I think that Taleb cold lose some of his conservative nature from Alexander, I think Prisig would help as well.  Pirsig's latch adds an element to Taleb's antifragile.  This latch could lead to massive change very quickly by amplifying the effect.  If we have huge upside via antifragility, and that upside occurs via a positive black swan and then this is amplified by another antifragile situation we can have rapidly moving advancment.  In fact I'll argue that Pirsig's levels derive from exactly these kinds of amplifications.  Later I'll refer to these amplified antifragile situations that latch as bootstraps.  They move so far that they appear to follow completely different sets of rules that the system that they emerged from.
 
 The problem with these huge moves is that Taleb would dismiss them as fiddling with too much and opening us up to many more negative black swans.  In a sense he's right, a comet colliding with earth would wipe out quite a bit of amplification, but would we want that amplification to not exist?
 
@@ -203,8 +203,6 @@ I'd love to see this debate.  Yudkowski is a materialist and a reductionist.  Pr
 At the end though they are both about maps and territories.  Yudkowsky says the map must match the material territory.  Pirsig says that are maps are generated by quality and thus match the territory.  To-matos/Tom-atos?
 
 I think so.  If anything, I think that Yudkowsky's humanism betrays his material/reductionist stance.
-
-Note: Review Y's humanist chapters and revisit
 
 ##Yudkowsky vs. Taleb
 
