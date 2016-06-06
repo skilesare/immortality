@@ -1,3 +1,3 @@
 # Preamble
 
-We the People of the third planet of Sol, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defence, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for our planet and any colony that our citizens may establish.
+We the People of the United Sates, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defence, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for The United States of America and any territory on our planet or others that may elect to submit to its authority.

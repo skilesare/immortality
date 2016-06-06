@@ -38,4 +38,12 @@
 * [A new constitution](a_new_constitution/README.md)
    * [Preamble](a_new_constitution/preamble.md)
    * [Article I](a_new_constitution/article_i.md)
+   * [Article II](a_new_constitution/article_ii.md)
+   * [Article III](a_new_constitution/article_iii.md)
+   * [Article IV](a_new_constitution/article_iv.md)
+   * [Article V](a_new_constitution/article_v.md)
+   * [Article VI](a_new_constitution/article_vi.md)
+   * [Article VII](a_new_constitution/article_vii.md)
+   * [Article VIII](a_new_constitution/article_viii.md)
+* [The Thing Explainer](the_thing_explainer/README.md)
 
