@@ -76,6 +76,7 @@
             * [The Teacher](achieving_supersociety/the-teacher.md)
             * [The Warmonger](achieving_supersociety/the-warmonger.md)
             * [The Lobbiest](achieving_supersociety/the-lobbiest.md)
+    * [Book III - The Pattern Language](the_pattern_language/README.md)
 * [A new constitution](a_new_constitution/README.md)
     * [Preamble](a_new_constitution/preamble.md)
     * [Article I](a_new_constitution/article_i.md)
