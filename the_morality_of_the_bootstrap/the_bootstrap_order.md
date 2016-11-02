@@ -5,7 +5,7 @@ Now that we have looked at each level, lets summarize how the bootstrap occured 
 | | Inorganic (1) | Biological (4) | Societal (9) | Intellectual (13)
 | -- | -- | -- | -- | -- | -- | -- |
 | Intellectual | - | - | - | time observation (14) / science - replayability (24)
-| Socital | - | - | resources (10) / money (20) | culture (17) / diversity(23)
+| Societal | - | - | resources (10) / money (20) | culture (17) / diversity(23)
 | Biological | - | fitness (5) / biodiversity (8) | grouping (11) / disbursement (12) | self preservation (15) / health(22)
 | Inorganic | forces(2) / patterned forces(3) | environment (6) / structure (7) | object creation (16) / art (19)| machinery (18) / industry(21)
 

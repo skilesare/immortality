@@ -6,9 +6,9 @@ Section. 1.
 
 The executive Power shall be vested in a President of the Government. They shall hold their Office during the Term of four Years, and, together with the Vice President, chosen for the same Term, be elected, as a ticket by ranked choice voting of all accounted citizens who have elected the Government.
 
-Each elected President shall be limited to one full term of office, unless elected in a special election and then may be eligible for reelection.  No Spouse, Brother, Sister, Parent, Son, Daugher, Grandson or Granddaughter of a President shall be elected to the office of President.
+Each elected President shall be limited to one full term of office, unless elected in a special election and then may be eligible for reelection.  No Spouse, or genetic or adopted Brother, Sister, Parent, Son, Daugher, Grandson or Granddaughter of a President shall be elected to the office of President.
 
-The Congress may determine the Time of voting such that a window of two weeks is availibe where the final day of open voting is a national day of celebration and the Federal Government and State Governments shall reduce its business to a minimum level, and the time period on which the shall be held will be the same througout the elected geography.
+The Congress may determine the Time of voting such that a window of two weeks is availibe where the final day of open voting is a national day of celebration and the Federal Government and State Governments shall reduce its business to a minimum level, and the time period on which the day shall be held will be the same througout the elected geography.
 
 No Person except a natural born Citizen, or a Citizen of the elected geogrophes, at the time of the Adoption of this Constitution, shall be eligible to the Office of President; neither shall any Person be eligible to that Office who shall not have attained to the Age of thirty five Years, and been fourteen Years a Resident within the elected territories.
 
@@ -16,9 +16,9 @@ The President and Vice President must not have recieved private payments of cash
 
 In Case of the Removal of the President from Office, or of his Death, Resignation, or Inability to discharge the Powers and Duties of the said Office, the Same shall devolve on the Vice President, and the Congress may by Law provide for the Case of Removal, Death, Resignation or Inability, both of the President and Vice President, declaring what Officer shall then act as President, and such Officer shall act accordingly, until the Disability be removed.  A special election to replace the temporary President shall be held no latter than 6 months after the removal from office unless the removal occurs within 18 months of a regularly scheduled presidential election.
 
-The President shall, at stated Times, receive for his Services, a Compensation, which shall neither be encreased nor diminished during the Period for which he shall have been elected, and he shall not receive within that Period any other Emolument from the United States, or any of them.
+The President shall, at stated Times, receive for his Services, a Compensation, which shall neither be increased nor diminished during the Period for which he shall have been elected, and he shall not receive within that Period any other Emolument from the United States, or any of them.
 
-Before he enter on the Execution of his Office, he shall take the following Oath or Affirmation:—"I do solemnly swear (or affirm) that I will faithfully execute the Office of President of the Government, and will to the best of my Ability, preserve, protect and defend the Constitution of the Government."
+Before she enter on the Execution of his Office, she shall take the following Oath or Affirmation:—"I do solemnly swear (or affirm) that I will faithfully execute the Office of President of the Government, and will to the best of my Ability, preserve, protect and defend the Constitution of the Government."
 
 Section. 2.
 

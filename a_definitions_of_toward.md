@@ -1,6 +1,6 @@
 # A definitions of 'toward'
 
-There is nothing tricky in the way I am using 'toward' in my title of this book.  I believe there is an economics that can propel us toward a much, much longer life span for our minds.  This economics is not a magic bullet that can outstrip the laws of physics and the path from here to imortality being acheied may be a very, very long path. Also do not underestimate's mankind's ability to aim poorly.
+There is nothing tricky in the way I am using 'toward' in my title of this book.  I believe there is an economics that can propel us toward a much, much longer life span for our minds.  This economics is not a magic bullet that can outstrip the laws of physics and the path from here to imortality being acheieved maachievedy be a very, very long path. Also do not underestimate's mankind's ability to aim poorly.
 
 ####On the shape of the change in life expectancy
 
@@ -12,7 +12,7 @@ That is decent, but what if we were able to increase expectancy by 0.5 years per
 
 When we run the simulation with a rate of change of 1.1 years per year we see that our lives no longer have an 'expectancy.'  When we reach this tech milestone, and can sustain it, we will have reached practical 'immortality.'
 
-When I say that this is an economics 'toward' immortality, this is what I am speaking of.  We need to accelerate the increase in life expectancy to as close to and/or beyond 1 per year as possible, and we need to do it as quickly as possible.  You would think that immenent death would be enough to mobalized 6 billion people to pursue this goal, but that is not the case. In this book I will put forward an economics that moves us toward that mobilization.
+When I say that this is an economics 'toward' immortality, this is what I am speaking of.  We need to accelerate the increase in life expectancy to as close to and/or beyond 1 per year as possible, and we need to do it as quickly as possible.  You would think that immenent death would be enough to mobalized 6 billion people to pursue this goal, but that is not the case. In this book I will put forward an economics that moves us toward that mobilization and make a case for the moral imperative to do so.
 
 *The code to run these calclations is included below.*
 

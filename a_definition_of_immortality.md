@@ -1,10 +1,11 @@
 # A definition of 'immortality'
 
-When I speak of immortality I am speaking of a state of nature in which an intellegence has a reasonable expectation that it will continue to exist and operate, without defect or deteriorization, beyond a point in the future where technology can be expected to exist that can aliviate and heal any micro-defects.
+When I speak of immortality I am speaking of a state of nature in which an intellegence has a reasonable expectation that it will continue to exist and operate, without defect or deterioration, beyond a point in the future where technology can be expected to exist that can aliviate and heal any micro-defects.
+
 
 ##On Why death is bad
 
-Death is the end of a mind.  Under our current knowlege, a mind is one of the most precious resources that we have.  There are a number of meta-physical postulations and religious opinions that expect a mind to continue after death, but there is zero physical evidence that this is so.
+Death is the end of a mind.  Under our current knowlege, a mind is one of the most precious resources that we have.  There are a number of meta-physical postulations and religious opinions that expect a mind to continue after death, but there is no physical evidence that this is so.
 
 Of course many of us have faith that the mind endures beyond death, but we also are not in a hurry to test that hypothosis.  If a divine being is at odds with us preserving our minds, it is more than welcome to intervene.
 
@@ -16,9 +17,9 @@ The immortality that I am addressing in this book is not a magical or spritual i
 
 Many minds may still die.  This is due to the accident and physical forces outside the control of the minds.  A large galactic event may annihilate the entire area that minds inhabit and end this grand experament prematurely. Or if we are really unlucky, a plague on earth may end it in the next couple of decades.
 
-##On Minds
+##On the location of Minds
 
-What is a mind?  Currently it is this mass of neurons in our heads.  There may exist in the future a way to augment this mind or even transfer this mind to a much more robust medium.  In fact, extreamly long life may require this transfer take place many times over the course of the future.
+Where is the mind?  Currently it is this mass of neurons in our heads.  There may exist in the future a way to augment this mind or even transfer this mind to a much more robust medium.  In fact, extreamly long life may require this transfer take place many times over the course of the future.
 
 ##On Atoms
 
@@ -26,7 +27,7 @@ The possibility of this transfer is due to the fact that, at their core, atoms o
 
 To go to a further technalogical step, if I'm able to crate a nano-device that simulates a neuron with fidelity and I'm able to arrange these simulated nurons in the same connections as your in your mind, this new mind would be the same mind.
 
-Now having two minds that think they are on mind cause a another set of issues, but lets not get ahead of ourselves.
+Now having two minds that think they are one mind cause a another set of issues, but lets not get ahead of ourselves.
 
 ##On Immediate Hurdles
 
@@ -42,4 +43,10 @@ Once these initial hurdles are achieved we will need to work on bigger problems 
 
 ##On the distant unseen
 
-This is where I'll put my really crazy ideas like sending our duplicated minds into different light cones.  And on constructing zero-energy laticies for the reconstitution of minds upon another 'bang.'
+The further out we get on our technological development map, the harder it is to speculate about what may be possible. There are even strange things to contemplate when our technology gets advanced enough.  For example, 
+
+What happens if we send our duplicated minds into different light cones?  Are the still duplicates?
+
+When we contemplate the heat death of the universe, is there a way to construct a zero-energy laticies for the reconstitution of minds upon another 'big bang.'
+
+Many of these ideas sound crazy and far out, and truely they are, but these questions, and others like them cannot be addressed until we first solve the problem of preserving our minds far beyond what our current bodies allow.

@@ -2,7 +2,7 @@
 
 We have established that the inorganic bootstraped to the biological level.  At the biological level, fitness is valued.  At this level a system survives only as well as it is able to reproduce.  Because biology is at a higher level than the inorganic level it has access to utilize the systems at that level for its own purposes.
 
-We find at the biological level an economy of environment that is used to increase reproduction.  This can be seen in ameboa surviving in wet swampy places and desert lizards needing to be...well...in the desert.
+We find at the biological level an economy of environment that is used to increase reproduction.  This can be seen in amoeba surviving in wet swampy places and desert lizards needing to be...well...in the desert.
 
 Each of these biological systems survived because existing in the correct environment increase the likely hood that the builder's DNA would survive another generation.
 

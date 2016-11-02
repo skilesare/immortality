@@ -1,6 +1,6 @@
 # The econimics of the bootstrap
 
-We have an emense amount of information of how economics work in the areas of financial markets.  I'm going to do my best to map these back to more basic bootstraps and show that the dynamics are similar and ultimately the effects of these economies manifest themselves in similar ways.
+We have an immense amount of information of how economics work in the areas of financial markets.  I'm going to do my best to map these back to more basic bootstraps and show that the dynamics are similar and ultimately the effects of these economies manifest themselves in similar ways.
 
 The foundations of most economic theories are built on the ideas of 'labor specialization' and 'supply and demand.'
 

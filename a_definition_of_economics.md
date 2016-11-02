@@ -8,9 +8,11 @@ Money is a tool.  We get to design tools.  The money of today is not the money o
 
 ####On Value
 
-Robert Pirsig would call it Quality.  Christopher Alexander would call it wholeness.  Eliezer Yudikowsky would call it...humanism?  What ever 'it' is, it is value.  And we pay for value.  Other force pay for value as well.  The actual currency involved in value exchange can vary greatly, but what the end goal of the exchange is does not vary.  It is more value.  We will see that this universe is ultimately involved in one goal, the development and expansion of value.
+Robert Pirsig would call it Quality.  Christopher Alexander would call it wholeness.  Eliezer Yudikowsky would call it...humanism?  What ever 'it' is, it is value.  And we pay for value.  Other forces pay for value as well.  The actual currency involved in value exchange can vary greatly, but what the end goal of the exchange is does not vary.  It is more value.  We will see that this universe is ultimately involved in one goal, the development and expansion of value.
 
 Another key factor of value is that it is all future value.  This will hold true until we find a way to overcome time itself.  That may happen, but until then, all the value that we will experience is in the future.  Past value has gone and cannot be reconstituted.  You can't 'store' it.  Well, you can, but only on certain levels and for certain purposes. Its complicated.  The thing to remember is that if anyone ever tells you that they have a way for you to 'preserve value for the future' they are probably selling you something. Don't trust them.
+
+One can 'pump water uphill' or store energey in chimical form in a way that can be rapidly extracted, but even pure energy can fluxuate in value drastically under the right circumstances.  This is not to say that one shouldn't make 'good bets' on value.  It is often the only thing we can do.
 
 ####On Greed
 

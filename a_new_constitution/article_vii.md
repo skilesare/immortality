@@ -44,7 +44,7 @@ A well regulated Militia, being necessary to the security of a free State, the r
 
 Right IV
 
-Citizens shall not be deprived of their right to protect themseleves agains individuals who would do violence to their persons and there for the right of an indivitual to keep and bear Arms sutible for personal defense and of non-military grade shall not be infringed. Citizens shall have the right to call upon the militia for protection if threatened by any organized group of such size as personal protection is beyond personal means.
+Citizens shall not be deprived of their right to protect themseleves agains individuals who would do violence to their persons and therefore the right of an individual to keep and bear Arms sutible for personal defense and of non-military grade shall not be infringed. Citizens shall have the right to call upon the militia for protection if threatened by any organized group of such size as personal protection is beyond reasonable means. Congress shall have power to enforce this article by appropriate legislation and to define military grade as time and technology requires.
 
 Right V
 
@@ -84,11 +84,11 @@ Neither slavery nor involuntary servitude, except as a punishment for crime wher
 
 Right XIV
 
-The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of race, color, sex, sexual orientation, or previous condition of servitude. The Congress shall have the power to enforce this article by appropriate legislation.
+The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of race, color, sex, gender identification, sexual orientation, genetic typing, or previous condition of servitude. The Congress shall have the power to enforce this article by appropriate legislation.
 
 Right XV
 
-The right of citizens of the United States to vote in any primary or other election for President or Vice President, for electors for President or Vice President, or for Senator or Representative in Congress, shall not be denied or abridged by the United States or any State by reason of failure to pay any poll tax or other tax. The Congress shall have power to enforce this article by appropriate legislation.
+The right of citizens of the United States to vote in any primary or other election for President or Vice President, for electors for President or Vice President, or for Senator or Representative in Congress, shall not be denied or abridged by the United States or any State by reason of failure to pay any poll tax, other tax, artificial requirement, or political party affiliation. The Congress shall have power to enforce this article by appropriate legislation.
 
 Right XVI
 
@@ -106,13 +106,19 @@ the child will not live outside the womb with any quality of life.
 
 the mother's life is endagered to an abnormal degree by continuing the pregnancy.
 
-the mother is a minor under the age of 18 and can demostrate ignorance of the pregnancy before 25 weeks of gestation.
+the mother is a minor under the age of 18.
+
+the mother can demostrate ignorance of the pregnancy before 25 weeks of gestation.
 
 the pregnancy resulted from a unwanted sexual event and the mother was ignorant of the pregnancy before 25 weeks of gestation.
 
 Right XIX
 
 A citizen willing to enter into a trade or provide a service who forfiets all limits of liability and who publically makes known to all parties in a transaction their intent to practice without limited liability shall enjoy the right to practice without the regulation or restriction of any government, national or state; but must pay any levied excises, imposts, duties, or taxes levied on that trade or service as is consistant throughout the union.  This right shall not extend to any partnership, group, corporation, or joint stock company.
+
+Right XX
+
+A citizen shall, when voting for elected office, have the opportunity to rank choices for office in such a way that if their higher choice is eleminated from competition via an instant runoff, their next choice shall recieve their vote; and shall be allowed to specify candidates for which they wish to never have their vote cast for such that if all preferred candidates are eliminated, their vote may be cast for no one. This right shall extend to all elections at any level of public government.
 
 Section 6.
 
@@ -142,7 +148,7 @@ Corporations shall at no time make any payment to a public official in power in 
 
 Restriction VI
 
-Congress shall make no low such that the demurrage of corproate accounts shall be less than that of national citizens, but it may be more.
+Congress shall make no law such that the demurrage of corproate accounts shall be less than that of national citizens, but it may be more.
 
 Section 8.
 
@@ -156,7 +162,7 @@ The Government shall guarantee to every Instituion in this Union a Republican Fo
 
 Institutions shall have the power to restrict the benifits of their actions to citizens that have elected the tax of the memebership.
 
-Such instituitons not funded by congress shall be subject to the bounds of this constitution by oversight from the exectuiveand any case broght against an institution shall be the jurisdiciton of the national judiciary.
+Such instituitons not funded by congress shall be subject to the bounds of this constitution by oversight from the exectuive and any case broght against an institution shall be the jurisdiciton of the national judiciary.
 
 Such instituitons funded by congress shall be subject to the bounds of this constitution and any law passed by congress and any case broght against an institution shall be the jurisdiciton of the national judiciary.
 

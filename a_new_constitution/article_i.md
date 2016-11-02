@@ -8,13 +8,17 @@ Section. 2.
 
 The House of Representatives shall be composed of Members chosen every second Year by the People of each geographic state, and the Electors in each state shall have the Qualifications requisite for Electors of the most numerous Branch of the Geographic State's Legislature.
 
+```
+todo: do we need the Electors if both branches will be determined by popular vote?
+```
+
 Each representative shall be limited to three regular elected terms in office after which they will be inelegible to serve in the House of Representatives.
 
-No Person shall be a Representative who shall not have attained to the Age of twenty five Years, and been four Years a Citizen of the state, and who shall not, when elected, be an Geographically Elected Inhabitant of that State in which they shall be chosen.
+No Person shall be a Representative who shall not have attained to the Age of twenty five Years, and shall have been four Years a Citizen of the state, and who shall, when elected, be an Geographically Elected Inhabitant of that State in which they shall be chosen.
 
 Representatives must not have recieved private payments of cash or private allotments of capital for one year before taking office unless elected or assigned for a vacancy.  Representtives must elect to not recieve private payments while in office and for ten years after leaving office.
 
-The Number of Representatives shall number at least 400.  The number of Representatives from each Level 0 State shall not exceed the number of Geographically Elected Inhabitant of that state divided by the whole count of Accounted Citizens divided by 500, but each Level 0 State shall have at Least one Representative, and until such enumeration shall be made, the Level 0 States shale have the following allotment:
+The Number of Representatives shall number at least 400.  The number of Representatives from each State shall not exceed the number of Geographically Elected Inhabitant of that state divided by the whole count of Accounted Citizens divided by 500, but each State shall have at Least one Representative, and until such enumeration shall be made, the States shale have the following allotment:
 
 | State | Representatives |
 | -- | -- |
@@ -78,7 +82,7 @@ The House of Representatives shall choose their Speaker and other Officers; and 
 
 Section. 3.
 
-The Senate shall be composed of Senators from each Level 0 State; Three senators from states with total geographically elected inhabitants greater than 1/50th of the total Accounted Citizenship, Two senators from states  with total geographically elected inhabitants greater than 1/500th and less than 1/50th of the total Accounted Citizenship, and 1 Senator from states with total geographically elected inhabitants less than 1/500th of the total Accounted Citizenship.
+The Senate shall be composed of Senators from each State; Three senators from states with total geographically elected inhabitants greater than 1/50th of the total Accounted Citizenship, Two senators from states  with total geographically elected inhabitants greater than 1/500th and less than 1/50th of the total Accounted Citizenship, and 1 Senator from states with total geographically elected inhabitants less than 1/500th of the total Accounted Citizenship.
 
 | State | Senators |
 | -- | -- |
@@ -140,9 +144,9 @@ Senators will be chosen for a term of six Years.
 
 Each Senator shall have one Vote.
 
-Senators may only serve one regular elected terms in office after which they will be inelegible to serve in the Senate.
+Senators may serve one regular elected terms in office after which they will be inelegible to serve in the Senate.
 
-Immediately after they shall be assembled in Consequence of the first Election, they shall be divided as equally as may be into three Classes. The Seats of the Senators of the first Class shall be vacated at the Expiration of the second Year, of the second Class at the Expiration of the fourth Year, and of the third Class at the Expiration of the sixth Year, so that one third may be chosen every second Year.
+Immediately after they shall be assembled in Consequence of the first Election, they shall be divided as equally as may be into three Classes. The Seats of the Senators of the first Class shall be vacated at the Expiration of the second Year, of the second Class at the Expiration of the fourth Year, and of the third Class at the Expiration of the sixth Year, so that one third may be chosen every second Year. And any initial senator who's term is shortened may be elected to a second term.
 
 When vacancies happen from any State, the Executive Authority thereof shall assign a temporary representative until a special ranked choice vote of the affected state is completed to elect a new member.
 
@@ -152,7 +156,7 @@ Senators must not have recieved private payments of cash or private allotments o
 
 The Vice President of the Executive Branch shall be President of the Senate, but shall have no Vote, unless they be equally divided.
 
-The Senate shall chuse their other Officers, and also a President pro tempore, in the Absence of the Vice President, or when he shall exercise the Office of President of the Executive Branch.
+The Senate shall choose their other Officers, and also a President pro tempore, in the Absence of the Vice President, or when he shall exercise the Office of President of the Executive Branch.
 
 The Senate shall have the sole Power to try all Impeachments. When sitting for that Purpose, they shall be on Oath or Affirmation. When the President of the Executive Branch is tried, the Chief Justice shall preside: And no Person shall be convicted without the Concurrence of two thirds of the Members present.
 
@@ -162,9 +166,9 @@ Section. 4.
 
 Elections for Senators and Representatives shall be open for a period of 3 months prior to the election closing and shall conclude 3 months before the begining of a new term.
 
-Senators and Representatives shall be chosen by ranked choice election by the inhabitants of the Level 0 state for which they are a candidate.
+Senators and Representatives shall be chosen by ranked choice election by the inhabitants of the State for which they are a candidate.
 
-Level 0 states in which elect more than 3 representatives will have their State sectioned into smaller subdistrics for elections by programatic geographic algorithm that proceedes in allocations of five miles squared from the North West corner of the territory and moving East, then south until the proportional number of geographically elected citizens is reached. Neither Congress, nor state ledgislatures my alter the allotment of subdistrics for any reason unless this constitution is ammended.
+States in which elect more than 3 representatives will have their State sectioned into smaller subdistrics for elections by programatic geographic algorithm that proceedes in allocations of five miles squared from the North West corner of the territory and moving East, then south until the proportional number of geographically elected citizens is reached. Neither Congress, nor state ledgislatures my alter the allotment of subdistrics for any reason unless this constitution is ammended.
 
 No subdistrict shall elect more than 3 representatives.
 
@@ -196,9 +200,9 @@ Section. 7.
 
 All Bills for raising Revenue shall originate in the House of Representatives; but the Senate may propose or concur with Amendments as on other Bills.
 
-Every Bill which shall have passed the House of Representatives and the Senate, shall, before it become a Law, be presented to the People for a period of three weeks during which the vote of each representative may be subject to review and override as perscribed in Right XVII of Article VII of this constitution. Then President of the Executive Branch; If he approve he shall sign it, but if not he shall return it, with his Objections to that House in which it shall have originated, who shall enter the Objections at large on their Blockchain, and proceed to reconsider it. If after such Reconsideration two thirds of that House shall agree to pass the Bill, it shall be sent, together with the Objections, to the other House, by which it shall likewise be reconsidered, and if approved by two thirds of that House, it shall again be submitted to the people for review and overrided and with such, if a 2/3 majority remain in favor, become a Law. But in all such Cases the Votes of both Houses shall be determined by yeas and Nays, and the Names of the Persons voting for and against the Bill shall be entered on the Blockchain of each House respectively. If any Bill shall not be returned by the President within ten Days (Sundays excepted) after it shall have been presented to him, the Same shall be a Law, in like Manner as if he had signed it, unless the Congress by their Adjournment prevent its Return, in which Case it shall not be a Law.
+Every Bill which shall have passed the House of Representatives and the Senate, shall, before it become a Law, be presented to the People for a period of three weeks during which the vote of each representative may be subject to review and override as perscribed in Right XVII of Article VII of this constitution. Then President of the Executive Branch; If she approve she shall sign it, but if not she shall return it, with his Objections to that House in which it shall have originated, who shall enter the Objections at large on their Blockchain, and proceed to reconsider it. If after such Reconsideration two thirds of that House shall agree to pass the Bill, it shall be sent, together with the Objections, to the other House, by which it shall likewise be reconsidered, and if approved by two thirds of that House, it shall again be submitted to the people for review and overrided and with such, if a 2/3 majority remain in favor, become a Law. But in all such Cases the Votes of both Houses shall be determined by yeas and Nays, and the Names of the Persons voting for and against the Bill shall be entered on the Blockchain of each House respectively. If any Bill shall not be returned by the President within ten Days after it shall have been presented to him, the Same shall be a Law, in like Manner as if he had signed it, unless the Congress by their Adjournment prevent its Return, in which Case it shall not be a Law.
 
-Every Order, Resolution, or Vote to which the Concurrence of the Senate and House of Representatives may be necessary (except on a question of Adjournment) shall be presented to the President of the United States; and before the Same shall take Effect, shall be approved by him, or being disapproved by him, shall be repassed by two thirds of the Senate and House of Representatives, according to the Rules and Limitations prescribed in the Case of a Bill.
+Every Order, Resolution, or Vote to which the Concurrence of the Senate and House of Representatives may be necessary (except on a question of Adjournment) shall be presented to the President of the United States; and before the Same shall take Effect, shall be approved by her, or being disapproved by her, shall be repassed by two thirds of the Senate and House of Representatives, according to the Rules and Limitations prescribed in the Case of a Bill.
 
 All bills must be specific and on point of a single issue, with no amendment from tangential issues attached.  All sections of a bill must have a direct and clear corrolation to other sections and all must adhear to the subject of the bill as declared in the preamble.  The Exectutive may line item veto articles, sections or subsections that do not meet the direct and clear standard and if signed, the whole bill, excluding those sections shall become law. Congress may superceed any line item veto by passing a seperate resolution including those vetoed sections as a seperate Bill by a 2/3 majority of both houses.
 
@@ -212,7 +216,7 @@ The demurrage of cash from accounts, citizened and corporate, to accounted citiz
 
 The demuragge of cash from corporate accounts to other corporate accounts. The tax rate on corporate demurrage may not be lower than the tax rate on accounted citizen demurrage.
 
-The demurrage of artificial capital to the commons such that the demurrage is offered up for public bid and that the demurred from entity shall have the right to pay a tax equal to the highest bid to retain the rights granted by the capital.
+The demurrage of artificial capital to the commons such that the demurrage is offered up for public bid for a period of at least two weeks and that the demurred from entity shall have the right to pay a tax equal to the highest bid to retain the rights granted by the capital else the tax may be collected from the highest bidder. If there is no bid for the artificial capital its ownership shall remain with the state and must be submitted for rebid after no more than one year.
 
 Congress shall lay no tax on the income of accounted citizens but may tax incomes of corporate entities whose owners enjoy limited liability.
 
@@ -230,11 +234,11 @@ Duties and Imposts may not be levied on goods or services moving amongst geograp
 
 The revenues generated must be allocated by congress to:
 
-To pay the debts and provide for the common defence and genera; but all Excises shall be uniform throughout the geographically elected area, the seas, and outer space that accounted citizens may reach.
+To pay the debts and provide for the common defence and general welfare; but all Excises shall be uniform throughout the geographically elected area, the seas, and outer space that accounted citizens may reach.
 
 To borrow Money on the credit of the government;
 
-To regulate Commerce with foreign Nations, and among the several States, and with the Indian Tribes;
+To regulate Commerce with foreign Nations, and among the several States;
 
 To establish an uniform Rule of Naturalization, and uniform Laws on the subject of Bankruptcies throughout the elected territiories;
 
@@ -246,7 +250,7 @@ To establish Post Offices and post Roads;
 
 To establish off-world colonies, both on worlds and as space stations, and regulate the trade routes amongst them, to preserve the long term existence of the human race.
 
-To promote the Progress of Science and useful Arts, by securing for limited Times to Authors and Inventors the exclusive Right to their respective Writings and Discoveries, but no grant of rights shall be extended beyond its orginal grant.  Exclusive Patents on Technolgies must include a material component.  Patents that do not contain a material component and software patents must be open patents.  Patents of technology shall not exced 21 years and if it is found that upholding the patent shall endanger the life of any citizen than it shall be declared an open patent by the courts.  Open patatents require that any corporation may use the patent provided common stock of the corporation wanting to use the technology is delivered to the patent awardee valued at equal to the cost of developing the technology as determined by agreement, or if no agreement is met, arbitration by the established courts. Copywrites on images, texts, films, renderings, and other such creative arts shall not exced 50 years. Congress shall make no law extending or circumventing patent and copywrite limits excpet by proposing an amendment to this constituiton via the perscribed method in Article X.  Patents rights and Copyright rights shall not be transfered from one citizen to another except that citizens may leave patent rights to heirs upon death. Corporations may only transfer patent rights upon blockchain bankruptcy. No corporation shall be granted a patent who's sole or majority business is the holding and enforcing of patenets.  Corporations may not hold copywrite but must pass the copywrite either directly to the citizens responsible for the production of the art or all citizens who have recieved a payment for employment or services for the timeperiod during which the art was created.
+To promote the Progress of Science and useful Arts, by securing for limited Times to Authors and Inventors the exclusive Right to their respective Writings and Discoveries, but no grant of rights shall be extended beyond its orginal grant.  Exclusive Patents on Technolgies must include a material component.  Patents that do not contain a material component and software patents must be open patents.  Patents of technology shall not exced 21 years and if it is found that upholding the patent shall endanger the life of any citizen than it shall be declared an open patent by the courts.  Open patatents require that any corporation may use the patent provided common stock of the corporation wanting to use the technology is delivered to the patent awardee valued at equal to the cost of developing the technology as determined by agreement, or if no agreement is met, arbitration by the established courts. Copywrites on images, texts, films, renderings, and other such creative arts shall not exced 50 years. Congress shall make no law extending or circumventing patent and copywrite limits excpet by proposing an amendment to this constituiton via the perscribed method in Article X.  Patents rights and Copyright rights shall not be transfered from one citizen to another except that citizens may leave patent rights to heirs upon death. Corporations may only transfer patent rights upon blockchain bankruptcy. No corporation shall be granted a patent who's sole or majority business is the holding and enforcing of patenets.  Corporations may not hold copywrite but must pass the copywrite either directly to the citizens responsible for the production of the art or all citizens who have recieved a payment for employment or services for the time period during which the art was created.
 
 To constitute Tribunals inferior to the supreme Court;
 
@@ -256,9 +260,11 @@ To declare War, grant Letters of Marque and Reprisal, and make Rules concerning 
 
 To raise and support Armies, but no Appropriation of Money to that Use shall be for a longer Term than two Years;
 
-To provide and maintain a Navy;
+To provide and maintain a Navy, but no Appropriation of Money to that Use shall be for a longer Term than two Years;
 
-To provide and maintain a Space Program that explores reachable space.
+To provide and maintain an Air and Space Force, but no Appropriation of Money to that Use shall be for a longer Term than two Years;
+
+To provide and maintain a Civilian Space Program that explores reachable space.
 
 To make Rules for the Government and Regulation of the land, naval, air, and space Forces;
 
@@ -266,7 +272,7 @@ To provide for calling forth the Militia to execute the Laws of the Union, suppr
 
 To provide for organizing, arming, and disciplining, the Militia, and for governing such Part of them as may be employed in the Service of the Government, reserving to the States respectively, the Appointment of the Officers, and the Authority of training the Militia according to the discipline prescribed by Congress;
 
-To exercise exclusive Legislation in all Cases whatsoever, over such District (not exceeding ten Miles square) as may, by Cession of particular States, and the Acceptance of Congress, become the Seat of the Government. But this district shall not allow for any accounted citizen or corporation to geographically elect inside the distct such that no citizen may be disenfranchised and no corpration shall escape taxation and so tha the district shall not need a seperate government.
+To exercise exclusive Legislation in all Cases whatsoever, over such District (not exceeding ten Miles square) as may, by Cession of particular States, and the Acceptance of Congress, become the Seat of the Government. But this district shall not allow for any accounted citizen or corporation to geographically elect inside the distct such that no citizen may be disenfranchised and no corpration shall escape taxation and so that the district shall not need a seperate government.
 
 To exercise Authority over all Places purchased by the Consent of the Legislature of the States for the Erection of Forts, Magazines, Arsenals, dock-Yards, space stations, and other needful Buildings;
 
@@ -280,7 +286,7 @@ To make all Laws which shall be necessary and proper for carrying into Execution
 
 Section. 9.
 
-The Migration of such Persons as any of the Level 0 States shall think proper to admit, shall not be prohibited or taxed by the Congress.
+The Migration of such Persons as any of the States shall think proper to admit, shall not be prohibited or taxed by the Congress.
 
 The Privilege of the Writ of Habeas Corpus shall not be suspended, unless when in Cases of Rebellion or Invasion the public Safety may require it.
 
@@ -296,7 +302,7 @@ Any information collected by the government with the use of money from the Tresu
 
 No Title of Nobility shall be granted by the Government: And no Person holding any Office of Profit or Trust under them, shall, without the Consent of the Congress, accept of any present, Emolument, Office, or Title, of any kind whatever, from any King, Prince, Foreign State or Corporate Entity.
 
-The power of the congress to create electable taxes shall be non-exclusive and congress shall not deny the rights of states, jurisdictions, cross-state organizations, or other entities to create and collect electable taxes such that all collections and dispersions of funds into those accounts are open for public inspection and that no private payments are made to or from such accounts.
+The power of the congress to create electable taxes on citicens and mandatory taxes on corporations and artifical capital, shall be non-exclusive and congress shall not deny the rights of states, jurisdictions, cross-state organizations, or other entities to create and collect electable taxes such that all collections and dispersions of funds into those accounts are open for public inspection and that no private payments are made to or from such accounts.
 
 Section. 10.
 
@@ -308,4 +314,4 @@ No State shall, without the Consent of Congress, lay any Duty of Tonnage, keep T
 
 Section 11.
 
-Representative, Senator, or Executive shall only raise cash for the puroposes of running a campainge except by the requesting the election of tax on demurrage by accounted citizens that shall be capped on a per citizen basis such that the integrity of the officials are maintained and no one set of citizens may hold more sway over said officials, except that congress may allow for the matching of elected funds with public funds from the tresurey in proportion and with regard to political party or agenda.
+Representative, Senator, or Executive shall only raise cash for the puroposes of running a campaigne except by the requesting the election of tax on demurrage by accounted citizens that shall be capped on a per citizen basis such that the integrity of the officials are maintained and no one set of citizens may hold more sway over said officials, except that congress may allow for the matching of elected funds with public funds from the tresurey in uniform proportion and without regard to political party or agenda.

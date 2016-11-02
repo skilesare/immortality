@@ -10,7 +10,6 @@ Familial Love
 
 Familial love sits at an interesting intersection between the biological and the societal.  Biologically we are drawn to love and care for our relations because they share some quantity of our genes.  But the family is also a societal structure that helps control and smooth out access to resources.
 
-
 Trusting Love - Friendship
 
 Trusting love, aka, friendship is an intellectual love.  It is, in a sense, trust, and it is why when trust is broken we feel so broken hearted.  This kind of love bleeds down and crosses over into our romantic and familial love as well.  This complicates what love is even more.

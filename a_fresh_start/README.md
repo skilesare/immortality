@@ -6,7 +6,7 @@ Let us live as man will live in the future and think as man will think in the fu
 
 II. A philosophy
 
-Though I am not a scientist, this work will take a scientific tone.  I hope to point us toward a world view where the generalizations I propose can be proven out by those better trained in the scientific arts who have more time availible to them.  This leaves me with the solemn reality that this is a work of philosophy and that many of the generalizations I make will be proven scientifically unsound.  If they are, my hope is that they, at least, point in the right vector of the real and can be corrected by those wiser than I am.
+Though I am not a scientist, this work will take a scientific tone.  I hope to point us toward a world view where the generalizations I propose can be proven out by those better trained in the scientific arts who have more time available to them.  This leaves me with the solemn reality that this is a work of philosophy and that many of the generalizations I make will be proven scientifically unsound.  If they are, my hope is that they, at least, point in the right vector of the real and can be corrected by those wiser than I am.
 
 III. The great economies
 
@@ -16,7 +16,7 @@ IV. The bootstrap
 
 The four economies did not always exist.  First the inorganic emerged after the universe cooled enough for a pattern of forces to cascade out of the primordial plasma.  Millions, maybe billions, maybe trillions of years later, some of these forces arranged themselves in such a way to replicate themselves and overcome the prevailing economy of patterned forces.
 
-This new economy did not deal in the supply and demand of patterned forces.  In a sense, patterned forces bootstrapped a new economy that dealt in the supply and demand of reproductive fitness.  We call this the biological level.  The biological level often uses the inorganic level to its advantage of creating fitness.  Take a nest, the organism leverages the forces created by the nest material(the major force being the ability to keep out unwanted forces such as weather, predators, and other deadly things) to increase the reproductive fitness of the organisms raised in the nest.
+This new economy did not deal in the supply and demand of patterned forces.  In a sense, patterned forces bootstrapped a new economy that dealt in the supply and demand of reproductive fitness.  We call this the biological level.  The biological level often uses the inorganic level to its advantage of creating fitness.  Take a nest: the organism leverages the forces created by the nest material(the major force being the ability to keep out unwanted forces such as weather, predators, and other deadly things) to increase the reproductive fitness of the organisms raised in the nest.
 
 In addition to using the inorganic level, the biological level began to use its own economy to evolve itself into a more and more adept engine for reproduction.
 
@@ -32,7 +32,7 @@ The intellectual level is built on the biological platform, but also has the adv
 
 V. A god in the dust
 
-Pirsig proposes further a concept called **Dynamic Quality** that he points to as the bleeding edge of reality as we cut through time.  Pirsig is permissive with his Dynamic Quality is chooses to let it lead where it will.  I will choose to pass this dynamic quality through the lens of Christopher Alexander's Nature of Order and focus it not on a random wandering, but on a purpose-filled generation of **Wholeness**.
+Pirsig proposes further a concept called **Dynamic Quality** that he points to as the bleeding edge of reality as we cut through time.  Pirsig is permissive with his Dynamic Quality and chooses to let it lead where it will.  I will choose to pass this dynamic quality through the lens of Christopher Alexander's Nature of Order and focus it not on a random wandering, but on a purpose-filled generation of **Wholeness**.
 
 This is a god in the dust of everything, and not so much in the thing as in the relation of each thing to the other.  In as much as a thing hangs together with the things around it, we can see this wholeness.  When this wholeness is present, dynamic quality passes from a nebulous thing to a static quality.  An entity emerges.  Many entities emerge.
 
@@ -78,6 +78,8 @@ XI.  Superintelligence
 
 Contrary to popular belief, AI is not the next bootstrap.  It may bring this bootstrap along faster, but in order for real superintelligence to emerge, it must make the manipulation of time and the reproduction of experimental results so effortless and common that a new economy based on something else entirely can emerge.  I can't even comprehend what this looks likes, but it is likely that entire simulated universes will pop in and out of existence in the same way that protons and electrons break and form chemical bonds.
 
+Imagine a universe where you can send a thousand copies of yourself on a 10,000 year journey to discover something and that that 10,000 years only seems to pass in a second for you.  After that second you have access to the vast array of knowlege that your copies amassed during that 10,000 years.
+
 X. Bleeding Edges
 
 Please do not try to figure out what the next bootstrap is and then pursue that with reckless abandon.  The bleeding edge of dynamic quality cannot be predicted.  Instead, we should attempt to increase the surface area at each point in each system so that dynamic quality can have its way and find the wholeness that is produced.  This is not to say that every touch point with dynamic quality is an equal in potential to bootstrap.  In fact, some points will produce fragile economies, others robust, and finally, the ones that actually bootstrap will be antifragile.  There may be many false starts along the way.
@@ -88,7 +90,7 @@ The production of new dynamic economies is not enough.  We also need these econo
 
 XI. Toward supersociety
 
-Most of my focus will be on the bootstrap to the Supersociety.  In a Supersociety, the limitations of the societal economics are overcome and rendered irrelevant.  If we want our current society to continue, this needs to happen in a way that moral responsibility is invoked over moral authority.  This will allow the next bootstrap to focus on not disrupting our society even though it has the authority to do so.  We've had some practice at this with our intellectual bootstrap.  I could be said that many of our advanced intellectual constructs that have been the most successful have allowed us to maintain a diversity of societies inside of the time based intellectual construct.
+Most of my focus will be on the bootstrap to the Supersociety.  In a Supersociety, the limitations of the societal economics are overcome and rendered irrelevant.  If we want our current society to continue, this needs to happen in a way that moral responsibility is invoked over moral authority.  This will allow the eventual bootstrap to superintellegence to focus on not disrupting our society even though it has the authority to do so.  We've had some practice at this with our intellectual bootstrap.  I could be said that many of our advanced intellectual constructs that have been the most successful have allowed us to maintain a diversity of societies inside of the time based intellectual construct.
 
 To determine how to overcome the economics at the societal level, we must ask and understand what that economy is.  This economy is the supply and demand of resources.  We have gotten very good at allocating resources and we have created many societal and intellectual institutions to try to streamline this process.  Unfortunately, we haven't made it irrelevant yet.  Making it irrelevant would require maximizing the efficiency of our use of resources.  We've tried a few things through the years to try to do this, but most of our efforts have proven to be too fragile for reality.  Currently, capitalism rules the day with its laissez-faire approach to markets.  Even this hands-off approach has been exposed as fragile.  Communism probably took the grandest stab at this but ended up being shown as hyper-fragile.
 
@@ -102,7 +104,7 @@ So we must also add into our public ledger a vector of reality that is time-base
 
 XIII.  Hypercatallaxian Economy
 
-To increase the surface area the most we need to maximize the number of antifragile-stable systems that can emerge.  To do this I propose a type of economy that call hypercatallaxian.  The word 'catallaxy is derived for the Greek verb katalatto, which means 'to exchant,' or 'to become reconciled wiht,' or 'to admit into the community,' or,'to make an enemy a friend.'(wikipedia)  Catallaxy is generally discussed as a property arising out of econmy.  We take these principles and build them into the economic system, thus, hyper.
+To increase the surface area the most we need to maximize the number of antifragile-stable systems that can emerge.  To do this I propose a type of economy that call hypercatallaxian.  The word 'catallaxy is derived for the Greek verb katalatto, which means 'to exchange,' or 'to become reconciled with,' or 'to admit into the community,' or,'to make an enemy a friend.'(wikipedia)  Catallaxy is generally discussed as a property arising out of economy.  We take these principles and build them into the economic system, thus, hyper.
 
 At its core, this economy occurs on a public ledger.  As cash is held by an account, it begins to decay.  This decay rate incentivises a person to use or convert the cash into a capital asset as quickly as possible.  The cash does not decay into thin air.  Instead it travels back through the public ledger to those that provided the cash in proportion to the amount provided into the account.  This incentivises spenders to spend on accounts that they think will recieve more cash in the future.  They are rewarded by predicting success.  Those that guess best recieve a larger long term dividend than those that guess poorly.
 

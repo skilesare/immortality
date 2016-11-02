@@ -20,7 +20,7 @@ The judicial Power shall extend to all Cases, in Law and Equity, arising under t
 
 —between Citizens of the same State claiming Lands under Grants of different States, and between a State, or the Citizens thereof, and foreign States, Citizens or Subjects.
 
-The Judicial power of the Government shall not be construed to extend to any suit in law or equity, commenced or prosecuted against one of the Level 0 States by Citizens of another State, or by Citizens or Subjects of any Foreign State.
+The Judicial power of the Government shall not be construed to extend to any suit in law or equity, commenced or prosecuted against one of the States by Citizens of another State, or by Citizens or Subjects of any Foreign State.
 
 In all Cases affecting Ambassadors, other public Ministers and Consuls, and those in which a State shall be Party, the supreme Court shall have original Jurisdiction. In all the other Cases before mentioned, the supreme Court shall have appellate Jurisdiction, both as to Law and Fact, with such Exceptions, and under such Regulations as the Congress shall make.
 
