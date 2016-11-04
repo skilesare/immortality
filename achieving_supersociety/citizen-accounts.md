@@ -20,6 +20,8 @@ In the most grand scheme, the citizens of the world may attempt to create a glob
 
 Citzen accounts have the power of veto over state accounts that they contribute taxes toward. They can also veto the issuing of funds from one domain account to its agency accounts.
 
+A citizen account may also have the ability to elect a geographic location to establish a residency.  Geographicly based government entities can use this election to establish residency in the entity.  This election can also qualify the citizen to participate in geographically based elections.
+
 
 
 

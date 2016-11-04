@@ -14,7 +14,7 @@ I will define this and discuss how we can create a generative system that result
 
 
 
-For me, the first question we must answer is what do we want the 'center' or our system to be? Is it the market or the corporation like today's system seems to revolve around? Is it power and control as totalitarian governments have attempted to implement in the past?
+For me, the first question we must answer is what do we want the 'center' of our system to be? Is it the market or the corporation like today's system seems to revolve around? Is it power and control as totalitarian governments have attempted to implement in the past?
 
 
 
@@ -22,7 +22,7 @@ The answer that I have arrived at is 'the citizen.' As I lay out this form of mo
 
 
 
-These ideas are explained much more thoroughly in [Christopher Alexander's Nature of Order](./about_the_author/on_influences.md).
+These ideas are explained much more thoroughly in Christopher Alexander's Nature of Order.
 
 
 
@@ -60,7 +60,7 @@ In short, this means that 'Art' can be
 
 * 'demurraged' or 'degraded' as a natural course so that money cannot be horded and as a means to pay a dividend to 'pref' holders and to collect taxes.
 
-* used as a form of voting in society in which citizens can 'veto' the power of a government accounts to transact business, in effect, demanding change or requiring the reformation of the agency under different governance.
+* used as a form of voting in society in which citizens can 'veto' the power of a government accounts to transact business, in effect, demanding change or requiring the reformation of the agency under different governance. Votes are limited to one per account and the number of votes one has is not tied to the amount of cash in an accout or the number of prefs in the account.
 
 
 
@@ -180,15 +180,17 @@ As a natural result, as an account does more and more business, it will distribu
 
 
 
-The issuing state will also regulate the loan pool. The loan pool works in much the same way that the existing fractional reserve banking system works. The key difference is that citizens will reap the benefit of the loans instead of the banks.
+The issuing state will also regulate the loan pool. The loan pool works can work in a number of different ways and I'm not sure which should emerge as the dominat model.
 
-
+The first way works in much the same way that the existing fractional reserve banking system works. The key difference is that citizens will reap the benefit of the loans instead of the banks.
 
 All accounts will have a portion of their balance that is 'protected' from demurrage. This amount will be aggregated and put up for loan by the central authority. It will be multiplied by a reserve requirement factor that will allow us to issue an amount higher than in the pool. This rate, along with the demurrage rate can be used to ensure that we keep enough money in the system to purchase all that is produced and yet still have a means to extract money from the system in times of crisis.
 
+As an effect of demurrage, the interest rate will be close zero for short term loans. How then do we keep a run on the bank from occurring? And what are we going to do with all the banker that are now out of work?  We will answer these quesitons in a later section.
 
+A second method could be for the government to just issue the loan pools to the groups of loan officers in the same way that the fed currently issues money to commercial banks.  This will likely require a higher demurrage rate so that the money can be pulled back out of the economy at a higher rate.
 
-As an effect of demurrage, the interest rate will be close zero for short term loans. How then do we keep a run on the bank from occurring? And what are we going to do with all the banker that are now out of work?
+A third method could be to just let loan pools emerge naturally.  If the infrastructure provides for the tracking of loans it is likely that a market place will emerge for collecting 'deposits' and issueing them out as 'loans' as banks do today.  In this case the prefs would flow in the same way as our first proposal, but citizens will need to be more proactive to move thier cash into these deposit type accounts.
 
 
 
@@ -198,11 +200,7 @@ As an effect of demurrage, the interest rate will be close zero for short term l
 
 Loan officers will bid for the rights to distribute the loans to the public. These bids will be distributed to the accounts that put up the cash to be lent out. In this way those that are holding money can defray some of the demurrage value.
 
-
-
-Why would loan officers bid cash on loans that are going to make 0% interest? The key here is that in issuing the loan, the cash will pass through the loan officers account and they will be issued prefs in the account that is borrowing the money. Even when the money is paid out the loan officer still has skin in the game and will do what they can to help the account owner be successful in commerce because they will be a direct beneficiary. In the current system, the banker is only as interested as the loan balance is outstanding.
-
-
+Why would loan officers bid cash on loans that are going to make 0% interest? The key here is that in issuing the loan, the cash will pass through the loan officers account and they will be issued prefs in the account that is borrowing the money. While the loan is paid out the loan officer will have skin in the game and will do what they can to help the account owner be successful in commerce because they will be a direct beneficiary. If they are successful enough they can forgive a portion of the loan and convert it into a set of permenant prefs.  In the current system, the banker is only as interested as the loan balance is outstanding.
 
 In a sense these new loan officers will become a type of long term venture capitalist. They will typically be people who have access to cash and have demonstrated their abilities in commerce already.
 
@@ -214,50 +212,31 @@ In a sense these new loan officers will become a type of long term venture capit
 
 Education is one of the most underpaid careers in the modern world. It is truly a shame and teachers are never compensated for the production they give to the world. I propose that for each year that goes by, a 'cohort fund' is created. Each student is allocated a set of prefs and the cohort fund gains that number of prefs in the student. Teachers also earn prefs in the cohort fund. As a result, the long term earning potential of teachers is drastically improved. As students enter the workforce, their demurrage payments will begin accumulating in the cohort fund and pass through to all the teachers that helped teach them.
 
-
+I understand that this may have some significan and ugly side effect such as teachers only wanting to teach in wealthy areas and successful students.  There may be ways to correct these imbalances, perhaps by making the cohort pools statewide.
 
 ## Statutory Theft
 
+Prefs can not be traded on the open market. Any entity or citizen that schemes to try to lay a claim on the value of prefs or to future revenue from prefs will be guilty of Statutory Theft. In a sense, the collected prefs become a part of a person and cannot be sold and no other entity can have dominion over them.  In the same way that one cannot sell themselves into slavery, they cannont sell their prefs or the rights to the benifits of those prefs.
 
+## Modified Bankruptcy
 
-Prefs can not be traded on the open market. Any entity or citizen that schemes to try to lay a claim on the value of prefs or to future revenue from prefs will be guilty of Statutory Theft. In a sense, the collected prefs become a part of a person and cannot be sold and no other entity can have dominion over them.
+Bankruptcy will change slightly for citizens. All existing capital can be wiped out from an account, but past a certain date, the 'clear out date', the creditors can lay no more claim on new income. The creditors can also not take the right to future pref payments earned in the future. Their payback must come from prefs earned before the bankruptcy date.
 
-
-
-## Modified Bankrupcy
-
-
-
-Bankruptcy will change slightly. All existing capital can be wiped out from an account, but past a certain date, the 'clear out date', the creditors can lay no more claim on new income. The creditors can also not take the right to future pref payments.
-
+Corporate Bankruptcy will be very different.  Bankrupt companies or companies that just go 'out of business' can have the blockchain folded over them in such a way that the prefs they own will be passed on to the entities that own prefs in them in proportion to the percentage of pref ownership.
 
 
 ## End of Life
 
-
-
 A percentage of prefs will expire when a citizen or entity ceases to exist. This will refresh the pool of prefs for younger generations. Some prefs may be inherited, but this should be tightly restricted.
-
-
 
 ## Inflation controls
 
-
-
 A CPI authority will be in charge of regulating inflation by recommending adjustments to the Demurrage, Retaining, Issuance, and Pass Through Rates. This authority will actually go out and buy a basket of goods in a broad set of geographic locations. This will determine the inflation rate. This number will strive to be as close to 0 as possible.
-
-
 
 ## What regulations?
 
-
-
 Out side of these bounds, commerce and markets will operate much as they do now free of over-regulation.
 
-
-
 The nice thing about this system is that the 'software' takes care of most of this without oversight and intervention. Citizens have access to the blockchain and can self regulate.
-
-
 
 This 'dream state' is not easily achieved due to a number of assumptions that we will discuss in the next chapter.

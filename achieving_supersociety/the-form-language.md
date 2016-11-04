@@ -62,21 +62,19 @@ The levers of economic manipulation controlled by the issuer of the currency
 
 10. Legacy Rate
 
+11. Liability Rate
+
 
 
 The political objects tied to the currency
 
 
 
-10. Required Tax
+12. Required Tax
 
-11. Elective Tax
+13. Elective Tax
 
-12. Veto
-
-
-
-
+14. Veto
 
 
 

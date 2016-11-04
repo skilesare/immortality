@@ -5,7 +5,6 @@
 There are two type of state accounts:
 
 
-
 1. Issuing Accounts
 
 2. Domain Accounts
