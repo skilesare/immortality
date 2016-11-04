@@ -40,7 +40,7 @@ Total tax: 24.6%
 
 
 
-Demurrage Amount: $1000
+Demurrage Amount for 1 year: $1000
 
 
 

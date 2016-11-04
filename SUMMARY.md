@@ -43,7 +43,7 @@
                 * [Tax](achieving_supersociety/tax.md)
                 * [Prefs](achieving_supersociety/prefs.md)
                 * [Legacy](achieving_supersociety/legacy.md)
-                * Liability Rate
+                * [Liability Rate](achieving_supersociety/liability-rate.md)
                 * [Pass Through](achieving_supersociety/pass-through.md)
                 * [Loan Pool](achieving_supersociety/loan-pool.md)
                 * [Loan Officers](achieving_supersociety/loan-officers.md)
