@@ -29,3 +29,7 @@ Over a number of years of participating in the economy it is likely that a citiz
 
 
 How does this work in principal? Say an account is catching up. Its balance is $1000 and it has not caught up in a month. The demurrage rate is 12% per year and thus the cash is demurraging 1% or $100. We will assume that taxes are 0% for this example. If an account ownes 200 out of a total 2000 prefs in the demurraging account(10%), the owning account will receive a $10 pref payment. The demurraging accounts new balance is now $900 and it can send and receive payment as well as claim any pref payments that have been sent to this account.
+
+Prefs should be netted between two accounts so that they cannot collude to overtake a majority position in an account.  If citizen A pays citizen B $5000 and later citizen B pays back $3000, the net prefs should be $2000 owned by citizen A in citizen B.
+
+Because all activity will be in the public ledger it shouold be simple to create functions that can seek out and find coluding activity seeking to overtake pref ownership.
