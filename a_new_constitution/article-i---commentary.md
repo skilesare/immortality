@@ -44,151 +44,65 @@ This formula keeps the house at a resonable size even if the republic grows.
 
 
 
-The actual Enumeration shall be made within three Years after the first Meeting of the Congress, and within every subsequent Term of ten Years.
+_The actual Enumeration shall be made within three Years after the first Meeting of the Congress, and within every subsequent Term of ten Years._
+
+Establishes a 10 year period for re-allocating the number of seats in the House.
 
 
+_When vacancies happen in the Representation from any State, the Executive Authority thereof shall assign a temporary representative until a special ranked choice vote of the affected subdistrict is completed to elect a new member._
 
-When vacancies happen in the Representation from any State, the Executive Authority thereof shall assign a temporary representative until a special ranked choice vote of the affected subdistrict is completed to elect a new member.
+This allows for a govoner of a state to assign a temporary rep if someone dies or leaves office.
+
+This is also the first mention of ranked choice voting and subdistricts so we might as well talk about them here.
+
+Ranked choice voting coupled with subdistricts should give us a more parlimentary forme of representation in the house.  Later we call for subdistricts to be created in states with more than 3 reps and these should be selected by electing from a slate of voters and ranking your choice for office from one to X.  In a 3 rep sub district, the top 3 vote recivers are selected.
+
+Ranked choice voting is laid out more in Right XX of Article VII:
+
+_Right XX_
+
+_A citizen shall, when voting for elected office, have the opportunity to rank choices for office in such a way that if their higher choice is eleminated from competition via an instant runoff, their next choice shall recieve their vote; and shall be allowed to specify candidates for which they wish to never have their vote cast for such that if all preferred candidates are eliminated, their vote may be cast for no one. This right shall extend to all elections at any level of public government._
+
+In the case of a multi-seat election, your top 3 votes count and if one of your top 3 are eleminated from competition, you 4th choice is activated as a vote and so on down your list.
 
 
+_
+The House of Representatives shall choose their Speaker and other Officers; and shall have the sole Power of Impeachment._
 
-The House of Representatives shall choose their Speaker and other Officers; and shall have the sole Power of Impeachment.
+No Change.
 
 
 
 Section. 3.
 
 
+_The Senate shall be composed of Senators from each State; Three senators from states with total geographically elected inhabitants greater than 1/50th of the total Accounted Citizenship, Two senators from states with total geographically elected inhabitants greater than 1/500th and less than 1/50th of the total Accounted Citizenship, and 1 Senator from states with total geographically elected inhabitants less than 1/500th of the total Accounted Citizenship._
 
-The Senate shall be composed of Senators from each State; Three senators from states with total geographically elected inhabitants greater than 1/50th of the total Accounted Citizenship, Two senators from states with total geographically elected inhabitants greater than 1/500th and less than 1/50th of the total Accounted Citizenship, and 1 Senator from states with total geographically elected inhabitants less than 1/500th of the total Accounted Citizenship.
+This calculation maintins some of the 'equal representation' concepts of the senate, but applies a common sense order of magnitude exception. If you have more than 1/50th of the population in your state, you get three senators.  If your state is less than 1/50th of the whole population you drop to 2 senators.  If you are less than 1/500th you only get one senator.  This will keep very small states from trying to join the republic.
 
+According to current populations only Vermont and Wyoming have a sparse enough population to drop to 1 Senator.
 
 
-| State | Senators |
+_
+The actual Enumeration shall be made within three Years after the first Meeting of the Congress, and within every subsequent Term of ten Years._
 
-| -- | -- |
+No change
 
-|California|3|
 
-|Texas|3|
+_Senators will be chosen for a term of six Years._
 
-|Florida|3|
+No change
 
-|New York|3|
 
-|Illinois|3|
+_Each Senator shall have one Vote._
 
-|Pennsylvania|3|
+No Change.
 
-|Ohio|3|
+_Senators may serve one regular elected terms in office after which they will be inelegible to serve in the Senate._
 
-|Georgia|3|
+Term limits and senators never have to run for re-election.
 
-|North Carolina|3|
-
-|Michigan|3|
-
-|New Jersey|3|
-
-|Virginia|3|
-
-|Washington|3|
-
-|Arizona|3|
-
-|Massachusetts|3|
-
-|Indiana|3|
-
-|Tennessee|3|
-
-|Missouri|2|
-
-|Maryland|2|
-
-|Wisconsin|2|
-
-|Minnesota|2|
-
-|Colorado|2|
-
-|South Carolina|2|
-
-|Alabama|2|
-
-|Louisiana|2|
-
-|Kentucky|2|
-
-|Oregon|2|
-
-|Oklahoma|2|
-
-|Connecticut|2|
-
-|Iowa|2|
-
-|Utah|2|
-
-|Mississippi|2|
-
-|Arkansas|2|
-
-|Kansas|2|
-
-|Nevada|2|
-
-|New Mexico|2|
-
-|Nebraska|2|
-
-|West Virginia|2|
-
-|Idaho|2|
-
-|Hawaii|2|
-
-|New Hampshire|2|
-
-|Maine|2|
-
-|Rhode Island|2|
-
-|Montana|2|
-
-|Delaware|2|
-
-|South Dakota|2|
-
-|North Dakota|2|
-
-|Alaska|2|
-
-|DC|2|
-
-|Vermont|1|
-
-|Wyoming|1|
-
-
-
-The actual Enumeration shall be made within three Years after the first Meeting of the Congress, and within every subsequent Term of ten Years.
-
-
-
-Senators will be chosen for a term of six Years.
-
-
-
-Each Senator shall have one Vote.
-
-
-
-Senators may serve one regular elected terms in office after which they will be inelegible to serve in the Senate.
-
-
-
-Immediately after they shall be assembled in Consequence of the first Election, they shall be divided as equally as may be into three Classes. The Seats of the Senators of the first Class shall be vacated at the Expiration of the second Year, of the second Class at the Expiration of the fourth Year, and of the third Class at the Expiration of the sixth Year, so that one third may be chosen every second Year. And any initial senator who's term is shortened may be elected to a second term.
+_Immediately after they shall be assembled in Consequence of the first Election, they shall be divided as equally as may be into three Classes. The Seats of the Senators of the first Class shall be vacated at the Expiration of the second Year, of the second Class at the Expiration of the fourth Year, and of the third Class at the Expiration of the sixth Year, so that one third may be chosen every second Year. And any initial senator who's term is shortened may be elected to a second term._
 
 
 
