@@ -220,7 +220,7 @@ Prefs can not be traded on the open market. Any entity or citizen that schemes t
 
 ## Modified Bankruptcy
 
-Bankruptcy will change slightly for citizens. All existing capital can be wiped out from an account, but past a certain date, the 'clear out date', the creditors can lay no more claim on new income. The creditors can also not take the right to future pref payments earned in the future. Their payback must come from prefs earned before the bankruptcy date.
+Bankruptcy will change slightly for citizens. All existing capital can be wiped out from an account, but past a certain date, the 'clear out date', the creditors can lay no more claim on new income. The creditors can also not take the right to payments on past prefs earned in the future. Their payback must come from prefs earned after the bankruptcy date and via the prefs they own in the entity.
 
 Corporate Bankruptcy will be very different.  Bankrupt companies or companies that just go 'out of business' can have the blockchain folded over them in such a way that the prefs they own will be passed on to the entities that own prefs in them in proportion to the percentage of pref ownership.
 

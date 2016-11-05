@@ -27,11 +27,7 @@ When an account reaches a point that it needs a clear out, the following things 
 6. Only 2nd generation cash can be used to make these payments. This protects the consumer. For example, a cleared out person receives a $100 payment on pre-clear out items. They spend this on groceries getting $100 new prefs in a grocery store. Any payments form the new prefs CAN be used to pay new terms.
 
 
-
-
-
 This plan gives the consumer a way to rebuild wealth and hopefully make the creditor whole.
-
 
 
 What if the debtor decides to never spend money again? The pref payments will build up and then demurrage to the creditor via the prefs the creditor owns in the debtor.

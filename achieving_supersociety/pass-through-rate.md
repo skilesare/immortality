@@ -15,3 +15,5 @@ This rate can be manipulated to either accelerate or decelerate distribution. A 
 
 
 If an account has no pref owners the pass through portion goes to the government as tax. If the issuer gets a pref payment, the pass through part is removed from the money supply.
+
+For purposes of computing power this passthrough may need to be limited a certain numbers of levels or until the amount being passed through reaches a minimum amount.

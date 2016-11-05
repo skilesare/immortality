@@ -30,7 +30,7 @@ This new system is 'less fair' to the capitalist than the current system. This b
 
 
 
-The upside for the capitalist is a massive reduction in risk for the capitalist. Currently, when a capitalist invests in a company 100% of the capital is at risk. Under hypercapitalism, as the invested in company spends the invested money it will begin to accumulate prefs. These prefs will find their way into profitable parts of the economy and even if the business is a complete bust, it is likely that some capital will eventually be returned to the investors in the form of predistributed economic rents from some tangential industry that they helped thrive.
+The upside for the capitalist is a massive reduction in risk for the capitalist. Currently, when a capitalist invests in a company 100% of the capital is at risk. Under hypercatallaxy, as the invested in company spends the invested money it will begin to accumulate prefs. These prefs will find their way into profitable parts of the economy and even if the business is a complete bust, it is likely that some capital will eventually be returned to the investors in the form of predistributed economic rents from some tangential industry that they helped thrive.
 
 
 
