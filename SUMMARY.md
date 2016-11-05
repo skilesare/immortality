@@ -31,12 +31,13 @@
             * [Seed To Vision](achieving_supersociety/seed-to-vision.md)
             * [What is Missing?](achieving_supersociety/what-is-missing.md)
         * [The Form Language](achieving_supersociety/the-form-language.md)
-            * Fundamentals
+            * [Fundamentals](achieving_supersociety/fundamentals.md)
                 * [State Accounts](achieving_supersociety/state-accounts.md)
                 * [Citizen Accounts](achieving_supersociety/citizen-accounts.md)
                 * [Legal Entity Accounts](achieving_supersociety/legal-entity-accounts.md)
                 * [Foreign Accounts](achieving_supersociety/forigen-accounts.md)
                 * [Privacy Accounts](achieving_supersociety/privacy-accounts.md)
+                * [Domestic Accounts](achieving_supersociety/domestic-accounts.md)
                 * [Public Ledger](achieving_supersociety/public-ledger.md)
                 * [Demurrage](achieving_supersociety/demurrage.md)
                 * [Catch Up](achieving_supersociety/catch-up.md)
@@ -60,7 +61,7 @@
                 * [Clear Outs](achieving_supersociety/clear-outs.md)
                 * [Education Prefs](achieving_supersociety/education-prefs.md)
                 * [Eldercare Legacy](achieving_supersociety/eldercare-legacy.md)
-                * [Up and Out Welfare](achieving_supersociety/up-and-out-welfare.md)
+                * Domestic Accounts
             * [Modeled](achieving_supersociety/modled.md)
                 * [The Laborer](achieving_supersociety/the-laborer.md)
                 * [The Capitalist](achieving_supersociety/the-capitalist.md)

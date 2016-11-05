@@ -24,6 +24,8 @@ The types of accounts
 
 5. Privacy Accounts
 
+6. Domestic Accounts
+
 
 
 The Key money flow concepts
