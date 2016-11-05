@@ -142,3 +142,5 @@
         * [Article VI](a_new_constitution/article_vi.md)
         * [Article VII](a_new_constitution/article_vii.md)
         * [Article VIII](a_new_constitution/article_viii.md)
+        * [Commentary](a_new_constitution/commentary.md)
+
