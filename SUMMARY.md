@@ -102,6 +102,7 @@
             * [Market Place Level](the_pattern_language/market_place_level.md)
                 * [MKT. The Market](the_pattern_language/mkt_the_market.md)
                 * [SDP. Supply, Demand, Price](the_pattern_language/sup_supply.md)
+                * [COL. Collateralized](the_pattern_language/col-collateralized.md)
                 * [INT. Interdependence and\/or nth order decision making](the_pattern_language/int_interdependence_andor_nth_order_decision_making.md)
                 * [ECR. Neutralization of Economic Rent](the_pattern_language/ecr_neutralization_of_economic_rent.md)
                 * [NOC. Negation of opportunity costs](the_pattern_language/noc_negation_of_opportunity_costs.md)
@@ -109,7 +110,7 @@
                 * [PFP. Principal of First Pref Payment](the_pattern_language/pfp_principal_of_first_pref_payment.md)
                 * [DER. Diminishing value of future economic rent](the_pattern_language/fsp_diminishing_value_of_future_superprofits.md)
                 * [INS. Instant Transfer](the_pattern_language/ins_instant_transfer.md)
-                * [PLG. Public Ledger](the_pattern_language/plg_the_publicledger.md)
+                * COL. Collateralized
             * [Legal Entity Level](the_pattern_language/legal_entity_level.md)
                 * [LGE. Legal Entities](the_pattern_language/legal_entities.md)
                 * [KIL. Corporate Death](the_pattern_language/kil_corporate_death.md)

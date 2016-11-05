@@ -30,6 +30,10 @@ that can be either
 RCP. Real Capital or
 ACP. Artificial Capital
 
+and that can be
+
+COL. Collateralized
+
 Money and capital can be regulated via
 
 DEM. Controlled Inflation or Demurrage
