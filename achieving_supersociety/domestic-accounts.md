@@ -13,3 +13,5 @@ For example, two domestic partners may join their citzen accounts under a domest
 3.  If one member passes away, all prefs may pass to the others without being subject to legacy.
 
 These accounts protect memebers of a familty who choose to take on the burden of child rearing, domestic managment, and other family activites that do not involve the earning and spending of financial capital.
+
+Generally children should not be involved in these types of accounts unless the child is working and still living at home with the parents.

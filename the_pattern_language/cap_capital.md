@@ -1,6 +1,6 @@
 # CAP. Capital
 
-... how can one create and maintain value in an economic piston **(EPI)** what can one purchase with Money **(EPI)** that is not consumable?
+... how can one create and maintain value in an economic piston **(EPI)** what can one purchase with Money **(MNY)** that is not consumable?
 
 
 **If money is going to degrade as everything else in nature, how can one preserve value and grow one's position in culture?**
