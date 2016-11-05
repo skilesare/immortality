@@ -5,6 +5,7 @@
     * [A definition of 'immortality'](a_definition_of_immortality.md)
     * [A definition of 'toward'](a_definitions_of_toward.md)
     * [A definition of Economics](a_definition_of_economics.md)
+    * [A definition of Morality](a-definition-of-morality.md)
 * [Yudikowski, Pirsig, and Alexander walk into a bar](yudikowski-pirsig-and-alexander-walk-into-a-bar.md)
 * [The Bootstrap](the_bootstrap/README.md)
     * [The inorganic to the biological](the_bootstrap/the_inorganic_to_the_biological.md)

@@ -1,4 +1,6 @@
-# An Economics toward Immortality
+# Immortality
 
-Welcome in my book!
+## An Economics and Moral Framework toward Immortality
+
+Austin Andrew Fatheree
 
