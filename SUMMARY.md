@@ -14,7 +14,7 @@
     * [What comes next?](the_bootstrap/what_comes_next.md)
     * [The economics of the bootstrap](the_econimics_of_the_bootstrap/README.md)
     * [A Moral Framework](the_bootstrap/a-moral-framework.md)
-    * [The distructive valley](the_morality_of_the_bootstrap/the_distructive_valley.md)
+    * [The destructive valley](the_morality_of_the_bootstrap/the_distructive_valley.md)
     * [Moral Struggles](the_bootstrap/moral-struggles.md)
     * [Love](the_morality_of_the_bootstrap/love.md)
     * [The State](the_state/README.md)

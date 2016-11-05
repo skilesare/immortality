@@ -48,4 +48,4 @@ How should the impact between the two cities be determined?  This should be a ge
 
 At the extream this leads to a hard conclusion that building the dam has moral authority even if it ruins the down stream town as long as the long term benifit is more economic output that that town had initially.
 
-But don't forget about Rule 4!
+But don't forget about Rule 4!  Don't fall prey to the destructive valley!
