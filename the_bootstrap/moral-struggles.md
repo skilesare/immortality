@@ -10,7 +10,7 @@ Intellectual > Societal > Organic > Inorganic
 
 3.  If the delimia is identified as being between two positions inside of a single economy, give authority that is shows the most quality / value inside that economy.
 
-4.  I dentify how the agent with moral authority can act with moral responsibility toward each lower level involved.
+4.  Identify how the agent with moral authority can act with moral responsibility toward each less valuble alternative in its own level and toward any lower level involved.
 
 A simple application follows.
 
@@ -49,3 +49,19 @@ How should the impact between the two cities be determined?  This should be a ge
 At the extream this leads to a hard conclusion that building the dam has moral authority even if it ruins the down stream town as long as the long term benifit is more economic output that that town had initially.
 
 But don't forget about Rule 4!  Don't fall prey to the destructive valley!
+
+We must ask about how a town with moral authority to build a dam and potentially destroy a town should also act with moral responsibility to that town.  The answer is that it shouldn't destroy the town.  It should find a place along the continum that allows it to reacha significant level of productivity while still preserving the societal value fo the smaller town.  We don't know the future and all value is future value.  We may discover a dimond mine under the smaller town in 15 years that allows the town to overcome any economic disadvantage that was relevant at the time the dam was built.
+
+Or going the other direction, if the dam is not built becuase the down river town is more valuble, perhaps it provide some compensation to the other town for not building the damn.
+
+There are a million creative solutions that satisfy the moral framework.
+
+Once we've satisfied the moral framework at the societal level we still have the lower levels to contend with.  In this case there is a real environmental impact for the wild life in the basin that will be flooded by the dam. The framework tells us that the dam has the moral authority to disrupt the organic ecosystem, but can it be done responsibly?  An assment must be made.  Does an endangered species live in this basin that would go extinct if the dam were built?  If not it is likely that the organic impact will be negligible and the dam can move forward knowing that it is acting with moral responsibility.  Perhaps they may want to progressively flood the basin over a number of days to allow the larger animals to move out of the area being flooded.  There are certainly questions to be answered, but they are questions of responsibility and not of authority.
+
+The fact that the inorganic level will be positivly affected by the dam is a plus.
+
+The key to the framework is quickly defining the authority and then seeking the responsibility.
+
+Many of our toughest moral dilemmas in our modern day get contentious when one side trys to elevate the societal over the intellectual.  This framework eliminates that contention and just flat out calls out thoes that would try to put the economy of resources over the economy of intellect.
+
+What if we modified our above example with the fact that the land to be flooded by the dam was owned by a number of private citizens who did not want their land to be flooded.  If we adhear to the intellectual ideals of liberty and private property our scenario changes quite a bit.  Imanenet domain is a triky thing that our framework ultimately calls immoral.  Unless you can compensate those provate citizens for their land in such a way that they are willing to cede the property rights to someone else we should not have the moral authority to build the dam.  The intellectual authority of liberty will always override the econmic authority.  But rule 4!  These citizens should act with responsibility to the lower economic level.  If they see that by giving up their land there will be many more jobs created and many more peole will be elevated to a place where they can contribute to the intellectual level they should act with grace find a resonable solution to compensate them for their troubles and get the dam built.
