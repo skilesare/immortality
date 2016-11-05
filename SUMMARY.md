@@ -144,4 +144,5 @@
         * [Article VIII](a_new_constitution/article_viii.md)
         * [Commentary](a_new_constitution/commentary.md)
             * [Preamble - Commentary](a_new_constitution/preamble---commentary.md)
+            * [Article I - Commentary](a_new_constitution/article-i---commentary.md)
 
