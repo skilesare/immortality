@@ -104,70 +104,76 @@ Term limits and senators never have to run for re-election.
 
 _Immediately after they shall be assembled in Consequence of the first Election, they shall be divided as equally as may be into three Classes. The Seats of the Senators of the first Class shall be vacated at the Expiration of the second Year, of the second Class at the Expiration of the fourth Year, and of the third Class at the Expiration of the sixth Year, so that one third may be chosen every second Year. And any initial senator who's term is shortened may be elected to a second term._
 
+No change other than allowing initial senator's who elect to server shorter terms the right being re-elected.
 
+_When vacancies happen from any State, the Executive Authority thereof shall assign a temporary representative until a special ranked choice vote of the affected state is completed to elect a new member._
 
-When vacancies happen from any State, the Executive Authority thereof shall assign a temporary representative until a special ranked choice vote of the affected state is completed to elect a new member.
-
-
-
-No Person shall be a Senator who shall not have attained to the Age of thirty Years, and been three Years a geographically elected Citizen of the State for which they will be chosen.
-
-
-
-Senators must not have recieved private payments of cash or private allotments of capital for one year before taking office unless elected or assigned for a vacancy. Representtives must elect to not recieve private payments or allotments while in office and for ten years after leaving office.
+Here we instatutionalize ranked choice voting for special election of senators.
 
 
 
-The Vice President of the Executive Branch shall be President of the Senate, but shall have no Vote, unless they be equally divided.
+_No Person shall be a Senator who shall not have attained to the Age of thirty Years, and been three Years a geographically elected Citizen of the State for which they will be chosen.
+_
+
+The big change here is that you most have had a geographic election inside the state for three years or more.  This is to reduce the carpetbagging situation where a powerful person cherry picks a state to run in.
+_
+Senators must not have recieved private payments of cash or private allotments of capital for one year before taking office unless elected or assigned for a vacancy. Representtives must elect to not recieve private payments or allotments while in office and for ten years after leaving office._
+
+This reinforces the restriction of private payment to those that would like to serve in the Senate.  The restriction is lifted on the front end when there is an unexpected vacancy, but the general understanding is that you should know you are running for the Senate for at least a year before you take office and take the steps necessary to block private payments from your account.
+
+
+_The Vice President of the Executive Branch shall be President of the Senate, but shall have no Vote, unless they be equally divided._
+
+
+_
+The Senate shall choose their other Officers, and also a President pro tempore, in the Absence of the Vice President, or when he shall exercise the Office of President of the Executive Branch._
 
 
 
-The Senate shall choose their other Officers, and also a President pro tempore, in the Absence of the Vice President, or when he shall exercise the Office of President of the Executive Branch.
+_The Senate shall have the sole Power to try all Impeachments. When sitting for that Purpose, they shall be on Oath or Affirmation. When the President of the Executive Branch is tried, the Chief Justice shall preside: And no Person shall be convicted without the Concurrence of two thirds of the Members present._
 
 
 
-The Senate shall have the sole Power to try all Impeachments. When sitting for that Purpose, they shall be on Oath or Affirmation. When the President of the Executive Branch is tried, the Chief Justice shall preside: And no Person shall be convicted without the Concurrence of two thirds of the Members present.
+_Judgment in Cases of Impeachment shall not extend further than to removal from Office, and disqualification to hold and enjoy any Office of honor, Trust or Profit under this Constitution: but the Party convicted shall nevertheless be liable and subject to Indictment, Trial, Judgment and Punishment, according to Law._
 
-
-
-Judgment in Cases of Impeachment shall not extend further than to removal from Office, and disqualification to hold and enjoy any Office of honor, Trust or Profit under this Constitution: but the Party convicted shall nevertheless be liable and subject to Indictment, Trial, Judgment and Punishment, according to Law.
-
-
+No Change
 
 Section. 4.
 
 
+_Elections for Senators and Representatives shall be open for a period of 3 months prior to the election closing and shall conclude 3 months before the beginning of a new term._
 
-Elections for Senators and Representatives shall be open for a period of 3 months prior to the election closing and shall conclude 3 months before the begining of a new term.
+The intention here is to limit the period of active campaigning to a 3 month period.
 
+_
+Senators and Representatives shall be chosen by ranked choice election by the inhabitants of the State for which they are a candidate._
 
+This establishes the ranked coice voting scheme for the House and Senate.  The concept is the same for the senete except that only one senator is chosen at a time.  This can still encourage third party candiates by giving citizens the ability to vote for a fringe candidate first and then major party candidate 2nd so that their vote will still count when the thrid party is elemenated.  On the other hand, enough people doing the same may elimenate the main candidates and elevate an outsider.
 
-Senators and Representatives shall be chosen by ranked choice election by the inhabitants of the State for which they are a candidate.
+_States in which elect more than 3 representatives will have their State sectioned into smaller subdistrics for elections by programatic geographic algorithm that proceedes in allocations of five miles squared from the North West corner of the territory and moving East, then south until the proportional number of geographically elected citizens is reached. Neither Congress, nor state ledgislatures my alter the allotment of subdistrics for any reason unless this constitution is ammended._
 
-
-
-States in which elect more than 3 representatives will have their State sectioned into smaller subdistrics for elections by programatic geographic algorithm that proceedes in allocations of five miles squared from the North West corner of the territory and moving East, then south until the proportional number of geographically elected citizens is reached. Neither Congress, nor state ledgislatures my alter the allotment of subdistrics for any reason unless this constitution is ammended.
-
-
-
-No subdistrict shall elect more than 3 representatives.
+This clause eleminates gerrymandering.  By dividing subdistricts by algorithem we reduce the ability for state governments to collude to take control of the house by splitting districts to neutralize a minority vote.
 
 
+_No subdistrict shall elect more than 3 representatives._
 
-The Congress shall assemble at least once in every Year, and such Meeting shall be on the second Monday in January, unless they shall by Law appoint a different Day.
+Limits subdistricts to 3 members.  This is important because you want to keep representation fairly local.  A large state may seek to have very large subdistricts to try to convince the candidates to act more like Senators since they need the approval of the larger district.
 
+_The Congress shall assemble at least once in every Year, and such Meeting shall be on the second Monday in January, unless they shall by Law appoint a different Day._
 
+No Change
 
 Section. 5.
 
 
 
-Each House shall be the Judge of the Elections, Returns and Qualifications of its own Members, and a Majority of each shall constitute a Quorum to do Business; but a smaller Number may adjourn from day to day, and may be authorized to compel the Attendance of absent Members, in such Manner, and under such Penalties as each House may provide.
+_Each House shall be the Judge of the Elections, Returns and Qualifications of its own Members, and a Majority of each shall constitute a Quorum to do Business; but a smaller Number may adjourn from day to day, and may be authorized to compel the Attendance of absent Members, in such Manner, and under such Penalties as each House may provide._
 
+No Change.
 
+_Attendance and submission of votes may be virtual so that representatives may attend to their constituents._
 
-Attendance and submission of votes may be virtual so that representatives may attend to their constituants.
-
+This clause allows for remote voting and remote participation in the house and senate so that members may spend more time locally. 
 
 
 Each House may determine the Rules of its Proceedings, punish its Members for disorderly Behaviour, and, with the Concurrence of two thirds, expel a Member.
