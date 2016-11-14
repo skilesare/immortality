@@ -296,27 +296,26 @@ Outlaws taxes on goods flowing from state to state.  This will encourage a free 
 
 _The revenues generated must be allocated by congress to:_
 
-This is an e
+This is an important section because if give congress the set of powers that outlines what it actually does.
 
-To pay the debts and provide for the common defence and general welfare; but all Excises shall be uniform throughout the geographically elected area, the seas, and outer space that accounted citizens may reach.
+_To pay the debts and provide for the common defence and general welfare; but all Excises shall be uniform throughout the geographically elected area, the seas, and outer space that accounted citizens may reach._
 
+We are throwing outerspace into the mix, because the future.
 
-
-To borrow Money on the credit of the government;
-
-
-
-To regulate Commerce with foreign Nations, and among the several States;
+_To borrow Money on the credit of the government;_
 
 
-
-To establish an uniform Rule of Naturalization, and uniform Laws on the subject of Bankruptcies throughout the elected territiories;
+_To regulate Commerce with foreign Nations, and among the several States;_
 
 
 
-To coin Money via a blockchain, regulate the Value thereof, and of foreign Coin, and fix the Standard of Weights and Measures;
+_To establish an uniform Rule of Naturalization, and uniform Laws on the subject of Bankruptcies throughout the elected territiories;_
 
 
+
+_To coin Money via a blockchain, regulate the Value thereof, and of foreign Coin, and fix the Standard of Weights and Measures;_
+
+We im
 
 To provide for the Punishment of counterfeiting and hacking the Securities and Coin of the Government;
 
