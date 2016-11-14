@@ -178,7 +178,7 @@ Section. 5.
 
 Each House shall be the Judge of the Elections, Returns and Qualifications of its own Members, and a Majority of each shall constitute a Quorum to do Business; but a smaller Number may adjourn from day to day, and may be authorized to compel the Attendance of absent Members, in such Manner, and under such Penalties as each House may provide.
 
-Attendance and submission of votes may be virtual so that representatives may attend to their constituants.
+Attendance and submission of votes may be virtual if the representative is participating while physically located in their home district, so that representatives may attend to their constituents.
 
 Each House may determine the Rules of its Proceedings, punish its Members for disorderly Behaviour, and, with the Concurrence of two thirds, expel a Member.
 
