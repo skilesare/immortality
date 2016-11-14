@@ -171,60 +171,70 @@ _Each House shall be the Judge of the Elections, Returns and Qualifications of i
 
 No Change.
 
-_Attendance and submission of votes may be virtual so that representatives may attend to their constituents._
+_Attendance and submission of votes may be virtual if the representative is participating while physically located in their home district, so that representatives may attend to their constituents. But representatives must attend at least 3/4 of active sessions at the seat of government or be subject to expulsion by procedure in their elected house or replacement by the state's executive._
 
-This clause allows for remote voting and remote participation in the house and senate so that members may spend more time locally. 
-
-
-Each House may determine the Rules of its Proceedings, punish its Members for disorderly Behaviour, and, with the Concurrence of two thirds, expel a Member.
+This clause allows for remote voting and remote participation in the house and senate so that members may spend more time locally. It also gives each house and the state governments a method to remove absenttee representatives.
 
 
+_Each House may determine the Rules of its Proceedings, punish its Members for disorderly Behaviour, and, with the Concurrence of two thirds, expel a Member._
 
-Each House shall keep a Journal of its Proceedings published on a Blockchain, and published in as near real time as technology will allow, excepting such Parts as may in their Judgment require Secrecy and then must be entered as encrypted to be unlocked after no more than 7 years; and the Yeas and Nays of the Members of either House on any question shall be entered on the Journal.
+No change.
 
 
+_Each House shall keep a Journal of its Proceedings published on a Blockchain, and published in as near real time as technology will allow, excepting such Parts as may in their Judgment require Secrecy and then must be entered as encrypted to be unlocked after no more than 7 years; and the Yeas and Nays of the Members of either House on any question shall be entered on the Journal._
 
-Neither House, during the Session of Congress, shall, without the Consent of the other, adjourn for more than three days.
+This clause implements the filing of opinion, procedings, and votes into the blockchain so that the public record cannot be fudged.  In addition it calls for the proceedings of proceeding dealing with national security to be encrypted for no more than 7 years, upon which, the proceedings become public.
 
+
+_
+Neither House, during the Session of Congress, shall, without the Consent of the other, adjourn for more than three days._
+
+No change.
 
 
 Section. 6.
 
 
 
-The Senators and Representatives shall receive a Compensation for their Services, to be ascertained by Law, and paid out of the Treasury of the congress.
+_The Senators and Representatives shall receive a Compensation for their Services, to be ascertained by Law, and paid out of the Treasury of the congress.
 
 
 
-Any increase in pay or benifits for either house must not take effect until all current members have reached their term limits.
+Any increase in pay or benifits for either house must not take effect until all current members have reached their term limits._
+
+No change here except to codify the amendment limiting reps from giving theselves raises.  Since term limits are now a thing we can limit the raise to going into effect until all current members are gone.  In this scenario a raise in the senate or house would not beable to go into effect for six years after it is enacted.
+
+
+_
+Senators and representatives shall in all Cases, except Treason, Felony and Breach of the Peace, be privileged from Arrest during their Attendance at the Session of their respective Houses, and in going to and returning from the same; and for any Speech or Debate in either House, they shall not be questioned in any other Place._
 
 
 
-Senators and representatives shall in all Cases, except Treason, Felony and Breach of the Peace, be privileged from Arrest during their Attendance at the Session of their respective Houses, and in going to and returning from the same; and for any Speech or Debate in either House, they shall not be questioned in any other Place.
+_No Senator or Representative shall, during the Time for which he was elected, be appointed to any civil Office under the Authority of this constitution, which shall have been created, or the Emoluments whereof shall have been encreased during such time; and no Person holding any Office under this constitution, shall be a Member of either House during his Continuance in Office._
 
-
-
-No Senator or Representative shall, during the Time for which he was elected, be appointed to any civil Office under the Authority of this constitution, which shall have been created, or the Emoluments whereof shall have been encreased during such time; and no Person holding any Office under this constitution, shall be a Member of either House during his Continuance in Office.
-
-
+No change.
 
 Section. 7.
 
 
 
-All Bills for raising Revenue shall originate in the House of Representatives; but the Senate may propose or concur with Amendments as on other Bills.
+_All Bills for raising Revenue shall originate in the House of Representatives; but the Senate may propose or concur with Amendments as on other Bills._
+
+No change.
+
+_Every Bill which shall have passed the House of Representatives and the Senate, shall, before it become a Law, be presented to the People for a period of three weeks during which the vote of each representative may be subject to review and override as perscribed in Right XVII of Article VII of this constitution. Then President of the Executive Branch; If she approve she shall sign it, but if not she shall return it, with his Objections to that House in which it shall have originated, who shall enter the Objections at large on their Blockchain, and proceed to reconsider it. If after such Reconsideration two thirds of that House shall agree to pass the Bill, it shall be sent, together with the Objections, to the other House, by which it shall likewise be reconsidered, and if approved by two thirds of that House, it shall again be submitted to the people for review and overrided and with such, if a 2/3 majority remain in favor, become a Law. But in all such Cases the Votes of both Houses shall be determined by yeas and Nays, and the Names of the Persons voting for and against the Bill shall be entered on the Blockchain of each House respectively. If any Bill shall not be returned by the President within ten Days after it shall have been presented to him, the Same shall be a Law, in like Manner as if he had signed it, unless the Congress by their Adjournment prevent its Return, in which Case it shall not be a Law._
+
+This is fairly standard to the original except the additions about adding procedings to the blockchain and the inclusion of the people's veto.  Before a vote can be registered, the people have the ability to veto it.  This is described more in the Right XVII of Article VII.
 
 
 
-Every Bill which shall have passed the House of Representatives and the Senate, shall, before it become a Law, be presented to the People for a period of three weeks during which the vote of each representative may be subject to review and override as perscribed in Right XVII of Article VII of this constitution. Then President of the Executive Branch; If she approve she shall sign it, but if not she shall return it, with his Objections to that House in which it shall have originated, who shall enter the Objections at large on their Blockchain, and proceed to reconsider it. If after such Reconsideration two thirds of that House shall agree to pass the Bill, it shall be sent, together with the Objections, to the other House, by which it shall likewise be reconsidered, and if approved by two thirds of that House, it shall again be submitted to the people for review and overrided and with such, if a 2/3 majority remain in favor, become a Law. But in all such Cases the Votes of both Houses shall be determined by yeas and Nays, and the Names of the Persons voting for and against the Bill shall be entered on the Blockchain of each House respectively. If any Bill shall not be returned by the President within ten Days after it shall have been presented to him, the Same shall be a Law, in like Manner as if he had signed it, unless the Congress by their Adjournment prevent its Return, in which Case it shall not be a Law.
+_Every Order, Resolution, or Vote to which the Concurrence of the Senate and House of Representatives may be necessary (except on a question of Adjournment) shall be presented to the President of the United States; and before the Same shall take Effect, shall be approved by her, or being disapproved by her, shall be repassed by two thirds of the Senate and House of Representatives, according to the Rules and Limitations prescribed in the Case of a Bill._
 
+No change.
 
+_All bills must be specific and on point of a single issue, with no amendment from tangential issues attached. All sections of a bill must have a direct and clear corrolation to other sections and all must adhear to the subject of the bill as declared in the preamble. The Exectutive may line item veto articles, sections or subsections that do not meet the direct and clear standard and if signed, the whole bill, excluding those sections shall become law. Congress may superceed any line item veto by passing a seperate resolution including those vetoed sections as a seperate Bill by a 2/3 majority of both houses._
 
-Every Order, Resolution, or Vote to which the Concurrence of the Senate and House of Representatives may be necessary (except on a question of Adjournment) shall be presented to the President of the United States; and before the Same shall take Effect, shall be approved by her, or being disapproved by her, shall be repassed by two thirds of the Senate and House of Representatives, according to the Rules and Limitations prescribed in the Case of a Bill.
-
-
-
-All bills must be specific and on point of a single issue, with no amendment from tangential issues attached. All sections of a bill must have a direct and clear corrolation to other sections and all must adhear to the subject of the bill as declared in the preamble. The Exectutive may line item veto articles, sections or subsections that do not meet the direct and clear standard and if signed, the whole bill, excluding those sections shall become law. Congress may superceed any line item veto by passing a seperate resolution including those vetoed sections as a seperate Bill by a 2/3 majority of both houses.
+This removes the ability of congress to pass omnibus bills that have riders on them that have no bearing on the core of the bill.  This also gives the President line item veto power if he feels that an item is not core to the bill.  There will certainly be disagreements that will need to be resolved via the courts.  Congress has the ability to override these vetos in the same way they would override the veto of an entire bill.
 
 
 
@@ -232,57 +242,61 @@ Section. 8.
 
 
 
-The Congress shall have Power To create electable taxes, Duties and Imposts and Excises.
+_The Congress shall have Power To create electable taxes, Duties and Imposts and Excises._
 
 
 
-Taxes shall be limited to:
+_Taxes shall be limited to:_
+
+We are going to restrict what congress can do a little bit differently than the original constitution. Things are a bit more split out and we are going to talk about taxation a bit first. Below we specifically outline what can be taxed.
 
 
+_The demurrage of cash from accounts, citizened and corporate, to accounted citizen._
 
-The demurrage of cash from accounts, citizened and corporate, to accounted citizen.
+Congress can tax the amount flowing from an corporate or citizent account to a citizen account via our catallaxian system.  The possilbe amount that can be taxed can be easily calculated by multiplying the money supply by the demurrage rate.  Congress would not want to tax this amount at a high rate, but may want to raise some revenues this way.
 
+_The demurrage of cash from corporate accounts to other corporate accounts. The tax rate on corporate demurrage may not be lower than the tax rate on accounted citizen demurrage.
+_
 
-
-The demuragge of cash from corporate accounts to other corporate accounts. The tax rate on corporate demurrage may not be lower than the tax rate on accounted citizen demurrage.
-
-
-
-The demurrage of artificial capital to the commons such that the demurrage is offered up for public bid for a period of at least two weeks and that the demurred from entity shall have the right to pay a tax equal to the highest bid to retain the rights granted by the capital else the tax may be collected from the highest bidder. If there is no bid for the artificial capital its ownership shall remain with the state and must be submitted for rebid after no more than one year.
+Flows to corporations can also be taxed and we outline here that that rate cannot be lower than the tax on citizens.
 
 
+_The demurrage of artificial capital to the commons such that the demurrage is offered up for public bid for a period of at least two weeks and that the demurred from entity shall have the right to pay a tax equal to the highest bid to retain the rights granted by the capital else the tax may be collected from the highest bidder. If there is no bid for the artificial capital its ownership shall remain with the state and must be submitted for rebid after no more than one year._
 
-Congress shall lay no tax on the income of accounted citizens but may tax incomes of corporate entities whose owners enjoy limited liability.
+This is a wealth tax on artifical capital.  In exchange for limited liability corporatins must put their shares on the blockchain and their shares must be subject to decay back to the commons.  They have the right to buy these decayed shares back if they are willing to match and pay the highest bidded amount.  This should likely end up being the main vehicle of taxation.
+_
+Congress shall lay no tax on the income of accounted citizens but may tax incomes of corporate entities whose owners enjoy limited liability._
 
+Outlaws income tax on individuals but allows it on corporations.
 
+_Congress shall lay no tax on the forgivness of debts issued to accounted citizens via blockchained and demurraging cash._
 
-Congress shall lay no tax on the forgivness of debts issued to accounted citizens via blockchained and demurraging cash.
+This outlaws the taxation of the forgivness of debt.  Remember that in our catallaxian system, many loans may turn into investments if the demurrage income starts to look more attractive than the loan repayment.  We want to encourage that.
 
+_All donations to coproate accounts representing religious institutions shall be taxed as income and may not be ununiform from other corporate levies._
 
-
-All donations to coproate accounts representing religios institutions shall be taxed as income and may not be ununiform from other corporate levies.
-
-
-
-Excises shall be limited to:
-
-
-
-Activites and good which reduce the availability of the commons to future use. Including but not limited to, carbon emissions, extraction of minerals, spoilage of water, or the destruction of land.
+Outlaws religeous tax breaks because why do we have these in the first place?
 
 
+_Excises shall be limited to:_
 
-Activites and goods by which humans may reduce their length or quality of life.
+Excises are like specific taxes on things...like sin taxes on cigarettes or alcohol.
 
+_Activites and goods which reduce the availability of the commons to future use. Including but not limited to, carbon emissions, extraction of minerals, spoilage of water, or the destruction of land._
 
+Institutes environmental taxes.
 
-Duties and Imposts may not be levied on goods or services moving amongst geographically elected territories, but may be levied on goods an services imported from foriegn nations.
+_Activites and goods by which humans may reduce their length or quality of life._
 
+Institutes destructive health taxes.
 
+_Duties and Imposts may not be levied on goods or services moving amongst geographically elected territories, but may be levied on goods an services imported from foriegn nations._
 
-The revenues generated must be allocated by congress to:
+Outlaws taxes on goods flowing from state to state.  This will encourage a free trade society as more and more territories elect into the constitution.
 
+_The revenues generated must be allocated by congress to:_
 
+This is an e
 
 To pay the debts and provide for the common defence and general welfare; but all Excises shall be uniform throughout the geographically elected area, the seas, and outer space that accounted citizens may reach.
 
