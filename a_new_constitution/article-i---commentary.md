@@ -329,138 +329,125 @@ _To establish off-world colonies, both on worlds and as space stations, and regu
 
 Explicit power to make our civilization an multi-world civilization.
 
-_To promote the Progress of Science and useful Arts, by securing for limited Times to Authors and Inventors the exclusive Right to their respective Writings and Discoveries such that the grant of rights adhears to the following set of retrictions: no grant of rights shall be extended beyond its orginal grant. Exclusive Patents on Technolgies must include a material component. Patents that do not contain a material component and software patents must be open patents. Patents of technology shall not exced 21 years and if it is found that upholding the patent shall endanger the life of any citizen than it shall be declared an open patent by the courts. The use of open patatents by citizens and non-limited libility entities shall not be infringed. Any limited liability corporation wishing to use an open pattents may do so by negotiationg the rights with the patent holder or by providing common stock of the corporation wanting to use the technology to the patent awardee valued at equal to the cost of developing the technology as declared by the patent holder in the patent. Copywrites on images, texts, films, renderings, and other such creative arts shall not exced 50 years. Congress shall make no law extending or circumventing patent and copywrite limits except by proposing an amendment to this constituiton via the perscribed method in Article X. Patents rights and Copyright rights shall not be transfered from one citizen to another except that citizens may leave patent rights to heirs upon death. Corporations may only transfer patent rights upon blockchain bankruptcy or wholesale purchase of the corporation. No corporation shall be granted a patent who's sole or majority business is the holding and enforcing of patenets. Corporations may not hold copywrite but must pass the copywrite either directly to the citizens responsible for the production of the art or a class of all citizens who have recieved a payment for employment or services for the time period during which the art was created. And the right to recend assignment of copywrite rights from citizens or a class of citizens shall not be restricted._
+_To promote the Progress of Science and useful Arts, by securing for limited Times to Authors and Inventors the exclusive Right to their respective Writings and Discoveries such that the grant of rights adhears to the following set of retrictions: no grant of rights shall be extended beyond its orginal grant. Exclusive Patents on Technolgies must include a material component. Patents that do not contain a material component and software patents must be open patents. Patents of technology shall not exced 21 years and if it is found that upholding the patent shall endanger the life or healthfulness of any citizen than it shall be declared an open patent by the courts. The use of open patatents by citizens and non-limited libility entities shall not be infringed. Any limited liability corporation wishing to use an open pattents may do so by negotiationg the rights with the patent holder or by providing common stock of the corporation wanting to use the technology to the patent awardee valued at equal to the cost of developing the technology as declared by the patent holder in the patent. Copywrites on images, texts, films, renderings, and other such creative arts shall not exced 50 years. Congress shall make no law extending or circumventing patent and copywrite limits except by proposing an amendment to this constituiton via the perscribed method in Article X. Patents rights and Copyright rights shall not be transfered from one citizen to another except that citizens may leave patent rights to heirs upon death. Corporations may only transfer patent rights upon blockchain bankruptcy or wholesale purchase of the corporation. No corporation shall be granted a patent who's sole or majority business is the holding and enforcing of patenets. Corporations may not hold copywrite but must pass the copywrite either directly to the citizens responsible for the production of the art or a class of all citizens who have recieved a payment for employment or services for the time period during which the art was created. And the right to recend assignment of copywrite or patent rights from the orginal filers shall not be restricted._
 
 There is a bunch here.  The intent is to update and modernize our copywrite and pattent systems.
 
 Fist we establish that patents and copywrites cannot be extended once granted.  If the orginal term is 7 years, congress can't extend it in year 6 for another 7 years.
 
-We then speak to what kind of patents there can be.  We propose two kinds. Exclusive patents are the kind of patents w ehave today where the owner can restrict the use of the technology during the patent period.  The second is an open patent that give the owner the right to the economic benifit of the patents but allows the open use of the patent provided the
+We then speak to what kind of patents there can be.  We propose two kinds. Exclusive patents are the kind of patents w ehave today where the owner can restrict the use of the technology during the patent period.  The second is an open patent that give the owner the right to the economic benifit of the patents but allows the open use of the patent by citizens and non-limited liability entities.  Limited liability entities can gain access by providing a set of common stock equal to the cost of the patent.  This requries that open patents provide the cost of development when filed and if the cost is not-realistic the patent office should reject the patent.  This still provides large corporations from competition undercutting them by using the patent.  Small corporations will sometimes not be worth the cost of the patent in their entirety.  This is by design as we do want some protection for patents.
 
-To constitute Tribunals inferior to the supreme Court;
+We also specifically outline that medical patents are to be open patents if it can be demonstrated that keeping the patent exclusive will be to the detriment of well-being.
 
+We limit patents to a maximum 21 years in leangth so that innovation can florish.
 
+We limit copywrite to 50 years as congress has increased it far to long in its current state.  We do not extend it to the 'life of the author' because we are hoping that becomes less of an issue and we hope that the 50 year limit will allow for authors to benifit from their works and then release the work for the culture to mix and annotate.
 
-To define and punish Piracies and Felonies committed on the high Seas and in outer space, and Offences against the Law of Nations;
+We disallow congress from changing any of the stated rules by any means but ammending the constitution.
 
+One major change is that we don't allow for the transfer of a patent or a copywrite.  One can assign the rights temporarily but cannot sign away the rights permenantly.  Copywrites that are still in the 50 year period can pass from citizens to their heirs.  Lets take a quick look at how this would work for Disney making a movie.  Disney would file a copywrite in the names of either: the orginator of the work(hard to pinppoint for such a large project) or a class of citizens that worked on the film.  They would likely use the second.  All emplyess working for the corporation that produced the film would be in this class and can make decisions about the copyright rights by voting.  They can assign the rights to the copyright, including the ability to charge royalties and give distribution rights, to the corporation temporarily, but not permenantly.  If the class votes to withdraw the rights from the corporation, they can do so.  The goal of this is to push the benifit down to the citizens actually producing the work.  Disney cannot just fire all the animators after the film is produced because they will vote to reclaim their rights to the film.  If they want to release the animators they are going to have to negotiate with the class to pass some of the royalties down to be distributed to the class that was formed when the copyright was filed.
 
+Finally we outlaw patent shops that just try to file patents to make money.
 
-To declare War, grant Letters of Marque and Reprisal, and make Rules concerning Captures on Land, Water, and outer space;
 
+_To constitute Tribunals inferior to the supreme Court;_
 
+No change.
 
-To raise and support Armies, but no Appropriation of Money to that Use shall be for a longer Term than two Years;
+_
+To define and punish Piracies and Felonies committed on the high Seas and in outer space, and Offences against the Law of Nations;_
 
+_To declare War, grant Letters of Marque and Reprisal, and make Rules concerning Captures on Land, Water, and outer space;_
 
+_To raise and support Armies, but no Appropriation of Money to that Use shall be for a longer Term than two Years;_
 
-To provide and maintain a Navy, but no Appropriation of Money to that Use shall be for a longer Term than two Years;
+_To provide and maintain a Navy, but no Appropriation of Money to that Use shall be for a longer Term than two Years;_
 
+_To provide and maintain an Air and Space Force, but no Appropriation of Money to that Use shall be for a longer Term than two Years;_
 
+_To provide and maintain a Civilian Space Program that explores reachable space._
 
-To provide and maintain an Air and Space Force, but no Appropriation of Money to that Use shall be for a longer Term than two Years;
+_To make Rules for the Government and Regulation of the land, naval, air, and space Forces;_
 
+The only major change here that we include outer space in the mix and establish the right to fund NASA into the constitution.
 
+_To provide for calling forth the Militia to execute the Laws of the Union, suppress Insurrections and repel Invasions;
 
-To provide and maintain a Civilian Space Program that explores reachable space.
+To provide for organizing, arming, and disciplining, the Militia, and for governing such Part of them as may be employed in the Service of the Government, reserving to the States respectively, the Appointment of the Officers, and the Authority of training the Militia according to the discipline prescribed by Congress;_
 
+No change
 
+_To exercise exclusive Legislation in all Cases whatsoever, over such District (not exceeding ten Miles square) as may, by Cession of particular States, and the Acceptance of Congress, become the Seat of the Government. But this district shall not allow for any accounted citizen or corporation to geographically elect inside the distct such that no citizen may be disenfranchised and no corpration shall escape taxation and so that the district shall not need a seperate government._
 
-To make Rules for the Government and Regulation of the land, naval, air, and space Forces;
+This is a little bit of a change from the current Wasington DC clause in that we don't allow this district to have citizens.  Citizens will need to have their geographic elections outside of this district.
+_
+To exercise Authority over all Places purchased by the Consent of the Legislature of the States for the Erection of Forts, Magazines, Arsenals, dock-Yards, space stations, and other needful Buildings;_
 
+No change except space stations.
 
+_To create an agency for the oversight, maintaining of fairness, and protection of citizens in lending, banking, and finance._
 
-To provide for calling forth the Militia to execute the Laws of the Union, suppress Insurrections and repel Invasions;
+Puts the SEC and consumer finance protection buraus into the constitution.
 
+_To create an agency for oversight of campign finance laws so that fairness and the integritiy of national and state elections shall be maintained._
 
+Tasks congress with the obligation to maintain fair elections and to ledgislate campaing finace laws so that Citizens United can't be called free speech.
 
-To provide for organizing, arming, and disciplining, the Militia, and for governing such Part of them as may be employed in the Service of the Government, reserving to the States respectively, the Appointment of the Officers, and the Authority of training the Militia according to the discipline prescribed by Congress;
+_And Finally,_
+_
+To make all Laws which shall be necessary and proper for carrying into Execution the foregoing Powers, and all other Powers vested by this Constitution in the Government, or in any Department or Officer thereof._
 
+No Change
 
+_Section. 9._
 
-To exercise exclusive Legislation in all Cases whatsoever, over such District (not exceeding ten Miles square) as may, by Cession of particular States, and the Acceptance of Congress, become the Seat of the Government. But this district shall not allow for any accounted citizen or corporation to geographically elect inside the distct such that no citizen may be disenfranchised and no corpration shall escape taxation and so that the district shall not need a seperate government.
+_The Migration of such Persons as any of the States shall think proper to admit, shall not be prohibited or taxed by the Congress._
 
 
 
-To exercise Authority over all Places purchased by the Consent of the Legislature of the States for the Erection of Forts, Magazines, Arsenals, dock-Yards, space stations, and other needful Buildings;
+_The Privilege of the Writ of Habeas Corpus shall not be suspended, unless when in Cases of Rebellion or Invasion the public Safety may require it._
 
 
 
-To create an agency for the oversight, maintaining of fairness, and protection of citizens in lending, banking, and finance.
+_No Bill of Attainder or ex post facto Law shall be passed._
 
 
 
-To create an agency for oversight of campign finance laws so that fairness and the integritiy of national and state elections shall be maintained.
+_No Tax or Duty shall be laid on Articles exported from any State._
 
 
 
-And Finally,
+_No Preference shall be given by any Regulation of Commerce or Revenue to the Ports of one State over those of another: nor shall Vessels bound to, or from, one State, be obliged to enter, clear, or pay Duties in another._
 
 
 
-To make all Laws which shall be necessary and proper for carrying into Execution the foregoing Powers, and all other Powers vested by this Constitution in the Government, or in any Department or Officer thereof.
+_No Money shall be drawn from the Treasury, but in Consequence of Appropriations made by Law; and a regular Statement and Account of the Receipts and Expenditures of all public Money shall be published from time to time._
 
+No change.
 
 
-Section. 9.
+_Any information collected by the government with the use of money from the Tresury shall be collected in a way that it may be easily made availiable to any requesting accounted citizen in as small a time frame as technology shall resonalbay allow._
 
+This institutes open data laws and makes any information collected and modified by the government open for public download.
 
+_No Title of Nobility shall be granted by the Government: And no Person holding any Office of Profit or Trust under them, shall, without the Consent of the Congress, accept of any present, Emolument, Office, or Title, of any kind whatever, from any King, Prince, Foreign State or Corporate Entity._
 
-The Migration of such Persons as any of the States shall think proper to admit, shall not be prohibited or taxed by the Congress.
+No Change.
 
 
+The power of the congress to create electable taxes on citizens and mandatory taxes on corporations and artifical capital, shall be non-exclusive and congress shall not deny the rights of states, jurisdictions, cross-state organizations, or other entities to create and collect electable taxes such that all collections and dispersions of funds into those accounts are open for public inspection and that no private payments are made to or from such accounts.
 
-The Privilege of the Writ of Habeas Corpus shall not be suspended, unless when in Cases of Rebellion or Invasion the public Safety may require it.
+This establishes the catallaxian system of electable taxes as well as allowing for state, local, and other forms of organizations to act as psudo-states inside the republic as long as the adhear to the same open and no private payment laws.  All tax collection and expenditure must be listed on a public ledger and be open for inspection.
 
+_Section. 10._
 
 
-No Bill of Attainder or ex post facto Law shall be passed.
+No Change
 
 
 
-No Tax or Duty shall be laid on Articles exported from any State.
+_Section 11._
 
+_Representative, Senator, or Executive shall only raise cash for the puroposes of running a campaigne except by the requesting the election of tax on demurrage by accounted citizens that shall be capped on a per citizen basis such that the integrity of the officials are maintained and no one set of citizens may hold more sway over said officials, except that congress may allow for the matching of elected funds with public funds from the tresurey in uniform proportion and without regard to political party or agenda._
 
-
-No Preference shall be given by any Regulation of Commerce or Revenue to the Ports of one State over those of another: nor shall Vessels bound to, or from, one State, be obliged to enter, clear, or pay Duties in another.
-
-
-
-No Money shall be drawn from the Treasury, but in Consequence of Appropriations made by Law; and a regular Statement and Account of the Receipts and Expenditures of all public Money shall be published from time to time.
-
-
-
-Any information collected by the government with the use of money from the Tresury shall be collected in a way that it may be easily made availiable to any requesting accounted citizen in as small a time frame as technology shall resonalbay allow.
-
-
-
-No Title of Nobility shall be granted by the Government: And no Person holding any Office of Profit or Trust under them, shall, without the Consent of the Congress, accept of any present, Emolument, Office, or Title, of any kind whatever, from any King, Prince, Foreign State or Corporate Entity.
-
-
-
-The power of the congress to create electable taxes on citicens and mandatory taxes on corporations and artifical capital, shall be non-exclusive and congress shall not deny the rights of states, jurisdictions, cross-state organizations, or other entities to create and collect electable taxes such that all collections and dispersions of funds into those accounts are open for public inspection and that no private payments are made to or from such accounts.
-
-
-
-Section. 10.
-
-
-
-No State shall enter into any Treaty, Alliance, or Confederation; grant Letters of Marque and Reprisal; coin Money; emit Bills of Credit; pass any Bill of Attainder, ex post facto Law, or Law impairing the Obligation of Contracts, or grant any Title of Nobility.
-
-
-
-No State shall, without the Consent of the Congress, lay any Imposts or Duties on Imports or Exports, except what may be absolutely necessary for executing it's inspection Laws: and the net Produce of all Duties and Imposts, laid by any State on Imports or Exports, shall be for the Use of the Treasury of Government; and all such Laws shall be subject to the Revision and Controul of the Congress.
-
-
-
-No State shall, without the Consent of Congress, lay any Duty of Tonnage, keep Troops, or Ships of War in time of Peace, enter into any Agreement or Compact with another State, or with a foreign Power, or engage in War, unless actually invaded, or in such imminent Danger as will not admit of delay.
-
-
-
-Section 11.
-
-
-
-Representative, Senator, or Executive shall only raise cash for the puroposes of running a campaigne except by the requesting the election of tax on demurrage by accounted citizens that shall be capped on a per citizen basis such that the integrity of the officials are maintained and no one set of citizens may hold more sway over said officials, except that congress may allow for the matching of elected funds with public funds from the tresurey in uniform proportion and without regard to political party or agenda.
-
-
+Institues the public funding of election at all levels of government and allows for congress to match these funds. This was borrowed from somewhere and I can't find the original source.
