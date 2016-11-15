@@ -315,23 +315,27 @@ _To establish an uniform Rule of Naturalization, and uniform Laws on the subject
 
 _To coin Money via a blockchain, regulate the Value thereof, and of foreign Coin, and fix the Standard of Weights and Measures;_
 
-We im
 
-To provide for the Punishment of counterfeiting and hacking the Securities and Coin of the Government;
+_To provide for the Punishment of counterfeiting and hacking the Securities and Coin of the Government;_
 
-
-
-To establish Post Offices and post Roads;
+We implement the right to coin money, but only via the blockchain, and to enforce the integrity of the currency via rule of law.
 
 
+_To establish Post Offices and post Roads;_
 
-To establish off-world colonies, both on worlds and as space stations, and regulate the trade routes amongst them, to preserve the long term existence of the human race.
+We still need these things...or at least the right to do them.
 
+_To establish off-world colonies, both on worlds and as space stations, and regulate the trade routes amongst them, to preserve the long term existence of the human race._
 
+Explicit power to make our civilization an multi-world civilization.
 
-To promote the Progress of Science and useful Arts, by securing for limited Times to Authors and Inventors the exclusive Right to their respective Writings and Discoveries, but no grant of rights shall be extended beyond its orginal grant. Exclusive Patents on Technolgies must include a material component. Patents that do not contain a material component and software patents must be open patents. Patents of technology shall not exced 21 years and if it is found that upholding the patent shall endanger the life of any citizen than it shall be declared an open patent by the courts. Open patatents require that any corporation may use the patent provided common stock of the corporation wanting to use the technology is delivered to the patent awardee valued at equal to the cost of developing the technology as determined by agreement, or if no agreement is met, arbitration by the established courts. Copywrites on images, texts, films, renderings, and other such creative arts shall not exced 50 years. Congress shall make no law extending or circumventing patent and copywrite limits excpet by proposing an amendment to this constituiton via the perscribed method in Article X. Patents rights and Copyright rights shall not be transfered from one citizen to another except that citizens may leave patent rights to heirs upon death. Corporations may only transfer patent rights upon blockchain bankruptcy. No corporation shall be granted a patent who's sole or majority business is the holding and enforcing of patenets. Corporations may not hold copywrite but must pass the copywrite either directly to the citizens responsible for the production of the art or all citizens who have recieved a payment for employment or services for the time period during which the art was created.
+_To promote the Progress of Science and useful Arts, by securing for limited Times to Authors and Inventors the exclusive Right to their respective Writings and Discoveries such that the grant of rights adhears to the following set of retrictions: no grant of rights shall be extended beyond its orginal grant. Exclusive Patents on Technolgies must include a material component. Patents that do not contain a material component and software patents must be open patents. Patents of technology shall not exced 21 years and if it is found that upholding the patent shall endanger the life of any citizen than it shall be declared an open patent by the courts. The use of open patatents by citizens and non-limited libility entities shall not be infringed. Any limited liability corporation wishing to use an open pattents may do so by negotiationg the rights with the patent holder or by providing common stock of the corporation wanting to use the technology to the patent awardee valued at equal to the cost of developing the technology as declared by the patent holder in the patent. Copywrites on images, texts, films, renderings, and other such creative arts shall not exced 50 years. Congress shall make no law extending or circumventing patent and copywrite limits except by proposing an amendment to this constituiton via the perscribed method in Article X. Patents rights and Copyright rights shall not be transfered from one citizen to another except that citizens may leave patent rights to heirs upon death. Corporations may only transfer patent rights upon blockchain bankruptcy or wholesale purchase of the corporation. No corporation shall be granted a patent who's sole or majority business is the holding and enforcing of patenets. Corporations may not hold copywrite but must pass the copywrite either directly to the citizens responsible for the production of the art or a class of all citizens who have recieved a payment for employment or services for the time period during which the art was created. And the right to recend assignment of copywrite rights from citizens or a class of citizens shall not be restricted._
 
+There is a bunch here.  The intent is to update and modernize our copywrite and pattent systems.
 
+Fist we establish that patents and copywrites cannot be extended once granted.  If the orginal term is 7 years, congress can't extend it in year 6 for another 7 years.
+
+We then speak to what kind of patents there can be.  We propose two kinds. Exclusive patents are the kind of patents w ehave today where the owner can restrict the use of the technology during the patent period.  The second is an open patent that give the owner the right to the economic benifit of the patents but allows the open use of the patent provided the
 
 To constitute Tribunals inferior to the supreme Court;
 
