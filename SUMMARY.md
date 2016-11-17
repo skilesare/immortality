@@ -146,4 +146,6 @@
             * [Preamble - Commentary](a_new_constitution/preamble---commentary.md)
             * [Article I - Commentary](a_new_constitution/article-i---commentary.md)
             * [Article II - Commentary](a_new_constitution/article-ii---commentary.md)
+            * [Article III - Commentary](a_new_constitution/article-iii---commentary.md)
+            * Article IV - Commentary
 
