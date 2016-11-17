@@ -147,5 +147,8 @@
             * [Article I - Commentary](a_new_constitution/article-i---commentary.md)
             * [Article II - Commentary](a_new_constitution/article-ii---commentary.md)
             * [Article III - Commentary](a_new_constitution/article-iii---commentary.md)
-            * Article IV - Commentary
+            * [Article IV - Commentary](a_new_constitution/article-iv---commentary.md)
+            * [Article V - Commentary](a_new_constitution/article-v---commentary.md)
+            * [Article VI - Commentary](a_new_constitution/article-vi---commentary.md)
+            * [Article VII - Commentary](a_new_constitution/article-vii---commentary.md)
 
