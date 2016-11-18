@@ -151,4 +151,5 @@
             * [Article V - Commentary](a_new_constitution/article-v---commentary.md)
             * [Article VI - Commentary](a_new_constitution/article-vi---commentary.md)
             * [Article VII - Commentary](a_new_constitution/article-vii---commentary.md)
+            * [Article VIII - Commentary](a_new_constitution/article-viii---commentary.md)
 
