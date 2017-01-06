@@ -10,7 +10,7 @@ Though I am not a scientist, this work will take a scientific tone.  I hope to p
 
 III. The great economies
 
-Life is not simple, but it is more simple that it appears on the surface.  We live amongst 4 great economies and on the cusp of a million more.  Robert Pirsig identified these in his works of Zen and Motorcycle Maintenance and Lila.  Lila is the more important where the 4 economies are identified.  The economies are those of the **inorganic**, the **biological**, the **societal**, and the **intellectual**.  He does not point out that they are economies, but as we move forward we will see that this is so.  There are other lesser economies and perhaps even major ones that I do not pay enough heed to, but in thinking about the major issues that our world faces, these four seem to be enough to focus on for now.
+Life is not simple, but it is more simple that it appears on the surface.  We live amongst 4 great economies and on the cusp of a million more.  Robert Pirsig identified these in his works of Zen and Motorcycle Maintenance and Lila.  Lila is the more important where the 4 economies are identified.  The economies are those of the **inorganic**, the **biological**, the **societal**, and the **intellectual**.  He does not point out that they are economies, but as we move forward we will see that this is so.  There are other lesser economies and perhaps even major ones that I do not pay enough heed to, but in thinking about the major issues that our world faces, these four seem to be enough to focus on for now. Test.
 
 IV. The bootstrap
 
