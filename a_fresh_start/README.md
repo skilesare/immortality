@@ -18,7 +18,7 @@ The four economies did not always exist.  First the inorganic emerged after the 
 
 This new economy did not deal in the supply and demand of patterned forces.  In a sense, patterned forces bootstrapped a new economy that dealt in the supply and demand of reproductive fitness.  We call this the biological level.  The biological level often uses the inorganic level to its advantage of creating fitness.  Take a nest: the organism leverages the forces created by the nest material(the major force being the ability to keep out unwanted forces such as weather, predators, and other deadly things) to increase the reproductive fitness of the organisms raised in the nest.
 
-In addition to using the inorganic level, the biological level began to use its own economy to evolve itself into a more and more adept engine for reproduction.
+In addition to using the inorganic level, the biological level began to use its own economy to evolve itself into a more and more adept engine for reproduction. The organic level used knowledge stored in DNA to accomplish this.
 
 The **bootstrap**  occurs when a new economy is produced that leverages the pre-existing economies to create a new and stable economy that itself can grow and change.
 
