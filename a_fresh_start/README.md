@@ -72,13 +72,13 @@ On the other hand, designing a system that integrates with other technologies mi
 
 X. Supersociety
 
-Society operates on the control and efficient allocation of resources.  What happens when we get so efficient at this that a new structure begins to form on top of this reality that develops its own economy beyond the allocation of resources.  The super society will become the focus of this paper in the future and it is my conclusion that it is imperative that the supersociety be the next bootstrap before we reach any of the other bootstraps if we are to have hope that the current iteration of humanity is to continue on into the future, and achieve immortality.
+Society operates on the control and efficient allocation of resources.  What happens when we get so efficient at this that a new structure begins to form on top of this reality that develops its own economy beyond the allocation of resources.  The supersociety will become the focus of this paper in the future and it is my conclusion that it is imperative that the supersociety be the next bootstrap before we reach any of the other bootstraps if we are to have hope that the current iteration of humanity is to continue on into the future, and achieve immortality.
 
 XI.  Superintelligence
 
 Contrary to popular belief, AI is not the next bootstrap.  It may bring this bootstrap along faster, but in order for real superintelligence to emerge, it must make the manipulation of time and the reproduction of experimental results so effortless and common that a new economy based on something else entirely can emerge.  I can't even comprehend what this looks likes, but it is likely that entire simulated universes will pop in and out of existence in the same way that protons and electrons break and form chemical bonds.
 
-Imagine a universe where you can send a thousand copies of yourself on a 10,000 year journey to discover something and that that 10,000 years only seems to pass in a second for you.  After that second you have access to the vast array of knowlege that your copies amassed during that 10,000 years.
+Imagine a universe where you can send a thousand copies of yourself on a 10,000 year journey to discover something and that that 10,000 years only seems to pass in a second for you.  After that second you have access to the vast array of knowledge that your copies amassed during that 10,000 years.
 
 X. Bleeding Edges
 
