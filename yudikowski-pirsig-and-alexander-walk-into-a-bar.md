@@ -274,5 +274,9 @@ Peter M. Hoffmann
 
 Hoffmann's idea of the biological reaching ratchet effects that help it withstand the molecular storm was integral to my development of the idea of higher layers operating independently of lower layers and my ultimate rejection of reductionism and determinism.
 
+#Borrowers Statement
+
+I will state unequivocally that many of the ideas in this volume are lifted, sometimes, and often without attribution from the above authors.  I've tried to give credit where credit is due and I'll state for the record that it should be all of the credit.
+
 
 
