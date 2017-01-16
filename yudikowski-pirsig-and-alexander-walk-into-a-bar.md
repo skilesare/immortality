@@ -6,9 +6,9 @@ I understand the boldness of saying that these guys 'fall short.'  They are all 
 
 ##Christopher Alexander
 
-Dr. Alexander is an architect who has spent his life studying what process is necessary to build buildings that are full of life and that have objective value. In trying to figure this out, he has shown, via experiment, that there is a set patterns in physical structure that humans react to in the same way. When shown differing images of structure, humans have more agreement than disagreement about what structures have more 'life' in them.
+Dr. Alexander is an architect who has spent his life studying what process is necessary to build buildings that are full of life and that have objective value. His most popular work is called A Pattern Language and is commonly referenced as the inspiration for computing patterns in computer science.  In trying to figure this out, he has shown, via experiment, that there is a set patterns in physical structure that humans react to in the same way. When shown differing images of structure, humans have more agreement than disagreement about what structures have more 'life' in them.
 
-In his Nature Of Order series he has laid out what these structures are and how one can develop them.  This system is based on the idea of 'centers' and the interactions of 'centers.' Each structure is made up of a set of centers and the value that each center contributes to the wholeness of the system is calculated by observing both the smaller centers that make up the center and the external centers that enhance the center.
+In his [Nature Of Order](http://amzn.to/2iF4oVQ) series he has laid out what these structures are and how one can develop them.  This system is based on the idea of 'centers' and the interactions of 'centers.' Each structure is made up of a set of centers and the value that each center contributes to the wholeness of the system is calculated by observing both the smaller centers that make up the center and the external centers that enhance the center.
 
 Centers are enhanced by any one of 15 properties:
 
@@ -66,7 +66,7 @@ Each of these characteristics has a corresponding life giving process that, if a
 
 10. Always striving for simplicity by which thing becomes more coherent & pure.
 
-It turns out that intigrating these 15 properties across higher order systems leads to a lot of things that make a whole lot of sense.  The following is an exercise that I did trying to integrate over the concept of banking:
+It turns out that integrating these 15 properties across higher order systems leads to a lot of things that make a whole lot of sense.  The following is an exercise that I did trying to integrate over the concept of banking:
 
 1. Levels of Scale -> Economic Organization
 
