@@ -6,4 +6,4 @@ This is not going to be enough for many people.  In a sense it is a presuppositi
 
 But we cannot only observe.  We must explain.  And we must codify our explanations so that we know.  Our minds are universal explainers.  And using the tools we have on hand, and the ones we will develop, we should be universal constructors.  If it is allowed by the physics of our universe, we should be able to accomplish it with the right knowledge.
 
-Morality is the innate drive of a universal explainer to explain evil, developing knowledge about that evil, and use the knowlege gained to annihilate that evil.
+Morality is the innate drive of a universal explainer to explain evil, developing knowledge about that evil, and use the knowledge gained to annihilate that evil.
