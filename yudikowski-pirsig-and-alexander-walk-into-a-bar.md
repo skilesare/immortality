@@ -6,7 +6,7 @@ I understand the boldness of saying that these guys 'fall short.'  They are all 
 
 ##Christopher Alexander
 
-Dr. Alexander is an architect who has spent his life studying what process is necessary to build buildings that are full of life and that have objective value. His most popular work is called A Pattern Language and is commonly referenced as the inspiration for computing patterns in computer science.  In trying to figure this out, he has shown, via experiment, that there is a set patterns in physical structure that humans react to in the same way. When shown differing images of structure, humans have more agreement than disagreement about what structures have more 'life' in them.
+Dr. Alexander is an architect who has spent his life studying what process is necessary to build buildings that are full of life and that have objective value. His most popular work is called [A Pattern Language](http://amzn.to/2jRIxrM) and is commonly referenced as the inspiration for computing patterns in computer science.  In trying to figure this out, he has shown, via experiment, that there is a set patterns in physical structure that humans react to in the same way. When shown differing images of structure, humans have more agreement than disagreement about what structures have more 'life' in them.
 
 In his [Nature Of Order](http://amzn.to/2iF4oVQ) series he has laid out what these structures are and how one can develop them.  This system is based on the idea of 'centers' and the interactions of 'centers.' Each structure is made up of a set of centers and the value that each center contributes to the wholeness of the system is calculated by observing both the smaller centers that make up the center and the external centers that enhance the center.
 
@@ -98,7 +98,7 @@ It turns out that integrating these 15 properties across higher order systems le
 
 15. Not Separateness -> Elegance
 
-Leslie Wauguespack expands on these ideas and applies them to software systems in Thriving System Theory and Metaphor Driven Modeling.  You should own this book.
+Leslie Wauguespack expands on these ideas and applies them to software systems in [Thriving System Theory and Metaphor Driven Modeling](http://amzn.to/2iA2By4).  You should own this book.
 
 Wholeness can be evaluated using the following properties:
 
@@ -132,17 +132,37 @@ Wholeness can be evaluated using the following properties:
 
 15. Not Separateness -> Elegance
 
-After reading Alexander's Nature of Order I have a deep conviction that he is hitting on something very, very valuble.  The ability to improve systems by recursive refinement with focused goals of strengthening centers can be a radical formulation of improving our world.
+After reading Alexander's Nature of Order I have a deep conviction that he is hitting on something very, very valuable.  The ability to improve systems by recursive refinement with focused goals of strengthening centers can be a radical formulation of improving our world.
 
-I don't think Alexander gets it 100% correct and I think his focus on architecture is too limited in scope(but probably necessary to the forumlation of the theory).  It has much broader applications.
+I don't think Alexander gets it 100% correct and I think his focus on architecture is too limited in scope(but probably necessary to the formulation of the theory).  It has much broader applications.
+
+If you are interested in learning more about Christopher Alexander, I would recommend the following:
+
+[The Nature of Order: An Essay on the Art of Building and the Nature of the Universe, Book 1 - The Phenomenon of Life (Center for Environmental Structure, Vol. 9) ](https://www.amazon.com/Nature-Order-Phenomenon-Environmental-Structure/dp/0972652914/ref=as_li_ss_tl?ie=UTF8&qid=1484605072&sr=8-1&keywords=the+nature+of+order&linkCode=ll1&tag=everybase-20&linkId=897d28d5cd8ed759db14915a0dd4cfc7)
+
+[The Process of Creating Life: Nature of Order, Book 2: An Essay on the Art of Building and the Nature of the Universe](https://www.amazon.com/Process-Creating-Life-Building-Universe/dp/0972652922/ref=as_li_ss_tl?_encoding=UTF8&psc=1&refRID=59F1353Z119YNDSRXJJM&linkCode=ll1&tag=everybase-20&linkId=49f2e3f1e390fbb30511f463db2f453d)
+
+[The Nature of Order: An Essay on the Art of Building and the Nature of the Universe, Book 3 - A Vision of a Living World](https://www.amazon.com/Nature-Order-Building-Environmental-Structure/dp/0972652930/ref=as_li_ss_tl?_encoding=UTF8&psc=1&refRID=JMT7XAGAY39HJR8AE642&linkCode=ll1&tag=everybase-20&linkId=3af86e7989b73a6addb285ccb85544b3)
+
+[The Nature of Order: An Essay on the Art of Building and the Nature of the Universe, Book 4 - The Luminous Ground](https://www.amazon.com/Nature-Order-Building-Environmental-Structure/dp/0972652949/ref=as_li_ss_tl?_encoding=UTF8&psc=1&refRID=W8VMNKV5X2GRX9H5B1Z5&linkCode=ll1&tag=everybase-20&linkId=64d2d296412a6da6c3425e5ddc889738)
+
+[A Pattern Language: Towns, Buildings, Construction (Center for Environmental Structure)](https://www.amazon.com/Pattern-Language-Buildings-Construction-Environmental/dp/0195019199/ref=as_li_ss_tl?_encoding=UTF8&psc=1&refRID=WVYPMJ5D3C49MNM7EWN9&linkCode=ll1&tag=everybase-20&linkId=f783c188710471825b0f6dcd2f152409)
+
+[The Timeless Way of Building ](https://www.amazon.com/Timeless-Way-Building-Christopher-Alexander/dp/0195024028/ref=as_li_ss_tl?_encoding=UTF8&psc=1&refRID=18XHYF9RGXKPJGQ8BWVH&linkCode=ll1&tag=everybase-20&linkId=3c7431652cd173fc83f549fb747199e5)
+
+[The Battle for the Life and Beauty of the Earth: A Struggle Between Two World-Systems (Center for Environmental Structure)](https://www.amazon.com/Battle-Life-Beauty-Earth-World-Systems/dp/0199898073/ref=as_li_ss_tl?_encoding=UTF8&psc=1&refRID=2ZG409F59GQKMP7REHC8&linkCode=ll1&tag=everybase-20&linkId=29e78b3a438c9632c844c0483eba8bf3)
+
+[Christopher Alexander: The Search for a New Paradigm in Architecture ](https://www.amazon.com/Christopher-Alexander-Search-Paradigm-Architecture/dp/0853621993/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1484605395&sr=1-1-fkmr0&keywords=christopher+alexander+biography+Grabow&linkCode=ll1&tag=everybase-20&linkId=d72f7150f39237ecf8b91e09a6da3e9d)
 
 ##Eliezer Yudkowsky
 
-Eliezer wrote a series of blog posts over the course of number of years that has been combined into a book called Rationality: From AI to Zombies. It is a great look at how to think rationlly and how to think like a scientist.  He points out a number of things that I had not thought of before an approaches hard to understand topics from a down to earth direction.
+Eliezer wrote a series of blog posts over the course of number of years that has been combined into a book called [Rationality: From AI to Zombies](https://www.amazon.com/Rationality-AI-Zombies-Eliezer-Yudkowsky-ebook/dp/B00ULP6EW2/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1484605484&sr=1-1&keywords=Rationality:+From+AI+to+Zombies&linkCode=ll1&tag=everybase-20&linkId=f183a3b09cd77970cf3380122295780a). It is a great look at how to think rationally and how to think like a scientist.  He points out a number of things that I had not thought of before and approaches hard to understand topics with clear explanation.
 
-Yudkowsky is a reductionist, a Baysian, and he isn't going to cut you a bit of slack on your metaphysics.  If the map doesn't match the territory he is going to call bs on you.  He will force you to redraw your map.
+Yudkowsky is a reductionist, a Bayesian, and he isn't going to cut you a bit of slack on your metaphysics.  If the map doesn't match the territory he is going to call bs on you.  He will force you to redraw your map.
 
 He believes that it all is ultimately just quarks but he's not against good maps, in fact, he's all about good maps which is why, ultimately, I think He and Dr. Pirsig are going to have more in common that you would think.  I think this because at the end of the day, Yudkowsky is a raging humanist. If all there are is quarks and you are a humanist, you have to answer as to why.
+
+If you like your rationality to be laid out in story form you can read his Harry Potter fan fiction (yes really) at http://hpmor.com/.
 
 ##Robert Pirsig
 
