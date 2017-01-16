@@ -6,7 +6,7 @@ This is not going to be enough for many people.  In a sense it is a presuppositi
 
 #On the duality of morality
 
-We will find by observing that there is a Moral Authority given to more advanced and complex entities.  This Moral Authority must always be balanced with a Moral Responsibility given from the more advanced and complex entitites to lesser entities.  This is derived for the reality that any lesser entity may be a springboard to a new and more complex entity that has never existed before.
+We will find by observing that there is a Moral Authority given to more advanced and complex entities.  This Moral Authority must always be balanced with a Moral Responsibility given from the more advanced and complex entities to lesser entities.  This is derived for the reality that any lesser entity may be a springboard to a new and more complex entity that has never existed before.
 
 #On Evil
 
@@ -22,4 +22,8 @@ But we are not left alone with this evil.  We can explain.  And we can codify ou
 
 #On Overcoming Evil
 
-We will find that morality demandes that a universal explainer try to explain evil, developing knowledge about that evil, and use the knowledge gained to annihilate that evil.
+We will find that morality demands that a universal explainer try to explain evil, developing knowledge about that evil, and use the knowledge gained to annihilate that evil.
+
+More knowledge protects entities from lower forces that would undo them.
+
+More knowledge allows entities to act with proper responsibility to lower entities.
