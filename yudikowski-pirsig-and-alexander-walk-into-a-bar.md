@@ -2,14 +2,14 @@
 
 The purpose of this chapter is to try to summarize the beliefs of four authors that I think have something to say about these ideas and to show what each one gets right, and where I think they fall short.
 
-I understand the boldness of saying that these guys 'fall short.'  They are all smarter than I am and know their areas way better than I do. If anything insightful comes of this it is siimply because I was in the right place at the right time and I read this stuff in the right order.
+I understand the boldness of saying that these guys 'fall short.'  They are all smarter than I am and know their areas way better than I do. If anything insightful comes of this it is simply because I was in the right place at the right time and I read this stuff in the right order.
 
-##Chrisopher Alexander
+##Christopher Alexander
 
-Dr. Alexander is an architect.  He has studies what makes great architecture for a long time. He observes that the things that the academic architects say are good, generally aren't.  In trying to figure why this is the case, he has shown, via experament, that there is a set of reactions to physical structure that humans react to in the same way.  When shown differeing images of structure, humans have more agreemant than disagreement about what strucures have more 'life' in them.
+Dr. Alexander is an architect who has spent his life studying what process is necessary to build buildings that are full of life and that have objective value. In trying to figure this out, he has shown, via experiment, that there is a set patterns in physical structure that humans react to in the same way. When shown differing images of structure, humans have more agreement than disagreement about what structures have more 'life' in them.
 
-Through experament and observation, Alexander ends up developing a system for observing the wholness of a structure.  His theory is that based on this system, one can distinguish between structures that have more and less life.  This system is based on the idea of 'centers' and the interactions of 'centers.' Each structure is made up of a set of centers and the value that each center contributes to the wholeness of the system is calculated by observing both the smaller centers that make up the center and the external centers that enhance the center.
-Repetition
+In his Nature Of Order series he has laid out what these structures are and how one can develop them.  This system is based on the idea of 'centers' and the interactions of 'centers.' Each structure is made up of a set of centers and the value that each center contributes to the wholeness of the system is calculated by observing both the smaller centers that make up the center and the external centers that enhance the center.
+
 Centers are enhanced by any one of 15 properties:
 
 1. Levels of Scale
@@ -38,11 +38,11 @@ Centers are enhanced by any one of 15 properties:
 
 13. The Void
 
-14. Simplcity and Inner-calm
+14. Simplicity and Inner-calm
 
 15. Each in the other
 
-Each of these characteristics has a corosponding life giving process that, if applied will increase the wholness of the system.  By following the following process, one can improve a system:
+Each of these characteristics has a corresponding life giving process that, if applied will increase the wholeness of the system.  By following the following process, one can improve a system:
 
 **Alexander’s 10 structure-enhancing actions**
 
