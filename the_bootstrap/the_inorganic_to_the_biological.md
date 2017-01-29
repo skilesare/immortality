@@ -57,8 +57,8 @@ What we are left with at the top of the bootstrap is a new biological system.  T
 
 At the biological level we meet fitness. Reproduction and survival are valued above all else.  Evolution wants to spread genes as far and as wide as it can.  The inorganic bootstrap culminated in a molecule that is able to reproduce itself and spread across its environment.
 
-The biological level is above the inorganic.  As a result, it has access to the inorganic level even if it has a differnt value structure.  In fact inorganic material is often the major tool of biological systems.  Biological systes have adapted to create structure out of inorganic material in a way that increases the biological systems ability to further overcome the inorganic forces.
+The biological level is above the inorganic.  As a result, it has access to the inorganic level even if it has a different value structure.  In fact inorganic material is often the major tool of biological systems.  Biological systems have adapted to create structure out of inorganic material in a way that increases the biological system's ability to further overcome the inorganic forces.
 
-What we end up with is the biological level operating on two differnt, disticnt economies and trying to achieve two different and distinct bootstraps.  First we will address Biology dealing with the inorganic level.
+What we end up with is the biological level operating on two different, distinct economies and trying to achieve two different and distinct bootstraps.  First we will address Biology dealing with the inorganic level.
 
 
