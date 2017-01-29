@@ -22,7 +22,7 @@ When we see this operating in an 'advanced society' we see the emergence of mode
 
 The economics of society are well known and can be found in many modern economic text books.  Supply. Demand. Utility. Separation of labor.  The god of society is the market and the market is much more reasonable than the blind god of evolution. Unfortunately, this god's appetite is voracious.  I call the market a blind raptor.  The market doesn't see that its consumption will drain and destroy the water supply...it just senses the heat and consumes.  It is a dynamic system and despite the fact that it consumes without prejudice, it also happens to work really, really well.
 
-It especialy works really well when all the resources are hard goods.  When we run out of chickens, chickens get really really valuble and are consumed less.  When we bootstrap up to money though, we get to a dangerous territory where financial engeneering can cause recursive breakouts that consume all the way to the bone.
+It especially works really well when all the resources are hard goods.  When we run out of chickens, chickens get really really valuable and are consumed less.  When we bootstrap up to money though, we get to a dangerous territory where financial engineering can cause recursive breakouts that consume all the way to the bone.
 
 The societal jump from the simple interplay of resources to a money society is a huge jump.  In fact we will look at a chart later and it will have more developments betweeen one and the other of any other item on the chart.
 
