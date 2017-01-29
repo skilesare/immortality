@@ -28,7 +28,7 @@ The societal jump from the simple interplay of resources to a money society is a
 
 To get to money we pass through a number of other systems that emerge on the societal level.  Remember, while the biological had the inorganic to play with, societal systems have both inorganic and biological systems to utilize and create economies around.
 
-First lets talk about how society creates an economy around the biological.  Since societal is closest to biological in the evolution, this is where society start creting economies.  Human society deals with biology on a moment to moment to bases.  Even when we sleep and are ignorant of the inorganic surrounds around us, we still breathe.
+First let's talk about how society creates an economy around the biological.  Since societal is closest to biological in the evolution, this is where society start creating economies.  Human society deals with biology on a moment to moment to bases.  Even when we sleep and are ignorant of the inorganic surrounds around us, we still breathe.
 
 Society builds on the biological and creates an economy of belonging.  This starts by creating groups that can operate together to facilitate the colletion of resources and dole them out in an appropriate manner.
 
