@@ -1,16 +1,16 @@
 # The biological to the societal
 
-We have established that the inorganic bootstraped to the biological level.  At the biological level, fitness is valued.  At this level a system survives only as well as it is able to reproduce.  Because biology is at a higher level than the inorganic level it has access to utilize the systems at that level for its own purposes.
+We have established that the inorganic bootstrapped to the biological level.  At the biological level, fitness is valued.  At this level a system survives only as well as it is able to reproduce.  Because biology is at a higher level than the inorganic level it has access to utilize the systems at that level for its own purposes.
 
 We find at the biological level an economy of environment that is used to increase reproduction.  This can be seen in amoeba surviving in wet swampy places and desert lizards needing to be...well...in the desert.
 
-Each of these biological systems survived because existing in the correct environment increase the likely hood that the builder's DNA would survive another generation.
+Each of these biological systems survived because existing in the correct environment increase the likelihood that the builder's DNA would survive another generation.
 
-The natural flow here from base economy to bootstrap is the flow from enviornment to controled environment.  We see this in the creation of structure by biological systems
+The natural flow here from base economy to bootstrap is the flow from environment to controled environment.  We see this in the creation of structure by biological systems
 
-This may start as simply as the membrane constructed around an ameoba to protect the survival of its DNA or may be as complicated as the structure of an ant bed to survive a rain storm. Ultimately we see biology overcoming environment with structure.
+This may start as simply as the membrane constructed around an amoeba to protect the survival of its DNA or may be as complicated as the structure of an ant bed to survive a rain storm. Ultimately we see biology overcoming environment with structure.
 
-How does it make this transition from overcoming environment to creating it?  It uses its value infrastructure, that is reproduction.
+How does it make this transition from overcoming environment to creating it?  It uses its value infrastructure: reproduction.
 
 Unfortunately evolution is a blind, mad god.  Often its adaptations lead no where.  Millions of years are wasted here and million there.  A comet comes along and wipes out a few hundred thousand lines of development. This is why this bootstrap took so much longer than the first.
 
