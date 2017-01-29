@@ -24,7 +24,7 @@ The economics of society are well known and can be found in many modern economic
 
 It especially works really well when all the resources are hard goods.  When we run out of chickens, chickens get really really valuable and are consumed less.  When we bootstrap up to money though, we get to a dangerous territory where financial engineering can cause recursive breakouts that consume all the way to the bone.
 
-The societal jump from the simple interplay of resources to a money society is a huge jump.  In fact we will look at a chart later and it will have more developments betweeen one and the other of any other item on the chart.
+The societal jump from the simple interplay of resources to a money society is a huge jump.  In fact we will look at a chart later and it will have more developments between one and the other of any other item on the chart.
 
 To get to money we pass through a number of other systems that emerge on the societal level.  Remember, while the biological had the inorganic to play with, societal systems have both inorganic and biological systems to utilize and create economies around.
 
