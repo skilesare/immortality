@@ -38,17 +38,17 @@ In the end we still have the economics of patterned forces at the inorganic leve
 
 ##Biology to System III
 
-To date, biology has spawned two different bootstraps, the society bootstrap and the intellegence bootstrap.  What can we consider and say about a possible third system that could emerge out of biology?
+To date, biology has spawned two different bootstraps, the society bootstrap and the intelligence bootstrap. What can we consider and say about a possible third system that could emerge out of biology?
 
-We have two systems, one that values resource allocation, and one that values the observation of time.  Do we just start picking out other things that exist and doing thought experaments?
+We have two systems, one that values resource allocation, and one that values the observation of time. Do we just start picking out other things that exist and doing thought experiments?
 
-Let's take something like 'physical connection'.  In this thought exprament, our biological system begins to value havng as many connections with other entities as possible.  Consider a being that, when it encounters anthore being, can read its DNA and assimlate that DNA into its own. So in this system, to maximize the spread of your DNA you have to physically inhabit the same physical space as as many other beings as possible and then diversify out into the universe as far away from many of those entities as possible to ensure that you don't fall prey to some galactic event that wipes out all beings that you've connected with.  In this patttern I can see a number of very valuble patterns emerging around very fast space travel and communications.  What becomes important?  Finding other entites, getting there, and then spreading out.
+Let's take something like 'physical connection'. In this thought experiment, our biological system begins to value having as many connections with other entities as possible. Consider a being that, when it encounters another being, can read its DNA and assimilate that DNA into its own. So in this system, to maximize the spread of your DNA you have to physically inhabit the same physical space as as many other beings as possible and then diversify out into the universe as far away from many of those entities as possible to ensure that you don't fall prey to some galactic event that wipes out all beings that you've connected with. In this pattern I can see a number of very valuable patterns emerging around very fast space travel and communications. What becomes important? Finding other entities, getting there, and then spreading out.
 
-We see posulazation about biological entities by people like Freeman Dyson that proposed a type of animal that is evolved for interstellar travel.
+We see postulation about biological entities by people like Freeman Dyson that proposed a type of animal that is evolved for interstellar travel.
 
-It is unlikely that anything on that scale is going to directly impact us here on earth though.  What is much more likely with our current tech are genetic engenering issues that lead to odd and potentially horrifying things that we see in fiction like predetors being specifically designed for war or chimeric efforts like the island of Dr. Morou.
+It is unlikely that anything on that scale is going to directly impact us here on earth though. What is much more likely with our current tech are genetic engineering issues that lead to odd and potentially horrifying things that we see in fiction like predators being specifically designed for war or chimeric efforts like the island of Dr. Moreau.
 
-In the end, it is the economics of biodiversity that must produce a system that revolves around something other than grouping or time observation.  We also have the added compnent that the bootstrap must be 'up'.  Biology has bootstraped a number of extrodinary systems in the inorganic space. We talk about these as structure and environment.  But these systems are not 'above' the biological and are based on a known area of operations.  This becomes much more important at the next two levels where we have a much richer area of 'known' areas to develop new systems in.
+In the end, it is the economics of biodiversity that must produce a system that revolves around something other than grouping or time observation. We also have the added component that the bootstrap must be 'up'. Biology has bootstrapped a number of extraordinary systems in the inorganic space. We talk about these as structure and environment. But these systems are not 'above' the biological and are based on a known area of operations. This becomes much more important at the next two levels where we have a much richer area of 'known' areas to develop new systems in.
 
 ##Society to Super-Society
 
