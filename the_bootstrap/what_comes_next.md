@@ -56,8 +56,8 @@ Society allocates resources and has produced, at the top of its evolution, the u
 
 It is the core tenet of this book that by reforming and targeting the way our money works, that we can enable this next bootstrap. What will occur, I think, is that the reconfiguration of our pursuit of cash will develop exponentially and produce institutions that transcend our 'known' areas. Big dreams, but we have to start somewhere.
 
-##Intellegence to Super-Intellegence
+##Intelligence to Super-Intelligence
 
-This one is fairly straight forward, but may not play out the way many expect.  This bootstrap isn't just faster intellegence.  Faster intellegence gets us there faster because the bootsrap builds ontop of the underlying structure of science.  But what will the super intellegence be?  What systems will emerge when science is so basic to a thing that a  systems is being built around it?
+This one is fairly straight forward, but may not play out the way many expect. This bootstrap isn't just faster intelligence. Faster intelligence gets us there faster because the bootstrap builds on top of the underlying structure of science. But what will the superintelligence be? What systems will emerge when science is so basic to a thing that a systems is being built around it?
 
 
