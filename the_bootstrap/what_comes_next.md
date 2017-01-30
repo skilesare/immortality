@@ -52,9 +52,9 @@ In the end, it is the economics of biodiversity that must produce a system that 
 
 ##Society to Super-Society
 
-Society allocates resources and has produced, at the top of its evolution the use of cash money economics to allocate things efficiently.  This gets much more difficult because our world is filled with things that are based on the pursute and allocation of cash/resources that opperate at lower levels.  Culture(and the governemnts that it spawns) and art are produced at these 'known' levels.  It is very difficult to look beyond the know and think about what kind of system could the pursuite of resources produce that is 'beyond' the known areas, but that is what is really at the heart of this book.
+Society allocates resources and has produced, at the top of its evolution, the use of cash money economics to allocate things efficiently. This gets much more difficult because our world is filled with things that are based on the pursuit and allocation of cash/resources that operate at lower levels. Culture(and the governments that it spawns) and art are produced at these 'known' levels. We have difficulty speculating about what kind of system the pursuit of resources could produce that is 'beyond' the known areas.  Arranging a universe in a way that accelerates the collection of knowledge needed to figure this out is at the heart of this book.
 
-It is the core tenet of this book that by reforming and targeting the way our money works, that we can enable this next bootstrap.  What will occur, I think, is that the reconfiguration of our pursuit of cash will develop expontially building institutions that trancende our 'known' areas.  Big dreams, but we have to start somewhere.
+It is the core tenet of this book that by reforming and targeting the way our money works, that we can enable this next bootstrap. What will occur, I think, is that the reconfiguration of our pursuit of cash will develop exponentially and produce institutions that transcend our 'known' areas. Big dreams, but we have to start somewhere.
 
 ##Intellegence to Super-Intellegence
 
