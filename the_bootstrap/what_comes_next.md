@@ -2,7 +2,7 @@
 
 So what comes next?  How do we pursue what comes next?  Should we pursue what comes next?
 
-There are a lot of questions here and very few answers.  Lets look at each possibility and see if we cna find examples of a bootstrap already occuring.
+There are a lot of questions here and very few answers.  Let's look at each possibility and see if we can find examples of a bootstrap already occurring.
 
 Inorganic -> Biology II
 
@@ -10,31 +10,31 @@ Biology -> System III
 
 Society -> Supersociety
 
-Intellegence -> Superintellegence
+Intelligence -> Superintelligence
 
-What we find is that predicing the next bootsrap is much more complicated that first considered because we now have four different frames through which to achieve it.
+What we find is that predicting the next bootstrap is much more complicated that first considered because we now have four different frames through which to achieve it.
 
 ##Inorganic -> Biology II
 
-The first scenario to consider is that the inorganic is not finished bootstrapping at all.  The biological was an impressive levraging of pattenred forces to an entier new system, but perhaps the carbon based bootstrap is just the first and most likely pattern to emerge as a coherent system.
+The first scenario to consider is that the inorganic is not finished bootstrapping at all. The biological was an impressive leveraging of patterned forces to an entire new system, but perhaps the carbon based bootstrap is just the first and most likely pattern to emerge as a coherent system.
 
-In fact it is likely that if we spend enough time looking and changing our frame we will find all sorts of bootstraps taht have occured because of patterned forces.
+In fact it is likely that if we spend enough time looking and changing our frame we will find all sorts of bootstraps that have occurred because of patterned forces.
 
-The forming, expanding, and dying of galexies may be at one end of the time and distance scale where we see emergence of entities, with diversity and interaction.
+The forming, expanding, and dying of galaxies may be at one end of the time and distance scale where we see emergence of entities, with diversity and interaction.
 
-On a much smaller scale, science is uncovering a number of inorganic pattenrns that can be maniplated to produce unique behavior.  It is likely that the conditions for some of these patterns to sustain themselves may take an intellegnce to produce.
+On a much smaller scale, science is uncovering a number of inorganic patterns that can be manipulated to produce unique behavior. It is likely that the conditions for some of these patterns to sustain themselves may take an intelligence to produce.
 
-Consider for example, an set of inorganiclly based neurons that have produce an intellegence that can sustain itself and spread itself.  From what we know about electricity and the forces involved, it is possible that this kind of bootstrap has already occured 'somewhere' out in the universe.  Many AI researchers are actively trying to pursue this kind of bootstrap.
+Consider for example, an set of inorganically based neurons that have produce an intelligence that can sustain itself and spread itself. From what we know about electricity and the forces involved, it is possible that this kind of bootstrap has already occurred 'somewhere' out in the universe. Many AI researchers are actively trying to pursue this kind of bootstrap.
 
-The key thing to consider here is what would identify something as a unique Bioloby II instead of just another branch of our current biologicall bootstrap.  The answer is that the underlying economics of this Biology II would not use reproduction as the basis of it's new economics.
+The key thing to consider here is what would identify something as a unique Biology II instead of just another branch of our current biological bootstrap. The answer is that the underlying economics of this Biology II would not use reproduction as the basis of its new economics.
 
-This is a very hard thing to even imagine, but lets try.  Consider something like 'the borg' in Star Trek.  Now this example has a bit of intellegence mixed in(otherwise it wouldn't be a very good story), but lets pretend that the borg didn't have an evil intellegence at its center, but instead just operated on the basis of 'assimilation'.  This system seeks to draw resources to itself and grow.
+This is a very hard thing to even imagine, but let’s try. Consider something like 'the borg' in Star Trek. Now this example has a bit of intelligence mixed in(otherwise it wouldn't be a very good story), but let’s pretend that the borg didn't have an evil intelligence at its center, but instead just operated on the basis of 'assimilation'. This system seeks to draw resources to itself and grow.
 
-Like I said, the examples are hard, but there may be some merit in looking at genreal, base elements and considering, 'what system to I want to be at work here' and then aranging the elements in such a way that the elements pursue that agenda.  The bootstrap is what emerges out of that we don't expect.
+Like I said, the examples are hard, but there may be some merit in looking at general, base elements and considering, 'what system to I want to be at work here' and then arranging the elements in such a way that the elements pursue that agenda. The bootstrap is what emerges out of that we don't expect.
 
-You can see the areas of personalized medice and nanotechnology here.  You can also see the underlying threats of things like the gray goo scenario that we will talk about later.
+You can see the areas of personalized medicine and nanotechnology here. You can also see the underlying threats of things like the gray goo scenario that we will talk about later.
 
-In the end we still have the economics of patterned forces at the inorganic level, but we are looking for ways in which those forces emerge to prusue something other than 'survival of the fitest'
+In the end we still have the economics of patterned forces at the inorganic level, but we are looking for ways in which those forces emerge to pursue something other than 'survival of the fittest.'
 
 ##Biology to System III
 
