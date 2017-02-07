@@ -1,13 +1,10 @@
-# Democratic Hypercapitalism
+# Democratic Hypercatallaxy
 
 
 
-We have chosen the name Democratic Hypercapitalism to speak towards our systems key concepts of the democratic veto and the issuing of capital upon each transaction.
-
-
+We have chosen the name Democratic Hypercatallaxy to speak towards our systems key concepts of the democratic veto and the issuing of capital upon each transaction.
 
 In this book we will flesh out our form language for our new money and provide conceptual details. The following forms will be discussed in detail:
-
 
 
 The types of accounts
@@ -80,6 +77,6 @@ The political objects tied to the currency
 
 
 
-We will then provide instructive scenarios about how the forms will interact to form our vision of democratic hypercaptialism.
+We will then provide instructive scenarios about how the forms will interact to form our vision of democratic hypercatallaxy.
 
 
