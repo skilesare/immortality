@@ -1,3 +1,10 @@
+# The Moral Grid
+
+The following chart lays out the current spectrum of political ideologies.  We can see how each ideology holds up to our ideal of recognizing the authority of the intellect over society, but also approaches society with a permissive responsibility.
+
+We find the most ideal state to be that of the progressive.  This parallels our ideal of stepwise refinement and genuinely reflects the ideals of the enlightenment.
+
+Of course to those on the far left, progressivism will seem far too conservative, but hopefully, our new framework of bootstraps will reign in those that would charge wildly into the future with no concern for the present wholeness.
 
 | | description | cultural authority | intellectual authority | cultural responsibility (diversity) | intellectual responsibility (science)
 | -- |
