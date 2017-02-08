@@ -32,6 +32,7 @@
       * [Assumptions](achieving_supersociety/assumptions.md)
       * [Seed To Vision](achieving_supersociety/seed-to-vision.md)
       * [What is Missing?](achieving_supersociety/what-is-missing.md)
+      * [A Technical Proof](achieving_supersociety/a-technical-proof.md)
     * [The Form Language](achieving_supersociety/the-form-language.md)
       * [Fundamentals](achieving_supersociety/fundamentals.md)
         * [State Accounts](achieving_supersociety/state-accounts.md)

@@ -9,7 +9,7 @@ For the poor and uneducated the state should supply cash in the form of welfare.
 
 Therefore:
 
-**Welfare should be paid in cash so that the prefs earned by the poor eventually ween them off of the system.**
+**Welfare should be paid in cash so that the prefs earned by the poor eventually wean them off of the system.**
 
 ----------
 
