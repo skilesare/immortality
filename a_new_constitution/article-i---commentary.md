@@ -20,23 +20,19 @@ Geographic state because our new system does later provide for qusi-state instit
 
 _and the Electors in each state shall have the Qualifications requisite for Electors of the most numerous Branch of the Geographic State's Legislature._
 
-```
 
-todo: do we need the Electors if both branches will be determined by popular vote?
 
-```
+_Each representative shall be limited to three regular elected terms in office after which they will be ineligible to serve in the House of Representatives._
 
-_Each representative shall be limited to three regular elected terms in office after which they will be inelegible to serve in the House of Representatives._
-
-Term limits for congress. Finally. With 350 million people in our country we can surly finde a few hundred new ones each 6 years to represent us.
+Term limits for congress. Finally. With 350 million people in our country we can surly find a few hundred new ones each 6 years to represent us.
 
 _No Person shall be a Representative who shall not have attained to the Age of twenty five Years, and shall have been four Years a Citizen of the state, and who shall, when elected, be an Geographically Elected Inhabitant of that State in which they shall be chosen._
 
-Here we've added a more stingent residency requirement for representatives to try to reduce carpet bagging professional politicians.
+Here we've added a more stringent residency requirement for representatives to try to reduce carpetbagging professional politicians.
 
-_Representatives must not have recieved private payments of cash or private allotments of capital for one year before taking office unless elected or assigned for a vacancy. Representtives must elect to not recieve private payments while in office and for ten years after leaving office._
+_Representatives must not have received private payments of cash or private allotments of capital for one year before taking office unless elected or assigned for a vacancy. Representatives must elect to not receive private payments while in office and for ten years after leaving office._
 
-Private payments are feature of the catallaxian economy where private citizens can engage in commerce that is still on the public ledger but not traceable to  the citezens that engage in that commerce.  One may want this feature if you are paying for a sensitive medical procedure or any number of other things that you don't want your neighbors to know about.  This section prohibits those that want to run for congress from engaging in that kind of activity for  a year before they are elected(while they are running for office) and for 10 years after leaving office.  Serving in this position should be a privilage and grants privledges that come with significan responsibilities.  This feature does not prohibit them from making privte payments, just from recieving them.
+Private payments are feature of the catallaxian economy where private citizens can engage in commerce that is still on the public ledger but not traceable to  the citizens that engage in that commerce.  One may want this feature if you are paying for a sensitive medical procedure or any number of other things that you don't want your neighbors to know about.  This section prohibits those that want to run for congress from engaging in that kind of activity for  a year before they are elected(while they are running for office) and for 10 years after leaving office.  Serving in this position should be a privilege and grants privileges that come with significant responsibilities.  This feature does not prohibit them from making private payments, just from receiving them.
 
 _The Number of Representatives shall number at least 400. The number of Representatives from each State shall not exceed the number of Geographically Elected Inhabitant of that state divided by the whole count of Accounted Citizens divided by 500, but each State shall have at Least one Representative, and until such enumeration shall be made, the States shall have the following allotment:_
 
@@ -150,7 +146,7 @@ Senators and Representatives shall be chosen by ranked choice election by the in
 
 This establishes the ranked coice voting scheme for the House and Senate.  The concept is the same for the senete except that only one senator is chosen at a time.  This can still encourage third party candiates by giving citizens the ability to vote for a fringe candidate first and then major party candidate 2nd so that their vote will still count when the thrid party is elemenated.  On the other hand, enough people doing the same may elimenate the main candidates and elevate an outsider.
 
-_States in which elect more than 3 representatives will have their State sectioned into smaller subdistrics for elections by programatic geographic algorithm that proceedes in allocations of five miles squared from the North West corner of the territory and moving East, then south until the proportional number of geographically elected citizens is reached. Neither Congress, nor state ledgislatures my alter the allotment of subdistrics for any reason unless this constitution is ammended._
+_States in which elect more than 3 representatives will have their State sectioned into smaller subdistrics for elections by programatic geographic algorithm that proceedes in allocations of five miles squared from the North West corner of the territory and moving East, then south until the proportional number of geographically elected citizens is reached. Neither Congress, nor state ledgislatures my alter the allotment of subdistrics for any reason or in any way unless this constitution is ammended._
 
 This clause eleminates gerrymandering.  By dividing subdistricts by algorithem we reduce the ability for state governments to collude to take control of the house by splitting districts to neutralize a minority vote.
 
