@@ -6,7 +6,7 @@
 
 Methods of collecting taxes have always been controversial, and yet the state needs to collect money to run its services.
 
-Historically, it has printed the money, leading to inflation, or taxed its citizens and participated as a market participant.  The former has had devastating effects.  The later has generated more hot air on cable news networks then should be legal.
+Historically, the State has printed the money, leading to inflation, or taxed its citizens and participated as a market participant.  The former has had devastating effects.  The later has generated more hot air on cable news networks then can be measured.
 
 Our money should make taxation as painless and transparent as possible.
 

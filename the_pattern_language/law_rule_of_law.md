@@ -12,7 +12,7 @@ Without the rule of law, a citizen can refuse a form of payment for a debt or fo
 
 In addition, theft often has no recourse in classic cryptocurrency schemes. If cash is stolen and moved from one wallet to another by unlawful means, there is no way, other than force and torture to move the money back.  By integrating rule of law into our scheme for a new form of money we will allow the state to right wrongs.
 
-What of state corruption an misuse of the rule of law?  This is a hard question to answer as the threat of overwhelming force has been the cause of many unjust acts by the state.  Our money must provide a way for the citizens to keep the government accountable.  The citizens must be the administer of rule of law on the government.  For that purpose we will later propose transparency by the government and the power of veto by citizens.
+What of state corruption and misuse of the rule of law?  This is a hard question to answer as the threat of overwhelming force has been the cause of many unjust acts by the state.  Our money must provide a way for the citizens to keep the government accountable.  The citizens must be the administer of rule of law on the government.  For that purpose we will later propose transparency by the government and the power of veto by citizens.
 
 
 Therefore:

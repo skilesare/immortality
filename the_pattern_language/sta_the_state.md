@@ -1,6 +1,6 @@
 # STA. The State
 
-... how can an economic piston **(EPI)** organize its self at the top level?
+... how can an economic piston **(EPI)** organize itself at the top level?
 
 **Absolute power corrupts absolutely.  How can global power be broken up to ensure a balance of power between citizens of the world.**
 
@@ -10,9 +10,9 @@ We don't pretend to have the answer to which 'size' a state should be but we do 
 
 We can say that should not be one global state.
 
-We can also say that it would be inconvenient for the laws of the land to change every time you crossed a street so a state should not be the size of a ciy block.
+We can also say that it would be inconvenient for the laws of the land to change every time you crossed a street so a state should not be the size of a city block.
 
-Somewhere in between is the answer and if one take the idea of wholeness, it is likely that the answer of the size of a state is dependent on the states around it, and the geography, and the make up of the organizations of its citizens.
+Somewhere in between is the answer and if one take the idea of wholeness, it is likely that the answer of the size of a state is dependent on the states around it, and the geography, and the makeup of the organizations of its citizens.
 
 So if size is variable, what is constant?  The state is helpful for the organizing of a people into a coherent group so that they can govern themselves.  By creating a state with a constitution that protects the rights of citizens, order and human dignity can both be maintained.
 
