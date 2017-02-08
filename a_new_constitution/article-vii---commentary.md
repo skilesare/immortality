@@ -5,7 +5,7 @@ This is the 'Bill of Rights' Article where we incorporate the amendments to the 
 _Article VII_
 
 
-_All persons born or naturalized in the United States or of new territories admited to the Union, and subject to the jurisdiction thereof, who have elected the govenrnment tax at 0x8394857, and who have elected a geographic residence within the bounds of memeber state are citizens of the United States and of the State wherein they have geographically elected. Residents may elect a non-discript location for their privacy but must reside within 10 mile of that location for at least 10 days a year and the Congress shall have power to enforce this article by appropriate legislation._
+_All persons born or naturalized in the United States or of new territories admitted to the Union, and subject to the jurisdiction thereof, who have elected the government tax at 0x8394857, and who have elected a geographic residence within the bounds of member state are citizens of the United States and of the State wherein they have geographically elected. Residents may elect a non-descript location for their privacy but must reside within 10 mile of that location for at least 10 days a year and the Congress shall have power to enforce this article by appropriate legislation._
 
 The above defines what a 'citizen' is under this constitution.
 
