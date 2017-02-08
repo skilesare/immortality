@@ -376,9 +376,9 @@ To provide for organizing, arming, and disciplining, the Militia, and for govern
 
 No change
 
-_To exercise exclusive Legislation in all Cases whatsoever, over such District (not exceeding ten Miles square) as may, by Cession of particular States, and the Acceptance of Congress, become the Seat of the Government. But this district shall not allow for any accounted citizen or corporation to geographically elect inside the distct such that no citizen may be disenfranchised and no corpration shall escape taxation and so that the district shall not need a seperate government._
+_To exercise exclusive Legislation in all Cases whatsoever, over such District (not exceeding ten Miles square) as may, by Cession of particular States, and the Acceptance of Congress, become the Seat of the Government. But this district shall not allow for any accounted citizen or corporation to geographically elect inside the district such that no citizen may be disenfranchised and no corporation shall escape taxation and so that the district shall not need a separate government._
 
-This is a little bit of a change from the current Wasington DC clause in that we don't allow this district to have citizens.  Citizens will need to have their geographic elections outside of this district.
+This is a little bit of a change from the current Washington DC clause in that we don't allow this district to have citizens.  Citizens will need to have their geographic elections outside of this district.
 _
 To exercise Authority over all Places purchased by the Consent of the Legislature of the States for the Erection of Forts, Magazines, Arsenals, dock-Yards, space stations, and other needful Buildings;_
 
@@ -386,11 +386,11 @@ No change except space stations.
 
 _To create an agency for the oversight, maintaining of fairness, and protection of citizens in lending, banking, and finance._
 
-Puts the SEC and consumer finance protection buraus into the constitution.
+Puts the SEC and consumer finance protection bureaus into the constitution.
 
-_To create an agency for oversight of campign finance laws so that fairness and the integritiy of national and state elections shall be maintained._
+_To create an agency for oversight of campaign finance laws so that fairness and the integrity of national and state elections shall be maintained._
 
-Tasks congress with the obligation to maintain fair elections and to ledgislate campaing finace laws so that Citizens United can't be called free speech.
+Tasks congress with the obligation to maintain fair elections and to legislate campaign finance laws so that Citizens United can't be called free speech.
 
 _And Finally,_
 _
@@ -425,7 +425,7 @@ _No Money shall be drawn from the Treasury, but in Consequence of Appropriations
 No change.
 
 
-_Any information collected by the government with the use of money from the Tresury shall be collected in a way that it may be easily made availiable to any requesting accounted citizen in as small a time frame as technology shall resonalbay allow._
+_Any information collected by the government with the use of money from the Treasury shall be collected in a way that it may be easily made available to any requesting accounted citizen in as small a time frame as technology shall reasonably allow._
 
 This institutes open data laws and makes any information collected and modified by the government open for public download.
 
@@ -434,9 +434,9 @@ _No Title of Nobility shall be granted by the Government: And no Person holding 
 No Change.
 
 
-The power of the congress to create electable taxes on citizens and mandatory taxes on corporations and artifical capital, shall be non-exclusive and congress shall not deny the rights of states, jurisdictions, cross-state organizations, or other entities to create and collect electable taxes such that all collections and dispersions of funds into those accounts are open for public inspection and that no private payments are made to or from such accounts.
+The power of the congress to create electable taxes on citizens and mandatory taxes on corporations and artificial capital, shall be non-exclusive and congress shall not deny the rights of states, jurisdictions, cross-state organizations, or other entities to create and collect electable taxes such that all collections and dispersions of funds into those accounts are open for public inspection and that no private payments are made to or from such accounts.
 
-This establishes the catallaxian system of electable taxes as well as allowing for state, local, and other forms of organizations to act as psudo-states inside the republic as long as the adhear to the same open and no private payment laws.  All tax collection and expenditure must be listed on a public ledger and be open for inspection.
+This establishes the catallaxian system of electable taxes as well as allowing for state, local, and other forms of organizations to act as pseudo-states inside the republic as long as the adhere to the same open and no private payment laws.  All tax collection and expenditure must be listed on a public ledger and be open for inspection.
 
 _Section. 10._
 
@@ -447,6 +447,6 @@ No Change
 
 _Section 11._
 
-_Representative, Senator, or Executive shall only raise cash for the puroposes of running a campaigne except by the requesting the election of tax on demurrage by accounted citizens that shall be capped on a per citizen basis such that the integrity of the officials are maintained and no one set of citizens may hold more sway over said officials, except that congress may allow for the matching of elected funds with public funds from the tresurey in uniform proportion and without regard to political party or agenda._
+_Representative, Senator, or Executive shall only raise cash for the purposes of running a campaign except by the requesting the election of tax on demurrage by accounted citizens that shall be capped on a per citizen basis such that the integrity of the officials are maintained and no one set of citizens may hold more sway over said officials, except that congress may allow for the matching of elected funds with public funds from the treasury in uniform proportion and without regard to political party or agenda._
 
-Institues the public funding of election at all levels of government and allows for congress to match these funds. This was borrowed from somewhere and I can't find the original source.
+Institutes the public funding of election at all levels of government and allows for congress to match these funds. This was borrowed from somewhere and I can't find the original source.
