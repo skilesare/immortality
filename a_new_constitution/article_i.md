@@ -170,7 +170,7 @@ No subdistrict shall elect more than 3 representatives.
 
 The Congress shall assemble at least once in every Year, and such Meeting shall be on the second Monday in January, unless they shall by Law appoint a different Day.
 
-Section. 5.
+## Section. 5.
 
 Each House shall be the Judge of the Elections, Returns and Qualifications of its own Members, and a Majority of each shall constitute a Quorum to do Business; but a smaller Number may adjourn from day to day, and may be authorized to compel the Attendance of absent Members, in such Manner, and under such Penalties as each House may provide.
 
@@ -182,51 +182,51 @@ Each House shall keep a Journal of its Proceedings published on a Blockchain, an
 
 Neither House, during the Session of Congress, shall, without the Consent of the other, adjourn for more than three days.
 
-Section. 6.
+## Section. 6.
 
 The Senators and Representatives shall receive a Compensation for their Services, to be ascertained by Law, and paid out of the Treasury of the congress.
 
-Any increase in pay or benifits for either house must not take effect until all current members have reached their term limits.
+Any increase in pay or benefits for either house must not take effect until all current members have reached their term limits.
 
 Senators and representatives shall in all Cases, except Treason, Felony and Breach of the Peace, be privileged from Arrest during their Attendance at the Session of their respective Houses, and in going to and returning from the same; and for any Speech or Debate in either House, they shall not be questioned in any other Place.
 
-No Senator or Representative shall, during the Time for which he was elected, be appointed to any civil Office under the Authority of this constitution, which shall have been created, or the Emoluments whereof shall have been encreased during such time; and no Person holding any Office under this constitution, shall be a Member of either House during his Continuance in Office.
+No Senator or Representative shall, during the Time for which he was elected, be appointed to any civil Office under the Authority of this constitution, which shall have been created, or the Emoluments whereof shall have been increased during such time; and no Person holding any Office under this constitution, shall be a Member of either House during his Continuance in Office.
 
-Section. 7.
+## Section. 7.
 
 All Bills for raising Revenue shall originate in the House of Representatives; but the Senate may propose or concur with Amendments as on other Bills.
 
-Every Bill which shall have passed the House of Representatives and the Senate, shall, before it become a Law, be presented to the People for a period of three weeks during which the vote of each representative may be subject to review and override as perscribed in Right XVII of Article VII of this constitution. Then President of the Executive Branch; If she approve she shall sign it, but if not she shall return it, with his Objections to that House in which it shall have originated, who shall enter the Objections at large on their Blockchain, and proceed to reconsider it. If after such Reconsideration two thirds of that House shall agree to pass the Bill, it shall be sent, together with the Objections, to the other House, by which it shall likewise be reconsidered, and if approved by two thirds of that House, it shall again be submitted to the people for review and overrided and with such, if a 2/3 majority remain in favor, become a Law. But in all such Cases the Votes of both Houses shall be determined by yeas and Nays, and the Names of the Persons voting for and against the Bill shall be entered on the Blockchain of each House respectively. If any Bill shall not be returned by the President within ten Days after it shall have been presented to him, the Same shall be a Law, in like Manner as if he had signed it, unless the Congress by their Adjournment prevent its Return, in which Case it shall not be a Law.
+Every Bill which shall have passed the House of Representatives and the Senate, shall, before it become a Law, be presented to the People for a period of three weeks during which the vote of each representative may be subject to review and override as prescribed in Right XVII of Article VII of this constitution. Then President of the Executive Branch; If she approve she shall sign it, but if not she shall return it, with his Objections to that House in which it shall have originated, who shall enter the Objections at large on their Blockchain, and proceed to reconsider it. If after such Reconsideration two thirds of that House shall agree to pass the Bill, it shall be sent, together with the Objections, to the other House, by which it shall likewise be reconsidered, and if approved by two thirds of that House, it shall again be submitted to the people for review and override and with such, if a 2/3 majority remain in favor, become a Law. But in all such Cases the Votes of both Houses shall be determined by yeas and Nays, and the Names of the Persons voting for and against the Bill shall be entered on the Blockchain of each House respectively. If any Bill shall not be returned by the President within ten Days after it shall have been presented to him, the Same shall be a Law, in like Manner as if he had signed it, unless the Congress by their Adjournment prevent its Return, in which Case it shall not be a Law.
 
 Every Order, Resolution, or Vote to which the Concurrence of the Senate and House of Representatives may be necessary (except on a question of Adjournment) shall be presented to the President of the United States; and before the Same shall take Effect, shall be approved by her, or being disapproved by her, shall be repassed by two thirds of the Senate and House of Representatives, according to the Rules and Limitations prescribed in the Case of a Bill.
 
-All bills must be specific and on point of a single issue, with no amendment from tangential issues attached.  All sections of a bill must have a direct and clear corrolation to other sections and all must adhear to the subject of the bill as declared in the preamble.  The Exectutive may line item veto articles, sections or subsections that do not meet the direct and clear standard and if signed, the whole bill, excluding those sections shall become law. Congress may superceed any line item veto by passing a seperate resolution including those vetoed sections as a seperate Bill by a 2/3 majority of both houses.
+All bills must be specific and on point of a single issue, with no amendment from tangential issues attached.  All sections of a bill must have a direct and clear correlation to other sections and all must adhere to the subject of the bill as declared in the preamble.  The Executive may line item veto articles, sections or subsections that do not meet the direct and clear standard and if signed, the whole bill, excluding those sections shall become law. Congress may supersede any line item veto by passing a separate resolution including those vetoed sections as a separate Bill by a 2/3 majority of both houses.
 
-Section. 8.
+## Section. 8.
 
 The Congress shall have Power To create electable taxes, Duties and Imposts and Excises.
 
 Taxes shall be limited to:
 
-The demurrage of cash from accounts, citizened and corporate, to accounted citizen.
+The demurrage of cash from accounts, citizen and corporate, to accounted citizen.
 
-The demuragge of cash from corporate accounts to other corporate accounts. The tax rate on corporate demurrage may not be lower than the tax rate on accounted citizen demurrage.
+The demurrage of cash from corporate accounts to other corporate accounts. The tax rate on corporate demurrage may not be lower than the tax rate on accounted citizen demurrage.
 
 The demurrage of artificial capital to the commons such that the demurrage is offered up for public bid for a period of at least two weeks and that the demurred from entity shall have the right to pay a tax equal to the highest bid to retain the rights granted by the capital else the tax may be collected from the highest bidder. If there is no bid for the artificial capital its ownership shall remain with the state and must be submitted for rebid after no more than one year.
 
 Congress shall lay no tax on the income of accounted citizens but may tax incomes of corporate entities whose owners enjoy limited liability.
 
-Congress shall lay no tax on the forgivness of debts issued to accounted citizens via blockchained and demurraging cash.
+Congress shall lay no tax on the forgiveness of debts issued to accounted citizens via blockchained and demurraging cash.
 
-All donations to coproate accounts representing religios institutions shall be taxed as income and may not be ununiform from other corporate levies.
+All donations to corporate accounts representing religious institutions shall be taxed as income and may not be ununiform from other corporate levies.
 
 Excises shall be limited to:
 
-Activites and good which reduce the availability of the commons to future use. Including but not limited to, carbon emissions, extraction of minerals, spoilage of water, or the destruction of land.
+Activities and good which reduce the availability of the commons to future use. Including but not limited to, carbon emissions, extraction of minerals, spoilage of water, or the destruction of land.
 
-Activites and goods by which humans may reduce their length or quality of life.
+Activities and goods by which humans may reduce their length or quality of life.
 
-Duties and Imposts may not be levied on goods or services moving amongst geographically elected territories, but may be levied on goods an services imported from foriegn nations.
+Duties and Imposts may not be levied on goods or services moving amongst geographically elected territories, but may be levied on goods and services imported from foreign nations.
 
 The revenues generated must be allocated by congress to:
 
@@ -236,7 +236,7 @@ To borrow Money on the credit of the government;
 
 To regulate Commerce with foreign Nations, and among the several States;
 
-To establish an uniform Rule of Naturalization, and uniform Laws on the subject of Bankruptcies throughout the elected territiories;
+To establish an uniform Rule of Naturalization, and uniform Laws on the subject of Bankruptcies throughout the elected territories;
 
 To coin Money via a blockchain, regulate the Value thereof, and of foreign Coin, and fix the Standard of Weights and Measures;
 
@@ -246,7 +246,9 @@ To establish Post Offices and post Roads;
 
 To establish off-world colonies, both on worlds and as space stations, and regulate the trade routes amongst them, to preserve the long term existence of the human race.
 
-To promote the Progress of Science and useful Arts, by securing for limited Times to Authors and Inventors the exclusive Right to their respective Writings and Discoveries such that the grant of rights adhears to the following set of retrictions: no grant of rights shall be extended beyond its orginal grant. Exclusive Patents on Technolgies must include a material component. Patents that do not contain a material component and software patents must be open patents. Patents of technology shall not exced 21 years and if it is found that upholding the patent shall endanger the life of any citizen than it shall be declared an open patent by the courts. The use of open patatents by citizens and non-limited libility entities shall not be infringed. Any limited liability corporation wishing to use an open pattents may do so by negotiationg the rights with the patent holder or by providing common stock of the corporation wanting to use the technology to the patent awardee valued at equal to the cost of developing the technology as declared by the patent holder in the patent. Copywrites on images, texts, films, renderings, and other such creative arts shall not exced 50 years. Congress shall make no law extending or circumventing patent and copywrite limits except by proposing an amendment to this constituiton via the perscribed method in Article X. Patents rights and Copyright rights shall not be transfered from one citizen to another except that citizens may leave patent rights to heirs upon death. Corporations may only transfer patent rights upon blockchain bankruptcy or wholesale purchase of the corporation. No corporation shall be granted a patent who's sole or majority business is the holding and enforcing of patenets. Corporations may not hold copywrite but must pass the copywrite either directly to the citizens responsible for the production of the art or a class of all citizens who have recieved a payment for employment or services for the time period during which the art was created. And the right to recend assignment of copywrite rights from citizens or a class of citizens shall not be restricted.
+To promote the Progress of Science and useful Arts, by securing for limited Times to Authors and Inventors the exclusive Right to their respective Writings and Discoveries such that the grant of rights adheres to the following set of restrictions: no grant of rights shall be extended beyond its original grant. Exclusive Patents on Technologies must include a material component. Patents that do not contain a material component and software patents must be open patents. Patents of technology shall not exceed 21 years and if it is found that upholding the patent shall endanger the life of any citizen than it shall be declared an open patent by the courts. The use of open patents by citizens and non-limited liability entities shall not be infringed. Any limited liability corporation wishing to use an open patents may do so by negotiating the rights with the patent holder or by providing common stock of the corporation wanting to use the technology to the patent awardee valued at equal to the cost of developing the technology as declared by the patent holder in the patent. Copyrights on images, texts, films, renderings, and other such creative arts shall not exceed 50 years. 
+
+Congress shall make no law extending or circumventing patent and copyright limits except by proposing an amendment to this constitution via the prescribed method in Article X. Patents rights and Copyright rights shall not be transfered from one citizen to another except that citizens may leave patent rights to heirs upon death. Corporations may only transfer patent rights upon blockchain bankruptcy or wholesale purchase of the corporation. No corporation shall be granted a patent whose sole or majority business is the holding and enforcing of patents. Corporations may not hold copyright but must pass the copyright either directly to the citizens responsible for the production of the art or a class of all citizens who have received a payment for employment or services for the time period during which the art was created. And the right to rescind assignment of copyright rights from citizens or a class of citizens shall not be restricted.
 
 
 To constitute Tribunals inferior to the supreme Court;
