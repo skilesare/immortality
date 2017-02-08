@@ -249,9 +249,9 @@ _Taxes shall be limited to:_
 We are going to restrict what congress can do a little bit differently than the original constitution. Things are a bit more split out and we are going to talk about taxation a bit first. Below we specifically outline what can be taxed.
 
 
-_The demurrage of cash from accounts, citizened and corporate, to accounted citizen._
+_The demurrage of cash from accounts, citizen and corporate, to accounted citizen._
 
-Congress can tax the amount flowing from an corporate or citizent account to a citizen account via our catallaxian system.  The possilbe amount that can be taxed can be easily calculated by multiplying the money supply by the demurrage rate.  Congress would not want to tax this amount at a high rate, but may want to raise some revenues this way.
+Congress can tax the amount flowing from an corporate or citizen account to a citizen account via our catallaxian system.  The possible amount that can be taxed can be easily calculated by multiplying the money supply by the demurrage rate.  Congress would not want to tax this amount at a high rate, but may want to raise some revenues this way.
 
 _The demurrage of cash from corporate accounts to other corporate accounts. The tax rate on corporate demurrage may not be lower than the tax rate on accounted citizen demurrage.
 _
@@ -261,20 +261,19 @@ Flows to corporations can also be taxed and we outline here that that rate canno
 
 _The demurrage of artificial capital to the commons such that the demurrage is offered up for public bid for a period of at least two weeks and that the demurred from entity shall have the right to pay a tax equal to the highest bid to retain the rights granted by the capital else the tax may be collected from the highest bidder. If there is no bid for the artificial capital its ownership shall remain with the state and must be submitted for rebid after no more than one year._
 
-This is a wealth tax on artifical capital.  In exchange for limited liability corporatins must put their shares on the blockchain and their shares must be subject to decay back to the commons.  They have the right to buy these decayed shares back if they are willing to match and pay the highest bidded amount.  This should likely end up being the main vehicle of taxation.
+This is a wealth tax on artificial capital.  In exchange for limited liability corporations must put their shares on the blockchain and their shares must be subject to decay back to the commons.  They have the right to buy these decayed shares back if they are willing to match and pay the highest bidded amount.  This should likely end up being the main vehicle of taxation.
 _
 Congress shall lay no tax on the income of accounted citizens but may tax incomes of corporate entities whose owners enjoy limited liability._
 
 Outlaws income tax on individuals but allows it on corporations.
 
-_Congress shall lay no tax on the forgivness of debts issued to accounted citizens via blockchained and demurraging cash._
+_Congress shall lay no tax on the forgiveness of debts issued to accounted citizens via blockchained and demurraging cash._
 
-This outlaws the taxation of the forgivness of debt.  Remember that in our catallaxian system, many loans may turn into investments if the demurrage income starts to look more attractive than the loan repayment.  We want to encourage that.
+This outlaws the taxation of the forgiveness of debt.  Remember that in our catallaxian system, many loans may turn into investments if the demurrage income starts to look more attractive than the loan repayment.  We want to encourage that.
 
-_All donations to coproate accounts representing religious institutions shall be taxed as income and may not be ununiform from other corporate levies._
+_All donations to corporate accounts representing religious institutions shall be taxed as income and may not be ununiform from other corporate levies._
 
-Outlaws religeous tax breaks because why do we have these in the first place?
-
+Outlaws religious tax breaks because why do we have these in the first place?
 
 _Excises shall be limited to:_
 
