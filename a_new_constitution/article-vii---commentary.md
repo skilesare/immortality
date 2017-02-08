@@ -1,4 +1,4 @@
-# Article VII - commentary
+receive# Article VII - commentary
 
 This is the 'Bill of Rights' Article where we incorporate the amendments to the original US constitutions as an article in this new constitution.
 
@@ -272,7 +272,7 @@ _Restriction I_
 
 _Corporations shall be able to recieve private payments from accounted citizens but must make all outgoing payments public and open._
 
-Corporations can recieve private payments, but all expenditures must be made on the public ledger.
+Corporations can receive private payments, but all expenditures must be made on the public ledger.
 
 _Restriction II_
 
@@ -287,7 +287,7 @@ _Restriction III_
 
 
 
-_Corporations shall not perscribe or request any employee, partner, or contractors to lobby the government on its behalf and Congress shall power to enforce this Restriction by appropriate legislation._
+_Corporations shall not prescribe or request any employee, partner, or contractors to lobby the government on its behalf and Congress shall power to enforce this Restriction by appropriate legislation._
 
 Lobbying the government is outlawed by corporations.
 
@@ -297,47 +297,47 @@ _Restriction IV_
 
 
 
-_Corporations shall at no time make any payment to a public official in power in the United States or any of its States while the official is in office. After a public official leaves office, corporations will make no payments to the official for a time period of five years after leaving office unless the official shall become an employee or partner of a corporation but not if a gross and inappropriate number of other corporatins make payments to the same official under the suspision of bribery and/or quid-pro-quo payments for rendered services of the office. Congress shall power to enforce this Restriction by appropriate legislation._
+_Corporations shall at no time make any payment to a public official in power in the United States or any of its States while the official is in office. After a public official leaves office, corporations will make no payments to the official for a time period of five years after leaving office unless the official shall become an employee or partner of a corporation but not if a gross and inappropriate number of other corporations make payments to the same official under the suspicion of bribery and/or quid-pro-quo payments for rendered services of the office. Congress shall power to enforce this Restriction by appropriate legislation._
 
 Gives congress the power to regulate crony capitalism and outlaws gross consulting of former government consultants.
 
 _Restriction VI_
 
-_Congress shall make no law such that the demurrage of corproate accounts shall be less than that of national citizens, but it may be more._
+_Congress shall make no law such that the demurrage of corporate accounts shall be less than that of national citizens, but it may be more._
 
-Institutes that corportions must pay higher taxes than citizens on the demurrage of cash.
+Institutes that corporations must pay higher taxes than citizens on the demurrage of cash.
 
 _Section 8._
 
 
 _Citizens shall have the rights to form institutions by establishing an electable tax on demurrging cash and to fund the institution by the election of accounted citizens and corporations. And congress shall make no law restricting the formation of such institutions._
 
-Allows citizens to form psudo-state entities via electable taxes.  These entites are subject to the below restrictions and governments can take them over by choosing to fund their operation out of the public tresury.  The purpose of these entitites is to foster grassroots development of public benifit corporations that can prove out a public good or service and then pass the functioning of proven institutions to government oversight.
+Allows citizens to form pseudo-state entities via electable taxes.  These entities are subject to the below restrictions and governments can take them over by choosing to fund their operation out of the public treasury.  The purpose of these entities is to foster grassroots development of public benefit corporations that can prove out a public good or service and then pass the functioning of proven institutions to government oversight.
 
-_Congress shall have no ledgilative power over the institution unless the congress shall match the citizen funding of the institution from the national tresury._
+_Congress shall have no legislative power over the institution unless the congress shall match the citizen funding of the institution from the national treasury._
 
 Call for congress to double the funding of an organization to take it over.
 
-_Such institution shall not be restricted by geographical boundries._
+_Such institution shall not be restricted by geographical boundaries._
 
 Allows these institutions to operate outside of state control.
 
-_The Government shall guarantee to every Instituion in this Union a Republican Form of Government, and shall protect each of them against against domestic Violence._
+_The Government shall guarantee to every Institution in this Union a Republican Form of Government, and shall protect each of them against against domestic Violence._
 
 The public institutions must have a democratic structure and the government must protect the institutions.
 
-_Institutions shall have the power to restrict the benifits of their actions to citizens that have elected the tax of the memebership._
+_Institutions shall have the power to restrict the benefits of their actions to citizens that have elected the tax of the membership._
 
 Allows the institutions to limit their services to citizens that pay a tax.
 
 
-_Such instituitons not funded by congress shall be subject to the bounds of this constitution by oversight from the exectuive and any case broght against an institution shall be the jurisdiciton of the national judiciary._
+_Such institutions not funded by congress shall be subject to the bounds of this constitution by oversight from the executive and any case brought against an institution shall be the jurisdiction of the national judiciary._
 
-Unfunded institutions are not subjec to congress but to the oversight of the prsident and exectutive branch and the general laws of the constitution.
+Unfunded institutions are not subject to congress but to the oversight of the president and executive branch and the general laws of the constitution.
 
-_Such instituitons funded by congress shall be subject to the bounds of this constitution and any law passed by congress and any case broght against an institution shall be the jurisdiciton of the national judiciary._
+_Such institutions funded by congress shall be subject to the bounds of this constitution and any law passed by congress and any case brought against an institution shall be the jurisdiction of the national judiciary._
 
-Once funded by congress these institutions can then be controled by congress.
+Once funded by congress these institutions can then be controlled by congress.
 
 
 
@@ -356,9 +356,9 @@ Overturns citizens united. Taken from wolf-pac or some other such institution tr
 
 
 
-_Third, Nothing in this restricton shall be construed to grant Congress or the States the power to abridge the freedom of the press._
+_Third, Nothing in this restriction shall be construed to grant Congress or the States the power to abridge the freedom of the press._
 
-Maintains the freedom of the press inspite of the new restrictions.
+Maintains the freedom of the press in spite of the new restrictions.
 
 
 
