@@ -283,7 +283,7 @@ And Finally,
 
 To make all Laws which shall be necessary and proper for carrying into Execution the foregoing Powers, and all other Powers vested by this Constitution in the Government, or in any Department or Officer thereof.
 
-Section. 9.
+## Section. 9.
 
 The Migration of such Persons as any of the States shall think proper to admit, shall not be prohibited or taxed by the Congress.
 
@@ -297,20 +297,20 @@ No Preference shall be given by any Regulation of Commerce or Revenue to the Por
 
 No Money shall be drawn from the Treasury, but in Consequence of Appropriations made by Law; and a regular Statement and Account of the Receipts and Expenditures of all public Money shall be published from time to time.
 
-Any information collected by the government with the use of money from the Tresury shall be collected in a way that it may be easily made availiable to any requesting accounted citizen in as small a time frame as technology shall resonalbay allow.
+Any information collected by the government with the use of money from the Treasury shall be collected in a way that it may be easily made available to any requesting accounted citizen in as small a time frame as technology shall reasonably allow.
 
 No Title of Nobility shall be granted by the Government: And no Person holding any Office of Profit or Trust under them, shall, without the Consent of the Congress, accept of any present, Emolument, Office, or Title, of any kind whatever, from any King, Prince, Foreign State or Corporate Entity.
 
-The power of the congress to create electable taxes on citicens and mandatory taxes on corporations and artifical capital, shall be non-exclusive and congress shall not deny the rights of states, jurisdictions, cross-state organizations, or other entities to create and collect electable taxes such that all collections and dispersions of funds into those accounts are open for public inspection and that no private payments are made to or from such accounts.
+The power of the congress to create electable taxes on citizens and mandatory taxes on corporations and artificial capital, shall be non-exclusive and congress shall not deny the rights of states, jurisdictions, cross-state organizations, or other entities to create and collect electable taxes such that all collections and dispersions of funds into those accounts are open for public inspection and that no private payments are made to or from such accounts.
 
-Section. 10.
+## Section. 10.
 
 No State shall enter into any Treaty, Alliance, or Confederation; grant Letters of Marque and Reprisal; coin Money; emit Bills of Credit; pass any Bill of Attainder, ex post facto Law, or Law impairing the Obligation of Contracts, or grant any Title of Nobility.
 
-No State shall, without the Consent of the Congress, lay any Imposts or Duties on Imports or Exports, except what may be absolutely necessary for executing it's inspection Laws: and the net Produce of all Duties and Imposts, laid by any State on Imports or Exports, shall be for the Use of the Treasury of Government; and all such Laws shall be subject to the Revision and Controul of the Congress.
+No State shall, without the Consent of the Congress, lay any Imposts or Duties on Imports or Exports, except what may be absolutely necessary for executing it's inspection Laws: and the net Produce of all Duties and Imposts, laid by any State on Imports or Exports, shall be for the Use of the Treasury of Government; and all such Laws shall be subject to the Revision and Control of the Congress.
 
 No State shall, without the Consent of Congress, lay any Duty of Tonnage, keep Troops, or Ships of War in time of Peace, enter into any Agreement or Compact with another State, or with a foreign Power, or engage in War, unless actually invaded, or in such imminent Danger as will not admit of delay.
 
-Section 11.
+## Section 11.
 
-Representative, Senator, or Executive shall only raise cash for the puroposes of running a campaigne except by the requesting the election of tax on demurrage by accounted citizens that shall be capped on a per citizen basis such that the integrity of the officials are maintained and no one set of citizens may hold more sway over said officials, except that congress may allow for the matching of elected funds with public funds from the tresurey in uniform proportion and without regard to political party or agenda.
+Representative, Senator, or Executive shall only raise cash for the purposes of running a campaign except by the requesting the election of tax on demurrage by accounted citizens that shall be capped on a per citizen basis such that the integrity of the officials are maintained and no one set of citizens may hold more sway over said officials, except that congress may allow for the matching of elected funds with public funds from the treasury in uniform proportion and without regard to political party or agenda.
