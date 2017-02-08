@@ -45,7 +45,7 @@ _Section 5._
 _
 The Congress shall have the power to enforce, by appropriate legislation, the provisions of this article._
 
-Gives congress the power to enforce and ledgislate the rights given in this article.
+Gives congress the power to enforce and legislate the rights given in this article.
 
 
 
@@ -61,23 +61,23 @@ _Right I_
 
 
 
-_Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; nor shall they make any law to give benifit to a religious organization that is more adventageous or disadventageous of any corporation._
+_Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; nor shall they make any law to give benefit to a religious organization that is more advantageous or disadvantageous of any corporation._
 
-Here we remove the power of congress to give special rights to religious groups but also protect their establisment and practice.
+Here we remove the power of congress to give special rights to religious groups but also protect their establishment and practice.
 
 
 
-_Nor shall congress or the government of an state make any law based on the tennets of any relgion unless said law has grounds in demonstrateable evidence as applied within scientific inquery or a foundation in the common law._
+_Nor shall congress or the government of an state make any law based on the tenets of any religion unless said law has grounds in demonstrateable evidence as applied within scientific inquiry or a foundation in the common law._
 
-Here we out law religious based law such as sharia or old testament style theocracy.  This would elemanate the ability of states to make 'Blue' laws of or for states with muslim majority populations to institue any kind of sharia law and gives citizens of those states the grounds to challenge those laws.
+Here we outlaw religious based law such as sharia or old testament style theocracy.  This would eliminate the ability of states to make 'Blue' laws of or for states with muslim majority populations to institute any kind of sharia law and gives citizens of those states the grounds to challenge those laws.
 
 _And any such law shall be void unless it alleviates the suffering of citizens and honours the inviolable sanctity of every single human being, treating everybody, without exception, with absolute justice, equity and respect._
 
 Outlaws laws that treat men, women, and gender diverse people differently.
 
-_And any such law shall be void if it impoverishes, exploites or denies basic rights to anybody or incites hatred by denigrating others—even our enemies._
+_And any such law shall be void if it impoverishes, exploits or denies basic rights to anybody or incites hatred by denigrating others—even our enemies._
 
-The core of these rights came from somewhere I can't find, but a few google searches should feret it out.  You can call these the rights to human deacency.
+The core of these rights came from somewhere I can't find, but a few google searches should feret it out.  You can call these the rights to human decency.
 
 _Right II_
 
@@ -91,9 +91,9 @@ _Right III_
 
 
 
-_A well regulated Militia, being necessary to the security of a free State, the right of the milita to keep and bear Arms, shall not be infringed._
+_A well regulated Militia, being necessary to the security of a free State, the right of the militia to keep and bear Arms, shall not be infringed._
 
-We seperate out the militia part of the second amendment to maintain the right of the states to have a militia.
+We separate out the militia part of the second amendment to maintain the right of the states to have a militia.
 
 
 
@@ -101,9 +101,9 @@ _Right IV_
 
 
 
-_Citizens shall not be deprived of their right to protect themseleves against individuals who would do violence to their persons and therefore the right of an individual to keep and bear Arms sutible for personal defense and of non-military grade shall not be infringed. Citizens shall have the right to call upon the militia for protection if threatened by any organized group of such size as personal protection is beyond reasonable means. Congress shall have power to enforce this article by appropriate legislation and to define military grade as time and technology requires._
+_Citizens shall not be deprived of their right to protect themselves against individuals who would do violence to their persons and therefore the right of an individual to keep and bear Arms suitable for personal defense and of non-military grade shall not be infringed. Citizens shall have the right to call upon the militia for protection if threatened by any organized group of such size as personal protection is beyond reasonable means. Congress shall have power to enforce this article by appropriate legislation and to define military grade as time and technology requires._
 
-Maintains the reasonable right to bear arms and gives congress the right to ledgislate the definition of 'military grade'.  This is common sense gun control and preservation of the right to bear arms to protect oneself against 'individuals who would do violence'.  If defence beyond individuals is necessary the mater should be elevated to a well regulated milita.
+Maintains the reasonable right to bear arms and gives congress the right to legislate the definition of 'military grade'.  This is common sense gun control and preservation of the right to bear arms to protect oneself against 'individuals who would do violence'.  If defence beyond individuals is necessary the matter should be elevated to a well regulated militia.
 
 
 
@@ -174,7 +174,7 @@ _Right XIV_
 
 _The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of race, color, sex, gender identification, sexual orientation, genetic typing, or previous condition of servitude. The Congress shall have the power to enforce this article by appropriate legislation._
 
-We update and modernize this amendment to include gender identifcation, sexual orientation, or genetics.
+We update and modernize this amendment to include gender identification, sexual orientation, or genetics.
 
 
 _Right XV_
@@ -195,9 +195,9 @@ No change.
 
 _Right XVII_
 
-_Citizens of the respective states shall have the right to superceed any ledgislative vote made by their respective reprsentatives by casting an override of 50% of geographically elected citizens from the respective territory. For such purposes an accounted citizen may delegate their vote another accounted citizen in the same geographic district on a one to one bases. And a citizen that has been delegated to may further delegate the sum of delegated votes delegated to them unto another delegate in the same geographic district._
+_Citizens of the respective states shall have the right to supersede any legislative vote made by their respective representatives by casting an override of 50% of geographically elected citizens from the respective territory. For such purposes an accounted citizen may delegate their vote another accounted citizen in the same geographic district on a one to one bases. And a citizen that has been delegated to may further delegate the sum of delegated votes delegated to them unto another delegate in the same geographic district._
 
-Establishes a fourth check on power.  In this case the power of the ledgislature by the citizens.  This draws the focus of power back to the representative constituents by allowing them to delegate their override vote to other citizens and thus form loci of influence inside the states and districts.
+Establishes a fourth check on power.  In this case the power of the legislature by the citizens.  This draws the focus of power back to the representative constituents by allowing them to delegate their override vote to other citizens and thus form loci of influence inside the states and districts.
 
 
 _Right XVIII_
@@ -212,7 +212,7 @@ _the child will not live outside the womb with any quality of life._
 
 
 
-_the mother's life is endagered to an abnormal degree by continuing the pregnancy._
+_the mother's life is endangered to an abnormal degree by continuing the pregnancy._
 
 
 
@@ -220,7 +220,7 @@ _the mother is a minor under the age of 18._
 
 
 
-_the mother can demostrate ignorance of the pregnancy before 25 weeks of gestation._
+_the mother can demonstrate ignorance of the pregnancy before 25 weeks of gestation._
 
 
 
@@ -232,9 +232,9 @@ The freedom of choice amendment that makes the concession to outlaw late term ab
 
 _Right XIX_
 
-_A citizen willing to enter into a trade or provide a service who forfiets all limits of liability and who publically makes known to all parties in a transaction their intent to practice without limited liability shall enjoy the right to practice without the regulation or restriction of any government, national or state; but must pay any levied excises, imposts, duties, or taxes levied on that trade or service as is consistant throughout the union. This right shall not extend to any partnership, group, corporation, or joint stock company._
+_A citizen willing to enter into a trade or provide a service who forfeits all limits of liability and who publically makes known to all parties in a transaction their intent to practice without limited liability shall enjoy the right to practice without the regulation or restriction of any government, national or state; but must pay any levied excises, imposts, duties, or taxes levied on that trade or service as is consistent throughout the union. This right shall not extend to any partnership, group, corporation, or joint stock company._
 
-The right of individual citizens to enter into commerce without state intevention or over regulation.  In order to take advantage of this right, one must forfiet any form of limited liability.
+The right of individual citizens to enter into commerce without state intervention or over regulation.  In order to take advantage of this right, one must forfeit any form of limited liability.
 
 
 _
@@ -242,7 +242,7 @@ Right XX_
 
 
 
-_A citizen shall, when voting for elected office, have the opportunity to rank choices for office in such a way that if their higher choice is eleminated from competition via an instant runoff, their next choice shall recieve their vote; and shall be allowed to specify candidates for which they wish to never have their vote cast for such that if all preferred candidates are eliminated, their vote may be cast for no one. This right shall extend to all elections at any level of public government._
+_A citizen shall, when voting for elected office, have the opportunity to rank choices for office in such a way that if their higher choice is eliminated from competition via an instant runoff, their next choice shall receive their vote; and shall be allowed to specify candidates for which they wish to never have their vote cast for such that if all preferred candidates are eliminated, their vote may be cast for no one. This right shall extend to all elections at any level of public government._
 
 The right to ranked choice voting.
 
@@ -250,7 +250,7 @@ _Section 6._
 
 
 
-_The rights of citizens shall not fall to any corporation or joint stock company as formed by any state or authority, domestic or foriegn._
+_The rights of citizens shall not fall to any corporation or joint stock company as formed by any state or authority, domestic or foreign._
 
 Corporations aren't people and do not enjoy these rights
 
