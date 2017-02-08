@@ -271,13 +271,13 @@ To provide for calling forth the Militia to execute the Laws of the Union, suppr
 
 To provide for organizing, arming, and disciplining, the Militia, and for governing such Part of them as may be employed in the Service of the Government, reserving to the States respectively, the Appointment of the Officers, and the Authority of training the Militia according to the discipline prescribed by Congress;
 
-To exercise exclusive Legislation in all Cases whatsoever, over such District (not exceeding ten Miles square) as may, by Cession of particular States, and the Acceptance of Congress, become the Seat of the Government. But this district shall not allow for any accounted citizen or corporation to geographically elect inside the distct such that no citizen may be disenfranchised and no corpration shall escape taxation and so that the district shall not need a seperate government.
+To exercise exclusive Legislation in all Cases whatsoever, over such District (not exceeding ten Miles square) as may, by Cession of particular States, and the Acceptance of Congress, become the Seat of the Government. But this district shall not allow for any accounted citizen or corporation to geographically elect inside the district such that no citizen may be disenfranchised and no corporation shall escape taxation and so that the district shall not need a separate government.
 
 To exercise Authority over all Places purchased by the Consent of the Legislature of the States for the Erection of Forts, Magazines, Arsenals, dock-Yards, space stations, and other needful Buildings;
 
 To create an agency for the oversight, maintaining of fairness, and protection of citizens in lending, banking, and finance.
 
-To create an agency for oversight of campign finance laws so that fairness and the integritiy of national and state elections shall be maintained.
+To create an agency for oversight of campaign finance laws so that fairness and the integrity of national, state, and municipal elections shall be maintained.
 
 And Finally,
 
