@@ -52,7 +52,7 @@ _In all Cases affecting Ambassadors, other public Ministers and Consuls, and tho
 
 _The Trial of all Crimes, except in Cases of Impeachment, shall be by Jury; and such Trial shall be held in the State where the said Crimes shall have been committed; but when not committed within any State, the Trial shall be at such Place or Places as the Congress may by Law have directed._
 
-No real changes except to add space to the jurisdiction of the supream court and the integration of some amendments into the article with which they concern themselves.
+No real changes except to add space to the jurisdiction of the supreme court and the integration of some amendments into the article with which they concern themselves.
 
 
 
@@ -64,7 +64,7 @@ _Treason against the United States, shall consist only in levying War against th
 
 
 
-_The Congress shall have Power to declare the Punishment of Treason up to life long imprisonmnet, but no Attainder of Treason shall work Corruption of Blood, or Forfeiture._
+_The Congress shall have Power to declare the Punishment of Treason up to lifelong imprisonment, but no Attainder of Treason shall work Corruption of Blood, or Forfeiture._
 
 
 Removal of any form of corporal punishment.
@@ -73,7 +73,7 @@ _Section. 4_
 
 
 
-_There shall be no punishment of crimes beyond life imprisionment. Neither the Government nor the States will have the power to end a life as a punishment of crimes._
+_There shall be no punishment of crimes beyond life imprisonment. Neither the Government nor the States will have the power to end a life as a punishment of crimes._
 
 Removal of the death penalty.
 
