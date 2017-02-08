@@ -63,7 +63,6 @@
         * [Clear Outs](achieving_supersociety/clear-outs.md)
         * [Education Prefs](achieving_supersociety/education-prefs.md)
         * [Eldercare Legacy](achieving_supersociety/eldercare-legacy.md)
-        * [Domestic Accounts](achieving_supersociety/domestic-accounts.md)
       * [Modeled](achieving_supersociety/modled.md)
         * [The Laborer](achieving_supersociety/the-laborer.md)
         * [The Capitalist](achieving_supersociety/the-capitalist.md)
