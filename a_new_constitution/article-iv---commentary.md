@@ -31,10 +31,10 @@ No change.
 _Section. 3._
 
 _
-New Geographic States shall be admitted to the union by presenting a constitution based on a Republican Form of Gonvernment, a geographic bounds of the new state that does not encroach on any existing state, and when a quorum of 70% of the geographically elected accounts that have had residendce in that geographic area for a consecutive period of more than 3 years have elected to pay the tax of the Government._
+New Geographic States shall be admitted to the union by presenting a constitution based on a Republican Form of Government, a geographic bounds of the new state that does not encroach on any existing state, and when a quorum of 70% of the geographically elected accounts that have had residence in that geographic area for a consecutive period of more than 3 years have elected to pay the tax of the Government._
 
 
-_Congress has the power to override the residency length restriction, but not the quoroum or geographic clause._
+_Congress has the power to override the residency length restriction, but not the quorum or geographic clause._
 
 
 
