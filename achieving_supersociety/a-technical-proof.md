@@ -1,4 +1,4 @@
-#A Technical Proof
+# A Technical Proof
 
 A published model of hypercatallaxy
 
@@ -8,7 +8,7 @@ This chapter assumes you are familiar with the basics of hypercatallaxy, most of
 
 The main thing we will focus on today are the ideas of demurrage or the decay fee and the idea of the prefered stock that is exchanged with each and every cash transaction in a hypercapitalistic economy.
 
-INTRO
+## INTRO
 
 As a short review, if I buy a bottle of wine for $10, I get the wine and 10 ‘shares’ in the wine merchants account.  If that $10 sits in his account for 1 year at a 12% decay rate, I will receive back $1.20.  If he spends the money, he gets 10 shares in someone elses account and I only get 12% of his $1.20.  This is recursive and cumulative so eventually I will see most of my cash back.
 
@@ -20,7 +20,7 @@ For example, take two apples priced at $1.00 and $1.01.  Apple 1 is made on a fa
 
 This is a problem and now I have the model to prove that it is a problem.  And it is a potentially huge problem.  If we can fix this problem we can drastically increase our GDP.
 
-THE MODEL
+## THE MODEL
 
 Here are the assumptions of this model:
 
@@ -42,17 +42,18 @@ The pER is the rate at which that node produces Economic Rent on top of a sale. 
 
 The pReason value is the probability that a node will spend its money with a worthwhile node.  This is a nodes ‘investment sense.’  Some of us are better than others at looking at who has made something and being able to make some predictions about their future earning potential.  Some of us are Warren Buffet and some of us are Mr. Magoo.  In this model the reason is a straight line increasing as we increment n.  This is what we end up with:
 
-Node, pER, pReason
-n0, 0.01, 0.00
-n1, 0.05, 0.10
-n2, 0.19, 0.20
-n3, 0.47, 0.30
-n4, 0.80, 0.40
-n5, 0.96, 0.50
-n6, 0.80, 0.60
-n7, 0.47, 0.70
-n8, 0.19, 0.80
-n9, 0.05, 0.90
+|Node| pER| pReason
+|--|
+|n0| 0.01| 0.00
+|n1| 0.05| 0.10
+|n2| 0.19| 0.20
+|n3| 0.47| 0.30
+|n4| 0.80| 0.40
+|n5| 0.96| 0.50
+|n6| 0.80| 0.60
+|n7| 0.47| 0.70
+|n8| 0.19| 0.80
+|n9| 0.05| 0.90
 
 n0 is dismal.  It can produce barely any rent and has no reason.  It will spend without prejudice.  n5 is a rockstar capitalist.  It can produce massive rents and it has reasonable reason.  n9 can’t produce much rent but almost always makes good decisions.  You are free to fork the code and change these up and/or hotwire them.  I felt like this gave me a good base to work with.
 
@@ -70,17 +71,23 @@ This is not supposed to be a ‘realistic’ model of the economy.  That being s
 
 I give each node $1000 to start out with.  Let’s take a look at the results.
 
-POVERTY
+## POVERTY
 
 The first result to take a look at is poverty.  Some of these nodes are going to run out of cash and not be able to buy necessities.  Now I’m all for free markets but I’m also generally against hunger.  I’d love a system that just intrinsically takes care of this and I’ve tried to put that into hypercapitalism.  I wasn’t sure that it would reduce poverty, but the results seem to bear it out.
 We see in this chart that the amount of poverty is significantly reduced as we redistribute wealth in a manner that sends it back to those that spent the cash with the wealth generators.
+
+![](/assets/Image1.png)
+
 We see in this chart that the amount of poverty is significantly reduced as we redistribute wealth in a manner that sends it back to those that spent the cash with the wealth generators.
 
 Our model only has 3,000 months in it. The fact that over ⅓ of them end up being poverty months under standard capitalism makes this a pretty sorry economy. As you can see here, the increase in decay fee has a profound effect of poverty.  I don’t know if politics and good sense could endure a 60% decay rate, but with it we cut the poverty rate by over 50%.
 
-INCREASING GDP
+## INCREASING GDP
 
-This is a nice result but it doesn’t speak to my initial prediction that the economy will grow.  After all, we could just do some redistribution via taxes and get a similar result.  So let’s look at GDP
+This is a nice result but it doesn’t speak to my initial prediction that the economy will grow.  After all, we could just do some redistribution via taxes and get a similar result.  So let’s look at GDP:
+
+![](/assets/image2.png)
+
 Increasing the amount we redistribute to optimized value seeking nodes increase the GDP of our economy.
 Increasing the amount we redistribute to optimized value seeking nodes increase the GDP of our economy.
 
