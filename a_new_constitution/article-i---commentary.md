@@ -287,7 +287,7 @@ _Activites and goods by which humans may reduce their length or quality of life.
 
 Institutes destructive health taxes.
 
-_Duties and Imposts may not be levied on goods or services moving amongst geographically elected territories, but may be levied on goods an services imported from foriegn nations._
+_Duties and Imposts may not be levied on goods or services moving amongst geographically elected territories, but may be levied on goods and services imported from foreign nations._
 
 Outlaws taxes on goods flowing from state to state.  This will encourage a free trade society as more and more territories elect into the constitution.
 
@@ -297,7 +297,7 @@ This is an important section because if give congress the set of powers that out
 
 _To pay the debts and provide for the common defence and general welfare; but all Excises shall be uniform throughout the geographically elected area, the seas, and outer space that accounted citizens may reach._
 
-We are throwing outerspace into the mix, because the future.
+We are throwing outer space into the mix, because the future.
 
 _To borrow Money on the credit of the government;_
 
