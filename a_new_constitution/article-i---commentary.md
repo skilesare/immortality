@@ -146,11 +146,11 @@ The intention here is to limit the period of active campaigning to a 3 month per
 _
 Senators and Representatives shall be chosen by ranked choice election by the inhabitants of the State for which they are a candidate._
 
-This establishes the ranked coice voting scheme for the House and Senate.  The concept is the same for the senete except that only one senator is chosen at a time.  This can still encourage third party candiates by giving citizens the ability to vote for a fringe candidate first and then major party candidate 2nd so that their vote will still count when the thrid party is elemenated.  On the other hand, enough people doing the same may elimenate the main candidates and elevate an outsider.
+This establishes the ranked choice voting scheme for the House and Senate.  The concept is the same for the senate except that only one senator is chosen at a time.  This can still encourage third party candidates by giving citizens the ability to vote for a fringe candidate first and then major party candidate 2nd so that their vote will still count when the third party is eliminated.  On the other hand, enough people doing the same may eliminate the main candidates and elevate an outsider.
 
-_States in which elect more than 3 representatives will have their State sectioned into smaller subdistrics for elections by programatic geographic algorithm that proceedes in allocations of five miles squared from the North West corner of the territory and moving East, then south until the proportional number of geographically elected citizens is reached. Neither Congress, nor state ledgislatures my alter the allotment of subdistrics for any reason or in any way unless this constitution is ammended._
+_States in which elect more than 3 representatives will have their State sectioned into smaller subdistrict for elections by programmatic geographic algorithm that proceeds in allocations of five miles squared from the North West corner of the territory and moving East, then south until the proportional number of geographically elected citizens is reached. Neither Congress, nor state legislatures my alter the allotment of subdistrict for any reason or in any way unless this constitution is amended._
 
-This clause eleminates gerrymandering.  By dividing subdistricts by algorithem we reduce the ability for state governments to collude to take control of the house by splitting districts to neutralize a minority vote.
+This clause eliminates gerrymandering.  By dividing subdistricts by algorithm we reduce the ability for state governments to collude to take control of the house by splitting districts to neutralize a minority vote.
 
 
 _No subdistrict shall elect more than 3 representatives._
@@ -171,7 +171,7 @@ No Change.
 
 _Attendance and submission of votes may be virtual if the representative is participating while physically located in their home district, so that representatives may attend to their constituents. But representatives must attend at least 3/4 of active sessions at the seat of government or be subject to expulsion by procedure in their elected house or replacement by the state's executive._
 
-This clause allows for remote voting and remote participation in the house and senate so that members may spend more time locally. It also gives each house and the state governments a method to remove absenttee representatives.
+This clause allows for remote voting and remote participation in the house and senate so that members may spend more time locally. It also gives each house and the state governments a method to remove absentee representatives.
 
 
 _Each House may determine the Rules of its Proceedings, punish its Members for disorderly Behaviour, and, with the Concurrence of two thirds, expel a Member._
@@ -181,7 +181,7 @@ No change.
 
 _Each House shall keep a Journal of its Proceedings published on a Blockchain, and published in as near real time as technology will allow, excepting such Parts as may in their Judgment require Secrecy and then must be entered as encrypted to be unlocked after no more than 7 years; and the Yeas and Nays of the Members of either House on any question shall be entered on the Journal._
 
-This clause implements the filing of opinion, procedings, and votes into the blockchain so that the public record cannot be fudged.  In addition it calls for the proceedings of proceeding dealing with national security to be encrypted for no more than 7 years, upon which, the proceedings become public.
+This clause implements the filing of opinion, proceedings, and votes into the blockchain so that the public record cannot be fudged.  In addition it calls for the proceedings of proceeding dealing with national security to be encrypted for no more than 7 years, upon which, the proceedings become public.
 
 
 _
@@ -198,9 +198,9 @@ _The Senators and Representatives shall receive a Compensation for their Service
 
 
 
-Any increase in pay or benifits for either house must not take effect until all current members have reached their term limits._
+Any increase in pay or benefits for either house must not take effect until all current members have reached their term limits._
 
-No change here except to codify the amendment limiting reps from giving theselves raises.  Since term limits are now a thing we can limit the raise to going into effect until all current members are gone.  In this scenario a raise in the senate or house would not beable to go into effect for six years after it is enacted.
+No change here except to codify the amendment limiting reps from giving themselves raises.  Since term limits are now a thing we can limit the raise to going into effect until all current members are gone.  In this scenario a raise in the senate or house would not be able to go into effect for six years after it is enacted.
 
 
 _
@@ -208,7 +208,7 @@ Senators and representatives shall in all Cases, except Treason, Felony and Brea
 
 
 
-_No Senator or Representative shall, during the Time for which he was elected, be appointed to any civil Office under the Authority of this constitution, which shall have been created, or the Emoluments whereof shall have been encreased during such time; and no Person holding any Office under this constitution, shall be a Member of either House during his Continuance in Office._
+_No Senator or Representative shall, during the Time for which he was elected, be appointed to any civil Office under the Authority of this constitution, which shall have been created, or the Emoluments whereof shall have been increased during such time; and no Person holding any Office under this constitution, shall be a Member of either House during his Continuance in Office._
 
 No change.
 
@@ -220,9 +220,9 @@ _All Bills for raising Revenue shall originate in the House of Representatives; 
 
 No change.
 
-_Every Bill which shall have passed the House of Representatives and the Senate, shall, before it become a Law, be presented to the People for a period of three weeks during which the vote of each representative may be subject to review and override as perscribed in Right XVII of Article VII of this constitution. Then President of the Executive Branch; If she approve she shall sign it, but if not she shall return it, with his Objections to that House in which it shall have originated, who shall enter the Objections at large on their Blockchain, and proceed to reconsider it. If after such Reconsideration two thirds of that House shall agree to pass the Bill, it shall be sent, together with the Objections, to the other House, by which it shall likewise be reconsidered, and if approved by two thirds of that House, it shall again be submitted to the people for review and overrided and with such, if a 2/3 majority remain in favor, become a Law. But in all such Cases the Votes of both Houses shall be determined by yeas and Nays, and the Names of the Persons voting for and against the Bill shall be entered on the Blockchain of each House respectively. If any Bill shall not be returned by the President within ten Days after it shall have been presented to him, the Same shall be a Law, in like Manner as if he had signed it, unless the Congress by their Adjournment prevent its Return, in which Case it shall not be a Law._
+_Every Bill which shall have passed the House of Representatives and the Senate, shall, before it become a Law, be presented to the People for a period of three weeks during which the vote of each representative may be subject to review and override as prescribed in Right XVII of Article VII of this constitution. Then President of the Executive Branch; If she approve she shall sign it, but if not she shall return it, with his Objections to that House in which it shall have originated, who shall enter the Objections at large on their Blockchain, and proceed to reconsider it. If after such Reconsideration two thirds of that House shall agree to pass the Bill, it shall be sent, together with the Objections, to the other House, by which it shall likewise be reconsidered, and if approved by two thirds of that House, it shall again be submitted to the people for review and override and with such, if a 2/3 majority remain in favor, become a Law. But in all such Cases the Votes of both Houses shall be determined by yeas and Nays, and the Names of the Persons voting for and against the Bill shall be entered on the Blockchain of each House respectively. If any Bill shall not be returned by the President within ten Days after it shall have been presented to him, the Same shall be a Law, in like Manner as if he had signed it, unless the Congress by their Adjournment prevent its Return, in which Case it shall not be a Law._
 
-This is fairly standard to the original except the additions about adding procedings to the blockchain and the inclusion of the people's veto.  Before a vote can be registered, the people have the ability to veto it.  This is described more in the Right XVII of Article VII.
+This is fairly standard to the original except the additions about adding proceedings to the blockchain and the inclusion of the people's veto.  Before a vote can be registered, the people have the ability to veto it.  This is described more in the Right XVII of Article VII.
 
 
 
@@ -230,9 +230,9 @@ _Every Order, Resolution, or Vote to which the Concurrence of the Senate and Hou
 
 No change.
 
-_All bills must be specific and on point of a single issue, with no amendment from tangential issues attached. All sections of a bill must have a direct and clear corrolation to other sections and all must adhear to the subject of the bill as declared in the preamble. The Exectutive may line item veto articles, sections or subsections that do not meet the direct and clear standard and if signed, the whole bill, excluding those sections shall become law. Congress may superceed any line item veto by passing a seperate resolution including those vetoed sections as a seperate Bill by a 2/3 majority of both houses._
+_All bills must be specific and on point of a single issue, with no amendment from tangential issues attached. All sections of a bill must have a direct and clear correlation to other sections and all must adhere to the subject of the bill as declared in the preamble. The Executive may line item veto articles, sections or subsections that do not meet the direct and clear standard and if signed, the whole bill, excluding those sections shall become law. Congress may supersede any line item veto by passing a separate resolution including those vetoed sections as a separate Bill by a 2/3 majority of both houses._
 
-This removes the ability of congress to pass omnibus bills that have riders on them that have no bearing on the core of the bill.  This also gives the President line item veto power if he feels that an item is not core to the bill.  There will certainly be disagreements that will need to be resolved via the courts.  Congress has the ability to override these vetos in the same way they would override the veto of an entire bill.
+This removes the ability of congress to pass omnibus bills that have riders on them that have no bearing on the core of the bill.  This also gives the President line item veto power if he feels that an item is not core to the bill.  There will certainly be disagreements that will need to be resolved via the courts.  Congress has the ability to override these vetoes in the same way they would override the veto of an entire bill.
 
 
 
