@@ -299,7 +299,7 @@ No Money shall be drawn from the Treasury, but in Consequence of Appropriations 
 
 Any information collected by the government with the use of money from the Treasury shall be collected in a way that it may be easily made available to any requesting accounted citizen in as small a time frame as technology shall reasonably allow.
 
-No Title of Nobility shall be granted by the Government: And no Person holding any Office of Profit or Trust under them, shall, without the Consent of the Congress, accept of any present, Emolument, Office, or Title, of any kind whatever, from any King, Prince, Foreign State or Corporate Entity.
+No Title of Nobility shall be granted by the Government: And no Person holding any Office of Profit or Trust under them, shall, without the Consent of the Congress, accept of any present, Emolument, Office, Payment in Kind, or Title, of any kind whatever, from any King, Prince, Foreign State or Foreign Corporate Entity. And Congress must enforce the separation of such Officers in the Executive, Ledgislative, and Judicial branches from any opportunity to profit from business dealings while the officer serves such that non-compliance will result in impeachment of the officer.
 
 The power of the congress to create electable taxes on citizens and mandatory taxes on corporations and artificial capital, shall be non-exclusive and congress shall not deny the rights of states, jurisdictions, cross-state organizations, or other entities to create and collect electable taxes such that all collections and dispersions of funds into those accounts are open for public inspection and that no private payments are made to or from such accounts.
 
