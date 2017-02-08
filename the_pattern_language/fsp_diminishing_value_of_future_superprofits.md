@@ -6,7 +6,7 @@
 
 I'm going to go off of the rails a bit here, but I promise to bring it back around to the issue at hand.
 
-A young man's heart is filled with want and he seeks out a young woman.  Do you ever see him pursue an old woman? Rarely. When we do, we see it as off putting.  The same when a young woman pursues an older man.  Often this is the genesis of tumult and divorce.  There is something regal about a couple on their 60th wedding aniversary. There is a natural wholeness to fidelity and to the generations clinging to each other as we move through life.  We are born, we grow old together, and then we die to make room for the generation behind us.
+A young man's heart is filled with want and he seeks out a young woman.  Do you ever see him pursue an old woman? Rarely. When we do, we see it as off putting.  The same when a young woman pursues an older man.  Often this is the genesis of tumult and divorce.  There is something regal about a couple on their 60th wedding anniversary. There is a natural wholeness to fidelity and to the generations clinging to each other as we move through life.  We are born, we grow old together, and then we die to make room for the generation behind us.
 
 This is the effect that I expect predistribution of economic rent to have.  The longer an account is around the harder it will become for it to attract new contributors. On the other hand, the contributors that have been around a while will collectively continue to support the account and look for future economic rents.
 

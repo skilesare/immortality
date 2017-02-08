@@ -12,7 +12,7 @@ Bitcoin and other 'proof' systems require a settlement time.  If our system can 
 
 Therefore:
 
-**Provide for the instant transfer and useability of funds.**
+**Provide for the instant transfer and usability of funds.**
 
 ----------
 

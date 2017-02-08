@@ -6,7 +6,7 @@
 
 One of our biggest issues in modern discussion of the economy and politics is the lack of nth order decision making. People readily talk about the first consequence of an action but neglect to consider what happens in the next iteration of action.
 
-For example: A shop keeper complains that the government steals his taxes.  The government does not take the mans money and bury it in a hole.  It uses it to buy a warplane from a company.  That company pays an engineer to design the plane.  That engineer returns to the man's store and purchase a good from the man.  In the real world the line can't be drawn so clearly, but many lines can be drawn from many people, through the government, through many companies and back to many stores.
+For example: A shopkeeper complains that the government steals his taxes.  The government does not take the man's money and bury it in a hole.  It uses it to buy a warplane from a company.  That company pays an engineer to design the plane.  That engineer returns to the man's store and purchase a good from the man.  In the real world the line can't be drawn so clearly, but many lines can be drawn from many people, through the government, through many companies and back to many stores.
 
 Perhaps using the government is a bit inflammatory, but the story is the same in all markets.  The money flows through it.  It does not go from point A to B and never leave B.
 

@@ -38,4 +38,4 @@ Therefore:
 
 ----------
 
-The predistribution of economic rent leads to the diminishing value of future economic rent  **(DER)** and is made possible with the public ledger **(PLG)**. Control the recursive nature of predistribution of economic rents using the Principal of First Pref Payment **(PFP)**. Prevent the devaluation of prefs using Statutory Theft **(STH)**.
+The predistribution of economic rent leads to the diminishing value of future economic rent  **(DER)** and is made possible with the public ledger **(PLG)**. Control the recursive nature of predistribution of economic rents using the Principle of First Pref Payment **(PFP)**. Prevent the devaluation of prefs using Statutory Theft **(STH)**.
