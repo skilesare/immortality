@@ -8,7 +8,7 @@ Via rule of law we will need to create a crime similar to statutory rape that ou
 
 How will this work?  This is a complicated issue and will need to be dealt with carefully.  This is what we want to avoid:
 
-A mother spends money to raise her children.  She accumulates a massive number of prefs over 20 years.  A 'banker' offers to buy the output of her prefs for $100,000.  All of her value is future value and the prefs are probabilisticly worth more than that.  This person is trying to take advantage of the mother's vulnerability.
+A mother spends money to raise her children.  She accumulates a massive number of prefs over 20 years.  A 'banker' offers to buy the output of her prefs for $100,000.  All of her value is future value and the prefs are probabilistically worth more than that.  This person is trying to take advantage of the mother's vulnerability.
 
 The value of a pref is only bounded by the lifetime of an account.  Therefore the theoretical value is infinite.  Anyone trying to claim that value for a value less than infinite is stealing and should be held accountable by rule of law.
 

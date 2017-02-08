@@ -7,7 +7,7 @@
 In a thriving and decent society Humans have the inherent right to:
 
 - information (the internet)
-- education (life long)
+- education (lifelong)
 - health care
 - elder care
 - nourishment and clean water

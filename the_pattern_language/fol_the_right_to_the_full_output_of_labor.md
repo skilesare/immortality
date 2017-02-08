@@ -5,7 +5,7 @@
 
 **Capitalism has to date allowed the capitalist to take value produced by the laborer as economic rent?  Can this be neutralized?**
 
-The idea of the 'full output of labor' has traditionally been a communist and/or socialist ideal. Is it exclusive to those modes of government?  Communism has failed and socialism loses many advantages of free market capitalism.  Can we have both the free market and provide a laborer with the full out put of his labor?
+The idea of the 'full output of labor' has traditionally been a communist and/or socialist ideal. Is it exclusive to those modes of government?  Communism has failed and socialism loses many advantages of free market capitalism.  Can we have both the free market and provide a laborer with the full output of his labor?
 
 Surely providing a laborer with his full output is an admirable thing.  The 'working' class has always been one of the most disadvantaged and it would be admirable for us to lift the lower class out of poverty and give them the ability to reach their full productivity.
 
@@ -29,7 +29,7 @@ Therefore:
 
 ----------
 
-The full output of labor can help contribute to a citizens Legacy **(LEG)**. It his protected by statutory theft **(STH)**.
+The full output of labor can help contribute to a citizens Legacy **(LEG)**. It is protected by statutory theft **(STH)**.
 
 
 

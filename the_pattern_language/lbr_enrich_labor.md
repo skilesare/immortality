@@ -10,7 +10,7 @@ How can we mitigate this?
 
 We are against employment.  There is little to be gained in one person doing the same 'job' for 40 years.  We will contend that there is a difference between 'jobs' and 'crafts'.  A job can and is increasingly being automated by technology.  Crafts tend to require a human understanding of culture and problem solving that computers have yet to achieve.
 
-Craftsmen produce their art and capitalists take the lions share of the profits.  How do we mitigate this?  Here again, prefs add a layer of responsibility to a relationship.  We motivate the capitalist by allowing that any unit of currency paid to labor has the ability to be returned via pref payments if the employee's earning power can be increased over his life.
+Craftsmen produce their art and capitalists take the lion's share of the profits.  How do we mitigate this?  Here again, prefs add a layer of responsibility to a relationship.  We motivate the capitalist by allowing that any unit of currency paid to labor has the ability to be returned via pref payments if the employee's earning power can be increased over his life.
 
 In this way, capital will have an new desire to enrich labor.  Suddenly, capital cares about the health, education, and long term earning potential of a craftsman.
 

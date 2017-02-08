@@ -14,7 +14,7 @@ The state has allowed its citizens to group themselves into many different types
 * C-Corporations
 * etc
 
-This trend started when investors wanted to take large amounts of risk, like sending small wooden ships halfway around the world to bring back exotic products for profit.  These individual investors were not willing to take on all the risk involved in the operation. They were fine risking some of their fortune on the venture, but were not willing to risk their entire fortune and lively hood if something were to go wrong.  This resulted in the forming of the first Limited Liability Charters.
+This trend started when investors wanted to take large amounts of risk, like sending small wooden ships halfway around the world to bring back exotic products for profit.  These individual investors were not willing to take on all the risk involved in the operation. They were fine risking some of their fortune on the venture, but were not willing to risk their entire fortune and livelihood if something were to go wrong.  This resulted in the forming of the first Limited Liability Charters.
 
 We will speak to the efficacy of this choice in the chapter on Limited Risk.
 

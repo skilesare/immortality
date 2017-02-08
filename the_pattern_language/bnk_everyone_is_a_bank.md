@@ -12,7 +12,7 @@ We propose another lever available to the issuer of currency.  This is the reser
 
 For example.  Say a citizen has $100.  The reserve rate is 90%.  The issuance rate is 20%.  The citizen will have 10% of his funds automatically moved into his 'bank' partition, and it will be protected from demurrage.  In addition, the loan pool will now have $12 available for loan.
 
-What will the interest rate and terms of these loans be?  We expect rates to trend toward zero for short term loans. If Silvio Gessells theory of demurrage is correct, the charging of interest for loans should be unnecessary.
+What will the interest rate and terms of these loans be?  We expect rates to trend toward zero for short term loans. If Silvio Gesell's theory of demurrage is correct, the charging of interest for loans should be unnecessary.
 
 If money is 'free' won't there be a run on the bank for it?  Won't the market bid up the cost of this money so that interest is required?
 
