@@ -6,19 +6,15 @@ All legislative Powers herein granted shall be vested in a Congress of the Unite
 
 Section. 2.
 
-The House of Representatives shall be composed of Members chosen every second Year by the People of each geographic state, and the Electors in each state shall have the Qualifications requisite for Electors of the most numerous Branch of the Geographic State's Legislature.
+The House of Representatives shall be composed of Members chosen every second year by the people of each geographic state, and the Electors in each state shall have the qualifications requisite for Electors of the most numerous Branch of the Geographic State's Legislature.
 
-```
-todo: do we need the Electors if both branches will be determined by popular vote?
-```
-
-Each representative shall be limited to three regular elected terms in office after which they will be inelegible to serve in the House of Representatives.
+Each representative shall be limited to three regular elected terms in office after which they will be ineligible to serve in the House of Representatives.
 
 No Person shall be a Representative who shall not have attained to the Age of twenty five Years, and shall have been four Years a Citizen of the state, and who shall, when elected, be an Geographically Elected Inhabitant of that State in which they shall be chosen.
 
-Representatives must not have recieved private payments of cash or private allotments of capital for one year before taking office unless elected or assigned for a vacancy.  Representtives must elect to not recieve private payments while in office and for ten years after leaving office.
+Representatives must not have received private payments of cash or private allotments of capital for one year before taking office unless elected or assigned for a vacancy.  Representatives must elect to not receive private payments while in office and for ten years after leaving office.
 
-The Number of Representatives shall number at least 400.  The number of Representatives from each State shall not exceed the number of Geographically Elected Inhabitant of that state divided by the whole count of Accounted Citizens divided by 500, but each State shall have at Least one Representative, and until such enumeration shall be made, the States shale have the following allotment:
+The Number of Representatives shall number at least 400.  The number of Representatives from each State shall not exceed the number of Geographically Elected Inhabitant of that state divided by the whole count of Accounted Citizens divided by 500, but each State shall have at Least one Representative, and until such enumeration shall be made, the States shall have the following allotment:
 
 | State | Representatives |
 | -- | -- |
