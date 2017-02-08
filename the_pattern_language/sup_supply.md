@@ -12,7 +12,7 @@ What will be in our Public Ledger is the past supply.  This can be an important 
 
 Therefore:
 
-**Support specific meta data around transactions that help track the past supply of goods and services and the prices that were paid.**
+**Support specific metadata around transactions that help track the past supply of goods and services and the prices that were paid.**
 
 ----------
 Track item supply and price paid in the public ledger **(PLG)**.
