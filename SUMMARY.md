@@ -111,7 +111,6 @@
         * [PFP. Principal of First Pref Payment](the_pattern_language/pfp_principal_of_first_pref_payment.md)
         * [DER. Diminishing value of future economic rent](the_pattern_language/fsp_diminishing_value_of_future_superprofits.md)
         * [INS. Instant Transfer](the_pattern_language/ins_instant_transfer.md)
-        * COL. Collateralized
       * [Legal Entity Level](the_pattern_language/legal_entity_level.md)
         * [LGE. Legal Entities](the_pattern_language/legal_entities.md)
         * [KIL. Corporate Death](the_pattern_language/kil_corporate_death.md)

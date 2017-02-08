@@ -11,7 +11,7 @@ Modern economies have moved on from barter of goods and/or commodity money into 
 
 This idea of fiat money has been further augmented by a commercial banking system that has been empowered to keep money 'on the books' so that money is currently made up of the fiat money in circulation plus the values in the book ledgers of licensed banks.
 
-There are many features of modern money that have made modern life easier.  Are there down sides?
+There are many features of modern money that have made modern life easier.  Are there downsides?
 
 Is money natural? Current money is not natural.  Natural things have a finite life and money does not.  Other than burning or discarding fiat money it is very difficult to 'unmake' money.  As we move to a digital age and away from fiat money and to a complete ledger system some of this drain will be removed.  Can we naturalize money?  This is what we will explore in this pattern language.
 
