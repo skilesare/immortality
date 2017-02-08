@@ -15,6 +15,7 @@ Demurrage is an ideal candidate for simplifying the tax system.  If we already h
 This Demurrage tax would be a 'flat tax' and would not be progressive.  It would hit rich and poor alike.
 
 The taxation of artificial capital is hard.  Some artificial instruments do not provide for divisibility.  Rule of Law can be used to enforce the divisibility of artificial capital.  In this instance, the government can easily tax it by taking a portion each year.  This would be a much more progressive tax than a straight demurrage tax.
+
 We can also consider demurraging artificial capital that is divisible and recorded in the public ledger.  This would allow for the flat tax of artificial capital. Because artificial capital will be divisible this will overcome the problem where an asset cannot be sold because a market does not exist for it.  In this case, a portion of the asset could flow through the system and the receiver could hold it until a market did exist for it.
 
 Most real capital cannot be divided so it cannot be treated in the same way.
