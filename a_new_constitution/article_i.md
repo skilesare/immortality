@@ -1,10 +1,10 @@
 # Article I
 
-##Section. 1.
+## Section. 1.
 
 All legislative Powers herein granted shall be vested in a Congress of the United States, which shall consist of a Senate and House of Representatives.
 
-Section. 2.
+## Section. 2.
 
 The House of Representatives shall be composed of Members chosen every second year by the people of each geographic state, and the Electors in each state shall have the qualifications requisite for Electors of the most numerous Branch of the Geographic State's Legislature.
 
@@ -76,7 +76,7 @@ When vacancies happen in the Representation from any State, the Executive Author
 
 The House of Representatives shall choose their Speaker and other Officers; and shall have the sole Power of Impeachment.
 
-Section. 3.
+## Section. 3.
 
 The Senate shall be composed of Senators from each State; Three senators from states with total geographically elected inhabitants greater than 1/50th of the total Accounted Citizenship, Two senators from states  with total geographically elected inhabitants greater than 1/500th and less than 1/50th of the total Accounted Citizenship, and 1 Senator from states with total geographically elected inhabitants less than 1/500th of the total Accounted Citizenship.
 
@@ -140,15 +140,15 @@ Senators will be chosen for a term of six Years.
 
 Each Senator shall have one Vote.
 
-Senators may serve one regular elected terms in office after which they will be inelegible to serve in the Senate.
+Senators may serve one regular elected terms in office after which they will be ineligible to serve in the Senate.
 
-Immediately after they shall be assembled in Consequence of the first Election, they shall be divided as equally as may be into three Classes. The Seats of the Senators of the first Class shall be vacated at the Expiration of the second Year, of the second Class at the Expiration of the fourth Year, and of the third Class at the Expiration of the sixth Year, so that one third may be chosen every second Year. And any initial senator who's term is shortened may be elected to a second term.
+Immediately after they shall be assembled in Consequence of the first Election, they shall be divided as equally as may be into three Classes. The Seats of the Senators of the first Class shall be vacated at the Expiration of the second Year, of the second Class at the Expiration of the fourth Year, and of the third Class at the Expiration of the sixth Year, so that one third may be chosen every second Year. And any initial senator whose term is shortened may be elected to a second term.
 
 When vacancies happen from any State, the Executive Authority thereof shall assign a temporary representative until a special ranked choice vote of the affected state is completed to elect a new member.
 
 No Person shall be a Senator who shall not have attained to the Age of thirty Years, and been three Years a geographically elected Citizen of the State for which they will be chosen.
 
-Senators must not have recieved private payments of cash or private allotments of capital for one year before taking office unless elected or assigned for a vacancy.  Representtives must elect to not recieve private payments or allotments while in office and for ten years after leaving office.
+Senators must not have received private payments of cash or private allotments of capital for one year before taking office unless elected or assigned for a vacancy.  Senators must elect to not receive private payments or allotments while in office and for ten years after leaving office.
 
 The Vice President of the Executive Branch shall be President of the Senate, but shall have no Vote, unless they be equally divided.
 
@@ -158,13 +158,13 @@ The Senate shall have the sole Power to try all Impeachments. When sitting for t
 
 Judgment in Cases of Impeachment shall not extend further than to removal from Office, and disqualification to hold and enjoy any Office of honor, Trust or Profit under this Constitution: but the Party convicted shall nevertheless be liable and subject to Indictment, Trial, Judgment and Punishment, according to Law.
 
-Section. 4.
+## Section. 4.
 
-Elections for Senators and Representatives shall be open for a period of 3 months prior to the election closing and shall conclude 3 months before the begining of a new term.
+Elections for Senators and Representatives shall be open for a period of 3 months prior to the election closing and shall conclude 3 months before the beginning of a new term.
 
 Senators and Representatives shall be chosen by ranked choice election by the inhabitants of the State for which they are a candidate.
 
-States in which elect more than 3 representatives will have their State sectioned into smaller subdistrics for elections by programatic geographic algorithm that proceedes in allocations of five miles squared from the North West corner of the territory and moving East, then south until the proportional number of geographically elected citizens is reached. Neither Congress, nor state ledgislatures my alter the allotment of subdistrics for any reason unless this constitution is ammended.
+States in which elect more than 3 representatives will have their State sectioned into smaller subdistricts for elections by programmatic geographic algorithm that proceeds in allocations of five miles squared from the North West corner of the territory and moving East, then south until the proportional number of geographically elected citizens is reached. Neither Congress, nor state legislators my alter the allotment of subdistricts for any reason and in any way unless this constitution is amended.
 
 No subdistrict shall elect more than 3 representatives.
 
