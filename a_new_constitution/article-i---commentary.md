@@ -36,7 +36,7 @@ Private payments are feature of the catallaxian economy where private citizens c
 
 _The Number of Representatives shall number at least 400. The number of Representatives from each State shall not exceed the number of Geographically Elected Inhabitant of that state divided by the whole count of Accounted Citizens divided by 500, but each State shall have at Least one Representative, and until such enumeration shall be made, the States shall have the following allotment:_
 
-This formula keeps the house at a resonable size even if the republic grows.
+This formula keeps the house at a reasonable size even if the republic grows.
 
 
 
@@ -47,19 +47,23 @@ Establishes a 10 year period for re-allocating the number of seats in the House.
 
 _When vacancies happen in the Representation from any State, the Executive Authority thereof shall assign a temporary representative until a special ranked choice vote of the affected subdistrict is completed to elect a new member._
 
-This allows for a govoner of a state to assign a temporary rep if someone dies or leaves office.
+This allows for a governor of a state to assign a temporary rep if someone dies or leaves office.
 
 This is also the first mention of ranked choice voting and subdistricts so we might as well talk about them here.
 
-Ranked choice voting coupled with subdistricts should give us a more parlimentary forme of representation in the house.  Later we call for subdistricts to be created in states with more than 3 reps and these should be selected by electing from a slate of voters and ranking your choice for office from one to X.  In a 3 rep sub district, the top 3 vote recivers are selected.
+Ranked choice voting coupled with subdistricts should give us a more parliamentary form of representation in the house.  Later we call for subdistricts to be created in states with more than 3 reps and these should be selected by electing from a slate of voters and ranking your choice for office from one to X.  In a 3 rep sub district, the top 3 vote receivers are selected.
+
+I give a lot of credence to David Deutsch’s argument that a two party, first past the post system is preferable if we want a dynamic system where progress is made.  The intention of this system is not so much to ensure a 3rd party seats in congress, as that artificially inflates the power of the 3rd party, but to balance out representation in a 2 party state where typically 3 districts would go to the dominant party even though the opposition received 45% of the vote.  Restricting the districts to 3 reps should result in a 2/1 split in this scenario and should make things move even more dynamically.  A 3rd party would still have to reach a very high bar before they could capture one of the 3 seats.
+
+With that being said, it may need to be reduced to 2 seats per sub district once the mathematicians get involved and explain how this won’t work.  It may also be that a programmatic drawing of districts will resolve most of the problems and that multi-seat districts won’t be necessary.
 
 Ranked choice voting is laid out more in Right XX of Article VII:
 
 _Right XX_
 
-_A citizen shall, when voting for elected office, have the opportunity to rank choices for office in such a way that if their higher choice is eleminated from competition via an instant runoff, their next choice shall recieve their vote; and shall be allowed to specify candidates for which they wish to never have their vote cast for such that if all preferred candidates are eliminated, their vote may be cast for no one. This right shall extend to all elections at any level of public government._
+_A citizen shall, when voting for elected office, have the opportunity to rank choices for office in such a way that if their higher choice is eliminated from competition via an instant runoff, their next choice shall receive their vote; and shall be allowed to specify candidates for which they wish to never have their vote cast for such that if all preferred candidates are eliminated, their vote may be cast for no one. This right shall extend to all elections at any level of public government._
 
-In the case of a multi-seat election, your top 3 votes count and if one of your top 3 are eleminated from competition, you 4th choice is activated as a vote and so on down your list.
+In the case of a multi-seat election, your top 3 votes count and if one of your top 3 are eliminated from competition, you 4th choice is activated as a vote and so on down your list.
 
 
 _
@@ -74,7 +78,7 @@ Section. 3.
 
 _The Senate shall be composed of Senators from each State; Three senators from states with total geographically elected inhabitants greater than 1/50th of the total Accounted Citizenship, Two senators from states with total geographically elected inhabitants greater than 1/500th and less than 1/50th of the total Accounted Citizenship, and 1 Senator from states with total geographically elected inhabitants less than 1/500th of the total Accounted Citizenship._
 
-This calculation maintins some of the 'equal representation' concepts of the senate, but applies a common sense order of magnitude exception. If you have more than 1/50th of the population in your state, you get three senators.  If your state is less than 1/50th of the whole population you drop to 2 senators.  If you are less than 1/500th you only get one senator.  This will keep very small states from trying to join the republic.
+This calculation maintains some of the 'equal representation' concepts of the senate, but applies a common sense order of magnitude exception. If you have more than 1/50th of the population in your state, you get three senators.  If your state is less than 1/50th of the whole population you drop to 2 senators.  If you are less than 1/500th you only get one senator.  This will keep very small states from trying to join the republic.
 
 According to current populations only Vermont and Wyoming have a sparse enough population to drop to 1 Senator.
 
@@ -94,26 +98,24 @@ _Each Senator shall have one Vote._
 
 No Change.
 
-_Senators may serve one regular elected terms in office after which they will be inelegible to serve in the Senate._
+_Senators may serve one regular elected terms in office after which they will be ineligible to serve in the Senate._
 
 Term limits and senators never have to run for re-election.
 
-_Immediately after they shall be assembled in Consequence of the first Election, they shall be divided as equally as may be into three Classes. The Seats of the Senators of the first Class shall be vacated at the Expiration of the second Year, of the second Class at the Expiration of the fourth Year, and of the third Class at the Expiration of the sixth Year, so that one third may be chosen every second Year. And any initial senator who's term is shortened may be elected to a second term._
+_Immediately after they shall be assembled in Consequence of the first Election, they shall be divided as equally as may be into three Classes. The Seats of the Senators of the first Class shall be vacated at the Expiration of the second Year, of the second Class at the Expiration of the fourth Year, and of the third Class at the Expiration of the sixth Year, so that one third may be chosen every second Year. And any initial senator whose term is shortened may be elected to a second term._
 
-No change other than allowing initial senator's who elect to server shorter terms the right being re-elected.
+No change other than allowing initial senator's who elect to serve shorter terms the right being re-elected once.
 
 _When vacancies happen from any State, the Executive Authority thereof shall assign a temporary representative until a special ranked choice vote of the affected state is completed to elect a new member._
 
-Here we instatutionalize ranked choice voting for special election of senators.
-
-
+Here we institutionalize ranked choice voting for special election of senators.
 
 _No Person shall be a Senator who shall not have attained to the Age of thirty Years, and been three Years a geographically elected Citizen of the State for which they will be chosen.
 _
 
-The big change here is that you most have had a geographic election inside the state for three years or more.  This is to reduce the carpetbagging situation where a powerful person cherry picks a state to run in.
+The big change here is that you must have had a geographic election inside the state for three years or more.  This is to reduce the carpetbagging situation where a powerful person cherry picks a state to run in.
 _
-Senators must not have recieved private payments of cash or private allotments of capital for one year before taking office unless elected or assigned for a vacancy. Representtives must elect to not recieve private payments or allotments while in office and for ten years after leaving office._
+Senators must not have received private payments of cash or private allotments of capital for one year before taking office unless elected or assigned for a vacancy. Representatives must elect to not receive private payments or allotments while in office and for ten years after leaving office._
 
 This reinforces the restriction of private payment to those that would like to serve in the Senate.  The restriction is lifted on the front end when there is an unexpected vacancy, but the general understanding is that you should know you are running for the Senate for at least a year before you take office and take the steps necessary to block private payments from your account.
 
