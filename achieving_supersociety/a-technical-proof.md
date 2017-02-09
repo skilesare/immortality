@@ -43,7 +43,7 @@ The pER is the rate at which that node produces Economic Rent on top of a sale. 
 The pReason value is the probability that a node will spend its money with a worthwhile node.  This is a nodes ‘investment sense.’  Some of us are better than others at looking at who has made something and being able to make some predictions about their future earning potential.  Some of us are Warren Buffet and some of us are Mr. Magoo.  In this model the reason is a straight line increasing as we increment n.  This is what we end up with:
 
 |Node| pER| pReason
-|--|
+|----|----|----
 |n0| 0.01| 0.00
 |n1| 0.05| 0.10
 |n2| 0.19| 0.20
