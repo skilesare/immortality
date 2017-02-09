@@ -1,4 +1,11 @@
 /* CSS for pdf */
 
-table{
-max-width: 100%;}
+@media print { 
+  tableimg { 
+    max-width:100% !important;
+  } 
+
+  img { 
+    max-width:100% !important;
+  } 
+}
