@@ -1,4 +1,4 @@
-# Article VI - Commentary
+## Article VI - Commentary
 
 
 

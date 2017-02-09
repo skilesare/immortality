@@ -1,4 +1,4 @@
-# Article VIII - commentary
+## Article VIII - commentary
 
 _Article VII._
 

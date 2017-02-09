@@ -1,4 +1,4 @@
-# Article II - Commentary
+## Article II - Commentary
 
 This section discusses the roles and responsibilities of the executive branch of government
 
