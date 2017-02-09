@@ -1,4 +1,4 @@
-# PRI. Privacy and Private Dispersal
+### PRI. Privacy and Private Dispersal
 
 ... How can we balance the public ledger **(PLG)** with a citizens **(CTZ)** right to privacy and also bar a legal entity **(LGE)** from the same right?
 

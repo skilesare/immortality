@@ -1,4 +1,4 @@
-# RCP. Real Capital
+### RCP. Real Capital
 
 
 ... what kind of Capital **(CAP)** is tied to real things?

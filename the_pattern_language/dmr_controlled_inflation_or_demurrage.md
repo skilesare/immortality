@@ -1,4 +1,4 @@
-# DMR. Controlled Inflation or Demurrage
+### DMR. Controlled Inflation or Demurrage
 
 
 

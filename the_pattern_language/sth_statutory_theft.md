@@ -1,4 +1,4 @@
-# STH. Statutory Theft
+### STH. Statutory Theft
 
 ... How do we use rule of law **(LAW)** to protect the citizen **(CTZ)** form losing his right to the full output of their labor **(FOL)**? How can we prevent the devaluation of predistribution of economic rents **(PRF)**.
 

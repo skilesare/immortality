@@ -1,4 +1,4 @@
-# RTC. Resistant to Counterfeiting
+### RTC. Resistant to Counterfeiting
 
 
 ... how can one ensure the money **(MNY)** cannot be falsely created or duplicated?

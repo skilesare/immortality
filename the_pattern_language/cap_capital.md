@@ -1,4 +1,4 @@
-# CAP. Capital
+### CAP. Capital
 
 ... how can one create and maintain value in an economic piston **(EPI)** what can one purchase with Money **(MNY)** that is not consumable?
 

@@ -1,4 +1,4 @@
-# EDU. Education
+### EDU. Education
 
 ... How can we enrich labor **(LBR)** and maintain human dignity **(DIG)** through learning?
 

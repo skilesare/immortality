@@ -1,4 +1,4 @@
-# INS. Instant Transfer
+### INS. Instant Transfer
 
 
 ... How can a market **(MKT)** ensure the liquidity **(LIQ)** of money?

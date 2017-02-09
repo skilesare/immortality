@@ -1,4 +1,4 @@
-# BNK. Everyone is a bank
+### BNK. Everyone is a bank
 
 ... How can the citizen **(CTZ)**, empowered with Instant Transfer **(INS)** and the public ledger **(PLG)** participate in issuing currency?  How can the concept of limited risk **(LMR)** still provide for funding of capital ventures?
 

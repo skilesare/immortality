@@ -1,4 +1,4 @@
-# VTO. Democratic Veto
+### VTO. Democratic Veto
 
 ... How can the **(CTZ)**, using selective citizenship **(SCZ)** and the public ledger **(PLG)** keep the state's power in check?
 

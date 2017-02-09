@@ -1,4 +1,4 @@
-#### DIV. Divisibility
+### DIV. Divisibility
 
 ... how does one divide Money **(MNY)** in order to pay for items of smaller value? How can we support a measure of value **(MOV)** when goods and services have variable values?
 

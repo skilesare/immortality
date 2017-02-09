@@ -1,4 +1,4 @@
-# ACP. Artificial Capital
+### ACP. Artificial Capital
 
 
 ... what kind of Capital **(CAP)** is tied to artificial things?

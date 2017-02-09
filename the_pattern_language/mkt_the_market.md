@@ -1,4 +1,4 @@
-# MKT. The Market
+### MKT. The Market
 
 ... How does an economic piston **(EPI)** organize itself? How can the state **(STA)** organize economic activity via the rule of law **(LAW)**.
 

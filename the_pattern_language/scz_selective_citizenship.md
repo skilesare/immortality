@@ -1,4 +1,4 @@
-# SCZ. Selective Citizenship
+### SCZ. Selective Citizenship
 
 ... How can a citizen declare his membership in a community **(CTZ)**?
 

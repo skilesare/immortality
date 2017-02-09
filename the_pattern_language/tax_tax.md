@@ -1,4 +1,4 @@
-# TAX. Tax
+### TAX. Tax
 
 ... how can money **(MNY)** be collected by the state **(STA)** to pay for its expenditures?  How can the strength of artificial capital **(ACP)** be controlled?  How can Demurrage **(DEM)** be used to support the state. How can taxation be implemented with Rule of Law **(LAW)**?
 

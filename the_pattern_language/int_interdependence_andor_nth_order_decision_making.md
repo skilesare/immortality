@@ -1,4 +1,4 @@
-# INT. Interdependence and/or nth order decision making
+### INT. Interdependence and/or nth order decision making
 
 ... How does a market **(MKT)** determine the regulation that it should implement. How can one determine the rate and style of Demurrage **(DEM)** that is implemented.
 

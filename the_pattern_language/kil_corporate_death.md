@@ -1,4 +1,4 @@
-# KIL. Corporate Death
+### KIL. Corporate Death
 
 ... How can we neutralize the power of artificial capital **(ACP)** via the diminishing value of economic rents **(DER)** and bound the immortality of a legal entity **(LGE)**.
 

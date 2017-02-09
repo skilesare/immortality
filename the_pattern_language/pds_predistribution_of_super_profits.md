@@ -1,4 +1,4 @@
-# PRF. Predistribution of economic rents
+### PRF. Predistribution of economic rents
 
 ... How can a market neutralize economic rent **(ECR)** and negate opportunity costs **(NOC)**.
 

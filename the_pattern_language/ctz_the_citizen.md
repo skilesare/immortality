@@ -1,4 +1,4 @@
-# CTZ. The Citizen
+### CTZ. The Citizen
 
 ... What is at the center of an economic piston **(EPI)**? Who is the ultimate user of money **(MNY)**.  Who gives power to the state **(STA)** and establishes rule of law **(LAW)**. Who is responsible for holding participants accountable in the public ledger **(PLG)** and holds the state accountable to public transparency **(TRN)**?
 

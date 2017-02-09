@@ -1,4 +1,4 @@
-# PFP. Principle of First Pref Payment
+### PFP. Principle of First Pref Payment
 
 ... How do we bound the recursive nature of predistribution of economic rent **(PRF)**?
 

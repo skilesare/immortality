@@ -1,4 +1,4 @@
-# STA. The State
+### STA. The State
 
 ... how can an economic piston **(EPI)** organize itself at the top level?
 

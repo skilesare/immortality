@@ -1,4 +1,4 @@
-# SDP. Supply, Demand, Price
+### SDP. Supply, Demand, Price
 
 ... How does a market **(MKT)** track what is available in a market and what the proper price is for goods and services.
 

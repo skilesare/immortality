@@ -1,4 +1,4 @@
-# LBR. Enrich Labor
+### LBR. Enrich Labor
 
 ... What effect does the diminishing value of economic rents **(DER)** have on labor. How can corporate death **(KIL)** be mitigated through labor?  How can legal entities **(LGE)** be held accountable to labor that helps drive their profits.
 
