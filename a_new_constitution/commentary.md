@@ -1,3 +1,4 @@
+
 # Constitutional Commentary
 
 In the following sections we will discuss the changes and additions made to the existing constitution and try to justify them.

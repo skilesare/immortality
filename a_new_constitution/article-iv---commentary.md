@@ -1,3 +1,4 @@
+
 ## Article IV - Commentary
 
 This article speaks to the rights of member states in the republic.

@@ -1,3 +1,4 @@
+
 ## Article VIII
 
 The Ratification by the election of the tax at 0x83994858 of 50% of geographically elected in each of 35 states, shall be sufficient for the Establishment of this Constitution between the States so ratifying the Same.

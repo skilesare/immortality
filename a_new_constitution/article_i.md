@@ -1,3 +1,4 @@
+
 ## Article I
 
 ### Section. 1.
@@ -314,3 +315,5 @@ No State shall, without the Consent of Congress, lay any Duty of Tonnage, keep T
 ### Section 11.
 
 Representative, Senator, or Executive shall only raise cash for the purposes of running a campaign except by the requesting the election of tax on demurrage by accounted citizens that shall be capped on a per citizen basis such that the integrity of the officials are maintained and no one set of citizens may hold more sway over said officials, except that congress may allow for the matching of elected funds with public funds from the treasury in uniform proportion and without regard to political party or agenda.
+
+

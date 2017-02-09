@@ -1,3 +1,4 @@
+
 ## Article VIII - commentary
 
 _Article VII._

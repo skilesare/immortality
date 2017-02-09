@@ -1,3 +1,4 @@
+
 ## Article III
 
 ### Section. 1.

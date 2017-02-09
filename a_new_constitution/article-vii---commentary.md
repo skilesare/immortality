@@ -1,3 +1,4 @@
+
 ## Article VII - commentary
 
 This is the 'Bill of Rights' Article where we incorporate the amendments to the original US constitutions as an article in this new constitution.

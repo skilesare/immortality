@@ -1,3 +1,4 @@
+
 ## Article II
 
 ### Section. 1.
@@ -33,3 +34,4 @@ He shall from time to time give to the Congress Information of the State of the 
 ### Section. 4.
 
 The President, Vice President and all civil Officers of the United States, shall be removed from Office on Impeachment for, and Conviction of, Treason, Bribery, or other high Crimes and Misdemeanors.
+
