@@ -3,7 +3,7 @@
 Now that we have looked at each level, let's summarize how the bootstrap occurred and create a systematized layout of what our system looks like.
 
 | | Inorganic (1) | Biological (4) | Societal (9) | Intellectual (13)
-| -- | -- | -- | -- | -- | -- | -- |
+|---|---|---|---|---|---|---|
 | Intellectual | - | - | - | time observation (14) / science - replayability (24)
 | Societal | - | - | resources (10) / money (20) | culture (17) / diversity(23)
 | Biological | - | fitness (5) / biodiversity (8) | grouping (11) / disbursement (12) | self preservation (15) / health(22)

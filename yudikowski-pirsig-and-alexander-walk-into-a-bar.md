@@ -1,10 +1,10 @@
-# Yudkowsky, Pirsig, and Alexander walk into a bar, Taleb is tending bar
+## Yudkowsky, Pirsig, and Alexander walk into a bar, Taleb is tending bar
 
 The purpose of this chapter is to try to summarize the beliefs of four authors that I think have something to say about these ideas and to show what each one gets right, and where I think they fall short.
 
 I understand the boldness of saying that these guys 'fall short.'  They are all smarter than I am and know their areas way better than I do. If anything insightful comes of this it is simply because I was in the right place at the right time and I read this stuff in the right order.
 
-##Christopher Alexander
+### Christopher Alexander
 
 Dr. Alexander is an architect who has spent his life studying what process is necessary to build buildings that are full of life and that have objective value. His most popular work is called [A Pattern Language](http://amzn.to/2jRIxrM) and is commonly referenced as the inspiration for computing patterns in computer science.  In trying to figure this out, he has shown, via experiment, that there is a set patterns in physical structure that humans react to in the same way. When shown differing images of structure, humans have more agreement than disagreement about what structures have more 'life' in them.
 
@@ -154,7 +154,7 @@ If you are interested in learning more about Christopher Alexander, I would reco
 
 [Christopher Alexander: The Search for a New Paradigm in Architecture ](https://www.amazon.com/Christopher-Alexander-Search-Paradigm-Architecture/dp/0853621993/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1484605395&sr=1-1-fkmr0&keywords=christopher+alexander+biography+Grabow&linkCode=ll1&tag=everybase-20&linkId=d72f7150f39237ecf8b91e09a6da3e9d)
 
-##Eliezer Yudkowsky
+### Eliezer Yudkowsky
 
 Eliezer wrote a series of blog posts over the course of number of years that has been combined into a book called [Rationality: From AI to Zombies](https://www.amazon.com/Rationality-AI-Zombies-Eliezer-Yudkowsky-ebook/dp/B00ULP6EW2/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1484605484&sr=1-1&keywords=Rationality:+From+AI+to+Zombies&linkCode=ll1&tag=everybase-20&linkId=f183a3b09cd77970cf3380122295780a). It is a great look at how to think rationally and how to think like a scientist.  He points out a number of things that I had not thought of before and approaches hard to understand topics with clear explanation.
 
@@ -164,7 +164,7 @@ He believes that it all is ultimately just quarks but he's not against good maps
 
 If you like your rationality to be laid out in story form you can read his Harry Potter fan fiction (yes really) at http://hpmor.com/.
 
-##Robert Pirsig
+### Robert Pirsig
 
 Robert Pirsig is best know for [Zen and the Art of Motorcycle Maintenance](http://amzn.to/2jsQc2T) where he puts forth a theory that there is a driving force to our universe called Quality that originates and drives our perceptions of subjects and objects.  He expands on this in a follow up book called [Lila](http://amzn.to/2jsSEGw) that has the meat of what I'd like to talk about.  In Lila he goes deeper into creating a 'Metaphysics of Quality' and trades his Classic/Romantic split of ZMM for the Dynamic/Static distinction of Lila.
 
@@ -182,7 +182,7 @@ Pirsig contends that each of these are built on the level before via a process o
 
 Pirsig system of the levels gave me a nice structure to filter some of my ideas through.  I'm concerned the more that I study his philosophy that there is a disconnect from, and possibly even a denial of, reality.  Pirsig's ultimate conclusion seems to be that there is no territory, only maps.  Quality helps us build the maps, but in the end it is all in our heads.  I also feel that he missed a couple of nuances about the levels that I will clarify later.
 
-##Nassim Taleb
+### Nassim Taleb
 
 Taleb's big idea is anti-fragility.  Glass is fragile.  When you mail a glass you put fragile on the outside so that the mail carrier will subject it to as little volatility as possible.  A rock is robust. If you mail the rock it isn't going to be much affected by a volatile transfer.  Anti-fragile is beyond robust. An anti-fragile thing will gain from volatility.  You want the mail carrier to play volleyball with the anti-fragile package.
 
@@ -198,7 +198,7 @@ Read more from Taleb:
 
 [The Black Swan](http://amzn.to/2jpRa0e)
 
-##Alexander vs. Pirsig
+### Alexander vs. Pirsig
 
 Alexander puts forth the ideas of stepwise refinement toward wholeness.  I believe that these rules of development are the modes of operation of Pirsig's dynamic quality.  Pirsig's approach is one of letting any dynamic quality generate a static pattern of value.  In other words there are no guard rails to this dynamic quality.  Alexander puts on guard rails.  I don't know so much if it is the actual words that make up the 15 process that are 'really' there as much as it is that dynamic quality produces static ratchets most often in these 15 ways.
 
@@ -222,7 +222,7 @@ Theory: Past stepwise refinement has been in the business of increasing wholenes
 
 Test: Observer advances in stepwise refinement vs. large jumps. We should see more preservation in the former.  This give us confidence in one approach to future advancements vs. another (stepwise vs. broad jump)
 
-##Alexander vs. Taleb
+### Alexander vs. Taleb
 
 Taleb's big concern is negative black swans that emerge out of the chaos of interrelated systems.  Alexander points to a number of ways in which this is evident, especially in architecture where a few like minded individuals looking for glory have driven 'good architecture' off a cliff and to a silly, anti-human place.
 
@@ -232,7 +232,7 @@ Let's take Taleb's argument against GMOs.  Of course generating a form of wheat 
 
 Postulate:  Develop GMO techniques that follow stepwise refinement.
 
-##Pirsig vs. Taleb
+### Pirsig vs. Taleb
 
 I think Pirsig and Taleb would get along swimmingly.  Taleb's Antifragile is Pirsig's dynamic quality.  In the same way that I think that Taleb cold lose some of his conservative nature from Alexander, I think Prisig would help as well.  Pirsig's latch adds an element to Taleb's antifragile.  This latch could lead to massive change very quickly by amplifying the effect.  If we have huge upside via antifragility, and that upside occurs via a positive black swan and then this is amplified by another antifragile situation we can have rapidly moving advancement.  In fact I'll argue that Pirsig's levels derive from exactly these kinds of amplifications.  I'll refer to these amplified antifragile situations that latch as bootstraps.  They move so far that they appear to follow completely different sets of rules that the system that they emerged from.
 
@@ -240,7 +240,7 @@ The problem with these huge moves is that Taleb would dismiss them as fiddling w
 
 Postulate: We need to put ourselves in the position to take advantage of antifragile situations in such a way that they are amplified to the point of enhancing the wholeness of our reality. This manifests itself in the generation of a new kind of biology, a new form of biological system that enhances our well being, an amplification of our society, and/or an amplification of intelligence.
 
-##Pirsig vs Yudkowsky
+### Pirsig vs Yudkowsky
 
 I'd love to see this debate.  Yudkowsky is a materialist and a reductionist.  Prisig says it all starts with quality and that the fact that we have an idea in our head of a quark is just a splitting of quality into subject and object.
 
@@ -248,11 +248,11 @@ At the end though they are both about maps and territories.  Yudkowsky says the 
 
 I think so.  If anything, I think that Yudkowsky's humanism betrays his material/reductionist stance.
 
-##Yudkowsky vs. Taleb
+### Yudkowsky vs. Taleb
 
 I think these guys have reached many of the same conclusions about being careful when developing future tech, but they approach the world in two very different ways.  Yudkowsky is a futurist and is aching to bring it to fruition and Taleb is fine with the way things were 1000 years ago(plus a little bit of medicine).
 
-##Other Authors Who's Ideas color this work
+### Other Authors Who's Ideas color this work
 
 Francis Fukuyama
 
@@ -274,7 +274,7 @@ Peter M. Hoffmann
 
 Hoffmann's idea of the biological reaching ratchet effects that help it withstand the molecular storm was integral to my development of the idea of higher layers operating independently of lower layers and my ultimate rejection of reductionism and determinism.
 
-#Borrowers Statement
+### Borrowers Statement
 
 I will state unequivocally that many of the ideas in this volume are lifted, sometimes, and often without attribution from the above authors.  I've tried to give credit where credit is due and I'll state for the record that it should be all of the credit.
 
