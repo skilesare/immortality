@@ -77,7 +77,7 @@ I give each node $1000 to start out with.  Let’s take a look at the results.
 The first result to take a look at is poverty.  Some of these nodes are going to run out of cash and not be able to buy necessities.  Now I’m all for free markets but I’m also generally against hunger.  I’d love a system that just intrinsically takes care of this and I’ve tried to put that into hypercapitalism.  I wasn’t sure that it would reduce poverty, but the results seem to bear it out.
 We see in this chart that the amount of poverty is significantly reduced as we redistribute wealth in a manner that sends it back to those that spent the cash with the wealth generators.
 
-![](./assets/Image1.png)
+![](./assets/image1bw.png)
 
 We see in this chart that the amount of poverty is significantly reduced as we redistribute wealth in a manner that sends it back to those that spent the cash with the wealth generators.
 
@@ -87,7 +87,7 @@ Our model only has 3,000 months in it. The fact that over ⅓ of them end up bei
 
 This is a nice result but it doesn’t speak to my initial prediction that the economy will grow.  After all, we could just do some redistribution via taxes and get a similar result.  So let’s look at GDP:
 
-![](/assets/image2.png)
+![](./assets/image2bw.png)
 
 Increasing the amount we redistribute to optimized value seeking nodes increase the GDP of our economy.
 
@@ -96,7 +96,7 @@ We can see here a clear increase in GDP as we increase the decay fee.  This is t
 
 We can see how much below:
 
-![](/assets/Image3.png)
+![](/assets/image3bw.png)
 
 Our model shows some increase at each step in the increase in decay fee.
 
@@ -108,13 +108,13 @@ At this point I hope it is clear that using this type of redistribution is worth
 
 We’ve missed one key consideration of science.  It is one thing to compare a 0% decay fee to a 20% decay fee in a hypercapitalism context.  We haven’t yet compared a different form of redistribution to the hypercapitalism form of redistribution.  The form of redistribution I chose to compare it to was even distribution.  I implemented a wealth tax equal to the demurrage rate but instead of distributing based on hypercapitalism, I did an even redistribution.  When I first ran this in the model I was floored because it basically negated my theory.  It looked like this:
 
-![](/assets/image4.png)
+![](./assets/image4bw.png)
 
 If we used reason in picking where we spend our money, we would not need hypercapitalism.  The market does not use reason and instead seeks the best immediate value without regard to the future value of production.
 
 It took me a while to realize that this scenario still relied on our consumers using reason, but by removing hypercapitalism I’m removed the driver of reason.  If your redistribution is going to be even, why would you focus your spending with firms that promise future value?  I added some code to apply the even redistribution without the driver of reason and received the following:
 
-![](/assets/image5.png)
+![](./assets/image5bw.png)
 
 An increase in taxation when there is no reason to the market leads nowhere.
 
