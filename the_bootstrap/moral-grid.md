@@ -7,7 +7,7 @@ We find the most ideal state to be that of the progressive.  This parallels our 
 Of course to those on the far left, progressivism will seem far too conservative, but hopefully, our new framework of bootstraps will reign in those that would charge wildly into the future with no concern for the present wholeness.
 
 | | description | cultural authority | intellectual authority | cultural responsibility (diversity) | intellectual responsibility (science)
-| -- |
+|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|
 | alt right |give culture authority over intellectual and emphasize a responsibility to overthrow intellectualism | for | against|against|neutral
 |religious right|give culture authority over intellectualism because Jesus|for|against|against|against
 |neo con|seeks dominance of culture via intellectual means|for|against|for|for
