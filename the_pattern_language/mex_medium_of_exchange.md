@@ -1,3 +1,4 @@
+
 ### MEX. Medium of Exchange
 
 ... how does one lubricate the exchange of goods with Money **(MNY)**?
@@ -21,3 +22,4 @@ Therefore:
 ----------
 
 Means of exchange is supported by Liquidity **(LIQ)** and Divisibility **(DIV)** and Measure of Value **(MOV)**. Means of exchange can be strengthened by being made Legal Tender **(LTN)**.
+

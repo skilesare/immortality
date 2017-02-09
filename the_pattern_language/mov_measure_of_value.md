@@ -1,3 +1,4 @@
+
 ### MOV. Measure of Value
 
 ... how does one measure the exchange of goods with Money **(MNY)**? How can we encourage a Medium of Exchange **(MEX)**?

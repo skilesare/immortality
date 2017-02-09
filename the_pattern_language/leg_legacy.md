@@ -1,3 +1,4 @@
+
 ### LEG. Legacy
 
 ... How can the **(CTZ)** leave a legacy after death and ensure the full output of their labor **(FOL)** is left to that legacy?

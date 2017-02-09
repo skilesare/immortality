@@ -1,3 +1,4 @@
+
 ### NOC. Negation of opportunity costs
 
 ... How does a market **(MKT)** make choices between alternatives.

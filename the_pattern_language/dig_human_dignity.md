@@ -1,3 +1,4 @@
+
 ### DIG. Human Dignity
 
 ... How can the public ledger **(PLG)** and taxation **(TAX)** be used to help the citizen **(CTZ)** develop and maintain human dignity?

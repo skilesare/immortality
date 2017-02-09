@@ -1,3 +1,4 @@
+
 ### ECR. Neutralization of Economic Rent
 
 ... How can a market **(MKT)** neutralize its inefficiencies.

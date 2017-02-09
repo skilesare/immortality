@@ -1,3 +1,4 @@
+
 ### HOM. The Home
 
 ... How can we maintain human dignity **(DIG)** of those that choose to stay home with their young children instead of working?

@@ -1,4 +1,5 @@
-### ELD. Elder care
+
+### ELD. Eldercare
 
 ... How can we maintain human dignity **(DIG)** for the elderly?
 

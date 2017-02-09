@@ -1,3 +1,4 @@
+
 ### PFP. Principle of First Pref Payment
 
 ... How do we bound the recursive nature of predistribution of economic rent **(PRF)**?
@@ -13,3 +14,4 @@ Therefore:
 ----------
 
 The principal of First Pref Payment is made possible with the public ledger **(PLG)**.
+

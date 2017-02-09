@@ -1,3 +1,4 @@
+
 ### DPY. Deferred Payment
 
 ... how can one exchange a good for the deferred payment of money **(MNY)**?

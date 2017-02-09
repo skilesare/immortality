@@ -1,3 +1,4 @@
+
 ### LTN. Legal Tender
 
 ... how can a state **(STA)** use Rule of Law **(ROL)** to help encourage the use of a new money. How can money **(MNY)** help implement deferred payments **(DPY)**, means of exchange **(MEX)**, and measure of value **(MOV)**?

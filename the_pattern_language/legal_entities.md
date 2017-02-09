@@ -1,3 +1,4 @@
+
 ### LGE. Legal Entities
 
 ... How can participants in an economic piston **(EPI)** group together to do business. How can the state establish these entities via rule of law **(LAW)** so that they can use money **(MNY)** to function.

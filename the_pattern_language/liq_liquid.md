@@ -1,3 +1,4 @@
+
 ### LIQ. Liquid
 
 ... how can one ensure the availability of money **(MNY)** and strengthen the Means of Exchange **(MEX)**?

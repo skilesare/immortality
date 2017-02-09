@@ -1,3 +1,4 @@
+
 ### CAP. Capital
 
 ... how can one create and maintain value in an economic piston **(EPI)** what can one purchase with Money **(MNY)** that is not consumable?
@@ -29,3 +30,4 @@ Therefore:
 ----------
 
 Capital can be broken down into Artificial Capital **(ACP)** and Real Capital **(RCP)**. Ownership of Capital can be secured via Rule of Law **(LAW)** and the Public Ledger **(PLG)**.
+

@@ -1,3 +1,4 @@
+
 ### SDP. Supply, Demand, Price
 
 ... How does a market **(MKT)** track what is available in a market and what the proper price is for goods and services.
@@ -16,6 +17,7 @@ Therefore:
 
 ----------
 Track item supply and price paid in the public ledger **(PLG)**.
+
 
 
 

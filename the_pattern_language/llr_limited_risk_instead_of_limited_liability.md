@@ -1,3 +1,4 @@
+
 ### LMR. Limited Risk instead of Limited Liability
 
 ... How can the idea of limited liability legal entity **(LGE)** be made more natural.

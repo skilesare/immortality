@@ -1,3 +1,4 @@
+
 ### RTC. Resistant to Counterfeiting
 
 
@@ -17,5 +18,6 @@ Therefore:
 ----------
 
 Counterfeiting can be battled with the Public Ledger **(PLG)**.
+
 
 

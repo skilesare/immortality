@@ -1,3 +1,4 @@
+
 ### RCP. Real Capital
 
 
@@ -28,4 +29,5 @@ Therefore:
 ----------
 
 Ownership of real capital can be recorded in a Public Ledger **(PLG)**.
+
 
