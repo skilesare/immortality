@@ -1,4 +1,4 @@
-# The State
+## The State
 
 Is 'The State' the bootstrap of society to super-society?
 

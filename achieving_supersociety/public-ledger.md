@@ -1,4 +1,4 @@
-# Public Ledger
+### Public Ledger
 
 
 The public ledger is a system that holds the current balance and past transaction history of the money system.

@@ -1,4 +1,4 @@
-# A Technical Proof
+### A Technical Proof
 
 A published model of hypercatallaxy
 
@@ -8,7 +8,7 @@ This chapter assumes you are familiar with the basics of hypercatallaxy, most of
 
 The main thing we will focus on today are the ideas of demurrage or the decay fee and the idea of the prefered stock that is exchanged with each and every cash transaction in a hypercapitalistic economy.
 
-## INTRO
+#### INTRO
 
 As a short review, if I buy a bottle of wine for $10, I get the wine and 10 ‘shares’ in the wine merchants account.  If that $10 sits in his account for 1 year at a 12% decay rate, I will receive back $1.20.  If he spends the money, he gets 10 shares in someone elses account and I only get 12% of his $1.20.  This is recursive and cumulative so eventually I will see most of my cash back.
 
@@ -20,7 +20,7 @@ For example, take two apples priced at $1.00 and $1.01.  Apple 1 is made on a fa
 
 This is a problem and now I have the model to prove that it is a problem.  And it is a potentially huge problem.  If we can fix this problem we can drastically increase our GDP.
 
-## THE MODEL
+#### THE MODEL
 
 Here are the assumptions of this model:
 
@@ -71,7 +71,7 @@ This is not supposed to be a ‘realistic’ model of the economy.  That being s
 
 I give each node $1000 to start out with.  Let’s take a look at the results.
 
-## POVERTY
+#### POVERTY
 
 The first result to take a look at is poverty.  Some of these nodes are going to run out of cash and not be able to buy necessities.  Now I’m all for free markets but I’m also generally against hunger.  I’d love a system that just intrinsically takes care of this and I’ve tried to put that into hypercapitalism.  I wasn’t sure that it would reduce poverty, but the results seem to bear it out.
 We see in this chart that the amount of poverty is significantly reduced as we redistribute wealth in a manner that sends it back to those that spent the cash with the wealth generators.
@@ -82,7 +82,7 @@ We see in this chart that the amount of poverty is significantly reduced as we r
 
 Our model only has 3,000 months in it. The fact that over ⅓ of them end up being poverty months under standard capitalism makes this a pretty sorry economy. As you can see here, the increase in decay fee has a profound effect of poverty.  I don’t know if politics and good sense could endure a 60% decay rate, but with it we cut the poverty rate by over 50%.
 
-## INCREASING GDP
+#### INCREASING GDP
 
 This is a nice result but it doesn’t speak to my initial prediction that the economy will grow.  After all, we could just do some redistribution via taxes and get a similar result.  So let’s look at GDP:
 
@@ -103,7 +103,7 @@ The total increase in GDP when we go to 60% is 8.2% in GDP over 25 years.  This 
 
 At this point I hope it is clear that using this type of redistribution is worth exploring further and potentially interesting enough to implement. I wish I could use this kind of money today.  
 
-## CONTROL GROUP
+#### CONTROL GROUP
 
 We’ve missed one key consideration of science.  It is one thing to compare a 0% decay fee to a 20% decay fee in a hypercapitalism context.  We haven’t yet compared a different form of redistribution to the hypercapitalism form of redistribution.  The form of redistribution I chose to compare it to was even distribution.  I implemented a wealth tax equal to the demurrage rate but instead of distributing based on hypercapitalism, I did an even redistribution.  When I first ran this in the model I was floored because it basically negated my theory.  It looked like this:
 
@@ -119,7 +119,7 @@ An increase in taxation when there is no reason to the market leads nowhere.
 
 The first thing we notice is that GDP starts about 16% below where it started when we used reason.  This makes sense.  If people are not spending their cash with value creators then the value creators won’t be making enough money.  We see here the redistribution has little to no reliable effect on the GDP.
 
-## CONCLUSION
+#### CONCLUSION
 
 After reviewing this model I think it is clear that the the adding a driver to use reason is a reliable way to increase GDP.  If you agree I’d encourage you to read up on more of my ideas at hypercapital.info and help me out with the kickstarter.  The worst that can happen is you end up with a cool shirt.
 
@@ -131,7 +131,7 @@ If you want to run the standard test from above, you will need to follow the com
 
 Have fun and let me know how your testing goes.
 
-Code Text:
+#### Code Text:
 
 wallet.js
 

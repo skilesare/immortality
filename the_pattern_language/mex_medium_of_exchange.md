@@ -1,4 +1,4 @@
-# MEX. Medium of Exchange
+#### MEX. Medium of Exchange
 
 ... how does one lubricate the exchange of goods with Money **(MNY)**?
 

@@ -1,4 +1,4 @@
-# The distructive valley
+## The distructive valley
 
 Morality is a dicey subject. It is so easy to use morality to oppress that I'm fairly hesitant to use the word. This chapter is very important because we are going to use the word morality but we must also be cautious of what I call the destructive valley. The destructive valley is when agents in one area, that have moral authority over a lower system, act without moral responsibility.
 

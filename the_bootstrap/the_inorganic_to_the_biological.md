@@ -1,4 +1,4 @@
-# The inorganic to the biological
+## The inorganic to the biological
 
 The inorganic can be subdivided into three levels:
 

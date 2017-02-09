@@ -1,4 +1,4 @@
-# Seed to Vision
+### Seed to Vision
 
 
 The secret weapon of Art is that with a tax rate of 0, and demurrage rate of 0, it is just money. Same as it ever was.

@@ -1,4 +1,5 @@
-# Privacy Pools
+### Privacy Pools
+
 Privacy pools are issued by the issuer to protect the right to privacy of its citizens.
 
 We recommend one general privacy account that all private payments travel through. This will maximize the privacy because smaller numbers of transaction can lead to the owner of a transaction being deduced by process of elimination.

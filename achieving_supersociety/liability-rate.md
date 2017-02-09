@@ -1,4 +1,4 @@
-# Liability Rate
+### Liability Rate
 
 We take it for granted that the government can issue a limited liability license to corporations or citizens seeking to engage in enterprise. It is assumed that this is good for society because it creates economic activity that reasonable people would not engage in because the personal risks are too high.
 

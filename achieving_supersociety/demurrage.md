@@ -1,4 +1,4 @@
-# Demurrage
+### Demurrage
 
 
 Demurrage is our method of controlling inflation and deflation. Our goal is for there to always be enough money to buy all the things that are being produced. As production tends to vary and sometimes degrade, it may be necessary to increase and/or remove money as needed.

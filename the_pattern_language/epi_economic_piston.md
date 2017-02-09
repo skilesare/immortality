@@ -1,4 +1,4 @@
-# EPI. Economic Piston
+#### EPI. Economic Piston
 
 **An Economic system cannot function unless it is driven by a piston that maintains the velocity of money so that inflation is controlled and still there is always enough money to buy the outputs of production.**
 

@@ -1,4 +1,4 @@
-# Domestic Accounts
+### Domestic Accounts
 
 Domestic accounts should be established to allow for family units to participate in the economy as a co-entity and share prefs in the future.
 

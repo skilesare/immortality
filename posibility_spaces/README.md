@@ -1,4 +1,4 @@
-# Possibility Spaces
+## Possibility Spaces
 
 
 It should be instructive to look at the jump in possibility space in the inorganic to the possibility space in the biological to realize the significant hurdle to that we have to overcome in finding a society -> super society or intelligence -> superintelligence bootstrap. Biology has a super exponential magnitude of possibility space over the inorganic which is probably why we saw significant movement on in the inorganic self organization on the scale of microseconds and while the biological changes can take eons.

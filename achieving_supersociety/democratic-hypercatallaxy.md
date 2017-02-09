@@ -1,3 +1,5 @@
+## Democratic Hypercatallaxy
+
 Why do we need a new form of money? It is my belief that money is unnatural. It does not die and therefore can lead to unfair advantage. With our new form of money we seek to naturalize money and fix a lot of issues along the way.
 
 This kind of money is different for 3 core reasons:

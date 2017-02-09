@@ -1,4 +1,4 @@
-# Personal Loans
+### Personal Loans
 
 Personal loans are still possible without using the Loan Pool system. We believe they will be much less available as most people will go to the Loan Pool, but, when there is high demand for the loan pool, personal loans may be used. In a personal loan, an account holder gives a user cash in exchange for an IOU. This IOU may or may not be part of the public ledger.
 

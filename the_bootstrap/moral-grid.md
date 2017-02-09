@@ -1,4 +1,4 @@
-# The Moral Grid
+## The Moral Grid
 
 The following chart lays out the current spectrum of political ideologies.  We can see how each ideology holds up to our ideal of recognizing the authority of the intellect over society, but also approaches society with a permissive responsibility.
 

@@ -1,4 +1,4 @@
-# Demurrage Rate
+### Demurrage Rate
 
 The issuer can manipulate the demurrage rate to control inflation and deflation.
 

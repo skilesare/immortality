@@ -1,4 +1,4 @@
-# The bootstrap order
+## The bootstrap order
 
 Now that we have looked at each level, let's summarize how the bootstrap occurred and create a systematized layout of what our system looks like.
 

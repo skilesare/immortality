@@ -1,4 +1,4 @@
-# Moral Struggles
+## Moral Struggles
 
 We can simplify many of our moral discussions by using this framework. In order to do this follow the following steps:
 

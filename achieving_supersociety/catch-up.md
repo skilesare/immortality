@@ -1,4 +1,4 @@
-# Catch Up
+### Catch Up
 
 
 Catch up occurs whenever an account wants to spend cash or after regular periods of inactivity.

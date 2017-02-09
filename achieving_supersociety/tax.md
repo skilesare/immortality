@@ -1,4 +1,4 @@
-# Tax
+### Tax
 A portion of the Demurrage is allocated to tax. This amount is determined by:
 
 1. The issuer with required tax

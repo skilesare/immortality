@@ -1,4 +1,4 @@
-# Required Tax
+### Required Tax
 
 
 The required tax rate is a flat tax that is paid to the issuer out of the demurraged cash.
