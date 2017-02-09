@@ -16,3 +16,5 @@ We also don't want small issues gumming up the general working of the state.  As
 Therefore:
 
 **Establish the democratic veto for state accounts and selective veto for agency accounts.**
+
+----------

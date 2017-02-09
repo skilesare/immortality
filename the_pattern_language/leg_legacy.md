@@ -16,3 +16,5 @@ The government should not take control of inherited prefs.  Prefs eventually nee
 Therefore:
 
 **Establish a progressive inheritance tax.**
+
+----------

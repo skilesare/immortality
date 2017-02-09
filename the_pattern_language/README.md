@@ -125,7 +125,7 @@ And the power of democratic citizen government is protected by...
 VTO. Democratic Veto
 
 
-##Todos:
+###Todos:
 
 The pattern language is not complete.  A true pattern language has evidence that supports each pattern and I have not yet done the work to provide that evidence I encourage that evidence to be gathered, and if the evidence demonstrates that the pattern is false, then the structure should be adapted to fit the demonstrated evidence.  There is no dogma here.
 
