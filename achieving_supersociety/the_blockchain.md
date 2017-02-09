@@ -1,3 +1,4 @@
+
 ## The Blockchain
 
 Why does the blockchain capture the imagination of so many people that really understand it? The blockchain is an intellectual construct that is laid on top of the societal layer to increase its robustness. It takes time, the economy of the intellect, and applies it to the economy of society.

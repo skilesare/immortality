@@ -1,3 +1,4 @@
+
 ## Incentivising The Flow of Cash
 
 Savings is an interesting thing. We are told from a young age to save our pennies so that we have them for a rainy day. The problem with this is that when our pennies are inactive, there is work out there in the world not being done. There is certainly someone with the ability to create some value if they had access to your pennies.

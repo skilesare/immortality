@@ -1,3 +1,4 @@
+
 # Achieving Super Society
 
 Society has the possibility of bootstrapping into an infinite number of super societies.  Which bootstrap will actually latch is very hard to predict, but we will not let this difficulty hinder our efforts.  Our goal must be to maintain our intellectual authority while acting with responsibility toward a large and permissive set of cultures.  Using the understanding of time that our intellect gives us we will try to thread a needle through a small window probability that will lead to a safe, productive super society that establishes a justification to any oncoming super intelligence that our supersocity is not only worth keeping around, but worth extending to the edges of the universe.

@@ -1,3 +1,4 @@
+
 ## The biological to the societal
 
 We have established that the inorganic bootstrapped to the biological level.  At the biological level, fitness is valued.  At this level a system survives only as well as it is able to reproduce.  Because biology is at a higher level than the inorganic level it has access to utilize the systems at that level for its own purposes.

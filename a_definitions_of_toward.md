@@ -1,3 +1,4 @@
+
 ## A definitions of 'toward'
 
 There is nothing tricky in the way I am using 'toward' in my title of this book.  I believe there is an economics that can propel us toward a much, much longer lifespan for our minds.  This economics is not a magic bullet that can outstrip the laws of physics and the path from here to immortality being achieved maybe be a very, very long path. Also do not underestimate mankind's ability to aim poorly.

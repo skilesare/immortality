@@ -1,3 +1,4 @@
+
 ## The Fragility of Banking and the Antifragile Answer
 
 We see from Taleb that the current banking industry is incredibly fragile. He calls it picking up nickels in front of a steam roller. Bankers take our money and loan it out on the assumption that it is nearly impossible for all the loans to fail at the same time. In doing this they pick up nickels and give us pennies calling it a win-win. That is until all the loans do fail at the same time and the dollars we gave them to get our pennies disappear into thin air. This is a fragile system. Volatility destroys it.

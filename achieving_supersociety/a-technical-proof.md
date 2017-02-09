@@ -1,3 +1,4 @@
+
 ### A Technical Proof
 
 A published model of hypercatallaxy
