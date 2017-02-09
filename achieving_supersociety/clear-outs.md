@@ -1,3 +1,4 @@
+
 ### Clear Outs
 
 
@@ -23,3 +24,4 @@ When an account reaches a point that it needs a clear out, the following things 
 This plan gives the consumer a way to rebuild wealth and hopefully make the creditor whole.
 
 What if the debtor decides to never spend money again? The pref payments will build up and then demurrage to the creditor via the prefs the creditor owns in the debtor.
+

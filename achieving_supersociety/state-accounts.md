@@ -1,6 +1,5 @@
+
 ### State Accounts
-
-
 
 
 There are three types of state accounts:

@@ -1,3 +1,4 @@
+
 ### The Beggar
 
 
@@ -11,5 +12,6 @@ How will our system affect the beggar? She will benefit by just living. Even the
 
 
 Governments will be much more empowered to help the beggar because they will be able to limit the amount of time they help until the account has enough prefs to continue on its own.
+
 
 

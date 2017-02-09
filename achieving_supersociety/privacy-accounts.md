@@ -1,3 +1,4 @@
+
 ### Privacy Pools
 
 Privacy pools are issued by the issuer to protect the right to privacy of its citizens.

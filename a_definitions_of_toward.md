@@ -72,7 +72,3 @@ Output our results:
     console.log "example1:" + example1 + " death: " + example1b
     console.log "example2:" + example2 + " death: " + example2b
     console.log "example3:" + example3 + " death: " + example3b
-
-
-
-

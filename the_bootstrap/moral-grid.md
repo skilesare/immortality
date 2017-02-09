@@ -19,3 +19,4 @@ Of course to those on the far left, progressivism will seem far too conservative
 |socialist|neutral toward intellectual authority and lack responsibility toward culture by streamlining systems and reducing optionality for the sake of the current culture|for |neutral|against|against
 |communism|for a monoculture authority and mastering that culture with intellectual authority help but without responsibility at any level |for|for|against|against
 
+

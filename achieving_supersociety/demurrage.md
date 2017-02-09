@@ -1,3 +1,4 @@
+
 ### Demurrage
 
 
@@ -19,3 +20,4 @@ We have modified traditional demurrage with the idea of prefs. As a result, not 
 Money will demurrage at a set rate. Instead of requiring everyone to 'stamp' their money once a month we will require an account that wants to spend money, receive money, or process pref payments to 'catch up' and pay the portion of the yearly percentage since the last catch up. Since money moves between accounts instantly, our money will be constantly decaying.
 
 A high rate will lead to people looking to spend their money more quickly so that other bear the cost of demurrage.
+

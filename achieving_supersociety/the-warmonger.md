@@ -1,3 +1,4 @@
+
 ### The Warmonger
 
 
@@ -15,3 +16,4 @@ In addition if a community of teachers and business people that have invested ye
 
 
 Prefs will make the economics of war much more difficult and a much harder sell.
+

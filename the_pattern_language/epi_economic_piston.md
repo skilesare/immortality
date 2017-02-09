@@ -1,3 +1,4 @@
+
 ### EPI. Economic Piston
 
 **An Economic system cannot function unless it is driven by a piston that maintains the velocity of money so that inflation is controlled and still there is always enough money to buy the outputs of production.**
@@ -18,3 +19,4 @@ Therefore:
 ----------
 
 Within the economy, encourage the participants to distribute themselves into States **(STA)**, Markets **(MKT)**, Legal Entities **(LGE)**, all made up of Citizens **(CTZ)**. These actors can participate in the economy by using Money **(MNY)** and by producing Capital **(CAP)**.
+

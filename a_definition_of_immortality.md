@@ -51,3 +51,4 @@ What happens if we send our duplicated minds into different light cones?  Are th
 When we contemplate the heat death of the universe, is there a way to construct a zero-energy latices for the reconstitution of minds upon another 'big bang.'
 
 Many of these ideas sound crazy and far out, and truly they are, but these questions, and others like them cannot be addressed until we first solve the problem of preserving our minds far beyond what our current bodies allow.
+

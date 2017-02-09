@@ -1,3 +1,4 @@
+
 ### Tax
 A portion of the Demurrage is allocated to tax. This amount is determined by:
 

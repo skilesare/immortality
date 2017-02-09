@@ -16,3 +16,4 @@ So what is responsibility in this case? An agent with moral responsibility will 
 A practical example is that the intellect has authority over the inorganic, and we could certainly make short term gains by stripping the valuable resources from our environment, but, if we are morally responsible, we will use the resource in renewable and responsible way. Here we see environmentalism is not a moral obligation but is a moral responsibility.
 
 As we speak about future bootstraps, beware the destructive valley.
+

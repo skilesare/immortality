@@ -1,3 +1,4 @@
+
 ### Legacy
 
 
@@ -15,3 +16,4 @@ For individuals with a small amount of prefs, most should be passed on as a lega
 
 
 For Corporations that cease to exist, all prefs owned by the legal entity should distribute to the pref owners. The prefs will degrade when the owners pass away. Some corporation accounts can become 'pass through' accounts where taxes do not get charged to prefs passing through. This is an alternative to legacy for corporations.  This can be achieved by 'folding the blockchain' over the entity that is 'going out of business.'
+
