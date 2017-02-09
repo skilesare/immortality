@@ -26,5 +26,3 @@ Track item supply and price paid in the public ledger **(PLG)**.
 
 
 
-
-
