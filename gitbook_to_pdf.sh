@@ -14,10 +14,10 @@ if [ -d "$GITBOOK_REP" ]; then
       grep -o '<a href=['"'"'"][^"'"'"']*['"'"'"]' | \
       sed -e 's/^<a href=["'"'"']//' -e 's/["'"'"']$//'| \
       xargs cat | \
-      pandoc -f markdown --variable fontsize=10pt \
+      pandoc -f markdown --variable fontsize=11pt \
               --variable geometry:paperwidth=6in \
               --variable geometry:paperheight=9in \
-              --variable geometry:margin=1in \
+              --variable geometry:margin=0.6in \
               --variable mainfont="Times" \
              --variable documentclass=memoir --toc --latex-engine=xelatex -o aetipandoc.pdf
   else
