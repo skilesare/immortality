@@ -3,6 +3,7 @@
 @media print { 
   table { 
     max-width:100% !important;
+    font-size: smaller;
   } 
 
   img { 
