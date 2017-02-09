@@ -1,4 +1,4 @@
-### A definition of morality
+## A definition of morality
 
 What is good and right?  Our moral framework should answer this question.  People have sought to derive morality from ancient texts, from royal decree, and from moral philosophy.  This book assumes that morality emerges from the very metaphysics of our universe.  We can see what our moral framework should be by simply looking around us at what is.
 
