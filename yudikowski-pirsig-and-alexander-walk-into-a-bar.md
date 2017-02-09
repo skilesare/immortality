@@ -207,7 +207,7 @@ Theory: If one looks at the wake of dynamic quality, one will most often find op
 
 Test:  Compare dynamic to static latches across a number of domains and compare latches that fall under the 15 properties vs. other categories.
 
-##Alexander vs. Yudkowsky
+### Alexander vs. Yudkowsky
 
 Yudkowsky comes down squarely on the side that the universe is completely hostile to us.  His big warning is that as we move toward an Artificial Intelligence, we must be very careful because it may decide that we are no longer needed and it could bring about the end of the human race.  I don't doubt that this is possible, but I think he misses the Luminous Ground that Alexander speaks of in the Nature of Order.  Now Yudkowsky would probably reject this seemingly silly concept out right.
 
