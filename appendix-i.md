@@ -2,7 +2,7 @@
 
 #### Code Text:
 
-wallet.js
+## wallet.js
 
 ```
 (function() {
@@ -327,7 +327,7 @@ wallet.js
 
 ```
 
-capital.js
+## capital.js
 
 ```
  (function() {
@@ -377,7 +377,7 @@ capital.js
 }).call(this);
 ```
 
-Issuer.js
+## Issuer.js
 
 ```
  (function() {
@@ -433,7 +433,7 @@ Issuer.js
 ```
 
 
-server.js
+## server.js
 
 ```
 (function() {
