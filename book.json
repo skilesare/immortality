@@ -4,9 +4,5 @@
             // ...
             "size": 1 to 4
         }
-    },
-	"pdf": {
-		"paperSize": "a5",
-		"fontSize": "10"
-	}
+    }
 }
