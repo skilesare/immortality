@@ -15,10 +15,10 @@ if [ -d "$GITBOOK_REP" ]; then
       sed -e 's/^<a href=["'"'"']//' -e 's/["'"'"']$//'| \
       xargs cat | \
       pandoc -f markdown --variable fontsize=10pt \
-              --variable geometry:paperwidth=5in \
-              --variable geometry:paperheight=8in \
+              --variable geometry:paperwidth=6in \
+              --variable geometry:paperheight=9in \
               --variable mainfont="Times" \
-             --variable documentclass=scrbook --toc --latex-engine=xelatex -o aetipandoc.pdf
+             --variable documentclass=memoir --toc --latex-engine=xelatex -o aetipandoc.pdf
   else
     echo "File '$SUMMARY_FILE' does not exist"
   fi
