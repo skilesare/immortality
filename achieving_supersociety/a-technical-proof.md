@@ -76,7 +76,7 @@ I give each node $1000 to start out with.  Let’s take a look at the results.
 The first result to take a look at is poverty.  Some of these nodes are going to run out of cash and not be able to buy necessities.  Now I’m all for free markets but I’m also generally against hunger.  I’d love a system that just intrinsically takes care of this and I’ve tried to put that into hypercapitalism.  I wasn’t sure that it would reduce poverty, but the results seem to bear it out.
 We see in this chart that the amount of poverty is significantly reduced as we redistribute wealth in a manner that sends it back to those that spent the cash with the wealth generators.
 
-![](/assets/Image1.png)
+![](./assets/Image1.png)
 
 We see in this chart that the amount of poverty is significantly reduced as we redistribute wealth in a manner that sends it back to those that spent the cash with the wealth generators.
 
