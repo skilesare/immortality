@@ -16,6 +16,7 @@ Therefore:
 **Support specific metadata around transactions that help track the past supply of goods and services and the prices that were paid.**
 
 ----------
+
 Track item supply and price paid in the public ledger **(PLG)**.
 
 
