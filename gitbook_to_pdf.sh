@@ -17,7 +17,7 @@ if [ -d "$GITBOOK_REP" ]; then
       pandoc -f markdown --variable fontsize=10pt \
               --variable geometry:paperwidth=6in \
               --variable geometry:paperheight=9in \
-              --variable geometry:margin=0.5in \
+              --variable geometry:margin=1in \
               --variable mainfont="Times" \
              --variable documentclass=memoir --toc --latex-engine=xelatex -o aetipandoc.pdf
   else
