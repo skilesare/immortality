@@ -1,27 +1,29 @@
 
-## Article VII
+## Article VII - Bill of Rights and Restrictions
+
+### Section 1. - Citizens
 
 All persons born or naturalized in the United States or of new territories admitted to the Union, and subject to the jurisdiction thereof, who have elected the government tax at 0x8394857, and who have elected a geographic residence within the bounds of member states are citizens of the United States and of the State wherein they have geographically elected. Residents may elect a non-descript location for their privacy but must reside within 10 mile of that location for at least 10 days a year and the Congress shall have power to enforce this article by appropriate legislation.
 
 No State shall make or enforce any law which shall abridge the privileges or immunities of citizens of the United States; nor shall any State deprive any person of life, liberty, or property, without due process of law; nor deny to any person within its jurisdiction the equal protection of the laws.
 
-### Section 2.
+### Section 2. - Representation
 
 Representatives shall be apportioned among the several States according to their respective numbers, counting the whole number of accounted citizens who have geographically elected inside the state bounds.
 
-### Section 3.
+### Section 3. - Exclusion for Treason
 
 No person shall be a Senator or Representative in Congress, or elector of President and Vice-President, or hold any office, civil or military, under the United States, or under any State, who, having previously taken an oath, as a member of Congress, or as an officer of the United States, or as a member of any State legislature, or as an executive or judicial officer of any State, to support the Constitution of the United States, shall have engaged in insurrection or rebellion against the same, or given aid or comfort to the enemies thereof. But Congress may by a vote of two-thirds of each House, remove such disability.
 
-### Section 4.
+### Section 4. - Covering of Debts
 
 The validity of the public debt of the United States, authorized by law, including debts incurred for payment of pensions and bounties for services in suppressing insurrection or rebellion, shall not be questioned. But neither the United States nor any State shall assume or pay any debt or obligation incurred in aid of insurrection or rebellion against the United States.
 
-### Section 5.
+### Section 5. - Congressional Power
 
 The Congress shall have the power to enforce, by appropriate legislation, the provisions of this article.
 
-### Section 6.
+### Section 6. - Bill of Rights
 
 Citizens of the United States shall have the following rights:
 
@@ -121,11 +123,11 @@ A citizen willing to enter into a trade or provide a service who forfeits all li
 
 A citizen shall, when voting for elected office, have the opportunity to rank choices for office in such a way that if their higher choice is eliminated from competition via an instant runoff, their next choice shall receive their vote; and shall be allowed to specify candidates for which they wish to never have their vote cast for such that if all preferred candidates are eliminated, their vote may be cast for no one. This right shall extend to all elections at any level of public government.
 
-### Section 6.
+### Section 6. - Exclusion of Corporations
 
 The rights of citizens shall not fall to any corporation or joint stock company as formed by any state or authority, domestic or foreign.
 
-### Section 7.
+### Section 7. - Bill of Corporate Restrictions
 
 Citizens shall have the rights to form partnerships, corporations, and joint stock companies and can own stock in such companies if the stock shall demurrage to the commons such that the demurrage is offered up for public bid and that the demurred from entity shall have the right to pay a tax equal to the highest bid to retain the rights granted by the capital.
 
@@ -151,7 +153,7 @@ Corporations shall at no time make any payment to a public official in power in 
 
 Congress shall make no law such that the demurrage of corporate accounts shall be less than that of national citizens, but it may be more.
 
-### Section 8.
+### Section 8. - Public Institutions
 
 Citizens shall have the rights to form institutions by establishing an electable tax on demurrage cash and to fund the institution by the election of accounted citizens and corporations. And congress shall make no law restricting the formation of such institutions.
 
@@ -167,7 +169,7 @@ Such institutions not funded by congress shall be subject to the bounds of this 
 
 Such institutions funded by congress shall be subject to the bounds of this constitution and any law passed by congress and any case brought against an institution shall be the jurisdiction of the national judiciary.
 
-### Section 9.
+### Section 9. - Campaign Finance
 
 First, To advance democratic self-government and political equality, and to protect the integrity of government and the electoral process, Congress and the States may regulate and set reasonable limits on the raising and spending of money by candidates and others to influence elections.
 

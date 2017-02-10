@@ -1,5 +1,5 @@
 
-## Article VI
+## Article VI - Previous Debts and Obligations
 
 All Debts contracted and Engagements entered into, before the Adoption of this Constitution, shall be as valid against the Government under this Constitution, as under the Constitutions preceding ratification.
 
