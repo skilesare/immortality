@@ -8,7 +8,7 @@ We have chosen the name Democratic Hypercatallaxy to speak towards our systems k
 In this book we will flesh out our form language for our new money and provide conceptual details. The following forms will be discussed in detail:
 
 
-The types of accounts:
+#### The types of accounts:
 
 1. State Accounts
 2. Citizen Accounts
@@ -17,7 +17,7 @@ The types of accounts:
 5. Privacy Accounts
 6. Domestic Accounts
 
-The Key money flow concepts:
+#### The Key money flow concepts:
 
 7. Public Ledger
 8. Demurrage
@@ -29,7 +29,7 @@ The Key money flow concepts:
 14. Loan Pool
 15. Loan Officers
 
-The levers of economic manipulation controlled by the issuer of the currency:
+#### The levers of economic manipulation controlled by the issuer of the currency:
 
 16. Demurrage Rate
 17. Retaining Rate
@@ -37,7 +37,7 @@ The levers of economic manipulation controlled by the issuer of the currency:
 19. Legacy Rate
 20. Liability Rate
 
-The political objects tied to the currency
+#### The political objects tied to the currency
 
 21. Required Tax
 22. Elective Tax
