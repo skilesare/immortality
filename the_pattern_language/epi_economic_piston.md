@@ -20,4 +20,6 @@ Therefore:
 
 Within the economy, encourage the participants to distribute themselves into States **(STA)**, Markets **(MKT)**, Legal Entities **(LGE)**, all made up of Citizens **(CTZ)**. These actors can participate in the economy by using Money **(MNY)** and by producing Capital **(CAP)**.
 
+\newpage
+
 
