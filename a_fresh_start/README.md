@@ -3,19 +3,19 @@
 
 ## Preface
 
-I. A fresh start
+#### I. A fresh start
 
 Let us live as man will live in the future and think as man will think in the future.  To make any progress in this volume, you will have to set aside what has been.  This may be difficult for you as it is for me, but if we would like a fresh start at this grand life it is a step we must constantly ask ourselves to take.
 
-II. A philosophy
+#### II. A philosophy
 
 Though I am not a scientist, this work will take a scientific tone.  I hope to point us toward a worldview where the generalizations I propose can be proven out by those better trained in the scientific arts who have more time available to them.  This leaves me with the solemn reality that this is a work of philosophy and that many of the generalizations I make will be proven scientifically unsound.  If they are, my hope is that they, at least, point in the right vector of the real and can be corrected by those wiser than I am.
 
-III. The great economies
+#### III. The great economies
 
 Life is not simple, but it is more simple that it appears on the surface.  We live amongst 4 great economies and on the cusp of a million more.  Robert Pirsig identified these in his works of Zen and Motorcycle Maintenance and Lila.  Lila is the more important where the 4 economies are identified.  The economies are those of the **inorganic**, the **biological**, the **societal**, and the **intellectual**.  He does not point out that they are economies, but as we move forward we will see that this is so.  There are other lesser economies and perhaps even major ones that I do not pay enough heed to, but in thinking about the major issues that our world faces, these four seem to be enough to focus on for now. It may be that these economies are not discrete and form some kind of continuum that we cannot see easily.  I will leave this possibility to others to investigate and treat the economies as discrete for the purpose of this book. I think many of the conclusions will stand even if there is a continuous evolution of one 'kind' of development.
 
-IV. The bootstrap
+#### IV. The bootstrap
 
 The four economies did not always exist.  First the inorganic emerged after the universe cooled enough for a pattern of forces to cascade out of the primordial plasma.  Millions, maybe billions, maybe trillions of years later, some of these forces arranged themselves in such a way to replicate themselves and overcome the prevailing economy of patterned forces.
 
@@ -25,7 +25,7 @@ In addition to using the inorganic level, the biological level began to use its 
 
 The **bootstrap**  occurs when a new economy is produced that leverages the pre-existing economies to create a new and stable economy that itself can grow and change.
 
-IV. Two more bootstraps
+#### IV. Two more bootstraps
 
 The diaspora of what can come to be balloons in new directions with each new bootstrap.  In addition to the inorganic -> biological bootstrap, we also have the biological -> societal bootstrap and the biological -> intellectual.
 
@@ -33,13 +33,13 @@ The societal level is built on the inorganic and biological levels and deals in 
 
 The intellectual level is built on the biological platform, but also has the advantage of bootstrapping after the societal level and thus has access to that infrastructure as well.  The intellectual deals in an economy of time-shifted reproduction of phenomena.  This is quite a mouthful, but what I mean is, in a sense, science.  The ability to anticipate the outcome of an action, and to trigger that action is not a given.  It is a development that is dependent on the intellectual level developing.  This ability generates things like language.  When I shout 'Duck!' I expect to get a certain response from those around me.  If I shout Duck! Quack, Quack! I will have an anticipation of what will be in other's heads in these two different circumstances. We accumulate the knowledge needed to excel at this level in symbols that we put down on paper or up into the internet.
 
-V. A god in the dust
+#### V. A god in the dust
 
 Pirsig proposes further a concept called **Dynamic Quality** that he points to as the bleeding edge of reality as we cut through time.  Pirsig is permissive with his Dynamic Quality and chooses to let it lead where it will.  I will choose to pass this dynamic quality through the lens of Christopher Alexander's Nature of Order and focus it not on a random wandering, but on a purpose-filled generation of **Wholeness**.
 
 This is a god in the dust of everything, and not so much in the thing as in the relation of each thing to the other.  In as much as a thing hangs together with the things around it, we can see this wholeness.  When this wholeness is present, dynamic quality passes from a nebulous thing to a static quality.  An entity emerges.  Many entities emerge.
 
-VI. Moral Authority
+#### VI. Moral Authority
 
 When we observe this pattern of bootstrap and the timescales that we currently consider to be reasonable for the age of the universe and the time taken for each bootstrap, we can make a generalization about the universe.  **The universe is in the business of bootstraps.**  Further, I will assume that it is a **moral imperative** of the universe that bootstraps occur.  Each bootstrap is an advancement and that advancement is given moral authority over the existing economies to reach a new bootstrap.
 
