@@ -7,29 +7,29 @@ These Patterns exist at various levels of scale and can be generally grouped at 
 
 Ultimately a thriving global economic system of exchange is an economic piston that drives the global growth of wealth, capital, technology, and culture in a controlled and progressive manner.
 
-EPI. Economic Piston
+#### EPI. Economic Piston
 
 at the global scale, the main tool of this economic piston is...
 
-MNY. Money
+#### MNY. Money
 
 with  which we can work toward as system of exchange that satisfies the following patterns...
 
-MEX. Medium of Exchange
-MOV. Measure of Value
-DIV. Divisibility
-DPY. Deferred Payment
-LIQ. Liquid
-RTC. Resistant to Counterfeiting
+#### MEX. Medium of Exchange
+#### MOV. Measure of Value
+#### DIV. Divisibility
+#### DPY. Deferred Payment
+#### LIQ. Liquid
+####RTC. Resistant to Counterfeiting
 
 money and production can be used to procure...
 
-CAP. Capital
+#### CAP. Capital
 
 that can be either
 
-RCP. Real Capital or
-ACP. Artificial Capital
+#### RCP. Real Capital or
+#### ACP. Artificial Capital
 
 and that can be
 
