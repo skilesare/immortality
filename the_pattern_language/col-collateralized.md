@@ -20,5 +20,6 @@ Therefore:
 
 **Support the collateralization of both artificial and real capital.**
 
+\newpage
 
 

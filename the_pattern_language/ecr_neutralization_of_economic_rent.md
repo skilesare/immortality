@@ -37,6 +37,7 @@ Therefore:
 The neutralization of economic rent can be accomplished with the predistribution of economic rent **(PRF)**.
 
 
+\newpage
 
 
 

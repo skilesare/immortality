@@ -20,6 +20,7 @@ Therefore:
 Public transparency can be overseen by the citizen **(CTZ)**. Public transparency can be implemented via the Public Ledger **(PLG)**
 
 
+\newpage
 
 
 

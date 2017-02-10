@@ -37,4 +37,5 @@ Therefore:
 
 Legal Entities can be held accountable by citizens **(CTZ)**. They should be marked for death at some time in the future **(KIL)**. They should move from concepts of limited liability to limited risk **(LMR)**.  They should be encouraged to enrich labor **(LBR)**.  Legal entities should be barred from Privacy and Private Dispersal **(PRI)**.
 
+\newpage
 

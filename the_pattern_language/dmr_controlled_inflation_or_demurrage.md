@@ -30,4 +30,5 @@ Therefore:
 Demurrage can provide solutions to taxation **(TAX)** and must be balanced with Interdependence and/or nth order decision making **(INT)**.
 
 
+\newpage
 

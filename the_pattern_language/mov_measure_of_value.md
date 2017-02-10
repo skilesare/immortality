@@ -19,3 +19,5 @@ Therefore:
 ----------
 
 Measure of Value is supported by  Divisibility **(DIV)**. Measure of Value can be strengthened by being made Legal Tender **(LTN)**.
+
+\newpage

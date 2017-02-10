@@ -26,3 +26,5 @@ Therefore:
 ----------
 
 Diminishing value of future economic rents will lead to Corporate Death **(KIL)** and to the Enrichment of Labor **(LBR)**.
+
+\newpage

@@ -19,3 +19,4 @@ Therefore:
 
 Instant transfer can help secure the concept of Everyone is a Bank **(BNK)**.
 
+\newpage
