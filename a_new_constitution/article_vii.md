@@ -45,7 +45,7 @@ Congress shall make no law abridging the freedom of speech, or of the press; or 
 
 A well regulated Militia, being necessary to the security of a free State, the right of the militia to keep and bear Arms, shall not be infringed.
 
-### Right IV
+#### Right IV
 
 Citizens shall not be deprived of their right to protect themselves against individuals who would do violence to their persons and therefore the right of an individual to keep and bear Arms suitable for personal defense and of non-military grade shall not be infringed. Citizens shall have the right to call upon the militia for protection if threatened by any organized group of such size as personal protection is beyond reasonable means. Congress shall have power to enforce this article by appropriate legislation and to define military grade as time and technology requires.
 
@@ -65,7 +65,7 @@ No person shall be held to answer for a capital, or otherwise infamous crime, un
 
 In all criminal prosecutions, the accused shall enjoy the right to a speedy and public trial, by an impartial jury of the State and district wherein the crime shall have been committed, which district shall have been previously ascertained by law, and to be informed of the nature and cause of the accusation; to be confronted with the witnesses against him; to have compulsory process for obtaining witnesses in his favor, and to have the Assistance of Counsel for his defence.
 
-### Right IX
+#### Right IX
 
 In suits at common law, where the value in controversy shall exceed twenty dollars, the right of trial by jury shall be preserved, and no fact tried by a jury, shall be otherwise re-examined in any Court of the United States, than according to the rules of the common law.
 
@@ -93,7 +93,7 @@ The right of citizens of the United States to vote shall not be denied or abridg
 
 The right of citizens of the United States to vote in any primary or other election for President or Vice President, for electors for President or Vice President, or for Senator or Representative in Congress, shall not be denied or abridged by the United States or any State by reason of failure to pay any poll tax, other tax, artificial requirement, or political party affiliation. The Congress shall have power to enforce this article by appropriate legislation.
 
-### Right XVI
+#### Right XVI
 
 The right of citizens of the United States, who are eighteen years of age or older, to vote shall not be denied or abridged by the United States or by any State on account of age. The Congress shall have power to enforce this article by appropriate legislation.
 
@@ -141,7 +141,7 @@ Corporations shall be able to receive private payments from accounted citizens b
 
 No limit of liability shall be extended to any corporation or partnership unless its ownership is subject to demurrage from the commons and that it elects the national tax at 0x384758.
 
-### Restriction III
+#### Restriction III
 
 Corporations shall not prescribe or request any employee, partner, or contractors to lobby the government on its behalf and Congress shall have power to enforce this Restriction by appropriate legislation.
 
