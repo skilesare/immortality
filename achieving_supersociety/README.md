@@ -6,15 +6,12 @@ Society has the possibility of bootstrapping into an infinite number of super so
 I am proposing two advancements to increase our probability of accomplishing these goals.
 
 1. Establish a Blockchain based marketplace with hypercatallaxian features
-
 2. Establish an extended republic that supports a peaceful global society subject to a common set of hypercatallaian markets.
 
 I predict that the Blockchain based system will have the following effects on our society:
 
 A. Increased cash flows via decaying currency.
-
 B. Reduce risk by blockchain folding over failed entities.
-
 C. Tie government regulation and rule of law to the execution of transactions on the blockchain.
 
 The extended republic will help align our goals in our small corner of our galaxy to an extent that helps us bound off of this rock and toward the stars.
