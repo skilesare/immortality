@@ -14,33 +14,19 @@ In his [Nature Of Order](http://amzn.to/2iF4oVQ) series he has laid out what the
 Centers are enhanced by any one of 15 properties:
 
 1. Levels of Scale
-
 2. Strong Centers
-
 3. Thick Borders
-
 4. Positive Space
-
 5. Alternating Repetition
-
 6. Good Shape
-
 7. Local Symmetry
-
 8. Deep Interlock and Ambiguity
-
 9. Contrast
-
 10. Gradients
-
 11. Roughness
-
-12. Echos
-
+12. Echoes
 13. The Void
-
 14. Simplicity and Inner-calm
-
 15. Each in the other
 
 Each of these characteristics has a corresponding life giving process that, if applied will increase the wholeness of the system.  By following the following process, one can improve a system:
