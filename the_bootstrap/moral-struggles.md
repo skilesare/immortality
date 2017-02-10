@@ -21,21 +21,21 @@ A city wants to build a damn down river to generate power for the city and reduc
 
 First we break down the levels and the impact at each level:
 
-Intellectual:
+**Intellectual:**
 
 Little implication - only application.
 
-Societal:
+**Societal:**
 
 Increase in resources and productivity for the city.
 
 Potential Reduced water flow for downstream cities.
 
-Organic:
+**Organic:**
 
 Destruction of wildlife habitat.
 
-Inorganic:
+**Inorganic:**
 
 Reduction in Hydrocarbons released in burning of fossil fuels.
 
