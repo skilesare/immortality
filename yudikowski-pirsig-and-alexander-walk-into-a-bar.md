@@ -1,5 +1,5 @@
 
-## Yudkowsky, Pirsig, and Alexander walk into a bar, Taleb is tending bar
+# Yudkowsky, Pirsig, and Alexander walk into a bar, Taleb is tending bar
 
 The purpose of this chapter is to try to summarize the beliefs of four authors that I think have something to say about these ideas and to show what each one gets right, and where I think they fall short.
 
