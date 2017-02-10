@@ -79,26 +79,26 @@ We see in this chart that the amount of poverty is significantly reduced as we r
 
 ![](./assets/image1bw.png)
 
-We see in this chart that the amount of poverty is significantly reduced as we redistribute wealth in a manner that sends it back to those that spent the cash with the wealth generators.
+**Fig 6.1** We see in this chart that the amount of poverty is significantly reduced as we redistribute wealth in a manner that sends it back to those that spent the cash with the wealth generators.
 
-Our model only has 3,000 months in it. The fact that over ⅓ of them end up being poverty months under standard capitalism makes this a pretty sorry economy. As you can see here, the increase in decay fee has a profound effect of poverty.  I don’t know if politics and good sense could endure a 60% decay rate, but with it we cut the poverty rate by over 50%.
+Our model only has 3,000 months in it. The fact that over 1/3 of them end up being poverty months under standard capitalism makes this a pretty sorry economy. As you can see here, the increase in decay fee has a profound effect of poverty.  I don’t know if politics and good sense could endure a 60% decay rate, but with it we cut the poverty rate by over 50%.
 
 #### INCREASING GDP
 
-This is a nice result but it doesn’t speak to my initial prediction that the economy will grow.  After all, we could just do some redistribution via taxes and get a similar result.  So let’s look at GDP:
+This is a nice result but it doesn’t speak to my initial prediction that the economy will grow.  After all, we could just do some redistribution via taxes and get a similar result.  So let’s look at GDP in Fig 6.2.
 
 ![](./assets/image2bw.png)
 
-Increasing the amount we redistribute to optimized value seeking nodes increase the GDP of our economy.
+**Fig. 6.2** Increasing the amount we redistribute to optimized value seeking nodes increase the GDP of our economy.
 
 
 We can see here a clear increase in GDP as we increase the decay fee.  This is the result that I expected when I proposed the model.  How can this be?  When you remove cash from those that have it and give it to anyone you may not see this increase, but when you take it and give it to people that are good at spending it with value creators you increase GDP.
 
-We can see how much below:
+We can see how much ing Fig. 6.3.
 
 ![](./assets/image3bw.png)
 
-Our model shows some increase at each step in the increase in decay fee.
+**Fig 6.3** Our model shows some increase at each step in the increase in decay fee.
 
 The total increase in GDP when we go to 60% is 8.2% in GDP over 25 years.  This is an increase of an average of 0.3% per year.  This does not seem like much until you consider that since the 90s we’ve been averaging around 2.5% this is a 12% increase in GDP which ends up being huge.
 
@@ -106,13 +106,13 @@ At this point I hope it is clear that using this type of redistribution is worth
 
 #### CONTROL GROUP
 
-We’ve missed one key consideration of science.  It is one thing to compare a 0% decay fee to a 20% decay fee in a hypercapitalism context.  We haven’t yet compared a different form of redistribution to the hypercapitalism form of redistribution.  The form of redistribution I chose to compare it to was even distribution.  I implemented a wealth tax equal to the demurrage rate but instead of distributing based on hypercapitalism, I did an even redistribution.  When I first ran this in the model I was floored because it basically negated my theory.  It looked like this:
+We’ve missed one key consideration of science.  It is one thing to compare a 0% decay fee to a 20% decay fee in a hypercapitalism context.  We haven’t yet compared a different form of redistribution to the hypercapitalism form of redistribution.  The form of redistribution I chose to compare it to was even distribution.  I implemented a wealth tax equal to the demurrage rate but instead of distributing based on hypercapitalism, I did an even redistribution.  When I first ran this in the model I was floored because it basically negated my theory.  See Fig. 6.4.
 
 ![](./assets/image4bw.png)
 
 If we used reason in picking where we spend our money, we would not need hypercapitalism.  The market does not use reason and instead seeks the best immediate value without regard to the future value of production.
 
-It took me a while to realize that this scenario still relied on our consumers using reason, but by removing hypercapitalism I’m removed the driver of reason.  If your redistribution is going to be even, why would you focus your spending with firms that promise future value?  I added some code to apply the even redistribution without the driver of reason and received the following:
+It took me a while to realize that this scenario still relied on our consumers using reason, but by removing hypercapitalism I’m removed the driver of reason.  If your redistribution is going to be even, why would you focus your spending with firms that promise future value?  I added some code to apply the even redistribution without the driver of reason and received the result seen in Fig 6.5.
 
 ![](./assets/image5bw.png)
 
