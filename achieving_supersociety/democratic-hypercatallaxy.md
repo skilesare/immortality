@@ -20,23 +20,14 @@ This idea of 'full output of labor' was originally a socialist and communist ide
 In the following sections we discuss a theoretical coin called 'art' which seeks to:
 
 * institutionalize hypercatallaxian economics
-
 * bring about the simplification of taxes
-
 * end the deathless corporations
-
 * end indentured employment
-
 * provide for the education of our children
-
 * empower democratic ideals of self government
-
 * increase transparency
-
 * enrich the laboring class
-
 * return the human capital wasted in the finance industry to progressive endeavors
-
 * ensure social security and a thriving economy.
 
 
