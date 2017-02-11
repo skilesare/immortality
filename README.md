@@ -4,7 +4,8 @@ subtitle: "An Economics and Moral Framework toward Immortality"
 output: pdf_document
 ---
 
-\usepackage[top=2cm, bottom=2cm, outer=1cm, inner=2.1cm, headsep=14pt]{geometry}
+\newgeometry{bottom=0.5in,top=0.7in,inner=0.7in,outer=0.5in}
+
 
 
 
