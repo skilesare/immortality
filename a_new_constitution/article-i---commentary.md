@@ -17,7 +17,11 @@ Section. 2.
 
 _geographic state_
 
+---
+
 Geographic state because our new system does later provide for qusi-state institutions.  We want to make it clear here the the House is dependent on those geographic states.
+
+---
 
 _and the Electors in each state shall have the Qualifications requisite for Electors of the most numerous Branch of the Geographic State's Legislature._
 
@@ -25,9 +29,15 @@ _and the Electors in each state shall have the Qualifications requisite for Elec
 
 _Each representative shall be limited to three regular elected terms in office after which they will be ineligible to serve in the House of Representatives._
 
+---
+
 Term limits for congress. Finally. With 350 million people in our country we can surly find a few hundred new ones each 6 years to represent us.
 
+---
+
 _No Person shall be a Representative who shall not have attained to the Age of twenty five Years, and shall have been four Years a Citizen of the state, and who shall, when elected, be an Geographically Elected Inhabitant of that State in which they shall be chosen._
+
+---
 
 Here we've added a more stringent residency requirement for representatives to try to reduce carpetbagging professional politicians.
 
