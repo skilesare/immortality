@@ -66,6 +66,9 @@ No real changes except to add space to the jurisdiction of the supreme court and
 
 
 
+---
+
+
 _Section. 3._
 
 
@@ -81,6 +84,10 @@ _The Congress shall have Power to declare the Punishment of Treason up to lifelo
 
 
 Removal of any form of corporal punishment.
+
+
+---
+
 
 _Section. 4_
 
