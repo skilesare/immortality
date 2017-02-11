@@ -44,14 +44,6 @@ We institute a national holiday for voting for the president and mandate a two w
 _No Person except a natural born Citizen, or a Citizen of the elected geographies, at the time of the Adoption of this Constitution, shall be eligible to the Office of President; neither shall any Person be eligible to that Office who shall not have attained to the Age of thirty five Years, and been fourteen Years a Resident within the elected territories._
 
 
----
-
-No change.
-
-
-
----
-
 
 _The President and Vice President must not have received private payments of cash or private allotments of capital for two years before taking office unless elected or assigned for a vacancy. The President and Vice President must elect to not receive private payments while in office and for ten years after leaving office._
 
@@ -104,7 +96,7 @@ _The President shall be Commander in Chief of the Army, Navy, Marine Corp, Coast
 
 ---
 
-No change except to add space.
+No change except to add outer space.
 
 
 ---
@@ -113,24 +105,7 @@ No change except to add space.
 _He shall have Power, by and with the Advice and Consent of the Senate, to make Treaties, provided two thirds of the Senators present concur; and he shall nominate, and by and with the Advice and Consent of the Senate, shall appoint Ambassadors, other public Ministers and Consuls, Judges of the supreme Court, and all other Officers of the United States, whose Appointments are not herein otherwise provided for, and which shall be established by Law: but the Congress may by Law vest the Appointment of such inferior Officers, as they think proper, in the President alone, in the Courts of Law, or in the Heads of Departments._
 
 
----
-
-No change.
-
-
-
----
-
 _The President shall have Power to fill up all Vacancies that may happen during the Recess of the Senate, by granting Commissions which shall expire at the End of their next Session._
-
-
----
-
-No change.
-
-
-
----
 
 
 _Section. 3._
@@ -140,13 +115,6 @@ _Section. 3._
 _He shall from time to time give to the Congress Information of the State of the Union, and recommend to their Consideration such Measures as he shall judge necessary and expedient; he may, on extraordinary Occasions, convene both Houses, or either of them, and in Case of Disagreement between them, with Respect to the Time of Adjournment, he may adjourn them to such Time as he shall think proper; he shall receive Ambassadors and other public Ministers; he shall take Care that the Laws be faithfully executed, and shall Commission all the Officers of the United States._
 
 
----
-
-No change
-
-
-
----
 
 _Section. 4._
 

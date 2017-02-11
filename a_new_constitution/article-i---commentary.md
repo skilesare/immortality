@@ -10,10 +10,11 @@ Section. 1.
 No Changes
 
 
+---
 
-Section. 2.
 
 
+_Section. 2._
 
 _geographic state_
 
@@ -112,16 +113,8 @@ In the case of a multi-seat election, your top 3 votes count and if one of your 
 _The House of Representatives shall choose their Speaker and other Officers; and shall have the sole Power of Impeachment._
 
 
----
 
-No Change.
-
-
-
----
-
-
-Section. 3.
+_Section. 3._
 
 
 _The Senate shall be composed of Senators from each State; Three senators from states with total geographically elected inhabitants greater than 1/50th of the total Accounted Citizenship, Two senators from states with total geographically elected inhabitants greater than 1/500th and less than 1/50th of the total Accounted Citizenship, and 1 Senator from states with total geographically elected inhabitants less than 1/500th of the total Accounted Citizenship._
@@ -140,34 +133,15 @@ According to current populations only Vermont and Wyoming have a sparse enough p
 _The actual Enumeration shall be made within three Years after the first Meeting of the Congress, and within every subsequent Term of ten Years._
 
 
----
-
-No change
-
-
----
-
 
 _Senators will be chosen for a term of six Years._
 
 
----
-
-No change
-
-
----
 
 
 _Each Senator shall have one Vote._
 
 
----
-
-No Change.
-
-
----
 
 _Senators may serve one regular elected terms in office after which they will be ineligible to serve in the Senate._
 
@@ -231,15 +205,7 @@ _The Senate shall have the sole Power to try all Impeachments. When sitting for 
 
 _Judgment in Cases of Impeachment shall not extend further than to removal from Office, and disqualification to hold and enjoy any Office of honor, Trust or Profit under this Constitution: but the Party convicted shall nevertheless be liable and subject to Indictment, Trial, Judgment and Punishment, according to Law._
 
-
----
-
-No Change
-
-
----
-
-Section. 4.
+_Section. 4._
 
 
 _Elections for Senators and Representatives shall be open for a period of 3 months prior to the election closing and shall conclude 3 months before the beginning of a new term._
@@ -286,26 +252,12 @@ Limits subdistricts to 3 members.  This is important because you want to keep re
 _The Congress shall assemble at least once in every Year, and such Meeting shall be on the second Monday in January, unless they shall by Law appoint a different Day._
 
 
----
 
-No Change
-
-
----
-
-Section. 5.
+_Section. 5._
 
 
 
 _Each House shall be the Judge of the Elections, Returns and Qualifications of its own Members, and a Majority of each shall constitute a Quorum to do Business; but a smaller Number may adjourn from day to day, and may be authorized to compel the Attendance of absent Members, in such Manner, and under such Penalties as each House may provide._
-
-
----
-
-No Change.
-
-
----
 
 _Attendance and submission of votes may be virtual if the representative is participating while physically located in their home district, so that representatives may attend to their constituents. But representatives must attend at least 3/4 of active sessions at the seat of government or be subject to expulsion by procedure in their elected house or replacement by the state's executive._
 
@@ -319,15 +271,6 @@ This clause allows for remote voting and remote participation in the house and s
 ---
 
 _Each House may determine the Rules of its Proceedings, punish its Members for disorderly Behaviour, and, with the Concurrence of two thirds, expel a Member._
-
-
----
-
-No change.
-
-
-
----
 
 _Each House shall keep a Journal of its Proceedings published on a Blockchain, and published in as near real time as technology will allow, excepting such Parts as may in their Judgment require Secrecy and then must be entered as encrypted to be unlocked after no more than 7 years; and the Yeas and Nays of the Members of either House on any question shall be entered on the Journal._
 
@@ -343,19 +286,12 @@ This clause implements the filing of opinion, proceedings, and votes into the bl
 _Neither House, during the Session of Congress, shall, without the Consent of the other, adjourn for more than three days._
 
 
----
 
-No change.
-
-
----
-
-
-Section. 6.
+_Section. 6._
 
 
 
-_The Senators and Representatives shall receive a Compensation for their Services, to be ascertained by Law, and paid out of the Treasury of the congress.
+_The Senators and Representatives shall receive a Compensation for their Services, to be ascertained by Law, and paid out of the Treasury of the congress._
 
 
 
@@ -377,26 +313,15 @@ _Senators and representatives shall in all Cases, except Treason, Felony and Bre
 _No Senator or Representative shall, during the Time for which he was elected, be appointed to any civil Office under the Authority of this constitution, which shall have been created, or the Emoluments whereof shall have been increased during such time; and no Person holding any Office under this constitution, shall be a Member of either House during his Continuance in Office._
 
 
----
-
-No change.
 
 
----
-
-Section. 7.
+_Section. 7._
 
 
 
 _All Bills for raising Revenue shall originate in the House of Representatives; but the Senate may propose or concur with Amendments as on other Bills._
 
 
----
-
-No change.
-
-
----
 
 _Every Bill which shall have passed the House of Representatives and the Senate, shall, before it become a Law, be presented to the People for a period of three weeks during which the vote of each representative may be subject to review and override as prescribed in Right XVII of Article VII of this constitution. Then President of the Executive Branch; If she approve she shall sign it, but if not she shall return it, with his Objections to that House in which it shall have originated, who shall enter the Objections at large on their Blockchain, and proceed to reconsider it. If after such Reconsideration two thirds of that House shall agree to pass the Bill, it shall be sent, together with the Objections, to the other House, by which it shall likewise be reconsidered, and if approved by two thirds of that House, it shall again be submitted to the people for review and override and with such, if a 2/3 majority remain in favor, become a Law. But in all such Cases the Votes of both Houses shall be determined by yeas and Nays, and the Names of the Persons voting for and against the Bill shall be entered on the Blockchain of each House respectively. If any Bill shall not be returned by the President within ten Days after it shall have been presented to him, the Same shall be a Law, in like Manner as if he had signed it, unless the Congress by their Adjournment prevent its Return, in which Case it shall not be a Law._
 
@@ -413,13 +338,6 @@ This is fairly standard to the original except the additions about adding procee
 _Every Order, Resolution, or Vote to which the Concurrence of the Senate and House of Representatives may be necessary (except on a question of Adjournment) shall be presented to the President of the United States; and before the Same shall take Effect, shall be approved by her, or being disapproved by her, shall be repassed by two thirds of the Senate and House of Representatives, according to the Rules and Limitations prescribed in the Case of a Bill._
 
 
----
-
-No change.
-
-
----
-
 _All bills must be specific and on point of a single issue, with no amendment from tangential issues attached. All sections of a bill must have a direct and clear correlation to other sections and all must adhere to the subject of the bill as declared in the preamble. The Executive may line item veto articles, sections or subsections that do not meet the direct and clear standard and if signed, the whole bill, excluding those sections shall become law. Congress may supersede any line item veto by passing a separate resolution including those vetoed sections as a separate Bill by a 2/3 majority of both houses._
 
 
@@ -433,10 +351,6 @@ This removes the ability of congress to pass omnibus bills that have riders on t
 
 
 Section. 8.
-
-
-
----
 
 
 _The Congress shall have Power To create electable taxes, Duties and Imposts and Excises._
@@ -599,6 +513,9 @@ _To establish Post Offices and post Roads;_
 
 We still need these things...or at least the right to do them.
 
+
+---
+
 _To establish off-world colonies, both on worlds and as space stations, and regulate the trade routes amongst them, to preserve the long term existence of the human race._
 
 
@@ -641,14 +558,6 @@ Finally we outlaw patent shops that just try to file patents to make money.
 
 _To constitute Tribunals inferior to the supreme Court;_
 
-
----
-
-No change.
-
-
----
-
 _To define and punish Piracies and Felonies committed on the high Seas and in outer space, and Offences against the Law of Nations;_
 
 _To declare War, grant Letters of Marque and Reprisal, and make Rules concerning Captures on Land, Water, and outer space;_
@@ -676,12 +585,6 @@ _To provide for calling forth the Militia to execute the Laws of the Union, supp
 _To provide for organizing, arming, and disciplining, the Militia, and for governing such Part of them as may be employed in the Service of the Government, reserving to the States respectively, the Appointment of the Officers, and the Authority of training the Militia according to the discipline prescribed by Congress;_
 
 
----
-
-No change
-
-
----
 
 _To exercise exclusive Legislation in all Cases whatsoever, over such District (not exceeding ten Miles square) as may, by Cession of particular States, and the Acceptance of Congress, become the Seat of the Government. But this district shall not allow for any accounted citizen or corporation to geographically elect inside the district such that no citizen may be disenfranchised and no corporation shall escape taxation and so that the district shall not need a separate government._
 
@@ -728,13 +631,6 @@ _And Finally,_
 _To make all Laws which shall be necessary and proper for carrying into Execution the foregoing Powers, and all other Powers vested by this Constitution in the Government, or in any Department or Officer thereof._
 
 
----
-
-No Change
-
-
----
-
 _Section. 9._
 
 _The Migration of such Persons as any of the States shall think proper to admit, shall not be prohibited or taxed by the Congress._
@@ -758,14 +654,6 @@ _No Preference shall be given by any Regulation of Commerce or Revenue to the Po
 
 
 _No Money shall be drawn from the Treasury, but in Consequence of Appropriations made by Law; and a regular Statement and Account of the Receipts and Expenditures of all public Money shall be published from time to time._
-
-
----
-
-No change.
-
-
----
 
 
 _Any information collected by the government with the use of money from the Treasury shall be collected in a way that it may be easily made available to any requesting accounted citizen in as small a time frame as technology shall reasonably allow._

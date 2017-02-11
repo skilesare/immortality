@@ -12,12 +12,6 @@ _Section. 1._
 _The judicial Power of the Government, shall be vested in one supreme Court, and in such inferior Courts as the Congress may from time to time ordain and establish. The Judges, both of the supreme and inferior Courts, shall hold their Offices during good Behaviour, and shall, at stated Times, receive for their Services, a Compensation, which shall not be diminished during their Continuance in Office._
 
 
----
-
-No Change
-
-
----
 
 _Section. 2._
 

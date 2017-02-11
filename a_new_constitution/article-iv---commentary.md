@@ -16,13 +16,6 @@ _Section. 1._
 _Full Faith and Credit shall be given in each State to the public Acts, Records, and judicial Proceedings of every other State. And the Congress may by general Laws prescribe the Manner in which such Acts, Records and Proceedings shall be proved, and the Effect thereof._
 
 
----
-
-No change.
-
-
-
----
 
 _Section. 2._
 
@@ -34,13 +27,6 @@ _The Citizens of each State shall be entitled to all Privileges and Immunities o
 
 _A Person charged in any State with Treason, Felony, or other Crime, who shall flee from Justice, and be found in another State, shall on Demand of the executive Authority of the State from which he fled, be delivered up, to be removed to the State having Jurisdiction of the Crime._
 
-
----
-
-No change.
-
-
----
 
 _Section. 3._
 

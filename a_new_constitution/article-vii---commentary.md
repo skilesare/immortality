@@ -149,24 +149,12 @@ _Right II_
 
 
 
----
-
-
 _Congress shall make no law abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances._
 
 
----
-
-No Change
-
-
----
 
 _Right III_
 
-
-
----
 
 
 _A well regulated Militia, being necessary to the security of a free State, the right of the militia to keep and bear Arms, shall not be infringed._
@@ -182,10 +170,6 @@ We separate out the militia part of the second amendment to maintain the right o
 
 
 _Right IV_
-
-
-
----
 
 
 _Citizens shall not be deprived of their right to protect themselves against individuals who would do violence to their persons and therefore the right of an individual to keep and bear Arms suitable for personal defense and of non-military grade shall not be infringed. Citizens shall have the right to call upon the militia for protection if threatened by any organized group of such size as personal protection is beyond reasonable means. Congress shall have power to enforce this article by appropriate legislation and to define military grade as time and technology requires._
@@ -205,24 +189,10 @@ _Right V_
 _No Soldier shall, in time of peace be quartered in any house, without the consent of the Owner, nor in time of war, but in a manner to be prescribed by law._
 
 
----
-
-No change.
-
-
----
-
 _Right VI_
 
 _The right of the people to be secure in their persons, houses, papers, effects, and communication pathways, against unreasonable searches and seizures, shall not be violated, and no Warrants shall issue, but upon probable cause, supported by Oath or affirmation, and particularly describing the place to be searched, and the persons or things to be seized._
 
-
----
-
-No Change.
-
-
----
 
 _Right VII_
 
@@ -230,37 +200,17 @@ _Right VII_
 _No person shall be held to answer for a capital, or otherwise infamous crime, unless on a presentment or indictment of a Grand Jury, except in cases arising in the land or naval forces, or in the Militia, when in actual service in time of War or public danger; nor shall any person be subject for the same offence to be twice put in jeopardy of life or limb; nor shall be compelled in any criminal case to be a witness against himself, nor be deprived of life, liberty, or property, without due process of law; nor shall private property be taken for public use, without just compensation as determined by open auction._
 
 
----
-
-No change.
-
-
----
-
 
 _Right VIII_
 
 _In all criminal prosecutions, the accused shall enjoy the right to a speedy and public trial, by an impartial jury of the State and district wherein the crime shall have been committed, which district shall have been previously ascertained by law, and to be informed of the nature and cause of the accusation; to be confronted with the witnesses against him; to have compulsory process for obtaining witnesses in his favor, and to have the Assistance of Counsel for his defence._
 
 
----
-
-No change.
-
-
----
 
 _Rigth IX_
 
 _In suits at common law, where the value in controversy shall exceed twenty dollars, the right of trial by jury shall be preserved, and no fact tried by a jury, shall be otherwise re-examined in any Court of the United States, than according to the rules of the common law._
 
-
----
-
-No change.
-
-
----
 
 
 _Right X_
@@ -280,39 +230,16 @@ _Right XI_
 _The enumeration in the Constitution, of certain rights, shall not be construed to deny or disparage others retained by the people._
 
 
----
-
-No change.
-
-
----
-
 _Right XII_
 
 
 _The powers not delegated to the United States by the Constitution, nor prohibited by it to the States, are reserved to the States respectively, or to the people and their institutions._
 
 
----
-
-No change
-
-
----
-
 _Right XIII_
 
 
 _Neither slavery nor involuntary servitude, except as a punishment for crime whereof the party shall have been duly convicted, shall exist within the United States, or any place subject to their jurisdiction. Congress shall have power to enforce this article by appropriate legislation._
-
-
----
-
-No change
-
-
-
----
 
 
 _Right XIV_
@@ -350,13 +277,6 @@ _Right XVI_
 _The right of citizens of the United States, who are eighteen years of age or older, to vote shall not be denied or abridged by the United States or by any State on account of age. The Congress shall have power to enforce this article by appropriate legislation._
 
 
----
-
-No change.
-
-
-
----
 
 _Right XVII_
 
@@ -616,9 +536,6 @@ Once funded by congress these institutions can then be controlled by congress.
 _Section 9._
 
 
-
-
----
 
 _First, To advance democratic self-government and political equality, and to protect the integrity of government and the electoral process, Congress and the States may regulate and set reasonable limits on the raising and spending of money by candidates and others to influence elections._
 
