@@ -133,6 +133,7 @@
         * [VTO. Democratic Veto](the_pattern_language/vto_democratic_veto.md)
       * [Technology Level](the_pattern_language/technology_level.md)
   * [A new constitution](a_new_constitution/README.md)
+    * [Technical Implementation](a_new_constitution/contract.md)
     * [Preamble](a_new_constitution/preamble.md)
     * [Article I](a_new_constitution/article_i.md)
     * [Article II](a_new_constitution/article_ii.md)
@@ -152,5 +153,5 @@
       * [Article VI - Commentary](a_new_constitution/article-vi---commentary.md)
       * [Article VII - Commentary](a_new_constitution/article-vii---commentary.md)
       * [Article VIII - Commentary](a_new_constitution/article-viii---commentary.md)
-    * [Technical Implementation](a_new_constitution/contract.md)
+
 
