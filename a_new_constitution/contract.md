@@ -1,5 +1,7 @@
 
+##Technical Implementation
 
+Much of the proposed constitution
 
 
 
