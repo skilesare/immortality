@@ -13,3 +13,73 @@ We accomplish this by using addresses and interfaces. New 'code' can be brought 
 As a practical example, take the inauguration of a new President. Our Issuer object allows for this to take place on the blockchain by asking both houses of congress for permission to move the Executive contract to a new address. Alternatively, the court can specify a new address as well. In most cases we will rely on congress to certify the executive, but if congress steps out of line, the court can install a new executive.
 
 
+```
+contract Issuer{
+  address executiveAddress;
+  adresss houseAddress;
+  address senateAddress;
+  address courtAddress;
+
+  ...
+
+  struct ExecutiveHistory {
+        uint block;
+        address executive;
+        string agent;
+    }
+
+
+  ExecutiveHistory[] executiveHistory;
+
+
+  function setExecutive(address newExecutive) return (bool result){
+    //both houses needs to have certified the vote to install an new executive
+    House verifyHouse = House(houseAdress);
+    bool bHouse = verifyHouse.validateExecutive(newExecutive);
+    if(bHouse){
+      Senate verifySenate = Senate(senateAddress);
+      bool bSenate = verifySenate.validateExecutive(newExecutive);
+      if(bSenate){
+        //set the new executive
+        executiveAddress = newExecutive;
+
+        //record the chain in blockchain storage so history will be known.
+        ExecutiveHistorynewHistory = new ExecutiveHistory(
+            {
+              block: block.number,
+              executive: newExecutive,
+              agent: "election"
+            });
+        executiveHistory.push(newHistory);
+        return true;
+      }
+
+    }
+
+    //alteratively the court can install a new executive
+    Court verifyCourt = Court(courtAddress);
+    bool bCourt = verifyCourt.validateExecutive(newExecutive);
+    if(bCourt){
+
+        //set the new executive
+        executiveAddress = newExecutive;
+
+        //record the change in history
+        ExecutiveHistory newHistory = new ExecutiveHistory(
+          {
+            block: block.number,
+            executive: newExecutive,
+            agent: "court"
+          });
+        executiveHistory.push(newHistory);
+        return true;
+      }
+    }
+    return false;
+  }
+
+  ...
+
+}
+
+  ```
