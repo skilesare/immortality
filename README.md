@@ -26,6 +26,12 @@ http://twitter.com/catallax
 
 For Cib, Em, Georgia, and West.  Much of the time that should have been yours went into these ramblings of a mad man. I hope it is returned to you a thousand fold.  If it has been wasted, please, forgive your foolish father.
 
+Acknowledgements:  
+
+My Amber has watched me stare off into the distance, lost in thought, more times than she can count.  If there is any value to be found here, give her your thanks.  She let me wonder.
+
+My parents gave me everything I needed to grow up and I can't thank them enough for the education they provided.
+
 
 
 
