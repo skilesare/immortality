@@ -95,7 +95,7 @@ contract Issuer{
 
 }
 
-  ```
+```
   
 The actual technical implementation is not as important as the spirit of increasing public transparency.  Using a verifiable  and historically accurate public ledger will help a supersociety prove its execution to any future super intelligence.
 
