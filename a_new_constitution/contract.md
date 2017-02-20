@@ -1,3 +1,4 @@
+
 ## Technical Implementation
 
 Much of the proposed constitution relies on the idea of things being done 'in the blockchain.' Under one proposal ethereum could be used as a technical implementation layer. Modern(as of 2017) ethereum is likely not up to the challenge for implementing a set of contracts capable of running a world wide government, but the thought put into the project should give us a good foundation to start the conversation.
@@ -78,6 +79,18 @@ contract Issuer{
     return false;
   }
 
+  //additional contracts will be requried that 
+  //implement the functions of the following
+  House
+  Senate
+  Court
+  Executive
+  Institution
+  Citizen
+  Family
+  Corporation
+  State 
+  Agency
   ...
 
 }
@@ -85,3 +98,4 @@ contract Issuer{
   ```
   
 The actual technical implementation is not as important as the spirit of increasing public transparency.  Using a verifiable  and historically accurate public ledger will help a supersociety prove its execution to any future super intelligence.
+
