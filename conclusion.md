@@ -8,5 +8,9 @@ Humanity is separated from the rest of nature by having two biologically based s
 
 We acknowledge that this new bootstrapped economy will have a moral authority over our existing societies and intellectual institutions. But, we aim for it to include elements of the intelligence bootstrap, namely the operation across time and the repeatability of phenomena across time, in this supersociety to achieve our goal of validating the reality that all sub systems should be acted toward with moral responsibility.
 
-Ultimately we propose a new economic framework, the hypercatallaxian economy, to advance our
+Ultimately we propose a new economic framework, the hypercatallaxian economy, to advance our goal.  This economic framework puts the citizen at center of the social economy and restores money to a natural state.  This new form of money moves faster and adapts to volatility in a positive way.  It also lays the foundation for a secure society where there is a balance between social provision and capitalistic economic drive.  The underlying econim institutions drive society to aplace where very long human life helps to stabilize and strengthen the economy.  This is truly our end goal as we hope to see a world where aging has been solved so that we can move toward further technology advancements that secure our minds from destruction.
+
+In order to support this hypercatallaxian economic framework we propose some changes to the intellectual construct of the United States constitution.  These changes align the government with the our new economic framework.  They also increase the transparancy of how government activity is recorded and tracked.
+
+This volume is a living document and the ideas we propose are not fixed in time.  As we move down the path and solve the problems in front of us we will discard what does not work and make new proposal for what will solve the problems that need to be solved.
 
