@@ -12,5 +12,5 @@ Ultimately we propose a new economic framework, the hypercatallaxian economy, to
 
 In order to support this hypercatallaxian economic framework we propose some changes to the intellectual construct of the United States constitution.  These changes align the government with the our new economic framework.  They also increase the transparancy of how government activity is recorded and tracked.
 
-This volume is a living document and the ideas we propose are not fixed in time.  As we move down the path and solve the problems in front of us we will discard what does not work and make new proposals for what will solve the problems that need to be solved.
+This volume is a living document and the ideas we propose are not fixed in time.  As we move down the path and solve the problems in front of us we will discard what does not work and make new proposals for what will solve the problems that threaten our continued existence.
 
