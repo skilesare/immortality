@@ -17,3 +17,11 @@ A practical example is that the intellect has authority over the inorganic, and 
 
 As we speak about future bootstraps, beware the destructive valley.
 
+### Violence
+
+In case it is not clear, the imperative moral responsibility overrides authoritie's desire to do vilolence to those in an inferior position in almost all but the most inescapable situations.
+
+Violence is mostly restricted to situations where morally inferior systems are deliberately attempting to undermine and destroy morally superior systems.
+
+One such situation would be a nationalistic government declaring war on an intellectually grounded civilization.  In such a case, violent retaliation is warrented if the intellectual society has exhausted non-violent recourse or is in imminent danger of destruction.
+
