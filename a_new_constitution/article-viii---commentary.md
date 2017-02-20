@@ -24,10 +24,9 @@ _In witness whereof We have hereunto subscribed our Names and signed with our ac
 _The above when SHA signed with key of XXXXX is YYYYYY._
 
 
-
 ---
 
-No Change except the technical implementation of signing on the blockchain.
+No Change except the technical implementation of signing on the document with a hash.
 
 \newpage
 
