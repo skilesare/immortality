@@ -35,6 +35,9 @@ My Amber has watched me stare off into the distance, lost in thought, more times
 
 My parents gave me everything I needed to grow up and I can't thank them enough for the education they provided.
 
+-------------------
+
+Version 0.1.0
 
 
 
