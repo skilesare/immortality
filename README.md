@@ -1,6 +1,7 @@
 ---
 title: "Immortality - An Economics and Moral Framework toward Immortality"
 subtitle: "An Economics and Moral Framework toward Immortality"
+author: "Austin Fatheree"
 output: pdf_document
 ---
 
@@ -21,7 +22,11 @@ Follow developments and news:
 
 http://facebook.com/catallax
 
-http://twitter.com/catallax
+http://twitter.com/hypercatallax
+
+Support the cause:
+
+https://www.patreon.com/catallax
 
 -----------------
 
