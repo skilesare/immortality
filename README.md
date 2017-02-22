@@ -14,6 +14,8 @@ The text of this book and associated source code can be found at our github page
 
 https://github.com/skilesare/immortality
 
+Please post questions under Issues and we always consider pull requests.
+
 --------------
 
 I would appreciate you purchasing a digital of physical copy of this book to support the work, but if cost is an issue, the full text can be read online at:

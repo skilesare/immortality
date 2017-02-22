@@ -15,6 +15,8 @@ In order to support this hypercatallaxian economic framework we propose some cha
 
 This volume is a living document and the ideas we propose are not fixed in time.  As we move down the path and solve the problems in front of us we will discard what does not work and make new proposals for what will solve the problems that threaten our continued existence.
 
+Please visit http://catallax.com to continue the journey.
+
 
 
 
