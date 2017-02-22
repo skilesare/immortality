@@ -21,6 +21,8 @@
   * [Moral Struggles](the_bootstrap/moral-struggles.md)
   * [Love](the_morality_of_the_bootstrap/love.md)
   * [The State](the_state/README.md)
+  * [Posibility Spaces](posibility_spaces/README.md)
+  * [Moral Imperative](the_bootstrap/moral-imperative.md)
   * Avoiding Ruts
 * [Achieving Supersociety](achieving_supersociety/README.md)
   * [The Blockchain](achieving_supersociety/the_blockchain.md)
