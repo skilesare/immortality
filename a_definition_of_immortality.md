@@ -18,7 +18,7 @@ The immortality that I am addressing in this book is not a magical or spiritual 
 
 ### On Accidents
 
-Many minds may still die.  This is due to the accident and physical forces outside the control of the minds.  A large galactic event may annihilate the entire area that minds inhabit and end this grand experiment prematurely. Or if we are really unlucky, a plague on earth may end it in the next couple of decades.
+Many minds may still die.  This is due to accident and physical forces outside the control of the minds.  A large galactic event may annihilate the entire area that minds inhabit and end this grand experiment prematurely. Or if we are really unlucky, a plague on earth may end it in the next couple of decades.
 
 ### On the location of Minds
 

@@ -23,7 +23,7 @@ But we are not left alone with this evil.  We can explain.  And we can codify ou
 
 ### On Overcoming Evil
 
-We will find that morality demands that a universal explainer try to explain evil, developing knowledge about that evil, and use the knowledge gained to annihilate that evil.
+We will find that morality demands that a universal explainer try to explain evil, develop knowledge about that evil, and use the knowledge gained to annihilate that evil.
 
 More knowledge protects entities from lower forces that would undo them.
 
