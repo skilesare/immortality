@@ -1,9 +1,9 @@
 ---
-title: "Immortality - An Economics and Moral Framework toward Immortality © 2017 Austin Fatheree
-"
+title: "Immortality - An Economics and Moral Framework toward Immortality"
 subtitle: "An Economics and Moral Framework toward Immortality"
 author: "Austin Fatheree"
 output: pdf_document
+date: "© 2017 Austin Fatheree"
 ---
 
 \newgeometry{bottom=0.6in,top=0.7in,inner=0.6in,outer=0.4in}
