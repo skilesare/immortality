@@ -7,6 +7,7 @@ date: "© 2017 Austin Fatheree"
 ---
 
 \newgeometry{bottom=0.6in,top=0.7in,inner=0.6in,outer=0.4in}
+\openany
 
 The text of this book and associated source code can be found at our github page: 
 
