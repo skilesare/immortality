@@ -11,7 +11,13 @@ date: "© 2017 Austin Fatheree"
 The text of this book and associated source code can be found at our github page: 
 
 
-http://github.com/skilesare
+https://github.com/skilesare/immortality
+
+--------------
+
+I would appreciate you purchasing a digital of physical copy of this book to support the work, but if cost is an issue, the full text can be read online at:
+
+https://skilesare.github.io/immortality/
 
 --------------
 
