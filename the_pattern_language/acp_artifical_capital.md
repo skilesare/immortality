@@ -30,4 +30,5 @@ Therefore:
 
 Artificial Capital can be controlled via Demurrage **(DEM)**, Tax **(TAX)**, Diminishing value of future economic rents **(FSP)**, and Corporate Death **(KIL)**. Artificial Capital can be tracked in the Public Ledger **(PLG)**.
 
+<div style='display:none;' markdown="1">
 \newpage

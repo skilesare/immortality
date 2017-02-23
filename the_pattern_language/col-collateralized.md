@@ -20,6 +20,7 @@ Therefore:
 
 **Support the collateralization of both artificial and real capital.**
 
+<div style='display:none;' markdown="1">
 \newpage
 
 
