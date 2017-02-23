@@ -1,5 +1,5 @@
 
-### The distructive valley
+### The destructive valley
 
 Morality is a dicey subject. It is so easy to use morality to oppress that I'm fairly hesitant to use the word. This chapter is very important because we are going to use the word morality but we must also be cautious of what I call the destructive valley. The destructive valley is when agents in one area, that have moral authority over a lower system, act without moral responsibility.
 
@@ -19,9 +19,11 @@ As we speak about future bootstraps, beware the destructive valley.
 
 ### Violence
 
-In case it is not clear, the imperative moral responsibility overrides authoritie's desire to do vilolence to those in an inferior position in almost all but the most inescapable situations.
+In case it is not clear, the demands of moral responsibility override moral authority’s license to do violence to those in an inferior position. This applies in almost all but the most inescapable situations.
 
 Violence is mostly restricted to situations where morally inferior systems are deliberately attempting to undermine and destroy morally superior systems.
 
-One such situation would be a nationalistic government declaring war on an intellectually grounded civilization.  In such a case, violent retaliation is warrented if the intellectual society has exhausted non-violent recourse or is in imminent danger of destruction.
+One such situation would be a nationalistic government declaring war on an intellectually grounded civilization. In such a case, violent retaliation is warranted if the intellectual society has exhausted non-violent recourse or is in imminent danger of destruction.
+
+
 
