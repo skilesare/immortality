@@ -51,7 +51,7 @@ It is unlikely that anything on that scale is going to directly impact us here o
 
 In the end, it is the economics of biodiversity that must produce a system that revolves around something other than grouping or time observation. We also have the added component that the bootstrap must be 'up'. Biology has bootstrapped a number of extraordinary systems in the inorganic space. We talk about these as structure and environment. But these systems are not 'above' the biological and are based on a known area of operations. This becomes much more important at the next two levels where we have a much richer area of 'known' areas to develop new systems in.
 
-### Society to Super-Society
+### Society to Supersociety
 
 Society allocates resources and has produced, at the top of its evolution, the use of cash money economics to allocate things efficiently. This gets much more difficult because our world is filled with things that are based on the pursuit and allocation of cash/resources that operate at lower levels. Culture(and the governments that it spawns) and art are produced at these 'known' levels. We have difficulty speculating about what kind of system the pursuit of resources could produce that is 'beyond' the known areas.  Arranging a universe in a way that accelerates the collection of knowledge needed to figure this out is at the heart of this book.
 
