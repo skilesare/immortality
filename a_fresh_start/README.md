@@ -113,7 +113,7 @@ At its core, this economy occurs on a public ledger.  As cash is held by an acco
 
 The economic question transfers from a question of what can I get for my dollar today to what can I get today and who will be the best steward of it in the future.
 
-Over time this economy provides a meritocratic base income to all participants in proportion to how well their contributions to the economy perform in the future.
+Over time this economy provides a meritocratic based income to all participants in proportion to how well their contributions to the economy perform in the future.
 
 There are many more details that are discussed later in the pattern language in the section Art and Democratic Hypercatallaxy
 
