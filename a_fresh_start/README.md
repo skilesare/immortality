@@ -49,7 +49,7 @@ The biological has the moral authority to attempt to overcome and even disrupt t
 
 #### VIII.  Moral Responsibility
 
-The fact that the biological system bootstrapped twice reveals a key fact about the universe that helps redeem the moral tyranny that moral authority can suggest.  If society had completely subdued biology, the intellect would have never evolved.  While society has authority over biology it also has the **moral responsibility * to provide for all the additional bootstrapping that these unpredictable systems may have.
+The fact that the biological system bootstrapped twice reveals a key fact about the universe that helps redeem the moral tyranny that moral authority can suggest.  If society had completely subdued biology, the intellect would have never evolved.  While society has authority over biology it also has the **moral responsibility** to provide for all the additional bootstrapping that these unpredictable systems may have.
 
 Our approach to the future must recognize the authority but must act with responsibility because we cannot predict where the next great jump may occur.
 
