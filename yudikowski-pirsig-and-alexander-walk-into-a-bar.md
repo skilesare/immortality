@@ -201,7 +201,7 @@ I think these guys have reached many of the same conclusions about being careful
 
 ## Other Authors Who's Ideas Color This Work
 
-Francis Fukuyama
+#### Francis Fukuyama
 
 [The Origins of Political Order: From Prehuman Times to the French Revolution](http://amzn.to/2jt7jSq)
 
@@ -209,13 +209,15 @@ Francis Fukuyama
 
 Fukuyama points out the importance of our political institutions  Much of my proposed political structure is derived from these ideas.
 
-David Deutsch
+
+
+#### David Deutsch
 
 [The Beginning of Infinity: Explanations That Transform the World](http://amzn.to/2jt3xrT)
 
 Deutsch's has contributed quite a bit to my thinking of how we move the intellectual layer forward and has some great ideas round knowledge and evil.
 
-Peter M. Hoffmann
+#### Peter M. Hoffmann
 
 [Life's Ratchet: How Molecular Machines Extract Order from Chaos](http://amzn.to/2jpKjUq)
 
