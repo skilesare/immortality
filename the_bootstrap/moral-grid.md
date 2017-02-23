@@ -9,11 +9,11 @@ Of course to those on the far left, progressivism will seem far too conservative
 
 | | Description | Cultural Authority | Intellectual Authority | Cultural Responsibility (Diversity) | Intellectual Responsibility (Science)
 |---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|
-| Alt Right |give culture authority over intellectual and emphasize a responsibility to overthrow intellectualism | for | against|against|neutral
-|Religious Right|give culture authority over intellectualism because Jesus|for|against|against|against
+| Alt Right |gives culture authority over intellectualism and emphasizes a responsibility to overthrow intellectualism | for | against|against|neutral
+|Religious Right|gives culture authority over intellectualism because Jesus|for|against|against|against
 |Neo Con|seeks dominance of culture via intellectual means|for|against|for|for
-|Conservative|seek cultural and intellectual parity in the realm of authority and ignore responsibility|for|neutral|for|for
-|Liberal|Emphasize cultural responsibility and intellectual authority but ignore progress in intellectual responsibility for the sake of cultural rewards.|neutral|for|for|neutral
+|Conservative|seeks cultural and intellectual parity in the realm of authority and ignores responsibility|for|neutral|for|for
+|Liberal|Emphasizes cultural responsibility and intellectual authority but ignore progress in intellectual responsibility for the sake of cultural rewards|neutral|for|for|neutral
 |Progressive|Balances authority with responsibility|against|for|for|for
 |Regressive Left|suppress authority of intellect over cultural to emphasize responsibility|against|for|against|for
 |Socialist|neutral toward intellectual authority and lack responsibility toward culture by streamlining systems and reducing optionality for the sake of the current culture|for |neutral|against|against
