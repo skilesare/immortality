@@ -62,7 +62,7 @@ It turns out that integrating these 15 properties across higher order systems le
 14. Simplicity and Inner Calm -> Reliability
 15. Not Separateness -> Elegance
 
-Leslie Wauguespack expands on these ideas and applies them to software systems in [Thriving System Theory and Metaphor Driven Modeling](http://amzn.to/2iA2By4).  You should own this book.
+Leslie Wauguespack expands on these ideas and applies them to software systems in [Thriving System Theory and Metaphor Driven Modeling](http://amzn.to/2iA2By4).  
 
 Wholeness can be evaluated using the following properties:
 
@@ -199,7 +199,7 @@ I think so.  If anything, I think that Yudkowsky's humanism betrays his material
 
 I think these guys have reached many of the same conclusions about being careful when developing future tech, but they approach the world in two very different ways.  Yudkowsky is a futurist and is aching to bring it to fruition and Taleb is fine with the way things were 1000 years ago(plus a little bit of medicine).
 
-## Other Authors Who's Ideas color this work
+## Other Authors Who's Ideas Color This Work
 
 Francis Fukuyama
 
