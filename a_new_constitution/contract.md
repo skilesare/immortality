@@ -79,7 +79,7 @@ contract Issuer{
     return false;
   }
 
-  //additional contracts will be requried that 
+  //additional contracts will be requried that
   //implement the functions of the following
   House
   Senate
@@ -89,16 +89,17 @@ contract Issuer{
   Citizen
   Family
   Corporation
-  State 
+  State
   Agency
   ...
 
 }
 
 ```
-  
+
 The actual technical implementation is not as important as the spirit of increasing public transparency.  Using a verifiable  and historically accurate public ledger will help a supersociety prove its execution to any future super intelligence.
 
+<div style='display:none;' markdown="1">
 \newpage
 
 
