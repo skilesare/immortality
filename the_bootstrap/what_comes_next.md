@@ -33,7 +33,7 @@ This is a very hard thing to even imagine, but let’s try. Consider something l
 
 Like I said, the examples are hard, but there may be some merit in looking at general, base elements and considering, 'what system do I want to be at work here' and then arranging the elements in such a way that the elements pursue that agenda. The bootstrap is what emerges out of that we don't expect.
 
-You can see the areas of personalized medicine and nanotechnology here. You can also see the underlying threats of things like the gray goo scenario that we will talk about later.
+You can see the areas of personalized medicine and nanotechnology here. You can also see the underlying threats of things like the gray goo scenario.
 
 In the end we still have the economics of patterned forces at the inorganic level, but we are looking for ways in which those forces emerge to pursue something other than 'survival of the fittest.'
 
