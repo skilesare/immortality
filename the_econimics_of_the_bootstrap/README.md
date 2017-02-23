@@ -5,7 +5,7 @@ We have an immense amount of information of how economics work in the areas of f
 
 The foundations of most economic theories are built on the ideas of 'labor specialization' and 'supply and demand.'
 
-We see these same patterns at work in at the inorganic level when we look at the supply and demand of forces. These forces supply a particle supply and demand these forces in consistent ways. These consistencies lead to patterned forces and ultimately carbon emerges as a molecule that can form highly specialized patterns that can be reliably reproduced. At this level we see the economics of supply and demand and the benefit of specialized 'labor'.
+We see these same patterns at work in at the inorganic level when we look at the supply and demand of forces. These forces supply and demand these forces in consistent ways. These consistencies lead to patterned forces and ultimately carbon emerges as a molecule that can form highly specialized patterns that can be reliably reproduced. At this level we see the economics of supply and demand and the benefit of specialized 'labor'.
 
 As we move to biology, we see an economy emerge that deals in reproduction. Biology began to leverage the inorganic to form reliable environments and these environments each encouraged a different form of survival and reproduction. The massive proliferation of environments and discovered advantageous adaptations has lead to a significant biodiversity. Through sheer brute force biology bootstrapped society and intelligence. Again we see the supply of and demand of reproducibility offered by DNA leading to a version of specialized 'labor' of biodiversity.
 
