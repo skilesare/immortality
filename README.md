@@ -3,7 +3,7 @@ title: "Immortality - An Economics and Moral Framework toward Immortality"
 subtitle: "An Economics and Moral Framework toward Immortality"
 author: "Austin Fatheree"
 output: pdf_document
-date: "© 2017 Austin Fatheree"
+date: "© 2017 Austin Fatheree v 0.1.0"
 ---
 
 <div style='display:none;' markdown="1">
@@ -56,9 +56,6 @@ My Amber has watched me stare off into the distance, lost in thought, more times
 My parents gave me everything I needed to grow up and I can't thank them enough for the education they provided.
 
 -------------------
-
-Version 0.1.0
-
 
 
 
