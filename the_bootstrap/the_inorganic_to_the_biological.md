@@ -8,7 +8,7 @@ The inorganic can be subdivided into three levels:
 3. Molecular
 
 
-I am not going to speak much about the subatomic level as I currently have only a vague understanding of exactly what is going on at that level.  The current major questions that we should observe at the subatomic level is the question between a collapsing quantum reality or a reality that has branching universes.  I will discuss the implications of these in an appendix but will not go into them here as it is still extremely speculative. My inclination is to think that we will find reality emerging out of infinite randomness.
+I am not going to speak much about the subatomic level as I currently have only a vague understanding of exactly what is going on at that level.  The current major questions that we should observe at the subatomic level is the question between a collapsing quantum reality or a reality that has branching universes. My speculative inclination is to think that we will find reality emerging out of infinite randomness.
 
 The thing about the subatomic level that we have observed that is really important is how it supports the atomic level and what it tells us about that level.  Ultimately we find the very important fact that an atom of one element is fundamentally the same as another element of the same type under the same forces.  An atom of oxygen on earth, and an atom of oxygen on Mars will react in the same way to the local forces if swapped.  Now of course the forces present on Mars and Earth are very different, but the reaction of that molecule can be predicted and will be consistent.
 
