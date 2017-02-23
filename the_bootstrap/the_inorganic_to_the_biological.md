@@ -12,9 +12,9 @@ I am not going to speak much about the subatomic level as I currently have only 
 
 The thing about the subatomic level that we have observed that is really important is how it supports the atomic level and what it tells us about that level.  Ultimately we find the very important fact that an atom of one element is fundamentally the same as another element of the same type under the same forces.  An atom of oxygen on earth, and an atom of oxygen on Mars will react in the same way to the local forces if swapped.  Now of course the forces present on Mars and Earth are very different, but the reaction of that molecule can be predicted and will be consistent.
 
-Because these molecules are consistent, they behave reliably.  The reliable behavior that we see is the grouping of atoms into molecules.  We will talk at length later about the economics behind this formation, but for now let's just observe that it happens.
+Because these molecules are consistent, they behave reliably.  The reliable behavior that we see is the grouping of atoms into molecules. 
 
-The fact that it happens and happens reliably is at the core of most of our 'hard' sciences.  If you heat water at -2 degrees C to 10 degrees C, it behaves in a very predictable way and a scientist on the other side of the planet can reproduce the same experiment and see the same results.
+The fact that this behavior happens, and happens reliably, is at the core of most of our 'hard' sciences.  If you heat water at -2 degrees C to 10 degrees C, it behaves in a very predictable way and a scientist on the other side of the planet can reproduce the same experiment and see the same results.
 
 Fortunately for us, molecules did not stick to just forming a finite set of molecules.  One particular molecule, Carbon, has properties that allow it to make many different formations.  These formations are so dynamic and have such emergent properties that we call them 'organic.'  Organic chemistry is the study of carbon based molecules that are often made up of tens, hundred, or even, in the case of DNA, millions of atoms.  The behavior of organic molecules are much, much more diverse than standard molecules and much harder to predict.
 
