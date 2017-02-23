@@ -9,7 +9,7 @@ You may consider it an odd thing to say that time has no value at the inorganic,
 
 The inorganic is subject to natural law, biology to the mad blind god of evolution, society to the blind raptor god of the market, but with intellect, we achieve rationality and that changes everything.  We can observe the past and project events into the future.  This ability is not perfect at all levels, but it is good enough to be superior to society.  We often call this bootstrapped level of time use 'science.'  The ability to observe the past and use those observations in a way that affect the future will help us bootstrap to a super-intelligence.  But we aren't there yet.  Getting there is what this book is about.
 
-Just like the Societal systems, the intellectual system has access to the levels below it.  It is a bit unique in that it has access to a level, society, that it wasn't built on.
+Just like the societal systems, the intellectual system has access to the levels below it.  It is a bit unique in that it has access to a level, society, that it wasn't built on.
 
 Let look at each level starting with society. What is the economic system at work on Intellectual - societal level?  It is an economic system based on culture at the outset and culminates in diversity as quality culture is pursued.  We see this level manifest itself in the study of the arts and many of the social sciences.  We observe cultures, see how the development plays out, and then attempt to explain how and when similar patterns may emerge in the future.  Are these patterns of quality?
 
