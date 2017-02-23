@@ -13,7 +13,7 @@ Moral Responsibility > Moral Authority
 
 So what is responsibility in this case? An agent with moral responsibility will understand its moral authority over lower cascade levels, and yet still make decisions that preserve and amplify wholeness at lower levels. The enlightenment has given us a secret weapon in this balancing act.  We must realize that our inability to balance can always be overcome with the right knowledge.  We never have to resort to destructive authority unless we are out of time and total annihilation is at stake.
 
-A practical example is that the intellect has authority over the inorganic, and we could certainly make short term gains by stripping the valuable resources from our environment, but, if we are morally responsible, we will use the resource in renewable and responsible way. Here we see environmentalism is not a moral obligation but is a moral responsibility.
+A practical example is that the intellect has authority over the inorganic, and we could certainly make short term gains by stripping the valuable resources from our environment, but, if we are morally responsible, we will use the resource in renewable and responsible ways. Here we can arrange environmentalism in our framework as not being forced on us by any authority, but demanded of us as a moral responsibility.
 
 As we speak about future bootstraps, beware the destructive valley.
 
