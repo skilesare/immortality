@@ -60,6 +60,6 @@ At the biological level we meet fitness. Reproduction and survival are valued ab
 
 The biological level is above the inorganic.  As a result, it has access to the inorganic level even if it has a different value structure.  In fact inorganic material is often the major tool of biological systems.  Biological systems have adapted to create structure out of inorganic material in a way that increases the biological system's ability to further overcome the inorganic forces.
 
-What we end up with is the biological level operating on two different, distinct economies and trying to achieve two different and distinct bootstraps.  First we will address Biology dealing with the inorganic level.
+What we end up with is the biological level operating on two different and distinct economies. We find it trying to achieve two different and distinct bootstraps.  First we will address Biology dealing with the inorganic level.
 
 
