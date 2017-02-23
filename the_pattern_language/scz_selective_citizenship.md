@@ -29,6 +29,7 @@ Therefore:
 
 Selective Citizenship give the citizen the rights to Democratic Veto **(VTO)**.
 
+<div style='display:none;' markdown="1">
 \newpage
 
 

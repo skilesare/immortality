@@ -25,7 +25,7 @@ Therefore:
 
 Enrich labor will help increase education **(EDU)** in the adult years of life.
 
-
+<div style='display:none;' markdown="1">
 \newpage
 
 

@@ -29,7 +29,7 @@ Therefore:
 
 Taxation can help predistribute economic rents **(PRF)**. Contributions to the state can be tracked in the public ledger **(PLG)**.  Taxation can help support government services supporting Human Dignity **(DIG)**.
 
-
+<div style='display:none;' markdown="1">
 \newpage
 
 

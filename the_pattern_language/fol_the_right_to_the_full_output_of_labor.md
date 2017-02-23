@@ -32,7 +32,7 @@ Therefore:
 
 The full output of labor can help contribute to a citizens Legacy **(LEG)**. It is protected by statutory theft **(STH)**.
 
-
+<div style='display:none;' markdown="1">
 \newpage
 
 

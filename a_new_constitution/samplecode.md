@@ -121,5 +121,8 @@ Institution
 Citizen
 Family
 Corporation
+State
+Agency
+
+
 198 CHAPTER8. CONSTITUTIONALCOMMENTARY
-State Agency

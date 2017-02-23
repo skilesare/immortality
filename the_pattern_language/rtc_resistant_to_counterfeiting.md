@@ -20,5 +20,5 @@ Therefore:
 Counterfeiting can be battled with the Public Ledger **(PLG)**.
 
 
-
+<div style='display:none;' markdown="1">
 \newpage

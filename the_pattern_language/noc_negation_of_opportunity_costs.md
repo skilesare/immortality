@@ -35,7 +35,7 @@ Therefore:
 
 Negation of opportunity costs can be accomplished with the predistribution of economic rents **(PRF)**
 
-
+<div style='display:none;' markdown="1">
 \newpage
 
 
