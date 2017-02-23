@@ -11,7 +11,7 @@ The inorganic is subject to natural law, biology to the mad blind god of evoluti
 
 Just like the societal systems, the intellectual system has access to the levels below it.  It is a bit unique in that it has access to a level, society, that it wasn't built on.
 
-Let look at each level starting with society. What is the economic system at work on Intellectual - societal level?  It is an economic system based on culture at the outset and culminates in diversity as quality culture is pursued.  We see this level manifest itself in the study of the arts and many of the social sciences.  We observe cultures, see how the development plays out, and then attempt to explain how and when similar patterns may emerge in the future.  Are these patterns of quality?
+Let look at each level starting with society. What is the economic system at work on intellectual - societal level?  It is an economic system based on culture at the outset and culminates in diversity as quality culture is pursued.  We see this level manifest itself in the study of the arts and many of the social sciences.  We observe cultures, see how the development plays out, and then attempt to explain how and when similar patterns may emerge in the future.  Are these patterns of quality?
 
 At the intellectual - biological level we find the life sciences and in particular the study of human biology. The currency here is that of self preservation. When quality at this level, we finally find the immortality that I speak of in the title of this book. Much of the remainder of this book will see to determine how we can steer and manipulate the economic system to reach this level of quality so that our existing minds will continue to exist far into the future.
 
