@@ -21,6 +21,7 @@
   * [Love](the_morality_of_the_bootstrap/love.md)
   * [The State](the_state/README.md)
   * [Posibility Spaces](posibility_spaces/README.md)
+  * [Moral Imperative](the_bootstrap/moral-imperative.md)
 * [Achieving Supersociety](achieving_supersociety/README.md)
   * [The Blockchain](achieving_supersociety/the_blockchain.md)
   * [Incentivising The Flow of Cash](achieving_supersociety/incentivising_the_flow_of_cash.md)
