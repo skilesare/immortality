@@ -4,10 +4,14 @@ subtitle: "An Economics and Moral Framework toward Immortality"
 author: "Austin Fatheree"
 output: pdf_document
 date: "© 2017 Austin Fatheree"
+---
+<span style='display:none;'>
+
 \newgeometry{bottom=0.6in,top=0.7in,inner=0.6in,outer=0.4in}
 \openany
 
----
+</span>
+
 
 
 
