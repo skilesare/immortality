@@ -16,7 +16,7 @@ Because these molecules are consistent, they behave reliably.  The reliable beha
 
 The fact that this behavior happens, and happens reliably, is at the core of most of our 'hard' sciences.  If you heat water at -2 degrees C to 10 degrees C, it behaves in a very predictable way and a scientist on the other side of the planet can reproduce the same experiment and see the same results.
 
-Fortunately for us, molecules did not stick to just forming a finite set of molecules.  One particular molecule, Carbon, has properties that allow it to make many different formations.  These formations are so dynamic and have such emergent properties that we call them 'organic.'  Organic chemistry is the study of carbon based molecules that are often made up of tens, hundred, or even, in the case of DNA, millions of atoms.  The behavior of organic molecules are much, much more diverse than standard molecules and much harder to predict.
+Fortunately for us, atoms did not stick to just forming a finite set of molecules.  One particular atam, Carbon, has properties that allow it to make many different formations.  These formations are so dynamic and have such emergent properties that we call them 'organic.'  Organic chemistry is the study of carbon based molecules that are often made up of tens, hundred, or even, in the case of DNA, millions of atoms.  The behavior of organic molecules are much, much more diverse than standard molecules and much harder to predict.
 
 This step up from the standard molecules to massively complex molecules is what we call a bootstrap.  We will ultimately see the bootstrap at many different levels of reality and ultimately we will base much of our theories on a conclusion that the universe is ultimately in the business of bootstraps.
 
