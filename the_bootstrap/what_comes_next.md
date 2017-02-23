@@ -31,7 +31,7 @@ The key thing to consider here is what would identify something as a unique Biol
 
 This is a very hard thing to even imagine, but let’s try. Consider something like 'the borg' in Star Trek. Now this example has a bit of intelligence mixed in(otherwise it wouldn't be a very good story), but let’s pretend that the borg didn't have an evil intelligence at its center, but instead just operated on the basis of 'assimilation'. This system seeks to draw resources to itself and grow.
 
-Like I said, the examples are hard, but there may be some merit in looking at general, base elements and considering, 'what system to I want to be at work here' and then arranging the elements in such a way that the elements pursue that agenda. The bootstrap is what emerges out of that we don't expect.
+Like I said, the examples are hard, but there may be some merit in looking at general, base elements and considering, 'what system do I want to be at work here' and then arranging the elements in such a way that the elements pursue that agenda. The bootstrap is what emerges out of that we don't expect.
 
 You can see the areas of personalized medicine and nanotechnology here. You can also see the underlying threats of things like the gray goo scenario that we will talk about later.
 
