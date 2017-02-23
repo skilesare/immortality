@@ -19,7 +19,7 @@ What we find is that predicting the next bootstrap is much more complicated that
 
 The first scenario to consider is that the inorganic is not finished bootstrapping at all. The biological was an impressive leveraging of patterned forces to an entire new system, but perhaps the carbon based bootstrap is just the first and most likely pattern to emerge as a coherent system.
 
-In fact it is likely that if we spend enough time looking and changing our frame we will find all sorts of bootstraps that have occurred because of patterned forces.
+In fact it is likely that if we spend enough time looking and changing our frame of reference we will find all sorts of bootstraps that have occurred because of patterned forces.
 
 The forming, expanding, and dying of galaxies may be at one end of the time and distance scale where we see emergence of entities, with diversity and interaction.
 
