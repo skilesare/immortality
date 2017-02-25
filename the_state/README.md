@@ -3,9 +3,9 @@
 
 Is 'The State' the bootstrap of society to super-society?
 
-In this chapter I will discuss this possibility and look questions that are brought up if it is.
+In this chapter I will discuss this possibility and look at questions that are brought up if it is.
 
-For a system to bootstrap we must look at the economics of a system, the economics of the more advanced system, and ask if the economics are based on different form of value. If they are different then a bootstrap has occurred. If they are not different, then a bootstrap has not occurred, the system has just evolved to a higher level, possibly with a higher level of quality. We may still have found a place where we can make a morality judgment because the level is higher in the cascade, but if the economics haven't changed it is not a bootstrap.
+For a system to bootstrap we must look at the economics of a system, the economics of the more advanced system, and ask if the economics are based on different forms of value. If they are different then a bootstrap has occurred. If they are not different then a bootstrap has not occurred and the system has just evolved to a higher level within an economy, possibly, with a higher level of quality. We may still have found a place where we can make a morality judgment because the level is higher in the cascade, but if the economics haven't changed it is not a bootstrap.
 
 In the societal layer we find resources being the unit of value. Possessing resources, having access to resources, seeking out resources are the activities that drive the societal system.
 
