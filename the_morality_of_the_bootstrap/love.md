@@ -1,7 +1,7 @@
 
 ## Love
 
-So where does love fit into all of this? First consider there are different kinds of love. These different kinds of love add up to a very complicated thing that we call 'love' but is really lots of other things. This does not discount love, in fact it may even be an entire other economy that operates at a strange intersection of the biological, societal, and intellectual. We should look at the different kinds of love and see what economies are at work.
+So where does love fit into all of this? First consider there are different kinds of love. These different kinds of love add up to a very complicated thing that we call 'Love.' We need to break Big L love back down.  This does not discount love. In fact, it may even be an entire other economy that operates at a strange intersection of the biological, societal, and intellectual. We should look at the different kinds of love and see what economies are at work.
 
 #### Romantic Love
 
