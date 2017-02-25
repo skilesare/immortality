@@ -9,7 +9,7 @@ We can simplify many of our moral discussions by using this framework. In order 
 
 Intellectual > Societal > Organic > Inorganic
 
-3. If the dilemma is identified as being between two positions inside of a single economy, give authority that is shows the most quality / value inside that economy.
+3. If the dilemma is identified as being between two positions inside of a single economy, give authority to the one that shows the most quality / value inside that economy.
 
 4. Identify how the agent with moral authority can act with moral responsibility toward each less valuable alternative in its own level and toward any lower level involved.
 
