@@ -1,7 +1,7 @@
 
 ## The State
 
-Is 'The State' the bootstrap of society to super-society?
+Is 'The State' the bootstrap of society to supersociety?
 
 In this chapter I will discuss this possibility and look at questions that are brought up if it is.
 
@@ -15,5 +15,5 @@ If the State were to separate itself from the effect of resource allocation it m
 
 Let’s consider for a moment that society reaches a point where the actors in the state are selected by lot in a way that insures that currently controlling more resources doesn't impact your selectability. What would these resource independent statesmen involve themselves in? The population would demand that they engage in the allocation and protection of resources. More of the same.
 
-It is my conclusion that the State is not a bootstrap to super society. That does not mean that the state is not integral to a bootstrap to the super society. In fact our conclusion is that in order for society to bootstrap to a super society, resource allocation and use needs to be as optimized as possible. To reach this conclusion we will look at the economics of the previous bootstrap and then explore how to best position society and the state to emulate these process of these economies reaching bootstrap.
+It is my conclusion that the State is not a bootstrap to supersociety. That does not mean that the state is not integral to a bootstrap to the supersociety. In fact our conclusion is that in order for society to bootstrap to a supersociety, resource allocation and use needs to be as optimized as possible. To reach this conclusion we will look at the economics of the previous bootstrap and then explore how to best position society and the state to emulate these process of these economies reaching bootstrap.
 
