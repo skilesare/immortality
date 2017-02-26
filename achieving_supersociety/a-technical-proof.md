@@ -5,7 +5,7 @@ A published model of hypercatallaxy
 
 tldr: Prove hypercatallaxy to yourself with a simulated economy here.
 
-This chapter assumes you are familiar with the basics of hypercatallaxy, most of which are presented at http://catallax.info and discussed in depth in ‘Democratic Hypercatallaxy' Chapters of An Economics Toward Immortality.
+This chapter assumes you are familiar with the basics of hypercatallaxy. This chapter was originally a blog post on http://catallax.info.
 
 The main thing we will focus on today are the ideas of demurrage or the decay fee and the idea of the prefered stock that is exchanged with each and every cash transaction in a hypercapitalistic economy.
 
