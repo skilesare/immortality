@@ -1,6 +1,6 @@
 ---
 title: "Immortality - An Economics and Moral Framework Toward Immortality"
-subtitle: "An Economics and Moral Framework toward Immortality"
+subtitle: "An Economics and Moral Framework Toward Immortality"
 author: "Austin Fatheree"
 output: pdf_document
 date: "© 2017 Austin Fatheree v 0.1.0"
