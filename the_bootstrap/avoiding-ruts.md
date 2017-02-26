@@ -1,7 +1,7 @@
 
 ## Avoiding Ruts
 
-There are a number of ruts that can keep us from using our intelligence to accelerate the next bootstrap. Many of these can be seen by looking back at history and observing the amazing breakthrough of the enlightenment. For a full exploration of these concepts, please read [The Beginning of Infinity: Explanations That Transform the World](http://amzn.to/2jt3xrT) By David Deutsch.
+There are a number of ruts that can keep us from using our intelligence to accelerate the next bootstrap. Many of these can be seen by looking back at history and observing the amazing breakthrough of the enlightenment. For a full exploration of these concepts, please read David Deutsch's [The Beginning of Infinity: Explanations That Transform the World](http://amzn.to/2jt3xrT).
 
 As a short summary, static societies can hinder the advancement of knowledge. These societies get mired in sacredness. This sacredness is an enemy that the enlightenment exposed and that we need to shine a giant spotlight on if we hope to move our society on toward supersociety. All of our knowledge is wrong at some level. At best, we have 'best guesses.' But it is good and right for us to seek out better guesses. This is how human knowledge advances. Sacredness takes one form of knowledge, codifies it, and attempts to apply it all future problems.
 
