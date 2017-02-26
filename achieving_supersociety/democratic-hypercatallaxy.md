@@ -42,6 +42,6 @@ It is an over ambitious task to try to tackle all of those things and I would he
 
 In 'The Form Language' we take a look at democratic hypercatallaxy and build a form language of items to use in the construction of our new form of money. This section is for those that want to take a deeper look at the concept of democratic hypercatallaxy and the forms that make the engine run.
 
-In 'The Pattern Language' we take a look at the pattern language considered for this document. This book is specifically targeted to those that are fans of the pattern language and the work of Christopher Alexander. This book is not required reading for those wanting to understand the basics of democratic hypercatallaxy but is a key component that was developed before we built the form and generative language.
+In 'The Pattern Language' we take a look at the pattern language considered for this document. This section is specifically targeted to those that are fans of the pattern language and the work of Christopher Alexander. This section is not required reading for those wanting to understand the basics of democratic hypercatallaxy but is a key component that was developed before we built the form and generative language.
 
 I know I'm biting off way more than I can chew with this and that is why I'm putting out at this point and hoping to get feedback and help in seeing if some of these ideas are practical and can actually be implemented.
