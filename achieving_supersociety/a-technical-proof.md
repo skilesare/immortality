@@ -122,13 +122,13 @@ The first thing we notice is that GDP starts about 16% below where it started wh
 
 #### CONCLUSION
 
-After reviewing this model I think it is clear that the the adding a driver to use reason is a reliable way to increase GDP.  If you agree I’d encourage you to read up on more of my ideas at hypercapital.info and help me out with the kickstarter.  The worst that can happen is you end up with a cool shirt.
+After reviewing this model I think it is clear that the the adding a driver to use reason is a reliable way to increase GDP.  If you agree I’d encourage you to read up on more of my ideas at http://catallax.info and help support our patreon.
 
-I have published this model at 
+I have published this model in the source code for this book on github and in a runnable version at 
 
 http://runnable.com/VTBkszswv6lIdEFR/hypercapitalism-sample-economy-for-node-js-and-hello-world
 
-This model is currently in ‘monte carlo’ mode where it will generate random numbers and create wacky economies.  The goal is to show that most economies benefit from hypercapitalism.  If you find one that doesn’t let me know.  The ones that don’t seem to benefit are the ones where everyone has a pretty much even ability to generate economic rent.  This makes sense as this is negating our assumption that some people are better value producers than others.  As a bonus, in these scenarios, poverty is usually eliminated even as GDP stays fairly flat.
+This model is currently in ‘monte carlo’ mode where it will generate random numbers and create wacky economies.  The goal is to show that most economies benefit from hypercatallaxy.  If you find one that doesn’t let me know.  The ones that don’t seem to benefit are the ones where everyone has a pretty much even ability to generate economic rent.  This makes sense as this is negating our assumption that some people are better value producers than others.  As a bonus, in these scenarios, poverty is usually eliminated even as GDP stays fairly flat.
 
 If you want to run the standard test from above, you will need to follow the comments in the top of the server.js file.
 
