@@ -14,3 +14,7 @@ How will our system affect the lobbyist? Because of the public ledger, the peopl
 In addition, the veto will give much more power to citizens to fight against lobbyist. In fact, lobbyist will likely need to move much of their 'lobbying' from the public official to the actual people and tax payers who can deny the public official his pay. The people will listen with much more critical ears.
 
 
+<div style='display:none;' markdown="1">
+\newpage
+
+
