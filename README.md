@@ -20,7 +20,7 @@ Please post questions under Issues and we always consider pull requests.
 
 --------------
 
-I would appreciate you purchasing a digital of physical copy of this book to support the work, but if cost is an issue, the full text can be read online at:
+I would appreciate you purchasing a digital or physical copy of this book to support the work, but if cost is an issue, the full text can be read online at:
 
 https://skilesare.github.io/immortality/
 
