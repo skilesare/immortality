@@ -23,25 +23,25 @@ Please post questions under Issues and we always consider pull requests.
 
 --------------
 
-I would appreciate you purchasing a digital of physical copy of this book to support the work, but if cost is an issue, the full text can be read online at:
+I would appreciate you purchasing a digital or physical copy of this book to support the work, but if cost is an issue, the full text can be read online at:
 
-https://skilesare.github.io/immortality/
+[https://skilesare.github.io/immortality/](https://skilesare.github.io/immortality/)
 
 --------------
 
 More information about the concepts presented in this book can be found at:
 
-http://catallax.com
+[http://catallax.com](http://catallax.com)
 
 Follow developments and news:
 
-http://facebook.com/catallax
+[http://facebook.com/catallax](http://facebook.com/catallax)
 
-http://twitter.com/hypercatallax
+[http://twitter.com/hypercatallax](http://twitter.com/hypercatallax)
 
 Support the cause:
 
-https://www.patreon.com/catallax
+[https://www.patreon.com/catallax](https://www.patreon.com/catallax)
 
 -----------------
 
