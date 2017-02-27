@@ -6,8 +6,5 @@ The technology section of the pattern language needs to be fleshed out by techno
 * BLC. The Blockchain
 * NET. The Network
 
-<div style='display:none;' markdown="1">
-\newpage
-
 
 

@@ -6,15 +6,12 @@ output: pdf_document
 date: "© 2017 Austin Fatheree v 0.1.0"
 ---
 
-<div style='display:none;' markdown="1">
-\newgeometry{bottom=0.6in,top=0.7in,inner=0.6in,outer=0.4in}
-\openany
 
 
 
 
 
-The text of this book and associated source code can be found at our github page: 
+The text of this book and associated source code can be found at our github page:
 
 
 https://github.com/skilesare/immortality
@@ -49,7 +46,7 @@ For Cib, Em, Georgia, and West.  Much of the time that should have been yours we
 
 -------------------
 
-Acknowledgements:  
+Acknowledgements:
 
 My Amber has watched me stare off into the distance, lost in thought, more times than she can count.  If there is any value to be found here, give her your thanks.  She let me wonder.
 

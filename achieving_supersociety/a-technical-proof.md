@@ -62,7 +62,7 @@ We are going to let our nodes participate in an economy for 300 months(25 years)
 
 Which node they spend their cash at is determined by their reason.  They have pReason probability of picking the node that produces the most value(Economic Rent).  If they fail, they move down a rung and test again.  If they get all the way to the end they just pick a random node.  As a result, a node with great pReason will spend most of their cash over the 25 years with firms that are great at producing Economic rent.
 
-After each month we do the demurrage or decay calculation and pass cash back to the nodes that seeded the cash in a node according to the ideas in hypercapitalism. Now the interesting thing about capitalism is that it is just hypercapitalism with a 0% demurrage rate and a 0% tax rate(We are ignoring taxes in this model).  So for capitalism we just set the demurrage rate to 0.  
+After each month we do the demurrage or decay calculation and pass cash back to the nodes that seeded the cash in a node according to the ideas in hypercapitalism. Now the interesting thing about capitalism is that it is just hypercapitalism with a 0% demurrage rate and a 0% tax rate(We are ignoring taxes in this model).  So for capitalism we just set the demurrage rate to 0.
 
 We are giving all capitalist consumers the benefit of the doubt that they make decisions based on reason.  I’ve run the simulation without reason and when I do I end up with a 16% decrease in GDP when consumers are not incentivised to use reason.  Poverty actually went down because the disbursement of cash was more random.  I wasn’t expecting to discover this as it really gives us a reason to debate if we want to use reason or not because it may lead to short term poverty when the really, really unproductive nodes begin to be ignored by the market.  I’m not totally convinced this is a  bad thing though.
 
@@ -102,7 +102,7 @@ We can see how much ing Fig. 6.3.
 
 The total increase in GDP when we go to 60% is 8.2% in GDP over 25 years.  This is an increase of an average of 0.3% per year.  This does not seem like much until you consider that since the 90s we’ve been averaging around 2.5% this is a 12% increase in GDP which ends up being huge.
 
-At this point I hope it is clear that using this type of redistribution is worth exploring further and potentially interesting enough to implement. I wish I could use this kind of money today.  
+At this point I hope it is clear that using this type of redistribution is worth exploring further and potentially interesting enough to implement. I wish I could use this kind of money today.
 
 #### CONTROL GROUP
 
@@ -124,7 +124,7 @@ The first thing we notice is that GDP starts about 16% below where it started wh
 
 After reviewing this model I think it is clear that the the adding a driver to use reason is a reliable way to increase GDP.  If you agree I’d encourage you to read up on more of my ideas at http://catallax.info and help support our patreon.
 
-I have published this model in the source code for this book on github and in a runnable version at 
+I have published this model in the source code for this book on github and in a runnable version at
 
 http://runnable.com/VTBkszswv6lIdEFR/hypercapitalism-sample-economy-for-node-js-and-hello-world
 
@@ -134,8 +134,6 @@ If you want to run the standard test from above, you will need to follow the com
 
 Have fun and let me know how your testing goes.
 
-<div style='display:none;' markdown="1">
-\newpage
 
 
 

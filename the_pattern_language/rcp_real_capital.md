@@ -30,6 +30,5 @@ Therefore:
 
 Ownership of real capital can be recorded in a Public Ledger **(PLG)**.
 
-<div style='display:none;' markdown="1">
-\newpage
+
 

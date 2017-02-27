@@ -18,7 +18,7 @@ if [ -d "$GITBOOK_REP" ]; then
               --variable geometry:paperwidth=6in \
               --variable geometry:paperheight=9in \
               --variable mainfont="Times" \
-             --variable documentclass=memoir --toc --latex-engine=xelatex -o aetipandoc.pdf
+             --variable documentclass=memoir --toc --latex-engine=xelatex -o aetipandoc.epub
   else
     echo "File '$SUMMARY_FILE' does not exist"
   fi

@@ -19,6 +19,3 @@ Therefore:
 **Establish the democratic veto for state accounts and selective veto for agency accounts.**
 
 ----------
-
-<div style='display:none;' markdown="1">
-\newpage

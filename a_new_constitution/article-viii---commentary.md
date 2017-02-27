@@ -28,8 +28,7 @@ _The above when SHA signed with key of XXXXX is YYYYYY._
 
 No Change except the technical implementation of signing on the document with a hash.
 
-<div style='display:none;' markdown="1">
-\newpage
+
 
 
 

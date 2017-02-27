@@ -28,8 +28,6 @@ Therefore:
 
 Human Dignity should be further enhanced by Education **(EDU)**, Elder care **(ELD)**, Welfare **(WEL)**, the Home **(HOM)**.
 
-<div style='display:none;' markdown="1">
-\newpage
 
 
 
