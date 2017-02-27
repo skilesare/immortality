@@ -7,7 +7,7 @@ We find at the biological level an economy of environment that is used to increa
 
 Each of these biological systems survived because existing in the correct environment increase the likelihood that the builder's DNA would survive another generation.
 
-The natural flow here from base economy to bootstrap is the flow from environment to controled environment.  We see this in the creation of structure by biological systems
+The natural flow here from base economy to bootstrap is the flow from environment to controlled environment.  We see this in the creation of structure by biological systems
 
 This may start as simply as the membrane constructed around an amoeba to protect the survival of its DNA or may be as complicated as the structure of an ant bed to survive a rain storm. Ultimately we see biology overcoming environment with structure.
 

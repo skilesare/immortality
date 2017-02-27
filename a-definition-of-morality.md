@@ -11,9 +11,9 @@ We will find by observing that there is a Moral Authority given to more advanced
 
 ### On Evil
 
-Evil arises in two ways. 
+Evil arises in two ways.
 
-The first is when the moral authority is threatend from below.  
+The first is when the moral authority is threatened from below.
 
 The second is when the moral responsibility is ignored or currently unachievable. This often manifests in a 'moral dilemma' that seemingly cannot be overcome without committing some evil.
 

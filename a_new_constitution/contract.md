@@ -17,7 +17,7 @@ As a practical example, take the inauguration of a new President. Our Issuer obj
 ```
 contract Issuer{
   address executiveAddress;
-  adresss houseAddress;
+  address houseAddress;
   address senateAddress;
   address courtAddress;
 
@@ -80,7 +80,7 @@ contract Issuer{
     return false;
   }
 
-  //additional contracts will be requried that
+  //additional contracts will be required that
   //implement the functions of the following
   House
   Senate

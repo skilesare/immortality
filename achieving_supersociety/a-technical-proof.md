@@ -7,7 +7,7 @@ tldr: Prove hypercatallaxy to yourself with a simulated economy here.
 
 This chapter assumes you are familiar with the basics of hypercatallaxy. This chapter was originally a blog post on http://catallax.info.
 
-The things we will focus on in this section are the ideas of demurrage or the decay fee and the idea of the prefered stock that is exchanged with each and every cash transaction in a hypercapitalistic economy.
+The things we will focus on in this section are the ideas of demurrage or the decay fee and the idea of the prefered stock that is exchanged with each and every cash transaction in a hypercatallaxian economy.
 
 #### INTRO
 
@@ -66,7 +66,7 @@ After each month we do the demurrage or decay calculation and pass cash back to 
 
 We are giving all capitalist consumers the benefit of the doubt that they make decisions based on reason.  I’ve run the simulation without reason and when I do I end up with a 16% decrease in GDP when consumers are not incentivised to use reason.  Poverty actually went down because the disbursement of cash was more random.  I wasn’t expecting to discover this as it really gives us a reason to debate if we want to use reason or not because it may lead to short term poverty when the really, really unproductive nodes begin to be ignored by the market.  I’m not totally convinced this is a  bad thing though.
 
-In the end I contend that ‘reason’ is amplified by the decay fee and pref dividends.  We certainly have some incentive to use reason in our consumption(although currently it is mostly guilt), but having the hypercapital system will amplify this.  This model may not accurately represent the exact flows of this kind of reason, but I think it does a good job of simulating the outer bounds and we can use these to reason within.
+In the end I contend that ‘reason’ is amplified by the decay fee and pref dividends.  We certainly have some incentive to use reason in our consumption(although currently it is mostly guilt), but having a hypercatallaxian system will amplify this.  This model may not accurately represent the exact flows of this kind of reason, but I think it does a good job of simulating the outer bounds and we can use these to reason within.
 
 This is not supposed to be a ‘realistic’ model of the economy.  That being said, it is AN economy and I think it is reasonable to say that it is a decent representative economy.  I can and must keep building more detailed models with more nodes, taxes, money supply growth, innovation, etc, but I have to start somewhere.
 
