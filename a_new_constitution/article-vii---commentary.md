@@ -390,7 +390,7 @@ _Restriction I_
 
 
 
-_Corporations shall be able to recieve private payments from accounted citizens but must make all outgoing payments public and open._
+_Corporations shall be able to receive private payments from accounted citizens but must make all outgoing payments public and open._
 
 
 ---

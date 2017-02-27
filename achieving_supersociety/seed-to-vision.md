@@ -40,7 +40,7 @@ So our Generative language is as follows:
 
 3. Distribution - Flip the Demurrage switch and start distributing economic rents to the participants.
 
-4. Compulsion - Art is magnetic and people are compulsed to use it as opposed to other coins because it has an intrinsic advantage and leads to an optimized and supercharged economy.
+4. Compulsion - Art is magnetic and people are compelled to use it as opposed to other coins because it has an intrinsic advantage and leads to an optimized and supercharged economy.
 
 4. Disconnect - We disconnect the exchange rate of 1:1 with the dollar.
 

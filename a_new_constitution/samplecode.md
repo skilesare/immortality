@@ -1,6 +1,6 @@
 contract Issuer{
   address executiveAddress;
-  adresss houseAddress;
+  address houseAddress;
 
 TECHNICAL IMPLEMENTATION 195
 address senateAddress;
@@ -112,7 +112,7 @@ CourtHistory newHistory = new CourtHistory({block: block.number, court
     return false;
   }
 }
-//additional contracts will be requried that implement the functions of the fol
+//additional contracts will be required that implement the functions of the fol
 House
 Senate
 Court

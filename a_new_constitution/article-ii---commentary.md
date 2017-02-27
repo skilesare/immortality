@@ -31,7 +31,7 @@ We also outlaw nepotistic presidential representatives.  With the millions of pe
 
 ---
 
-_The Congress may determine the Time of voting such that a window of two weeks is availibe where the final day of open voting is a national day of celebration and the Federal Government and State Governments shall reduce its business to a minimum level, and the time period on which the day shall be held will be the same througout the elected geography._
+_The Congress may determine the Time of voting such that a window of two weeks is available where the final day of open voting is a national day of celebration and the Federal Government and State Governments shall reduce its business to a minimum level, and the time period on which the day shall be held will be the same throughout the elected geography._
 
 
 ---
@@ -50,7 +50,7 @@ _The President and Vice President must not have received private payments of cas
 
 ---
 
-Here we limit the ability to recieve private payments for those that would serve in office.
+Here we limit the ability to receive private payments for those that would serve in office.
 
 
 ---

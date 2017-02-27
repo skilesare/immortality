@@ -27,7 +27,7 @@ Ultimately the burden on the capitalist is increased. Some of the economic rents
 
 
 
-This new system is 'less fair' to the capitalist than the current system. This by design as we feel the capitalist has an unnatural advantage under non-hypercapitalism.
+This new system is 'less fair' to the capitalist than the current system. This by design as we feel the capitalist has an unnatural advantage under non-hypercatallaxian.
 
 
 
