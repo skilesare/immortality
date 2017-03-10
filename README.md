@@ -19,7 +19,7 @@ The text of this book and associated source code can be found at our github page
 
 https://github.com/skilesare/immortality
 
-Please post questions under Issues and we always consider pull requests.
+Please post questions under [Issues](https://github.com/skilesare/immortality/issues) and we always consider pull requests.
 
 --------------
 
@@ -45,7 +45,7 @@ Support the cause:
 
 -----------------
 
-For Cib, Em, Georgia, and West.  Much of the time that should have been yours went into these ramblings of a mad man. I hope it is returned to you a thousand fold.  If it has been wasted, please, forgive your foolish father.
+For Cib, Emmie, Georgia, and West.  Much of the time that should have been yours went into these ramblings of a mad man. I hope it is returned to you a thousand fold.  If it has been wasted, please, forgive your foolish father.
 
 -------------------
 
