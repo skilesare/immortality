@@ -1,12 +1,12 @@
 
 #Definitions
 
-## A definition of 'immortality'
+## A Definition of 'Immortality'
 
 When I speak of immortality I am speaking of a state of the universe in which an intelligence has a reasonable expectation that it will continue to exist and operate, without defect or deterioration, beyond a point in the future where technology can be expected to exist that can alleviate and heal any micro-defects.
 
 
-### On Why death is bad
+### On Why Death is Bad
 
 Death is the end of a mind.  Under our current knowledge, a mind is one of the most precious resources that we have.  There are a number of metaphysical postulations and religious opinions that expect a mind to continue after death, but there is no physical evidence that this is so.
 
@@ -20,7 +20,7 @@ The immortality that I am addressing in this book is not a magical or spiritual 
 
 Many minds may still die.  This is due to accident and physical forces outside the control of the minds.  A large galactic event may annihilate the entire area that minds inhabit and end this grand experiment prematurely. Or if we are really unlucky, a plague on earth may end it in the next couple of decades.
 
-### On the location of Minds
+### On the Location of Minds
 
 Where is the mind?  Currently it is this mass of neurons in our heads.  There may exist in the future a way to augment this mind or even transfer this mind to a much more robust medium.  In fact, extremely long life may require this transfer take place many times over the course of the future.
 
@@ -44,7 +44,7 @@ The second is that we need to diversify the space that we inhabit in the galaxy.
 
 Once these initial hurdles are achieved we will need to work on bigger problems like overcoming accidents.  Perhaps by 'backing up' our minds. Then on to active back ups.  Etc.
 
-### On the distant unseen
+### On the Distant Unseen
 
 The further out we get on our technological development map, the harder it is to speculate about what may be possible. There are even strange things to contemplate when our technology gets advanced enough.  For example: 
 

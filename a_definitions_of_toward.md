@@ -1,9 +1,9 @@
 
-## A definitions of 'toward'
+## A Definitions of 'Toward'
 
 There is nothing tricky in the way I am using 'toward' in my title of this book.  I believe there is an economics that can propel us toward a much, much longer lifespan for our minds.  This economics is not a magic bullet that can outstrip the laws of physics and the path from here to immortality being achieved maybe be a very, very long path. Also do not underestimate mankind's ability to aim poorly.
 
-### On the shape of the change in life expectancy
+### On the Shape of the Change in Life Expectancy
 
 What shape should we want to achieve in the change in life expectancy?  It turns out that the answer is 'a convex curve with a slope greater than one.'  This shape will help us reach a life expectancy that is for most practical cases 'immortal.'
 
