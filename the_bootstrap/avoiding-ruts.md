@@ -5,7 +5,7 @@ There are a number of ruts that can keep us from using our intelligence to accel
 
 As a short summary, static societies can hinder the advancement of knowledge. These societies get mired in sacredness. This sacredness is an enemy that the enlightenment exposed and that we need to shine a giant spotlight on if we hope to move our society on toward supersociety. All of our knowledge is wrong at some level. At best, we have 'best guesses.' But it is good and right for us to seek out better guesses. This is how human knowledge advances. Sacredness takes one form of knowledge, codifies it, and attempts to apply it to all future problems.
 
-We must call out sacredness for what it is: horse manure. If you spread enough of it around you can grow some amazing and vibrant societies, but ultimately, they are all set on a foundation of horse dung. Even in our western, and mostly enlightened, religions we are still just pushing around polished turds.
+We must call out sacredness for the muck and mire that it is. If you spread enough of it around you can grow some amazing and vibrant societies, but ultimately, they are all set on a foundation of decay. Even in our western, and mostly enlightened, religions we are still just plowing this muck into nice looking rows.
 
 Ritual is different than sacredness. Ritual can give a rhythm to life that tie a society together and makes it stronger. But we must avoid sacred ritual. We must observe our rituals and know what they are and what they mean to accomplish.  And when our knowledge exposes that our rituals were misguided, we must be open to changing them.
 
