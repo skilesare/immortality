@@ -53,7 +53,7 @@ But don't forget about Rule 4! Don't fall prey to the destructive valley!
 
 We must ask about how a town with moral authority to build a dam and potentially destroy a town should also act with moral responsibility to that town. The answer is that it shouldn't destroy the town. It should find a place along the continuum that allows it to reach a significant level of productivity while still preserving the societal value of the smaller town. We don't know the future and all value is future value. We may discover a diamond mine under the smaller town in 15 years that allows the town to overcome any economic disadvantage that was relevant at the time the dam was built.
 
-Or going the other direction, if the dam is not built because the down river town is more valuable, perhaps it provide some compensation to the other town for not building the dam.
+Or going the other direction, if the dam is not built because the down river town is more valuable, perhaps it canprovide some compensation to the other town for not building the dam.
 
 There are a million creative solutions that satisfy the moral framework.
 
