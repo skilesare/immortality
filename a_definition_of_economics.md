@@ -1,7 +1,7 @@
 
 ## A Definition of Economics
 
-The study of economics is the study of the dynamics of value.  We are going to talk a lot about value and I have some very opinionated ideas about exactly what value is.  Regardless of your definition of value, Economics is the study of how that value affects the value of other things in society.  Traditionally this is money vs. goods/services.  I'm going to go deeper than this and look at value on many different levels and explore how we can use the patterns of the dynamics of value at lower levels of to point us in the direction of reaching immortality at higher levels.
+The study of economics is the study of the dynamics of value.  We are going to talk a lot about value and I have some very opinionated ideas about exactly what value is.  Regardless of your definition of value, Economics is the study of how that value affects the value of other things in society.  Traditionally this is money vs. goods/services.  I'm going to go deeper than this and look at value on many different levels and explore how we can use the patterns of the dynamics of value at lower levels of bootstrap to point us in the direction of reaching immortality at higher levels.
 
 ### On Money
 

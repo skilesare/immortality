@@ -27,7 +27,7 @@ Centers are enhanced by any one of 15 properties:
 12. Echoes
 13. The Void
 14. Simplicity and Inner-calm
-15. Each in the other
+15. Each in the Other
 
 Each of these characteristics has a corresponding life giving process that, if applied will increase the wholeness of the system.  By following the following process, one can improve a system:
 
@@ -64,7 +64,7 @@ It turns out that integrating these 15 properties across higher order systems le
 
 Leslie Wauguespack expands on these ideas and applies them to software systems in [Thriving System Theory and Metaphor Driven Modeling](http://amzn.to/2iA2By4).  
 
-Wholeness can be evaluated using the following properties:
+Wholeness in systems can be evaluated using the following properties:
 
 1. Levels of Scale -> Stepwise Refinement
 2. Strong Centers -> Cohesion
@@ -181,7 +181,7 @@ Postulate:  Develop GMO techniques that follow stepwise refinement.
 
 ## Pirsig vs. Taleb
 
-I think Pirsig and Taleb would get along swimmingly.  Taleb's Antifragile is Pirsig's dynamic quality.  In the same way that I think that Taleb cold lose some of his conservative nature from Alexander, I think Prisig would help as well.  Pirsig's latch adds an element to Taleb's antifragile.  This latch could lead to massive change very quickly by amplifying the effect.  If we have huge upside via antifragility, and that upside occurs via a positive black swan and then this is amplified by another antifragile situation we can have rapidly moving advancement.  In fact I'll argue that Pirsig's levels derive from exactly these kinds of amplifications.  I'll refer to these amplified antifragile situations that latch as bootstraps.  They move so far that they appear to follow completely different sets of rules that the system that they emerged from.
+I think Pirsig and Taleb would get along swimmingly.  Taleb's Antifragile is Pirsig's dynamic quality.  In the same way that I think that Taleb could lose some of his conservative nature from Alexander, I think Prisig would help as well.  Pirsig's latch adds an element to Taleb's antifragile.  This latch could lead to massive change very quickly by amplifying the effect.  If we have huge upside via antifragility, and that upside occurs via a positive black swan and then this is amplified by another antifragile situation we can have rapidly moving advancement.  In fact I'll argue that Pirsig's levels derive from exactly these kinds of amplifications.  I'll refer to these amplified antifragile situations that latch as bootstraps.  They move so far that they appear to follow completely different sets of rules that the system that they emerged from.
 
 The problem with these huge moves is that Taleb would dismiss them as fiddling with too much and opening us up to many more negative black swans.  In a sense he's right, a comet colliding with earth would wipe out quite a bit of amplification, but would we want that amplification to not exist?
 
@@ -215,7 +215,7 @@ Fukuyama points out the importance of our political institutions  Much of my pro
 
 [The Beginning of Infinity: Explanations That Transform the World](http://amzn.to/2jt3xrT)
 
-Deutsch's has contributed quite a bit to my thinking of how we move the intellectual layer forward and has some great ideas round knowledge and evil.
+Deutsch's has contributed quite a bit to my thinking of how we move the intellectual layer forward and has some great ideas around knowledge and evil.
 
 #### Peter M. Hoffmann
 
