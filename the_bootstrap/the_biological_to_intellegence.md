@@ -1,5 +1,5 @@
 
-## The biological to intelligence
+## The Biological to Intelligence
 
 The inorganic is restrained to dealing in forces and as a result, we observe a number of different phenomena. One of these is the organization into organic compounds that bootstrap to life.  There are of course other bootstraps that have occurred and we can see them around us in the solar system and out in our galaxy.  The sun, the planets, black holes, etc are all phenomena that result from the interplay of forces in the inorganic world.
 

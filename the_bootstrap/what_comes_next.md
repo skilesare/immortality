@@ -1,5 +1,5 @@
 
-## What comes next?
+## What Comes Next?
 
 So what comes next?  How do we pursue what comes next?  Should we pursue what comes next?
 
@@ -37,7 +37,7 @@ You can see the areas of personalized medicine and nanotechnology here. You can 
 
 In the end we still have the economics of patterned forces at the inorganic level, but we are looking for ways in which those forces emerge to pursue something other than 'survival of the fittest.'
 
-### Biology to System III
+### Biology -> System III
 
 To date, biology has spawned two different bootstraps, the society bootstrap and the intelligence bootstrap. What can we consider and say about a possible third system that could emerge out of biology?
 
@@ -51,13 +51,13 @@ It is unlikely that anything on that scale is going to directly impact us here o
 
 In the end, it is the economics of biodiversity that must produce a system that revolves around something other than grouping or time observation. We also have the added component that the bootstrap must be 'up'. Biology has bootstrapped a number of extraordinary systems in the inorganic space. We talk about these as structure and environment. But these systems are not 'above' the biological and are based on a known area of operations. This becomes much more important at the next two levels where we have a much richer area of 'known' areas to develop new systems in.
 
-### Society to Supersociety
+### Society -> Supersociety
 
 Society allocates resources and has produced, at the top of its evolution, the use of cash money economics to allocate things efficiently. This gets much more difficult because our world is filled with things that are based on the pursuit and allocation of cash/resources that operate at lower levels. Culture(and the governments that it spawns) and art are produced at these 'known' levels. We have difficulty speculating about what kind of system the pursuit of resources could produce that is 'beyond' the known areas.  Arranging a universe in a way that accelerates the collection of knowledge needed to figure this out is at the heart of this book.
 
 It is the core tenet of this book that by reforming and targeting the way our money works, that we can enable this next bootstrap. What will occur, I think, is that the reconfiguration of our pursuit of cash will develop exponentially and produce institutions that transcend our 'known' areas. Big dreams, but we have to start somewhere.
 
-### Intelligence to Superintelligence
+### Intelligence -> Superintelligence
 
 This one is fairly straight forward, but may not play out the way many expect. This bootstrap isn't just faster intelligence. Faster intelligence gets us there faster because the bootstrap builds on top of the underlying structure of science. But what will the superintelligence be? What systems will emerge when science is so basic to a thing that a systems is being built around it?
 
