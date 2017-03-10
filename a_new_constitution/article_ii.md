@@ -1,7 +1,7 @@
 
 ## Article II - The Executive
 
-### Section. 1. - Qualifications and Election
+### Section 1. - Qualifications and Election
 
 The executive Power shall be vested in a President of the Government. They shall hold their Office during the Term of four Years, and, together with the Vice President, chosen for the same Term, be elected, as a ticket by ranked choice voting of all accounted citizens who have elected the Government.
 
@@ -19,7 +19,7 @@ The President shall, at stated Times, receive for his Services, a Compensation, 
 
 Before she enter on the Execution of his Office, she shall take the following Oath or Affirmation:—"I do solemnly swear (or affirm) that I will faithfully execute the Office of President of the Government, and will to the best of my Ability, preserve, protect and defend the Constitution of the Government."
 
-### Section. 2. - Powers
+### Section 2. - Powers
 
 The President shall be Commander in Chief of the Army, Navy, Marine Corp, Coast Guard, Air Force, and Space Corp of the Government, and of the Militia of the several States, when called into the actual Service of the United States; he may require the Opinion, in writing, of the principal Officer in each of the executive Departments, upon any Subject relating to the Duties of their respective Offices, and he shall have Power to grant Reprieves and Pardons for Offences against the United States, except in Cases of Impeachment.
 
@@ -27,11 +27,11 @@ He shall have Power, by and with the Advice and Consent of the Senate, to make T
 
 The President shall have Power to fill up all Vacancies that may happen during the Recess of the Senate, by granting Commissions which shall expire at the End of their next Session.
 
-### Section. 3. - Duties
+### Section 3. - Duties
 
 He shall from time to time give to the Congress Information of the State of the Union, and recommend to their Consideration such Measures as he shall judge necessary and expedient; he may, on extraordinary Occasions, convene both Houses, or either of them, and in Case of Disagreement between them, with Respect to the Time of Adjournment, he may adjourn them to such Time as he shall think proper; he shall receive Ambassadors and other public Ministers; he shall take Care that the Laws be faithfully executed, and shall Commission all the Officers of the United States.
 
-### Section. 4. - Impeachment
+### Section 4. - Impeachment
 
 The President, Vice President and all civil Officers of the United States, shall be removed from Office on Impeachment for, and Conviction of, Treason, Bribery, or other high Crimes and Misdemeanors.
 
