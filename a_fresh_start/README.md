@@ -107,7 +107,7 @@ So we must also add into our public ledger a vector of reality that is time-base
 
 #### XVIII.  Hypercatallaxian Economy
 
-To increase the surface area the most we need to maximize the number of antifragile-stable systems that can emerge.  To do this I propose a type of economy that I call hypercatallaxian.  The word 'catallaxy' is derived for the Greek verb katalatto, which means 'to exchange,' or 'to become reconciled with,' or 'to admit into the community,' or,'to make an enemy a friend.'(wikipedia)  Catallaxy is generally discussed as a property arising out of economy.  We take these principles and build them into the economic system to amplify them, thus, hyper.
+To increase the surface area the most we need to maximize the number of antifragile-stable systems that can emerge.  To do this I propose a type of economy that I call **hypercatallaxian**.  The word 'catallaxy' is derived for the Greek verb katalatto, which means 'to exchange,' or 'to become reconciled with,' or 'to admit into the community,' or,'to make an enemy a friend.'(wikipedia)  Catallaxy is generally discussed as a property arising out of economy.  We take these principles and build them into the economic system to amplify them, thus, hyper.
 
 At its core, this economy occurs on a public ledger.  As cash is held by an account, it begins to decay.  This decay rate incentivises a person to use or convert the cash into a capital asset as quickly as possible.  The cash does not decay into thin air.  Instead it travels back through the public ledger to those that provided the cash in proportion to the amount provided into the account.  This incentivises spenders to spend on accounts that they think will receive more cash in the future.  They are rewarded by predicting success.  Those that guess best receive a larger long term dividend than those that guess poorly.
 
@@ -115,7 +115,7 @@ The economic question transfers from a question of what can I get for my dollar 
 
 Over time this economy provides a meritocratic based income to all participants in proportion to how well their contributions to the economy perform in the future.
 
-There are many more details that are discussed later in the pattern language in the section Art and Democratic Hypercatallaxy
+There are many more details that are discussed later in the pattern language in the section Art and Democratic Hypercatallaxy.
 
 #### XIX. Neutralizing Risk
 
