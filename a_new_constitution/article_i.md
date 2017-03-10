@@ -1,11 +1,11 @@
 
 ## Article I - Congress
 
-### Section. 1.
+### Section 1.
 
 All legislative Powers herein granted shall be vested in a Congress of the United States, which shall consist of a Senate and House of Representatives.
 
-### Section. 2. - The House
+### Section 2. - The House
 
 The House of Representatives shall be composed of Members chosen every second year by the people of each geographic state, and the Electors in each state shall have the qualifications requisite for Electors of the most numerous Branch of the Geographic State's Legislature.
 
@@ -77,7 +77,7 @@ When vacancies happen in the Representation from any State, the Executive Author
 
 The House of Representatives shall choose their Speaker and other Officers; and shall have the sole Power of Impeachment.
 
-### Section. 3. - The Senate
+### Section 3. - The Senate
 
 The Senate shall be composed of Senators from each State; Three senators from states with total geographically elected inhabitants greater than 1/50th of the total Accounted Citizenship, Two senators from states  with total geographically elected inhabitants greater than 1/500th and less than 1/50th of the total Accounted Citizenship, and 1 Senator from states with total geographically elected inhabitants less than 1/500th of the total Accounted Citizenship.
 
@@ -159,7 +159,7 @@ The Senate shall have the sole Power to try all Impeachments. When sitting for t
 
 Judgment in Cases of Impeachment shall not extend further than to removal from Office, and disqualification to hold and enjoy any Office of honor, Trust or Profit under this Constitution: but the Party convicted shall nevertheless be liable and subject to Indictment, Trial, Judgment and Punishment, according to Law.
 
-### Section. 4. - Elections
+### Section 4. - Elections
 
 Elections for Senators and Representatives shall be open for a period of 3 months prior to the election closing and shall conclude 3 months before the beginning of a new term.
 
@@ -171,7 +171,7 @@ No subdistrict shall elect more than 3 representatives.
 
 The Congress shall assemble at least once in every Year, and such Meeting shall be on the second Monday in January, unless they shall by Law appoint a different Day.
 
-### Section. 5. - Proceedings
+### Section 5. - Proceedings
 
 Each House shall be the Judge of the Elections, Returns and Qualifications of its own Members, and a Majority of each shall constitute a Quorum to do Business; but a smaller Number may adjourn from day to day, and may be authorized to compel the Attendance of absent Members, in such Manner, and under such Penalties as each House may provide.
 
@@ -183,7 +183,7 @@ Each House shall keep a Journal of its Proceedings published on a Blockchain, an
 
 Neither House, during the Session of Congress, shall, without the Consent of the other, adjourn for more than three days.
 
-### Section. 6. - Compensation
+### Section 6. - Compensation
 
 The Senators and Representatives shall receive a Compensation for their Services, to be ascertained by Law, and paid out of the Treasury of the congress.
 
@@ -193,7 +193,7 @@ Senators and representatives shall in all Cases, except Treason, Felony and Brea
 
 No Senator or Representative shall, during the Time for which he was elected, be appointed to any civil Office under the Authority of this constitution, which shall have been created, or the Emoluments whereof shall have been increased during such time; and no Person holding any Office under this constitution, shall be a Member of either House during his Continuance in Office.
 
-### Section. 7. - Bills
+### Section 7. - Bills
 
 All Bills for raising Revenue shall originate in the House of Representatives; but the Senate may propose or concur with Amendments as on other Bills.
 
@@ -203,7 +203,7 @@ Every Order, Resolution, or Vote to which the Concurrence of the Senate and Hous
 
 All bills must be specific and on point of a single issue, with no amendment from tangential issues attached.  All sections of a bill must have a direct and clear correlation to other sections and all must adhere to the subject of the bill as declared in the preamble.  The Executive may line item veto articles, sections or subsections that do not meet the direct and clear standard and if signed, the whole bill, excluding those sections shall become law. Congress may supersede any line item veto by passing a separate resolution including those vetoed sections as a separate Bill by a 2/3 majority of both houses.
 
-### Section. 8. - Powers of Congress
+### Section 8. - Powers of Congress
 
 The Congress shall have Power To create electable taxes, Duties and Imposts and Excises.
 
@@ -284,7 +284,7 @@ And Finally,
 
 To make all Laws which shall be necessary and proper for carrying into Execution the foregoing Powers, and all other Powers vested by this Constitution in the Government, or in any Department or Officer thereof.
 
-### Section. 9. - Limits
+### Section 9. - Limits
 
 The Migration of such Persons as any of the States shall think proper to admit, shall not be prohibited or taxed by the Congress.
 
@@ -304,7 +304,7 @@ No Title of Nobility shall be granted by the Government: And no Person holding a
 
 The power of the congress to create electable taxes on citizens and mandatory taxes on corporations and artificial capital, shall be non-exclusive and congress shall not deny the rights of states, jurisdictions, cross-state organizations, or other entities to create and collect electable taxes such that all collections and dispersions of funds into those accounts are open for public inspection and that no private payments are made to or from such accounts.
 
-### Section. 10. - Foreign Relations
+### Section 10. - Foreign Relations
 
 No State shall enter into any Treaty, Alliance, or Confederation; grant Letters of Marque and Reprisal; coin Money; emit Bills of Credit; pass any Bill of Attainder, ex post facto Law, or Law impairing the Obligation of Contracts, or grant any Title of Nobility.
 

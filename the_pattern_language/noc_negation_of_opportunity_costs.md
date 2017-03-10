@@ -1,5 +1,5 @@
 
-### NOC. Negation of opportunity costs
+### NOC. Negation of Opportunity Costs
 
 ... How does a market **(MKT)** make choices between alternatives.
 

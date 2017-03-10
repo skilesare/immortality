@@ -1,5 +1,5 @@
 
-### DER. Diminishing value of future economic rent
+### DER. Diminishing Value of Future Economic Rent
 
 ... What effect will the predistribution of economic rent **(PRF)** have on the market?
 

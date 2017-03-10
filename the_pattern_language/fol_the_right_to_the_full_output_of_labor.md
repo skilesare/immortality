@@ -1,5 +1,5 @@
 
-### FOL. The right to the full output of labor
+### FOL. The Right to the Full Output of Labor
 
 
 ... With the power of the public ledger **(PLG)** how can a **(CTZ)** ensure he receives the full output of his labor?

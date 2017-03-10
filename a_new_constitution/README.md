@@ -1,5 +1,5 @@
 
-# A new constitution
+# A New Constitution
 
 The following is a proposal for an updated constitution for the republic.  It preserves almost all of the existing constitution and only adds to it where there have are clear deficiencies and where we have needed to integrate the ideals of a hypercatallaxian economy into the fiber of the document.
 
