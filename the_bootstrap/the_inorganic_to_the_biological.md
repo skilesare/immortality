@@ -47,8 +47,8 @@ Chris Alexander introduces his 15 life structures and associated life creating p
 11. Roughness
 12. Echos
 13. The Void
-14. Simplicity and inner calm
-15. Each in the other
+14. Simplicity and Inner Calm
+15. Each in the Other
 
 Carbon allows such a myriad of different combinations (including itself) that it can exhibit all of these characteristics and achieve the bootstrap to biological reality. We will refer to this organization as 'patterned forces.'  If you prefer to think in the frame of the classic / romantic split, the forces are romantic, and the patterned forces are the classic.  You need both working together to achieve the bootstrap.
 
