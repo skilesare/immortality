@@ -7,7 +7,7 @@ date: "© 2017 Austin Fatheree v 0.1.1"
 ---
 
 <div style='display:none;' markdown="1">
-\newgeometry{bottom=0.6in,top=0.7in,inner=0.6in,outer=0.4in}
+\newgeometry{bottom=0.6in,top=0.7in,inner=0.7in,outer=0.4in}
 \openany
 
 
