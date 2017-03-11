@@ -107,13 +107,13 @@ At this point I hope it is clear that using this type of redistribution is worth
 
 We’ve missed one key consideration of science.  It is one thing to compare a 0% decay fee to a 20% decay fee in a hypercatallaxian context.  We haven’t yet compared a different form of redistribution to the hypercatallaxian form of redistribution.  The form of redistribution I chose to compare it to was even distribution.  I implemented a wealth tax equal to the demurrage rate but instead of distributing based on hypercapitalism, I did an even redistribution.  When I first ran this in the model I was floored because it basically negated my theory.  See Fig. 6.4.
 
-![](./assets/image4bw.png)
+![](./assets/image5bw.png)
 
 If we used reason in picking where we spend our money, we would not need hypercapitalism.  The market does not use reason and instead seeks the best immediate value without regard to the future value of production.
 
 It took me a while to realize that this scenario still relied on our consumers using reason, but by removing hypercatallaxy I have removed the driver of reason.  If your redistribution is going to be even, why would you focus your spending with firms that promise future value?  I added some code to apply the even redistribution without the driver of reason and received the result seen in Fig 6.5.
 
-![](./assets/image5bw.png)
+![](./assets/image4bw.png)
 
 An increase in taxation when there is no reason to the market leads nowhere.
 
