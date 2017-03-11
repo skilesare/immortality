@@ -45,7 +45,8 @@ contract Issuer{
         //set the new executive
         executiveAddress = newExecutive;
 
-        //record the chain in blockchain storage so history will be known.
+        //record the chain in blockchain storage 
+        //so history will be known.
         ExecutiveHistorynewHistory = new ExecutiveHistory(
             {
               block: block.number,
