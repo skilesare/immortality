@@ -29,7 +29,7 @@ Requires that the rights given to citizens in one state apply in other states.
 ---
 
 
-_Section 2._
+Section 2.
 
 
 
@@ -43,34 +43,17 @@ Gives citizens the right of 'no taxation without representation' in the house.
 
 ---
 
-_Section 3._
-
-
-
-_No person shall be a Senator or Representative in Congress, or elector of President and Vice-President, or hold any office, civil or military, under the United States, or under any State, who, having previously taken an oath, as a member of Congress, or as an officer of the United States, or as a member of any State legislature, or as an executive or judicial officer of any State, to support the Constitution of the United States, shall have engaged in insurrection or rebellion against the same, or given aid or comfort to the enemies thereof. But Congress may by a vote of two-thirds of each House, remove such disability._
+Section 3. and Section 4.
 
 
 ---
 
-The confederacy amendment.
+Civil war amendments.
 
 
 ---
 
-_Section 4._
-
-
-_The validity of the public debt of the United States, authorized by law, including debts incurred for payment of pensions and bounties for services in suppressing insurrection or rebellion, shall not be questioned. But neither the United States nor any State shall assume or pay any debt or obligation incurred in aid of insurrection or rebellion against the United States._
-
-
----
-
-More civil war amendments.
-
-
----
-
-_Section 5._
+Section 5.
 
 
 _The Congress shall have the power to enforce, by appropriate legislation, the provisions of this article._
@@ -85,7 +68,7 @@ Gives congress the power to enforce and legislate the rights given in this artic
 ---
 
 
-_Section 6._
+Section 6.
 
 
 
@@ -151,7 +134,11 @@ _Right II_
 
 _Congress shall make no law abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances._
 
+---
 
+We keep this classic the same.
+
+---
 
 _Right III_
 
@@ -184,32 +171,13 @@ Maintains the reasonable right to bear arms and gives congress the right to legi
 ---
 
 
-_Right V_
+_Right V_ - _Rigth IX_
 
-_No Soldier shall, in time of peace be quartered in any house, without the consent of the Owner, nor in time of war, but in a manner to be prescribed by law._
+---
 
+Classic Bill of Rights
 
-_Right VI_
-
-_The right of the people to be secure in their persons, houses, papers, effects, and communication pathways, against unreasonable searches and seizures, shall not be violated, and no Warrants shall issue, but upon probable cause, supported by Oath or affirmation, and particularly describing the place to be searched, and the persons or things to be seized._
-
-
-_Right VII_
-
-
-_No person shall be held to answer for a capital, or otherwise infamous crime, unless on a presentment or indictment of a Grand Jury, except in cases arising in the land or naval forces, or in the Militia, when in actual service in time of War or public danger; nor shall any person be subject for the same offence to be twice put in jeopardy of life or limb; nor shall be compelled in any criminal case to be a witness against himself, nor be deprived of life, liberty, or property, without due process of law; nor shall private property be taken for public use, without just compensation as determined by open auction._
-
-
-
-_Right VIII_
-
-_In all criminal prosecutions, the accused shall enjoy the right to a speedy and public trial, by an impartial jury of the State and district wherein the crime shall have been committed, which district shall have been previously ascertained by law, and to be informed of the nature and cause of the accusation; to be confronted with the witnesses against him; to have compulsory process for obtaining witnesses in his favor, and to have the Assistance of Counsel for his defence._
-
-
-
-_Rigth IX_
-
-_In suits at common law, where the value in controversy shall exceed twenty dollars, the right of trial by jury shall be preserved, and no fact tried by a jury, shall be otherwise re-examined in any Court of the United States, than according to the rules of the common law._
+---
 
 
 
@@ -225,22 +193,14 @@ The only change here is the outlawing of capital punishment.
 
 ---
 
-_Right XI_
+_Right XI_ - _Right XIII_
 
-_The enumeration in the Constitution, of certain rights, shall not be construed to deny or disparage others retained by the people._
-
-
-_Right XII_
+---
 
 
-_The powers not delegated to the United States by the Constitution, nor prohibited by it to the States, are reserved to the States respectively, or to the people and their institutions._
+Amendments.
 
-
-_Right XIII_
-
-
-_Neither slavery nor involuntary servitude, except as a punishment for crime whereof the party shall have been duly convicted, shall exist within the United States, or any place subject to their jurisdiction. Congress shall have power to enforce this article by appropriate legislation._
-
+---
 
 _Right XIV_
 
@@ -275,6 +235,12 @@ _Right XVI_
 
 
 _The right of citizens of the United States, who are eighteen years of age or older, to vote shall not be denied or abridged by the United States or by any State on account of age. The Congress shall have power to enforce this article by appropriate legislation._
+
+---
+
+No change.
+
+---
 
 
 
@@ -334,7 +300,7 @@ _A citizen willing to enter into a trade or provide a service who forfeits all l
 
 ---
 
-The right of individual citizens to enter into commerce without state intervention or over regulation.  In order to take advantage of this right, one must forfeit any form of limited liability.
+The right of individual citizens to enter into commerce without state intervention or over regulation. In order to take advantage of this right, one must forfeit any form of limited liability. This amendment enables a guy who wants to give another citizen a ride across town and charge him $5 for the privilege the right to do so without regulation as long as the driver waives all limited liability.
 
 
 
@@ -467,6 +433,7 @@ _Citizens shall have the rights to form institutions by establishing an electabl
 
 Allows citizens to form pseudo-state entities via electable taxes.  These entities are subject to the below restrictions and governments can take them over by choosing to fund their operation out of the public treasury.  The purpose of these entities is to foster grassroots development of public benefit corporations that can prove out a public good or service and then pass the functioning of proven institutions to government oversight.
 
+My hope is that this ability will refresh our engagement with civic institutions.  Institutions are fundamental to a well established and executing democracy.  In recent years these institutions have been eroded and this has led to our recent political decay.  See work by Francis Fukuyama for more.
 
 ---
 
@@ -516,7 +483,7 @@ _Such institutions not funded by congress shall be subject to the bounds of this
 
 ---
 
-Unfunded institutions are not subject to congress but to the oversight of the president and executive branch and the general laws of the constitution.
+Unfunded institutions are not subject to congress but to the oversight of the president and executive branch and the general laws of the constitution.  The executive oversight is limited to enforcing the restrictions of the constitution and not congressional regulation.
 
 
 ---
@@ -526,7 +493,7 @@ _Such institutions funded by congress shall be subject to the bounds of this con
 
 ---
 
-Once funded by congress these institutions can then be controlled by congress.
+Once funded by congress these institutions can then be regulated by congress.
 
 
 
