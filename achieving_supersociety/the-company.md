@@ -3,7 +3,7 @@
 
 
 
-Who: Companies are legal entities that are organized to pursue a business objective. Companies can pursue any form of business, but generally have a board elected by shareholders that selects executive officers that are responsible for producing profits and returning those profits to share holders. They typically employee labor to produce a form of capital or consumable goods that can be purchased by clients.
+Who: Companies are legal entities that are organized to pursue a business objective. Companies can pursue any form of business, but generally have a board elected by shareholders that selects executive officers that are responsible for producing profits and returning those profits to share holders. They typically employ labor to produce a form of capital or consumable goods that can be purchased by clients.
 
 
 

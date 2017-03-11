@@ -19,4 +19,4 @@ Most loan officers will have alternate forms of income in the short term while t
 
 
 
-This new arrangement will be a hit to the commercial banking industry but a benefit to humanity. We are not sorry for ruining the banks industry.
+This new arrangement will be a hit to the commercial banking industry but a benefit to humanity. I am not sorry for ruining the banking industry.
