@@ -36,5 +36,11 @@ Therefore:
 
 Money must provide a Medium of Exchange **(MEX)**, a Measure of Value **(MOV)**, Divisibility **(DIV)**, Deferred Payment **(DPY)**, Liquidity **(LIQ)**, and be Resistant to Counterfeiting **(RTC)**. Money can be controlled via Demurrage and Controlled Inflation **(DMR)**. It can be used to buy existing or used to generate new Capital **(CAP)**. Money must have a method of being issued **(ISS)**. It can be declared by the State **(STA)** as Legal Tender **(LTN)** and collected as a Tax **(TAX)**. It is used by the Legal Entity **(LGE)** and Citizen **(CTZ)** to meet expenses. Money can be used to buy and/or develop Capital **(CAP)**.
 
-<div style='display:none;' markdown="1">
-\newpage
+----------
+
+----------
+
+
+
+
+
