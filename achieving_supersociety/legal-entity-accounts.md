@@ -4,10 +4,10 @@
 
 
 
-Legal Entity accounts are issued to corporations, partnerships, and other forms of organizations that are not 'citizens'.
+Legal entity accounts are issued to corporations, partnerships, and other forms of organizations that are not 'citizens'.
 
 
-The key differences between a legal entity account and a citizen account are the lack of veto power and the lack of a right to pay to privacy accounts. Legal Entities can receive payments from private accounts, but where there money goes from there must be part of the public ledger.
+The key differences between a legal entity account and a citizen account are the lack of veto power and the lack of a right to pay to privacy accounts. Legal Entities can receive payments from privacy accounts, but where there money goes from there must be part of the public ledger.
 
 Taxation of Legal Entity accounts is the same as citizen accounts. Legal Entity accounts can have additional taxes, but cannot have less.
 
