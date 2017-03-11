@@ -17,8 +17,14 @@ Therefore:
 
 Markets determine the price for things via Supply, Demand and Price **(SDP)**.  When analyzing a market we should use Interdependence and/or nth order decision making **(INT)**. An ideal market should Neutralize Economic Rent **(ECR)**, provide for the negation of opportunity costs **(NOC)**, provide for the instant transfer **(INS)** of goods and services, and be held accountable by the public ledger **(PLG)**.
 
-<div style='display:none;' markdown="1">
-\newpage
+----------
+
+----------
+
+
+
+
+
 
 
 

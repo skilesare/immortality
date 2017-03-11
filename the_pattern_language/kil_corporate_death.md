@@ -35,6 +35,12 @@ Therefore:
 
 Effects of corporate death can be mitigated via the Enrichment of Labor **(LBR)**
 
-<div style='display:none;' markdown="1">
-\newpage
+----------
+
+----------
+
+
+
+
+
 

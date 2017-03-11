@@ -31,5 +31,11 @@ Therefore:
 
 Capital can be broken down into Artificial Capital **(ACP)** and Real Capital **(RCP)**. Ownership of Capital can be secured via Rule of Law **(LAW)** and the Public Ledger **(PLG)**.
 
-<div style='display:none;' markdown="1">
-\newpage
+----------
+
+----------
+
+
+
+
+

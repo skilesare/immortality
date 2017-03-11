@@ -27,5 +27,10 @@ Therefore:
 
 Liquidity of money can be achieved with Instant Transfer **(INS)** and controlled by Controlled Inflation or Demurrage **(DMR)**.
 
-<div style='display:none;' markdown="1">
-\newpage
+----------
+
+----------
+
+
+
+

@@ -30,9 +30,13 @@ Therefore:
 **Remove the commercial banking system and replace it with citizens automatically funding the issuance of loans from a general pool.**
 
 ----------
+----------
 
-<div style='display:none;' markdown="1">
-\newpage
+----------
+
+
+
+
 
 
 

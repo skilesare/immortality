@@ -15,10 +15,14 @@ Therefore:
 
 **Allow a portion of owned prefs to flow to those who provide elder care.**
 
+
 ----------
 
-<div style='display:none;' markdown="1">
-\newpage
+----------
+
+
+
+
 
 
 

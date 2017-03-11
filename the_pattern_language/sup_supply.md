@@ -19,8 +19,14 @@ Therefore:
 
 Track item supply and price paid in the public ledger **(PLG)**.
 
-<div style='display:none;' markdown="1">
-\newpage
+----------
+
+----------
+
+
+
+
+
 
 
 

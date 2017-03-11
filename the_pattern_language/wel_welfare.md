@@ -12,10 +12,14 @@ Therefore:
 
 **Welfare should be paid in cash so that the prefs earned by the poor eventually wean them off of the system.**
 
+
 ----------
 
-<div style='display:none;' markdown="1">
-\newpage
+----------
+
+
+
+
 
 
 

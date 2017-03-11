@@ -32,6 +32,11 @@ Therefore:
 The State is supported by the rule of law **(LAW)**. It funds itself via tax **(TAX)** on citizens. It has the right to Issue **(ISS)** currency and declare it Legal Tender **(LTN)**. The state should be supported and run by The Citizens **(CTZ)** and it must be be forthcoming with them via public Transparency **(TRN)**.  Inside of a state, and across states, Markets **(MKT)** will form.
 
 
-<div style='display:none;' markdown="1">
-\newpage
+----------
+
+----------
+
+
+
+
 

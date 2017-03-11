@@ -21,11 +21,16 @@ Therefore:
 
 **In addition to paying teachers well, the state should give prefs in the citizens they teach to teachers as a dividend for teaching.**
 
+
+
+----------
+
 ----------
 
 
-<div style='display:none;' markdown="1">
-\newpage
+
+
+
 
 
 

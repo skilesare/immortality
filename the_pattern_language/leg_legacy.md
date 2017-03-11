@@ -18,7 +18,11 @@ Therefore:
 
 **Establish a progressive inheritance tax.**
 
+
 ----------
 
-<div style='display:none;' markdown="1">
-\newpage
+----------
+
+
+
+

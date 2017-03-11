@@ -15,5 +15,11 @@ Therefore:
 
 The principal of First Pref Payment is made possible with the public ledger **(PLG)**.
 
-<div style='display:none;' markdown="1">
-\newpage
+----------
+
+----------
+
+
+
+
+
