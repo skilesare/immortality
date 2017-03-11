@@ -9,11 +9,11 @@
 
 While admitting that there are valid and positive reasons for some limited liability, it is our opinion that this has lead to a significant lack of 'skin in the game.'  In 2014 one may need limited liability to send a private mission to mars, but one probably does not need it to produce fast food hamburgers.
 
-Limited Liability Corporations and other limited liability entities have a positive effect on society when they allow citizens to undertake more risk that the member would be willing to take on themselves.  This has led to massive amounts of good in our world.  Recently we have seen a trend of bad actors taking risks inside of LLCs, reaping huge profits and bonuses, and then walking away without a scratch.
+Limited Liability Corporations and other limited liability entities have a positive effect on society when they allow citizens to undertake more risk that the member would be willing to take on themselves.  This has led to massive amounts of good in our world.  Recently we have seen a trend of bad actors taking undue risks inside of LLCs, reaping huge profits and bonuses, and then walking away without a scratch when the house of cards comes tumbling down.
 
 Is there a way that we can reduce the risk an entrepreneur takes but also require him to bear the long term risk of their decisions?
 
-We believe that pref will help do this and that limited liability can be balanced with responsible decision making about the future.
+We believe that prefs will help do this and that limited liability can be balanced with responsible decision making about the future.
 
 How will this work?  Let's say an investor puts money into a company to start it.  He is one of a few investors and as his money goes into the account he receives some of the initial prefs as well as a portion of the common stock.
 

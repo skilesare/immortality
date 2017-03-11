@@ -8,7 +8,7 @@
 
 Money usually is divisible into a subunits.  Dollars into cents, etc.  This helps solve the problem of fractions.
 
-Modern currencies usually provide a large number of small fractions.  This helps with divisibility and allow users to record transactions for very small amounts of cash that hold significant meeting.
+Modern currencies usually provide a large number of small fractions.  This helps with divisibility and allow users to record transactions for very small amounts of cash that hold significant meaning.
 
 Therefore:
 

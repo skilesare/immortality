@@ -11,7 +11,7 @@ Real capital degrades and requires continued investment. What about capital that
 
 Another way of saying this is that artificial capital is a 'contract' that has the potential to claim the right to the payment of cash or another asset.
 
-Artificial capital does not need to be maintained.  It can be an immortal instrument.  As we have discussed with money, this is not an attractive quality for a thing to have.
+Artificial capital does not need to be maintained.  It can be an "immortal" instrument.  As we have discussed with money, this is not an attractive quality for a thing to have without upkeep.
 
 Artificial capital should be limited in life as well.  We will discuss multiple methods on how this can be accomplished in later articles.  To summarize here they are:
 

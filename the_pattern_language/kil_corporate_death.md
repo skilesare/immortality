@@ -15,13 +15,13 @@ Once a high number of prefs have been accumulated for a Legal Entity company, th
 
 In this way, there will reach a point where it is wise for a corporation to sell its assets and distribute the cash to shareholders because attracting new business will be too hard.  What about the prefs owned by the corporation?  If the company ceases to exist, what happens to the pref payments made to the old entity?  We have two options:
 
-1. Allow the account to continue to exist and prefs just pass through to pref owners.  Accounts such as this can be labeled as 'passthrough' accounts and not be taxed.
+1. Allow the account to continue to exist and prefs payments just pass through to pref owners.  Accounts such as this can be labeled as 'passthrough' accounts and not be taxed.
 
 2. Distribute the owned prefs proportionally to the pref owners.  This will result in heavy fracturing of prefs.
 
 The first is probably the easiest to implement and straightforward for accounting.
 
-What about the business owners that put up the initial capital.  Doesn't this punish them and take value away from those taking the risk. It is our opinion that this should be the payment that is given for the privilege of limited liability and limited risk that they enjoy from the system.  The buyers of their goods have also taken on a portion of risk in entrusting their cash to the company.
+What about the business owners that put up the initial capital.  Doesn't this punish them and take value away from those taking the risk. It is my opinion that this should be one of the payment that is given for the privilege of limited liability and limited risk that they enjoy from the system.  The buyers of their goods have also taken on a portion of risk in entrusting their cash to the company.
 
 We believe that it is likely that many schemes will be figured out for the orderly transfer of assets from an old corporate structure to a new structure.  We do not recommend annihilation, only the orderly transfer of power from old to young that we see in nature that allows for the general evolution of stronger and better fit to the environment.
 

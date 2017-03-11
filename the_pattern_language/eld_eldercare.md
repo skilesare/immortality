@@ -11,6 +11,8 @@ If this person is a family member this portion should be in addition to the lega
 
 The amount of prefs that can be conveyed should be tied to the length of life so that there is never any advantage conveyed by death.
 
+I hope that this pattern becomes extinct as we move toward longer lives.
+
 Therefore:
 
 **Allow a portion of owned prefs to flow to those who provide elder care.**

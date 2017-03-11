@@ -15,7 +15,7 @@ If one buried a bushel of wheat, would you expect it to be worth the same in 10 
 
 Even gold decays on an atomic scale. And gold is worthless for all but petty or highly scientific things.
 
-All things wither and die.  And so we believe that our money must do so as well.  Now the good news is that things full of life also grow and reproduce.  Do not despair that our money will die.  It will also thrive.
+All things wither and die without upkeep.  And so we believe that our money must do so as well.  Now the good news is that things full of life also grow and reproduce.  Do not despair that our money will die.  It will also thrive.
 
 We propose to control inflation/deflation with Demurrage.  Proposed by Silvio Gesell in the 19th century, Demurrage is a process by which a unit of currency 'decays.'  The rate at which it decays can be manipulated as to encourage the liquidity and flow of money through the economic piston.  If inflation is too high, the demurrage value can be lowered and people will be more encouraged to carry cash balances.  If deflation threatens, the demurrage rate can be increased to dissuade people from holding cash.  They will look to use it to buy capital and things that maintain value.  This will also lead to less waste.
 
