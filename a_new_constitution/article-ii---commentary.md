@@ -5,9 +5,7 @@ This section discusses the roles and responsibilities of the executive branch of
 
 
 
-_Article. II._
-
-_Section. 1._
+Section 1.
 
 _The executive Power shall be vested in a President of the Government. They shall hold their Office during the Term of four Years, and, together with the Vice President, chosen for the same Term, be elected, as a ticket by ranked choice voting of all accounted citizens who have elected the Government._
 
@@ -40,8 +38,6 @@ We institute a national holiday for voting for the president and mandate a two w
 
 
 ---
-
-_No Person except a natural born Citizen, or a Citizen of the elected geographies, at the time of the Adoption of this Constitution, shall be eligible to the Office of President; neither shall any Person be eligible to that Office who shall not have attained to the Age of thirty five Years, and been fourteen Years a Resident within the elected territories._
 
 
 
@@ -87,7 +83,7 @@ No change except the pronoun because it is about damn time.
 
 ---
 
-_Section. 2._
+Section 2.
 
 
 
@@ -102,26 +98,10 @@ No change except to add outer space.
 ---
 
 
-_He shall have Power, by and with the Advice and Consent of the Senate, to make Treaties, provided two thirds of the Senators present concur; and he shall nominate, and by and with the Advice and Consent of the Senate, shall appoint Ambassadors, other public Ministers and Consuls, Judges of the supreme Court, and all other Officers of the United States, whose Appointments are not herein otherwise provided for, and which shall be established by Law: but the Congress may by Law vest the Appointment of such inferior Officers, as they think proper, in the President alone, in the Courts of Law, or in the Heads of Departments._
-
-
-_The President shall have Power to fill up all Vacancies that may happen during the Recess of the Senate, by granting Commissions which shall expire at the End of their next Session._
-
-
-_Section. 3._
 
 
 
-_He shall from time to time give to the Congress Information of the State of the Union, and recommend to their Consideration such Measures as he shall judge necessary and expedient; he may, on extraordinary Occasions, convene both Houses, or either of them, and in Case of Disagreement between them, with Respect to the Time of Adjournment, he may adjourn them to such Time as he shall think proper; he shall receive Ambassadors and other public Ministers; he shall take Care that the Laws be faithfully executed, and shall Commission all the Officers of the United States._
-
-
-
-_Section. 4._
-
-
-
-_The President, Vice President and all civil Officers of the United States, shall be removed from Office on Impeachment for, and Conviction of, Treason, Bribery, or other high Crimes and Misdemeanors._
-
+Section 3. and Section. 4.
 
 ---
 
