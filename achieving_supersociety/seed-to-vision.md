@@ -17,16 +17,16 @@ Eventually, with enough art in the system and stable expenditure patterns we can
 
 Once this process starts we can begin to put more pressure on merchants to open an Art account.
 
-This is the key driver of Art. If the market reacts in the way we expect it to, Art will be what everyone will want to spend. Spending a dollar will get you nothing but the good purchased. Spending an Art will get you capital and the good. People may not want to hold Art for long periods of time, but when they go to transfer it to other currencies they will find a limited market for art as everyone rushes to hold Art and the capital that comes with it.
+This is the key driver of Art. If the market reacts in the way we expect it to, Art will be what everyone will want to spend. Spending a dollar will get you nothing but the good purchased. Spending an Art will get you capital and the good. People may not want to hold Art for long periods of time, but when they go to transfer it to other currencies they will find a limited market for Art as everyone rushes to hold Art and the capital that comes with it.
 
-Once the technology infrastructure is in place to accept Art as a separate entity to dollars we can break the 1:1 dollar to Art ratio and let the market take over. This poses a significant risk to the organization we have started as the dollars we hold may soon begin to degrade in value.
+Once the technology infrastructure is in place to accept Art as a separate entity to dollars we can break the 1:1 Dollar to Art ratio and let the market take over. This poses a significant risk to the organization we have started as the dollars we hold may soon begin to degrade in value.
 
 
 
 At this point we begin to look toward nationalization. We expect the allure of easy taxation to be too much for the state to resist. With the population clamoring to exchange their dollars for Art we expect the quick nationalization of the system. We will transfer the issuing account to the government.
 
 
-Government payments will begin to go out in the form of Art instead of dollars. Once this occurs the democratic phase of our system will kick in. Once people are paying taxes to the issuing account they will have the power to lock the account. The government will need to issue citizen accounts to all citizens.
+Government payments will begin to go out in the form of Art instead of Dollars. Once this occurs the democratic phase of our system will kick in. Once people are paying taxes to the issuing account they will have the power to lock the account. The government will need to issue citizen accounts to all citizens.
 
 At this point we will see if this whole thing works or not. I don't always hack the economy, but when I do, I do it in America.
 
