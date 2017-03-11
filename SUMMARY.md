@@ -156,4 +156,5 @@
       * [Article VII - Commentary](a_new_constitution/article-vii---commentary.md)
       * [Article VIII - Commentary](a_new_constitution/article-viii---commentary.md)
 * [Conclusion](conclusion.md)
+* [Change Log](change-log.md)
 
