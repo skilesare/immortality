@@ -1,7 +1,7 @@
 
 # Achieving Supersociety
 
-Society has the possibility of bootstrapping into an infinite number of supersocieties.  Which bootstrap will actually latch is very hard to predict, but we will not let this difficulty hinder our efforts.  Our goal must be to maintain our intellectual authority while acting with responsibility toward a large and permissive set of cultures.  Using the understanding of time that our intellect gives us we will try to thread a needle through a small window of probability that will lead to a safe and productive super society that establishes a justification to any oncoming superintelligence that our supersocity is not only worth keeping around, but worth extending to the edges of the universe.
+Society has the possibility of bootstrapping into an infinite number of supersocieties.  Which bootstrap will actually latch is very hard to predict, but we will not let this difficulty hinder our efforts.  Our goal must be to maintain our intellectual authority while acting with responsibility toward a large and permissive set of cultures.  Using the understanding of time that our intellect gives us we will try to thread a needle through a small window of probability that will lead to a safe and productive supersociety that establishes a justification to any oncoming superintelligence that our supersocity is not only worth keeping around, but worth extending to the edges of the universe.
 
 I am proposing two advancements to increase our probability of accomplishing these goals.
 
