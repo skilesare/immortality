@@ -440,12 +440,6 @@ We are throwing outer space into the mix, because the future.
 
 ---
 
-_To borrow Money on the credit of the government;_
-
-_To regulate Commerce with foreign Nations, and among the several States;_
-
-_To establish an uniform Rule of Naturalization, and uniform Laws on the subject of Bankruptcies throughout the elected territories;_
-
 _To coin Money via a blockchain, regulate the Value thereof, and of foreign Coin, and fix the Standard of Weights and Measures;_
 
 _To provide for the Punishment of counterfeiting and hacking the Securities and Coin of the Government;_
@@ -491,7 +485,7 @@ There is a bunch here.  The intent is to update and modernize our copyright and 
 
 First we establish that patents and copyright cannot be extended once granted.  If the original term is 7 years, congress can't extend it in year 6 for another 7 years.
 
-We then speak to what kind of patents there can be.  We propose two kinds. Exclusive patents are the kind of patents we have today where the owner can restrict the use of the technology during the patent period.  The second is an open patent that give the owner the right to the economic benefit of the patents but allows the open use of the patent by citizens and non-limited liability entities.  Limited liability entities can gain access by providing a set of common stock equal to the cost of the patent.  This requires that open patents provide the cost of development when filed and if the cost is not-realistic the patent office should reject the patent.  This still provides large corporations from competition undercutting them by using the patent.  Small corporations will sometimes not be worth the cost of the patent in their entirety.  This is by design as we do want some protection for patents.
+We then speak to what kind of patents there can be.  We propose two kinds. Exclusive patents are the kind of patents we have today where the owner can restrict the use of the technology during the patent period.  The second is an open patent that give the owner the right to the economic benefit of the patents but allows the open use of the patent by citizens and non-limited liability entities.  Limited liability entities can gain access by providing a set of common stock equal to the cost of the patent.  This requires that open patents provide the cost of development when filed and if the cost is not-realistic, the patent office should reject the patent.  This still provides some protection to large corporations from the competition undercutting them by using the patent.  Small corporations will sometimes not be worth the cost of the patent in their entirety and will be unable to use the patent.  This is by design as we do want some protection for patents.
 
 We also specifically outline that medical patents are to be open patents if it can be demonstrated that keeping the patent exclusive will be to the detriment of well-being.
 
@@ -501,7 +495,9 @@ We limit copyright to 50 years as congress has increased it far to long in its c
 
 We disallow congress from changing any of the stated rules by any means but amending the constitution.
 
-One major change is that we don't allow for the transfer of a patent or a copyright.  One can assign the rights temporarily but cannot sign away the rights permanently.  Copyrights that are still in the 50 year period can pass from citizens to their heirs.  Let's take a quick look at how this would work for Disney making a movie.  Disney would file a copyright in the names of either: the originator of the work(hard to pinpoint for such a large project) or a class of citizens that worked on the film.  They would likely use the second.  All employees working for the corporation that produced the film would be in this class and can make decisions about the copyright rights by voting.  They can assign the rights to the copyright, including the ability to charge royalties and give distribution rights, to the corporation temporarily, but not permanently.  If the class votes to withdraw the rights from the corporation, they can do so.  The goal of this is to push the benefit down to the citizens actually producing the work.  Disney cannot just fire all the animators after the film is produced because they will vote to reclaim their rights to the film.  If they want to release the animators they are going to have to negotiate with the class to pass some of the royalties down to be distributed to the class that was formed when the copyright was filed.
+One major change is that we don't allow for the transfer of a patent or a copyright.  One can assign the rights temporarily but cannot sign away the rights permanently.  Copyrights that are still in the 50 year period can only pass from citizens to their heirs.  
+
+Let's take a quick look at how this would work for Disney making a movie.  Disney would file a copyright in the names of either: the originator of the work(hard to pinpoint for such a large project) or a class of citizens that worked on the film.  They would likely use the second.  All employees working for the corporation that produced the film would be in this class and can make decisions about the copyright rights by voting.  They can assign the rights to the copyright, including the ability to charge royalties and give distribution rights, to the corporation temporarily, but not permanently.  If the class votes to withdraw the rights from the corporation, they can do so.  The goal of this is to push the benefit down to the citizens actually producing the work.  Disney cannot just fire all the animators after the film is produced because the class will vote to reclaim their rights to the film.  If they want to release the animators they are going to have to negotiate with the class to pass some of the royalties down to be distributed to the class that was formed when the copyright was filed.
 
 Finally we outlaw patent shops that just try to file patents to make money.
 
@@ -509,19 +505,6 @@ Finally we outlaw patent shops that just try to file patents to make money.
 ---
 
 
-_To constitute Tribunals inferior to the supreme Court;_
-
-_To define and punish Piracies and Felonies committed on the high Seas and in outer space, and Offences against the Law of Nations;_
-
-_To declare War, grant Letters of Marque and Reprisal, and make Rules concerning Captures on Land, Water, and outer space;_
-
-_To raise and support Armies, but no Appropriation of Money to that Use shall be for a longer Term than two Years;_
-
-_To provide and maintain a Navy, but no Appropriation of Money to that Use shall be for a longer Term than two Years;_
-
-_To provide and maintain an Air and Space Force, but no Appropriation of Money to that Use shall be for a longer Term than two Years;_
-
-_To provide and maintain a Civilian Space Program that explores reachable space._
 
 _To make Rules for the Government and Regulation of the land, naval, air, and space Forces;_
 
@@ -532,10 +515,6 @@ The only major change here that we include outer space in the mix and establish 
 
 
 ---
-
-_To provide for calling forth the Militia to execute the Laws of the Union, suppress Insurrections and repel Invasions;_
-
-_To provide for organizing, arming, and disciplining, the Militia, and for governing such Part of them as may be employed in the Service of the Government, reserving to the States respectively, the Appointment of the Officers, and the Authority of training the Militia according to the discipline prescribed by Congress;_
 
 
 
@@ -579,34 +558,7 @@ Tasks congress with the obligation to maintain fair elections and to legislate c
 
 ---
 
-_And Finally,_
 
-_To make all Laws which shall be necessary and proper for carrying into Execution the foregoing Powers, and all other Powers vested by this Constitution in the Government, or in any Department or Officer thereof._
-
-
-_Section. 9._
-
-_The Migration of such Persons as any of the States shall think proper to admit, shall not be prohibited or taxed by the Congress._
-
-
-
-_The Privilege of the Writ of Habeas Corpus shall not be suspended, unless when in Cases of Rebellion or Invasion the public Safety may require it._
-
-
-
-_No Bill of Attainder or ex post facto Law shall be passed._
-
-
-
-_No Tax or Duty shall be laid on Articles exported from any State._
-
-
-
-_No Preference shall be given by any Regulation of Commerce or Revenue to the Ports of one State over those of another: nor shall Vessels bound to, or from, one State, be obliged to enter, clear, or pay Duties in another._
-
-
-
-_No Money shall be drawn from the Treasury, but in Consequence of Appropriations made by Law; and a regular Statement and Account of the Receipts and Expenditures of all public Money shall be published from time to time._
 
 
 _Any information collected by the government with the use of money from the Treasury shall be collected in a way that it may be easily made available to any requesting accounted citizen in as small a time frame as technology shall reasonably allow._
@@ -640,7 +592,7 @@ This establishes the catallaxian system of electable taxes as well as allowing f
 
 ---
 
-_Section. 10._
+Section 10.
 
 
 
@@ -653,7 +605,7 @@ No Change
 ---
 
 
-_Section 11._
+Section 11.
 
 _Representative, Senator, or Executive shall only raise cash for the purposes of running a campaign except by the requesting the election of tax on demurrage by accounted citizens that shall be capped on a per citizen basis such that the integrity of the officials are maintained and no one set of citizens may hold more sway over said officials, except that congress may allow for the matching of elected funds with public funds from the treasury in uniform proportion and without regard to political party or agenda._
 
