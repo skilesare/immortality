@@ -34,7 +34,7 @@ contract Issuer{
 
 
   function setExecutive(address newExecutive) return (bool result){
-    //both houses needs to have certified the vote 
+    //both houses needs to have certified the vote
     //to install an new executive
     House verifyHouse = House(houseAdress);
     bool bHouse = verifyHouse.validateExecutive(newExecutive);
@@ -98,7 +98,7 @@ contract Issuer{
 
 ```
 
-The actual technical implementation is not as important as the spirit of increasing public transparency.  Using a verifiable  and historically accurate public ledger will help a supersociety prove its execution to any future super intelligence.
+The actual technical implementation is not as important as the spirit of increasing public transparency.  Using a verifiable  and historically accurate public ledger will help a supersociety prove its execution to any future superintelligence.
 
 <div style='display:none;' markdown="1">
 \newpage
