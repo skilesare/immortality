@@ -19,4 +19,11 @@ Therefore:
 Deferred Payment  is supported by  Rule of Law **(LAW)** and enforced by Legal Tender **(LTN)**. It can be made even stronger when inflation and deflation are controlled by Demurrage **(DMR)**
 
 
+----------
+
+----------
+
+
+
+
 

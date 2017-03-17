@@ -7,7 +7,7 @@ Who: The warmonger seeks profit from war and the destruction of physical and hum
 
 
 
-How will our system affect the warmonger? The production of ammunition, machines of war, and war supplies produce nothing of value. They are wasted capital. Would you rather put your money into something that was then in the business of producing productive capital or into something that was going to pile your money into a pile, light it on fire, and shoot it at an enemy?
+How will our system affect the warmonger? The production of ammunition, machines of war, and war supplies produce nothing of value. They are wasted capital. Would you rather put your money into something that was then in the business of producing productive capital or into something that was going to put your money into a pile, light it on fire, and shoot it at an enemy?
 
 
 

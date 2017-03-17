@@ -18,5 +18,11 @@ Therefore:
 
 **Establish a progressive inheritance tax.**
 
+
 ----------
+
+----------
+
+
+
 

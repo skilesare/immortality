@@ -45,7 +45,8 @@ contract Issuer{
         //set the new executive
         executiveAddress = newExecutive;
 
-        //record the chain in blockchain storage so history will be known.
+        //record the chain in blockchain storage 
+        //so history will be known.
         ExecutiveHistorynewHistory = new ExecutiveHistory(
             {
               block: block.number,
@@ -98,7 +99,7 @@ contract Issuer{
 
 ```
 
-The actual technical implementation is not as important as the spirit of increasing public transparency.  Using a verifiable  and historically accurate public ledger will help a supersociety prove its execution to any future super intelligence.
+The actual technical implementation is not as important as the spirit of increasing public transparency.  Using a verifiable  and historically accurate public ledger will help a supersociety prove its execution to any future superintelligence.
 
 
 

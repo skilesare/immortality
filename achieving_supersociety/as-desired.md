@@ -29,9 +29,9 @@ It is probably worth mentioning why we have not chosen something different as ou
 
 * The Government: We could certainly have the government at the center. In a sense The Fed does this today. It is there 'job' to maintain liquid markets so that things don't go insane among the populace. Things like the great depression make governing difficult. Ultimately though, even liberals don't want government to be the centerpiece. Liberals may want a strong government but it is usually to the end that it help the citizens. The example of Soviet Communism also wards us away from trying to put too much stock in the government as the ultimate center.
 
-* The Market: The economist will point to the market and say that it is the most pure incarnation and that the market will take care of itself. The market! The market! But ultimately we have to make a choice. The market is evolution businessified. It is cold, calculating and has no mercy. Is that the choice we want to make? It may be true that to date it has given the most benefit to the most people and generally pulled the least fortunate along for the ride, but I am going to reject the assumption that we can't do better. Ultimately, I think mercy and grace and redemption are worthwhile ideas. The market has no use of these.
+* The Market: The economist will point to the market and say that it is the most pure incarnation and that the market will take care of itself. The market! The market! But ultimately we have to make a choice. The market is evolution businessified. It is cold, calculating and has no mercy. Is that the choice we want to make? It may be true that to date it has given the most benefit to the most people and generally pulled the least fortunate along for the ride, but I am going to reject the assumption that we can't do better. Ultimately, I think mercy and grace and redemption are worthwhile ideas. The market has no use of these. I find that the raw market lacking in moral responsibility. Those that always seek a market based solution are also found lacking.
 
-* The Company: The legal entity has been an amazing tool of capitalism. A tool where people are able to unite behind a purpose and pool resources toward that goal is an amazing thing. My problem with the company, at least in the modern C - corporation incarnation is that the those that run the company are always held to make choices with the best interest of stockholder value in mind. Even if those choices would destroy or disrupt other essential centers in the economy(ie. the market, the government, the well being of the people, the natural resources), the board and the executives cannot legally make the center preserving choice. They must make the choice that maximizes the shareholder's value.
+* The Company: The legal entity has been an amazing tool of capitalism. A tool where people are able to unite behind a purpose and pool resources toward that goal is an amazing thing. My problem with the company, at least in the modern C - corporation incarnation is that the those that run the company are always held to make choices with the best interest of stockholder value in mind. Even if those choices would destroy or disrupt other essential centers in the economy(ie. the market, the government, the well being of the people, the natural resources), the board and the executives cannot legally make the center preserving choice. They must make the choice that maximizes the shareholder's value. They are barred from showing moral responsibility to the things that their coporation oversees unless they can make a bottom line justification.
 
 
 
@@ -39,7 +39,7 @@ We choose the citizen because without lifting up the citizen, these other instit
 
 I believe that if our system seeks to always put the citizen at the center then we will have created a successful economic system and monetary policy.
 
-### A new form of Money - Art
+### A New Form of Money - Art
 
 Around the center of the citizen we will add a new form of money. I propose to call this new coin 'Art' that has a stable value and conforms to my ideas of democratic hypercatallaxy.
 
@@ -113,11 +113,11 @@ Demurrage is controlled inflation. It causes money to degrade in a straight line
 
 As a natural result, as an account does more and more business, it will distribute more and more prefs. When cash in the account is demurraged, it will be distributed more and more broadly as time goes on. As a natural result, new accounts will eventually be reluctant to do business with older accounts as they will gain less of a share than by purchasing from newer accounts. This is part of the life cycle of an account. On the plus side, accounts that have been doing business with the account for years will continue to do so. I see this pattern in human relationships and we think that extending it to the way we execute commerce will generate a more progressive form of commerce where companies are able to evolve ways of doing business much more rapidly.
 
-### A replacement for Commercial Banking
+### A Replacement for Commercial Banking
 
-The issuing state will also regulate the loan pool. The loan pool works can work in a number of different ways and I'm not sure which should emerge as the dominant model.
+The issuing state will also regulate the loan pool. The loan pool can work in a number of different ways and I'm not sure which should emerge as the dominant model.
 
-The first way works in much the same way that the existing fractional reserve banking system works. The key difference is that citizens will reap the benefit of the loans instead of the banks.
+The first way works in much the same way that the existing fractional reserve banking system does. The key difference is that citizens will reap the benefit of the loans instead of the banks.
 
 All accounts will have a portion of their balance that is 'protected' from demurrage. This amount will be aggregated and put up for loan by the central authority. It will be multiplied by a reserve requirement factor that will allow us to issue an amount higher than in the pool. This rate, along with the demurrage rate can be used to ensure that we keep enough money in the system to purchase all that is produced and yet still have a means to extract money from the system in times of crisis.
 
@@ -127,7 +127,7 @@ A second method could be for the government to just issue the loan pools to the 
 
 A third method could be to just let loan pools emerge naturally. If the infrastructure provides for the tracking of loans it is likely that a market place will emerge for collecting 'deposits' and issuing them out as 'loans' as banks do today. In this case the prefs would flow in the same way as our first proposal, but citizens will need to be more proactive to move their cash into these deposit type accounts.
 
-### A new kind of banker
+### A New Kind of banker
 
 Loan officers will bid for the rights to distribute the loans to the public. These bids will be distributed to the accounts that put up the cash to be lent out. In this way those that are holding money can defray some of the demurrage value.
 
@@ -156,11 +156,11 @@ Corporate Bankruptcy will be very different. Bankrupt companies or companies tha
 
 A percentage of prefs will expire when a citizen or entity ceases to exist. This will refresh the pool of prefs for younger generations. Some prefs may be inherited, but this should be tightly restricted.
 
-### Inflation controls
+### Inflation Controls
 
 A CPI authority will be in charge of regulating inflation by recommending adjustments to the Demurrage, Retaining, Issuance, and Pass Through Rates. This authority will actually go out and buy a basket of goods in a broad set of geographic locations. This will determine the inflation rate. This number will strive to be as close to 0 as possible.
 
-### What regulations?
+### What Regulations?
 
 Outside of these bounds, commerce and markets will operate much as they do now free of over-regulation.
 

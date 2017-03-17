@@ -1,7 +1,7 @@
 
 ## The Pattern Language
 
-We begin with that part of the language which defines a thriving global economic system of exchange. These patterns can never be designed or built in one fell swoop--but patient piecemeal growth, designed in such a way that every individual act is always helping to create or generate these larger global patterns, will slowly, and surely , over the years, make a global economic system of exchange that has these global patterns in it.
+We begin with that part of the language which defines a thriving global economic system of exchange. These patterns can never be designed or built in one fell swoop--but patient piecemeal growth, designed in such a way that every individual act is always helping to create or generate these larger global patterns, will slowly and surely, over the years, make a global economic system of exchange that has these global patterns in it.
 
 These Patterns exist at various levels of scale and can be generally grouped at the Global Scale, the scale of the State, the scale of the Market, the scale of non-personal legal entities, the scale of the citizen, and the technology scale.
 
@@ -134,4 +134,9 @@ The pattern language is not complete.  A true pattern language has evidence that
 In addition, each pattern should be rated according to how well it demonstrates the process of wholeness creating processes.  These can be found in the sections on Christopher Alexander and The Nature of Order.
 
 Finally, we should be able to develop specific generative and regenerative processes for each pattern.
+
+<div style='display:none;' markdown="1">
+\newpage
+
+
 

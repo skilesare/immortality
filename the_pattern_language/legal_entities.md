@@ -19,7 +19,7 @@ This trend started when investors wanted to take large amounts of risk, like sen
 
 We will speak to the efficacy of this choice in the chapter on Limited Risk.
 
-The original charters were for limited lengths of time.  They ended and either had to be renewed or expire.  We no longer have this restriction and as we have spoken of in other chapters, 'immortality' is not a natural feature. It leads to concentrated power and abuse of that power.  We must do what we can to neutralize the power of this artificial construction.
+The original charters were for limited lengths of time.  They ended and either had to be renewed or expire.  We no longer have this restriction and as we have spoken of in other chapters, 'immortality' without maintenance is not a natural feature. It leads to concentrated power and abuse of that power.  We must do what we can to neutralize the power of this artificial construction.
 
 For now we will grant that our system of money should allow for legal entities. Our system will allow anyone, to create a legal entity account in the system for any reason.  The underlying rules of who owns the account will be handled by rule of law.
 
@@ -36,6 +36,13 @@ Therefore:
 ----------
 
 Legal Entities can be held accountable by citizens **(CTZ)**. They should be marked for death at some time in the future **(KIL)**. They should move from concepts of limited liability to limited risk **(LMR)**.  They should be encouraged to enrich labor **(LBR)**.  Legal entities should be barred from Privacy and Private Dispersal **(PRI)**.
+
+----------
+
+----------
+
+
+
 
 
 

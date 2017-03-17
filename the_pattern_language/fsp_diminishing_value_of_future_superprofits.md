@@ -1,5 +1,5 @@
 
-### DER. Diminishing value of future economic rent
+### DER. Diminishing Value of Future Economic Rent
 
 ... What effect will the predistribution of economic rent **(PRF)** have on the market?
 
@@ -15,6 +15,8 @@ I expect many will 'date' the account, find a nice spot to settle down and then 
 
 I guess in a sense I'm speaking about the love of corporations.  This is a very odd thing for me to say as I generally feel the opposite way.  But this is a new kind of corporation. One that must ramp up its contribution to the relationship with customers as the pref count goes up.
 
+Of course, our goal is to live much, much longer lives.  This will incentivize corporations to redouble their efforts to stay relevant by increasing their attractiveness as they get older.  This done by growing exponentially.
+
 Of course the opposite will be true as well.  What happens when the corporation has a significant(maybe close to 100%) stake in the account of a 30 year old worker that has been with the company for 10 years?  Is it more profitable for the company to keep the worker in their job or to do everything they can to help that worker capture economic rents outside of the corporation?
 
 I believe we will see a new dedication of the corporation to the labor where the corporation receives a significant rebate on the wages they pay labors by helping educate the laborer and push them to more profitable enterprises.
@@ -26,4 +28,12 @@ Therefore:
 ----------
 
 Diminishing value of future economic rents will lead to Corporate Death **(KIL)** and to the Enrichment of Labor **(LBR)**.
+
+----------
+
+----------
+
+
+
+
 

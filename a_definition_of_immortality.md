@@ -1,12 +1,12 @@
 
 #Definitions
 
-## A definition of 'immortality'
+## A Definition of 'Immortality'
 
 When I speak of immortality I am speaking of a state of the universe in which an intelligence has a reasonable expectation that it will continue to exist and operate, without defect or deterioration, beyond a point in the future where technology can be expected to exist that can alleviate and heal any micro-defects.
 
 
-### On Why death is bad
+### On Why Death is Bad
 
 Death is the end of a mind.  Under our current knowledge, a mind is one of the most precious resources that we have.  There are a number of metaphysical postulations and religious opinions that expect a mind to continue after death, but there is no physical evidence that this is so.
 
@@ -20,23 +20,23 @@ The immortality that I am addressing in this book is not a magical or spiritual 
 
 Many minds may still die.  This is due to accident and physical forces outside the control of the minds.  A large galactic event may annihilate the entire area that minds inhabit and end this grand experiment prematurely. Or if we are really unlucky, a plague on earth may end it in the next couple of decades.
 
-### On the location of Minds
+### On the Location of Minds
 
-Where is the mind?  Currently it is this mass of neurons in our heads.  There may exist in the future a way to augment this mind or even transfer this mind to a much more robust medium.  In fact, extremely long life may require this transfer take place many times over the course of the future.
+Where is the mind?  Currently it is this mass of neurons in our heads.  There may exist in the future a way to augment this mind or even transfer this mind to a much more robust medium.  In fact, extremely long life may require this transfer take place many times over the course of a life.
 
 ### On Atoms
 
-The possibility of this transfer is due to the fact that, at their core, atoms of particular elements are fungible.  That is, one carbon atom is completely indistinguishable from another.  Further the molecules that these atoms form, when positioned in 3D space in a similar manner, act the same.  On a much more complex level, if I were able to take make a 3D scan of your brain at the atomic level and reassemble it with a 3D printer, it would be the same mind.  It would have your memories.  The axons in brain 1 that had been strengthened would be strengthened in brain 2.
+The possibility of this transfer is due to the fact that atoms of particular elements are fungible.  One carbon atom is completely indistinguishable from another.  The molecules that these atoms form, when positioned in 3D space in a similar manner, act the same.  On a much more complex level, if I were able to take make a 3D scan of your brain at the atomic level and reassemble it with a 3D printer, it would be the same mind.  It would have your memories.  The axons in brain 1 that had been strengthened would be strengthened in brain 2.
 
 To go to a further technological step, if I'm able to create a nano-device that simulates a neuron with fidelity and I'm able to arrange these simulated neurons in the same connections as your in your mind, this new mind would be the same mind.
 
-Now having two minds that think they are one mind cause a another set of issues, but let's not get ahead of ourselves.
+Now having two minds that think they are one mind cause another set of issues, but let's not get ahead of ourselves.
 
 ### On Immediate Hurdles
 
 There are two immediate hurdles for humanity to get over to reach immortality and neither is unimaginable.
 
-The first is that we need to put a cap on the genetic code that causes our cells to age.  Many scientists expect this process to be mostly figured out soon.  We have already discovered that telomere strings get shorter as cells divide and when they get short enough, cells stop regenerating.  By manipulating this string of genetic bits we may be able to drastically extend expected life spans.  A doubling of life spans at this point may be enough to get us to the life expectancy slope of 1 that we need to reach.
+The first is that we need to put a cap on the genetic code that causes our cells to age.  Many scientists expect this process to be mostly figured out soon.  We have already discovered that telomere strings get shorter as cells divide and cells stop regenerating when the strings get short enough.  By manipulating this string of genetic bits we may be able to drastically extend expected life spans.  A doubling of life spans at this point may be enough to get us to the life expectancy slope of 1 that we need to reach.
 
 The second is that we need to diversify the space that we inhabit in the galaxy.  First to Mars, and then beyond.
 
@@ -44,7 +44,7 @@ The second is that we need to diversify the space that we inhabit in the galaxy.
 
 Once these initial hurdles are achieved we will need to work on bigger problems like overcoming accidents.  Perhaps by 'backing up' our minds. Then on to active back ups.  Etc.
 
-### On the distant unseen
+### On the Distant Unseen
 
 The further out we get on our technological development map, the harder it is to speculate about what may be possible. There are even strange things to contemplate when our technology gets advanced enough.  For example: 
 

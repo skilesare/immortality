@@ -19,7 +19,7 @@ Loan officers bid cash to get the right to distribute the loans and for their ef
 
 
 
-In the current system the bank only wants to make sure they get back out their capital + interest from the debtor. The debtor in our system will have much more help from the loan officer because the loan officers future lively hood will be based on the pref payments that the debtor pays. She is likely to receive help and support far beyond the repayment of the loan.
+In the current system the bank only wants to make sure they get back out their capital + interest from the debtor. The debtor in our system will have much more help from the loan officer because the loan officers future lively hood will be based on the pref payments that the debtor pays. She is likely to receive help and support far beyond the value of the loan interest and if she is successful enough, may receive loan forgiveness so that the lender can maintain their high value prefs.
 
 
 

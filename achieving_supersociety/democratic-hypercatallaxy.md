@@ -7,7 +7,7 @@ This kind of money is different for 3 core reasons:
 
 1. Our new money has the property of demurrage. Demurrage is controlled inflation. This means you must constantly spend money to keep your money 'current' and usable.
 
-2. Our new money demands that a form of artificial capital\(aka prefs\) be given to the sender of funds along with goods and services in the event of a transaction. Spending our new money is also investing money. The Demurrage from our new money is paid out to owners of this capital. Since no transaction can be performed without the transfer of capital we aim to democratize 'capitalism'.
+2. Our new money demands that a form of artificial capital\(aka prefs\) be given to the sender of funds along with goods and services in the event of a transaction. Spending our new money is also investing money. The demurrage from our new money is paid out to owners of this capital. Since no transaction can be performed without the transfer of capital we aim to democratize 'capitalism'.
 
 3. It allows taxpayers the right to veto the use of state run accounts. This is a form of ongoing voting that makes the people much more powerful in their democratic self government.  The three pillars of the republic are the executive, the legislative, and the judiciary. We add a fourth check to the balance that is a direct citizen veto of the ability for governments to transact business.
 

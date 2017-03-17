@@ -1,5 +1,5 @@
 
-### The destructive valley
+### The Destructive Valley
 
 Morality is a dicey subject. It is so easy to use morality to oppress that I'm fairly hesitant to use the word. This chapter is very important because we are going to use the word morality but we must also be cautious of what I call the destructive valley. The destructive valley is when agents in one area, that have moral authority over a lower system, act without moral responsibility.
 
@@ -9,7 +9,7 @@ What typically happens is that after a bootstrap reaches a certain point it beco
 
 My hope is that we can highlight this tendency to have a destructive valley and plan for it. Even, perhaps, put a morality in place that insists on responsibility as opposed to just authority.
 
-Moral Responsibility > Moral Authority
+**Moral Responsibility > Moral Authority**
 
 So what is responsibility in this case? An agent with moral responsibility will understand its moral authority over lower cascade levels, and yet still make decisions that preserve and amplify wholeness at lower levels. The enlightenment has given us a secret weapon in this balancing act.  We must realize that our inability to balance can always be overcome with the right knowledge.  We never have to resort to destructive authority unless we are out of time and total annihilation is at stake.
 

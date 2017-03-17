@@ -15,7 +15,14 @@ Therefore:
 
 **The state should provide a stipend to parents and caregivers who take care of children.  They should also be issued prefs in a caretaker fund that is separated into cohorts.**
 
+
 ----------
+
+----------
+
+
+
+
 
 
 

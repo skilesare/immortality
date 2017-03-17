@@ -5,7 +5,7 @@
 ... how can one ensure the money **(MNY)** cannot be falsely created or duplicated?
 
 
-**If money is easily reproducible with no work or controls it will become worthless?**
+**If money is easily reproducible with no work or controls it will become worthless.**
 
 Money must be 'scarce'.  The scarceness of it, coupled with people's trust in its value is what gives it value.
 
@@ -18,6 +18,13 @@ Therefore:
 ----------
 
 Counterfeiting can be battled with the Public Ledger **(PLG)**.
+
+
+----------
+
+----------
+
+
 
 
 

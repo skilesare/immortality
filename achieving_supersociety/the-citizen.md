@@ -15,6 +15,6 @@ This empowers the citizen to not just have a significant vote every four years, 
 
 
 
-On specific issues the citizen might use selective veto. An example would be that if the citizens did not like the aggressiveness of the police force, they could veto payments to that particular agency account only. The rest of the government would be unaffected.
+On specific issues the citizen might use selective veto. An example would be that if the citizens did not like the aggressiveness of the police force, they could veto accounts in that particular agency only. The rest of the government would be unaffected.
 
 

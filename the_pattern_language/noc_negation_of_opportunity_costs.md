@@ -1,5 +1,5 @@
 
-### NOC. Negation of opportunity costs
+### NOC. Negation of Opportunity Costs
 
 ... How does a market **(MKT)** make choices between alternatives.
 
@@ -9,9 +9,9 @@ I am an economic novice.  It seems to me that what I'm about to propose may viol
 
 Opportunity costs are: (from wikipedia)
 
-*In microeconomic theory, the opportunity cost of a choice is the value of the best alternative forgone, in a situation in which a choice needs to be made between several mutually exclusive alternatives given limited resources. Assuming the best choice is made, it is the "cost" incurred by not enjoying the benefit that would be had by taking the second best choice available.
+_In microeconomic theory, the opportunity cost of a choice is the value of the best alternative forgone, in a situation in which a choice needs to be made between several mutually exclusive alternatives given limited resources. Assuming the best choice is made, it is the "cost" incurred by not enjoying the benefit that would be had by taking the second best choice available._
 
-If I understand this correctly, the opportunity costs are a key driver in our decision making. It seems to me that this is generally a point A to point B decision making process and that it completely ignores the Interdependence of things.*
+If I understand this correctly, the opportunity costs are a key driver in our decision making. It seems to me that this is generally a point A to point B decision making process and that it completely ignores the interdependence of things.
 
 All generated value is future generated value.  An investment in one thing may lead down the line to incredible profit, but for the initial investor, all may be lost.
 
@@ -34,6 +34,15 @@ Therefore:
 ----------
 
 Negation of opportunity costs can be accomplished with the predistribution of economic rents **(PRF)**
+
+----------
+
+----------
+
+
+
+
+
 
 
 

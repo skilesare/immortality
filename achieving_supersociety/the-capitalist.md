@@ -27,7 +27,7 @@ Ultimately the burden on the capitalist is increased. Some of the economic rents
 
 
 
-This new system is 'less fair' to the capitalist than the current system. This by design as we feel the capitalist has an unnatural advantage under non-hypercatallaxian.
+This new system is 'less fair' to the capitalist than the current system. This by design as we feel the capitalist has an unnatural advantage under non-hypercatallaxy.
 
 
 
@@ -35,6 +35,6 @@ The upside for the capitalist is a massive reduction in risk for the capitalist.
 
 
 
-We believe this trade off will increase the possibility scope of what capitalists will be willing to pursue. This will tap as of yet unaddressed human ingenuity and productivity. Net over net we believe that this will lead to increased productivity and profitability of humanity.
+We believe this trade off will increase the possibility scope of what capitalists will be willing to pursue. This will tap as of yet unaddressed human ingenuity and productivity. I believe that this will lead to increased productivity and profitability of humanity.
 
 

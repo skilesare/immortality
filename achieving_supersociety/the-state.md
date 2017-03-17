@@ -19,7 +19,7 @@ For example, the state of Texas might make registering as a Texan a requirement 
 
 
 
-The state can also create agency accounts in the system to distribute tax collected funds to. These agencies.
+The state can also create agency accounts in the system and distribute tax collected funds to these agencies.
 
 
 
@@ -39,7 +39,7 @@ In order to protect the general operation of the state, the state will want to c
 
 
 
-In addition to easier taxation, the state has the ability to profit from pref payments as well. As welfare payments are paid out and people climb out of poverty, the state may make back more than its investment. As the state buys services from companies and individuals it can generate revenue from there prosperity. Over time this should lead to lower tax rates on the demurrage.
+In addition to easier taxation, the state has the ability to profit from pref payments as well. As welfare payments are paid out and people climb out of poverty, the state may make back more than its investment. As the state buys services from companies and individuals it can generate revenue from their prosperity. Over time this should lead to lower tax rates on the demurrage.
 
 
 

@@ -1,7 +1,7 @@
 
 ### A Technical Proof
 
-A published model of hypercatallaxy
+#### A published model of hypercatallaxy
 
 tldr: Prove hypercatallaxy to yourself with a simulated economy here.
 
@@ -11,7 +11,7 @@ The things we will focus on in this section are the ideas of demurrage or the de
 
 #### INTRO
 
-As a short review, if I buy a bottle of wine for $10, I get the wine and 10 ‘shares’ in the wine merchants account.  If that $10 sits in his account for 1 year at a 12% decay rate, I will receive back $1.20.  If he spends the money, he gets 10 shares in someone elses account and I only get 12% of his $1.20.  This is recursive and cumulative so eventually I will see most of my cash back.
+As a short review, if I buy a bottle of wine for $10, I get the wine and 10 ‘shares’ in the wine merchants account.  If that $10 sits in the merchants account for 1 year at a 12% decay rate, I will receive back $1.20.  If he spends the money, he gets 10 shares in someone elses account and I only get 12% of his $1.20.  This is recursive and cumulative so eventually I will see most of my cash back.
 
 Many stop here and either don’t believe me or think I’m doing some funny math.  I’ll be the first to admit that I’m not great at the maths.  I’m trying to get better and I’m specifically looking for someone interested in mentoring me through the relevant bits.  What I am decent at is computer programming and building models, so in this article I’m going to publish a very basic model that will hopefully be intriguing enough to get some people to PAY ATTENTION and help me move the ball toward the goal.
 
@@ -25,17 +25,17 @@ This is a problem and now I have the model to prove that it is a problem.  And i
 
 Here are the assumptions of this model:
 
-Some nodes are better than other nodes at extracting rent for a good.
+Some nodes are better than other nodes at extracting rent for a good(#1).
 
-Some nodes are better than other nodes and noticing the potential for cash transferred to another node.  In other words, I’m better than you at investing in wine makers because I was one for 10 years and you just buy wine at the store.
+Some nodes are better than other nodes at noticing the potential for cash transferred to another node(#2).  In other words, I’m better than you at investing in wine makers because I was one for 10 years and you just buy wine at the store.
 
-Standard capitalism just refreshes capital at nodes that succeed in #1, and nodes that use #2 to invest.  Hypercapitalism uses all economic activity when refreshing nodes in #2.
+Standard capitalism just refreshes capital at nodes that succeed in #1, and nodes that use #2 to invest.  Hypercatallaxy uses all economic activity when refreshing nodes in #2.
 
 My theory is that is that the more you refresh the nodes that are good at producing value and the nodes that are good at seeking value, you will have a more robust economy with much higher growth.
 
 Nodes in #1 are refreshed by people buying and selling goods that they value.  If a node attracts revenue then it will have more resources to create value.
 
-Nodes in #2 are refreshed in Hypercapitalism by charging the decay fee in an account and passing it back to those that paid into the account in proportion to how much they paid into the account.
+Nodes in #2 are refreshed in Hypercatallaxy by charging the decay fee in an account and passing it back to those that paid into the account in proportion to how much they paid into the account.
 
 Therefore I take a set of node N1...9 and assign each node an Economic Rent production value and a p(Reason) value.
 
@@ -62,7 +62,7 @@ We are going to let our nodes participate in an economy for 300 months(25 years)
 
 Which node they spend their cash at is determined by their reason.  They have pReason probability of picking the node that produces the most value(Economic Rent).  If they fail, they move down a rung and test again.  If they get all the way to the end they just pick a random node.  As a result, a node with great pReason will spend most of their cash over the 25 years with firms that are great at producing Economic rent.
 
-After each month we do the demurrage or decay calculation and pass cash back to the nodes that seeded the cash in a node according to the ideas in hypercapitalism. Now the interesting thing about capitalism is that it is just hypercapitalism with a 0% demurrage rate and a 0% tax rate(We are ignoring taxes in this model).  So for capitalism we just set the demurrage rate to 0.
+After each month we do the demurrage or decay calculation and pass cash back to the nodes that seeded the cash in a node according to the ideas in hypercatallaxy. Now the interesting thing about capitalism is that it is just hypercatallaxy with a 0% demurrage rate and a 0% tax rate(We are ignoring taxes in this model).  So for capitalism we just set the demurrage rate to 0.  
 
 We are giving all capitalist consumers the benefit of the doubt that they make decisions based on reason.  I’ve run the simulation without reason and when I do I end up with a 16% decrease in GDP when consumers are not incentivised to use reason.  Poverty actually went down because the disbursement of cash was more random.  I wasn’t expecting to discover this as it really gives us a reason to debate if we want to use reason or not because it may lead to short term poverty when the really, really unproductive nodes begin to be ignored by the market.  I’m not totally convinced this is a  bad thing though.
 
@@ -74,8 +74,7 @@ I give each node $1000 to start out with.  Let’s take a look at the results.
 
 #### POVERTY
 
-The first result to take a look at is poverty.  Some of these nodes are going to run out of cash and not be able to buy necessities.  Now I’m all for free markets but I’m also generally against hunger.  I’d love a system that just intrinsically takes care of this and I’ve tried to put that into hypercapitalism.  I wasn’t sure that it would reduce poverty, but the results seem to bear it out.
-We see in this chart that the amount of poverty is significantly reduced as we redistribute wealth in a manner that sends it back to those that spent the cash with the wealth generators.
+The first result to take a look at is poverty.  Some of these nodes are going to run out of cash and not be able to buy necessities.  Now I’m all for free markets but I’m also generally against hunger.  I’d love a system that just intrinsically takes care of this and I’ve tried to put that into hypercatallaxy.  I wasn’t sure that it would reduce poverty, but the results seem to bear it out.
 
 ![](./assets/image1bw.png)
 
@@ -102,19 +101,19 @@ We can see how much ing Fig. 6.3.
 
 The total increase in GDP when we go to 60% is 8.2% in GDP over 25 years.  This is an increase of an average of 0.3% per year.  This does not seem like much until you consider that since the 90s we’ve been averaging around 2.5% this is a 12% increase in GDP which ends up being huge.
 
-At this point I hope it is clear that using this type of redistribution is worth exploring further and potentially interesting enough to implement. I wish I could use this kind of money today.
+At this point I hope it is clear that using this type of redistribution is worth exploring further and potentially interesting enough to implement. I wish I could use this kind of money today.  
 
 #### CONTROL GROUP
 
-We’ve missed one key consideration of science.  It is one thing to compare a 0% decay fee to a 20% decay fee in a hypercapitalism context.  We haven’t yet compared a different form of redistribution to the hypercapitalism form of redistribution.  The form of redistribution I chose to compare it to was even distribution.  I implemented a wealth tax equal to the demurrage rate but instead of distributing based on hypercapitalism, I did an even redistribution.  When I first ran this in the model I was floored because it basically negated my theory.  See Fig. 6.4.
+We’ve missed one key consideration of science.  It is one thing to compare a 0% decay fee to a 20% decay fee in a hypercatallaxian context.  We haven’t yet compared a different form of redistribution to the hypercatallaxian form of redistribution.  The form of redistribution I chose to compare it to was even distribution.  I implemented a wealth tax equal to the demurrage rate but instead of distributing based on hypercapitalism, I did an even redistribution.  When I first ran this in the model I was floored because it basically negated my theory.  See Fig. 6.4.
 
-![](./assets/image4bw.png)
+![](./assets/image5bw.png)
 
 If we used reason in picking where we spend our money, we would not need hypercapitalism.  The market does not use reason and instead seeks the best immediate value without regard to the future value of production.
 
-It took me a while to realize that this scenario still relied on our consumers using reason, but by removing hypercapitalism I’m removed the driver of reason.  If your redistribution is going to be even, why would you focus your spending with firms that promise future value?  I added some code to apply the even redistribution without the driver of reason and received the result seen in Fig 6.5.
+It took me a while to realize that this scenario still relied on our consumers using reason, but by removing hypercatallaxy I have removed the driver of reason.  If your redistribution is going to be even, why would you focus your spending with firms that promise future value?  I added some code to apply the even redistribution without the driver of reason and received the result seen in Fig 6.5.
 
-![](./assets/image5bw.png)
+![](./assets/image4bw.png)
 
 An increase in taxation when there is no reason to the market leads nowhere.
 
@@ -124,7 +123,7 @@ The first thing we notice is that GDP starts about 16% below where it started wh
 
 After reviewing this model I think it is clear that the the adding a driver to use reason is a reliable way to increase GDP.  If you agree I’d encourage you to read up on more of my ideas at http://catallax.info and help support our patreon.
 
-I have published this model in the source code for this book on github and in a runnable version at
+I have published this model in the source code for this book on github and in a runnable version at 
 
 http://runnable.com/VTBkszswv6lIdEFR/hypercapitalism-sample-economy-for-node-js-and-hello-world
 
@@ -134,6 +133,8 @@ If you want to run the standard test from above, you will need to follow the com
 
 Have fun and let me know how your testing goes.
 
+<div style='display:none;' markdown="1">
+\newpage
 
 
 

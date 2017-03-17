@@ -25,7 +25,7 @@ In this book we will flesh out our form language for our new money and provide c
 10. Tax
 11. Prefs
 12. Legacy
-13. Pass through
+13. Pass Through
 14. Loan Pool
 15. Loan Officers
 

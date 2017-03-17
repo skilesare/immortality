@@ -15,9 +15,9 @@ Traditionally inflation does this as well, but inflation is erratic and hard to 
 
 The digital age gives us a chance to try demurrage again.
 
-We have modified traditional demurrage with the idea of prefs. As a result, not all demurrage cash goes to taxes. We are going to use the public ledger to pass some cash back to the people that helped us make the cash in the first place.
+I have modified traditional demurrage with the idea of prefs. As a result, not all demurrage cash goes to taxes. We are going to use the public ledger to pass some cash back to the people that helped us make the cash in the first place.
 
 Money will demurrage at a set rate. Instead of requiring everyone to 'stamp' their money once a month we will require an account that wants to spend money, receive money, or process pref payments to 'catch up' and pay the portion of the yearly percentage since the last catch up. Since money moves between accounts instantly, our money will be constantly decaying.
 
-A high rate will lead to people looking to spend their money more quickly so that other bear the cost of demurrage.
+A high rate will lead to people looking to spend their money more quickly so that others bear the cost of demurrage.
 

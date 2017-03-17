@@ -25,6 +25,14 @@ Therefore:
 
 Citizens have the right to the full output of labor **(FOL)** and the right to be a bank **(BNK)**. Citizens should have the power to select their citizenship. They are protected by statutory theft **(STH)** laws. They have the right to privacy and private dispersal **(PRI)** and human dignity frameworks **(DIG)**.  They wiled the democratic veto **(VTO)** and can leave a legacy **(LEG)** in our system.
 
+----------
+
+----------
+
+
+
+
+
 
 
 

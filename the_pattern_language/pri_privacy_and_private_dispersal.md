@@ -23,7 +23,13 @@ Therefore:
 
 **Implement a privacy pool that allows citizens to make payments and receive payment(but only from other citizens when receiving) that are 'anonymous.'**
 
+
 ----------
+
+----------
+
+
+
 
 
 

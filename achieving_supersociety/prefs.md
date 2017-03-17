@@ -1,7 +1,7 @@
 
 ### Prefs
 
-Prefs are a form of preferred stock (thus 'prefs) that are issued to the buyer of good or service by the receiving account. The issuing of this form of artificial capital is intrinsic to the system.
+Prefs are a form of preferred stock (thus 'prefs') that are issued to the buyer of good or service by the receiving account. The issuing of this form of artificial capital is intrinsic to the system.
 
 The benefit of owning a pref is that the owners of a pref will receive a dividend payment whenever cash 'demurrages' in an account.
 

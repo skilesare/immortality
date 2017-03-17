@@ -1,5 +1,5 @@
 
-## Article VIII - commentary
+## Article VIII - Commentary
 
 
 Outlines the process to ratify the constitution.

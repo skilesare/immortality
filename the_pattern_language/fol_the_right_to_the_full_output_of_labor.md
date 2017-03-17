@@ -1,10 +1,10 @@
 
-### FOL. The right to the full output of labor
+### FOL. The Right to the Full Output of Labor
 
 
 ... With the power of the public ledger **(PLG)** how can a **(CTZ)** ensure he receives the full output of his labor?
 
-**Capitalism has to date allowed the capitalist to take value produced by the laborer as economic rent?  Can this be neutralized?**
+**Capitalism has allowed the capitalist to take value produced by the laborer as economic rent?  Can this be neutralized?**
 
 The idea of the 'full output of labor' has traditionally been a communist and/or socialist ideal. Is it exclusive to those modes of government?  Communism has failed and socialism loses many advantages of free market capitalism.  Can we have both the free market and provide a laborer with the full output of his labor?
 
@@ -31,6 +31,14 @@ Therefore:
 ----------
 
 The full output of labor can help contribute to a citizens Legacy **(LEG)**. It is protected by statutory theft **(STH)**.
+
+----------
+
+----------
+
+
+
+
 
 
 

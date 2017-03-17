@@ -1,5 +1,5 @@
 
-## The economics of the bootstrap
+## The Economics of the Bootstrap
 
 We have an immense amount of information of how economics work in the areas of financial markets. I'm going to do my best to map these back to more basic bootstraps and show that the dynamics are similar and ultimately the effects of these economies manifest themselves in similar ways.
 
@@ -13,7 +13,7 @@ At the level of society it is resources that are supplied and demanded. Differen
 
 On the intelligence level we are dealing in the supply and demand of time. Intelligence operates on understanding the supply of time and demanding more of it. This ultimately culminates in science delivering massive improvements in time availability and the promise of more time leads to more science. The superintelligence bootstrap likely emerges from the diversification and amassing of reliable time observations and the ability to act on 'many many many' of them at one time. System 1 of our brains is pretty bad at operating on more than a couple observations at a time and System 2 ups that by letting us add in some processes that can build some complex systems, but it is likely that the superintelligence is going to be operating on thousands and thousands of simultaneous observations.
 
-It is tempting to dismiss the possibilities of a Biology II or System III bootstrap but recent advances in nano-tech and genetic engineering put this back in play. For biology II we should look to processes that generate reliable and consistent systems that are not carbon based. This could lead to very different patterns than what carbon provides. For System III we can look toward the future possibility of engineering new variants of species on a drastically reduced timescale. If we are able to do these while also avoiding a grey goo scenario or a bio-accident of global proportions we might see another kind of bootstrap, but I expect these would look very alien to us.
+It is tempting to dismiss the possibilities of a Biology II or System III bootstrap but recent advances in nano-tech and genetic engineering put this back in play. For Biology II we should look to processes that generate reliable and consistent systems that are not carbon based. This could lead to very different patterns than what carbon provides. For System III we can look toward the future possibility of engineering new variants of species on a drastically reduced timescale. If we are able to do these while also avoiding a grey goo scenario or a bio-accident of global proportions we might see another kind of bootstrap, but I expect these would look very alien to us.
 
 
 
