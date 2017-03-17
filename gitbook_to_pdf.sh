@@ -14,7 +14,7 @@ if [ -d "$GITBOOK_REP" ]; then
       grep -o '<a href=['"'"'"][^"'"'"']*['"'"'"]' | \
       sed -e 's/^<a href=["'"'"']//' -e 's/["'"'"']$//'| \
       xargs cat | \
-      pandoc -f markdown --variable fontsize=10pt \
+      pandoc -f markdown --variable fontsize=12pt \
               --variable geometry:paperwidth=6in \
               --variable geometry:paperheight=9in \
               --variable mainfont="Times" \
