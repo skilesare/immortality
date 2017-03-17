@@ -135,8 +135,7 @@ In addition, each pattern should be rated according to how well it demonstrates 
 
 Finally, we should be able to develop specific generative and regenerative processes for each pattern.
 
-<div style='display:none;' markdown="1">
-\newpage
+
 
 
 
