@@ -1,3 +1,17 @@
 {
- "pdf":{"pageSize":"a5","fontSize":10}
+ "pdf":{"pageSize":"a5","fontSize":10},
+ "plugins": ["adsense","analytics"],
+ "pluginsConfig": {
+      "adsense": {
+        "client": "ca-pub-7358268444146643",
+        "slot": "6029749837",
+        "format": "auto",
+        "element": ".page-inner section"
+      },
+      "analytics": {
+            "google": "UA-97558087-1"
+        }
+    }
+
+
 }
