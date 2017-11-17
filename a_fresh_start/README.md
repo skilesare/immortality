@@ -5,15 +5,15 @@
 
 #### I. A fresh start
 
-Let us live as man will live in the future and think as man will think in the future.  To make any progress in this volume, you will have to set aside what has been.  This may be difficult for you as it is for me, but if we would like a fresh start at this grand life it is a step we must constantly ask ourselves to take.
+Let us live as man will live in the future and think as man will think in the future.  To make any progress in this volume, you will have to set aside what has come before.  This may be difficult for us, but if we would like a fresh start at this grand life we must repeat this step continuously.
 
 #### II. A philosophy
 
-Though I am not a scientist, this work will take a scientific tone.  I hope to point us toward a worldview where the generalizations I propose can be proven out by those better trained in the scientific arts who have more time available to them.  This leaves me with the solemn reality that this is a work of philosophy and that many of the generalizations I make will be proven scientifically unsound.  If they are, my hope is that they point in a vector close to real and can be corrected by those wiser than I am.
+I do not have a scientific degree, yet this work will take a scientific tone.  I hope to point us toward a worldview where the generalizations I propose can be proven out by those better trained in the scientific arts who have more time available to them.  This book finds itself as a work of philosophy and that many of the generalizations in it will be proven scientifically unsound.  Those theories that fail scientific rigor will seek to point in a vector close to the real and I hope that those wider than me can corrected them.
 
 #### III. The great economies
 
-Life is not simple, but it is more simple that it appears on the surface.  We live amongst four great economies and on the cusp of a million more.  Robert Pirsig identified these in his works of [Zen and Motorcycle Maintenance](http://amzn.to/2lJyISc) and [Lila](http://amzn.to/2mpksLq).  Lila is the more important where the four economies are identified.  The economies are those of the **inorganic**, the **biological**, the **societal**, and the **intellectual**.  He does not point out that they are economies, but as we move forward we will see that this is so.  There are other lesser economies and perhaps even major ones that I do not pay enough heed to, but in thinking about the major issues that our world faces, these four seem to be enough to focus on for now. It may be that these economies are not discrete and form some kind of continuum that we cannot see easily.  I will leave this possibility to others to investigate and treat the economies as discrete for the purpose of this book. I think many of the conclusions will stand even if there is a continuous evolution of one 'kind' of development.
+We will conclude that life is simple despite the initial complexity we see on its surface.  We live amongst four great economies and on the cusp of a million more.  Robert Pirsig identified these in his works of [Zen and Motorcycle Maintenance](http://amzn.to/2lJyISc) and [Lila](http://amzn.to/2mpksLq). Pirsig identifies the four economies in Lila and this establishes its priority in importance.  We define these economies as the **inorganic**, the **biological**, the **societal**, and the **intellectual**.  Pirsig does not point out that they are economies, but as we move forward we will see the economic nature emerge.  Lesser economies may emerge as well and perhaps even major ones that I do not pay enough heed to, but in thinking about the major issues that our world faces, these four seem worth our focus for now. We may find these economies do not fit well into discrete catigories and instead form some kind of continuum that we cannot see easily.  I will leave this possibility to others to investigate and treat the economies as discrete for the purpose of this book. I think many of the conclusions will stand even if a continuous evolution of one 'kind' of development emerges.
 
 #### IV. The bootstrap
 
@@ -23,7 +23,7 @@ This new economy did not deal in the supply and demand of patterned forces.  Pat
 
 In addition to using the inorganic level, the biological level began to use its own economy to evolve itself into a more and more adept engine for reproduction. The organic level used knowledge stored in DNA to accomplish this.
 
-A **bootstrap**  occurs when a new economy is produced that leverages the pre-existing economies to create a new and stable economy that itself can grow and change.
+A **bootstrap**  occurs when a system produces a new economy that leverages the pre-existing economies to create a new and stable economy that itself can grow and change.
 
 #### V. Two more bootstraps
 
