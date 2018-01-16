@@ -1,7 +1,7 @@
 
 ## A Definitions of 'Toward'
 
-There is nothing tricky in the way I am using 'toward' in my title of this book.  I believe there is an economics that can propel us toward a much longer lifespan for our minds.  This economics is not a magic bullet that can outstrip the laws of physics and the path from here to immortality being achieved maybe be a very, very long path. Also do not underestimate mankind's ability to aim poorly.
+I use 'toward' in my title of this book in a straightforward manner.  An economics exists that can propel us toward a much longer lifespan for our minds.  This economics does not present a magic bullet that can outstrip the laws of physics and there may be a very long path from here to achieving immortality. Also, do not underestimate mankind's ability to aim poorly.
 
 ### On the Shape of the Change in Life Expectancy
 
