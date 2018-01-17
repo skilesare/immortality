@@ -5,7 +5,7 @@
 
 **Bank bubbles and crashes have wrecked massive suffering on humans over the last hundreds of years.  Can we do away with this institution?**
 
-Bankers are vampires.  They take our money, risk it, and reap the profits.  They are stealing our output and lining their pockets with it.  We should do away with the current banking institution.  The amount of human capital and productivity that is lost trying to gain a small advantage while moving money around will be looked back on in the future with disdain and horror.  They are stealing from all of us.
+Bankers take our money, risk it, and reap the profits.  They are stealing our output and lining their pockets with it.  We should do away with the current banking institution.  The amount of human capital and productivity that is lost trying to gain a small advantage while moving money around will be looked back on in the future with disdain and horror.  They are stealing from all of us.
 
 The fractional reserve banking system does have some features that we would like to borrow, but we propose that the dividends of these advantages go to the citizens and not to the bankers.
 
