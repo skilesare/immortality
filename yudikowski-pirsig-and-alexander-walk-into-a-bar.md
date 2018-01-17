@@ -156,7 +156,7 @@ Test: Compare dynamic to static latches across a number of domains and compare l
 
 Yudkowsky comes down squarely on the side of a completely hostile universe. He warns that we must tread lightly as we move toward an Artificial Intelligence because it may decide that it no longer needs us and it could bring about the end of the human race. I don't doubt that this possibility, but I think he misses the Luminous Ground that Alexander speaks of in the Nature of Order. Now Yudkowsky would probably reject this seemingly silly concept out right.
 
-Alexander’s Luminous Ground puts forth some 'other' that causes nature to work toward wholeness. To his credit Alexander spends hundreds of pages laying out empirical evidence for thi case. Perhaps some of needs fleshing out, especially in areas outside of architecture, but to Alexander's credit he calls for much more experiment and discovery.
+Alexander’s Luminous Ground puts forth some 'other' that causes nature to work toward wholeness. To his credit Alexander spends hundreds of pages laying out empirical evidence for this case. Perhaps some of needs fleshing out, especially in areas outside of architecture, but to Alexander's credit he calls for much more experiment and discovery.
 
 Alexander’s conclusion leads to less of a concern of rogue AI if the development of it follows a stepwise pathway that ensures that wholeness increases. A wholeness aware and wholeness preserving AI should preserve and augment humanity instead of destroying it.
 
@@ -198,7 +198,7 @@ I think so. If anything, I think that Yudkowsky's humanism betrays his material/
 
 I think these guys have reached many of the same conclusions about being careful when developing future tech, but they approach the world in two very different ways. Yudkowsky orientates toward futurism and aches to bring it to fruition and Taleb finds satisfaction with the way things were 1000 years ago(plus a little bit of medicine).
 
-## Other Authors Who's Ideas Color This Work
+## Other Authors Whose Ideas Color This Work
 
 #### Francis Fukuyama
 

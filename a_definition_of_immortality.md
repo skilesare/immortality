@@ -40,7 +40,7 @@ Secondly, we need to diversify the space that we inhabit in the galaxy. First to
 
 ### On Macro-hurdles
 
-Once these we surpase these initial hurdles we will need to work on bigger problems like overcoming accidents. Perhaps by 'backing up' our minds. Then on to active back ups. Etc.
+Once these we surpass these initial hurdles we will need to work on bigger problems like overcoming accidents. Perhaps by 'backing up' our minds. Then on to active back ups. Etc.
 
 ### On the Distant Unseen
 

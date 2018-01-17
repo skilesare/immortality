@@ -6,7 +6,7 @@ Many people will not find satisfaction in this. In a sense we must use it as a p
 
 ### On the Duality of Morality
 
-We will find a Moral Authority given to more advanced and complex entities by observing thew world around us. This Moral Authority must always balance with a Moral Responsibility given from the more advanced and complex entities to lesser entities. The reality that any lesser entity may springboard to a new and more complex entity that has never existed before demands this approach.
+We will find a Moral Authority given to more advanced and complex entities by observing the world around us. This Moral Authority must always balance with a Moral Responsibility given from the more advanced and complex entities to lesser entities. The reality that any lesser entity may springboard to a new and more complex entity that has never existed before demands this approach.
 
 ### On Evil
 
@@ -14,11 +14,11 @@ Evil arises in two ways.
 
 The first, when the moral authority threatens from below.
 
-The second, when the moral responsibility gets ignored or is technologicaly impossible. This often manifests in a 'moral dilemma' that we seemingly cannot overcome without committing some evil.
+The second, when the moral responsibility gets ignored or is technologically impossible. This often manifests in a 'moral dilemma' that we seemingly cannot overcome without committing some evil.
 
 ### On Knowledge
 
-But we do not find ourselves left alone with this evil. We can explain. And we can codify our explanations so that we know. Our minds are universal explainers. And using the tools we have on hand, and the ones we will develop, we should strive to become universal constructors. If becomeing a universal constructor is allowed by the physics of our universe, we should seek the right knowlege to accomplish that end.
+But we do not find ourselves left alone with this evil. We can explain. And we can codify our explanations so that we know. Our minds are universal explainers. And using the tools we have on hand, and the ones we will develop, we should strive to become universal constructors. If becoming a universal constructor is allowed by the physics of our universe, we should seek the right knowledge to accomplish that end.
 
 ### On Overcoming Evil
 
