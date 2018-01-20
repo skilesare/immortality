@@ -1,3 +1,4 @@
+
 ## What Comes Next?
 
 So what comes next? How do we pursue what comes next? Should we pursue what comes next?
