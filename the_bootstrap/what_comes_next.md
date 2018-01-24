@@ -59,5 +59,5 @@ We can enable this next bootstrap by reforming and targeting the way our money w
 
 ### Intelligence -> Superintelligence
 
-This one may not play out the way many expect. This bootstrap goes beyond just faster intelligence. Faster intelligence gets us there faster because the bootstrap builds on top of the underlying structure of science. But what will the superintelligence be? What systems will emerge when science becomes so basic to a thing that a systems surrounds and superceeds it?
+This one may not play out the way many expect. This bootstrap goes beyond just faster intelligence. Faster intelligence gets us there faster because the bootstrap builds on top of the underlying structure of science. But what will the superintelligence be? What systems will emerge when science becomes so basic to a thing that a systems surrounds and supersedes it?
 

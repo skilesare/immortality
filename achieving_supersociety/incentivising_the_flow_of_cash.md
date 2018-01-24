@@ -11,5 +11,5 @@ We can implement our money time machine and remove the need for the typical bank
 
 This system will accelerate the flow of cash far beyond the ability of the fractional reserve banking system. Profits will accrue to those creating the actual activity by returning decayed money backwards through the blockchain so that those that have spent and / or invested their cash with successful enterprises will receive the largest reward.  This causes money to gravitate toward the highest value producing nodes in the economy.
 
-Time binds the abliity for these ndtes to maintain their attractiveness.  As common interest in each becomes diluted, innovative nodes will find an opportunity to gain the communities interest.  This generates a natural cycle of delivering value to innovative nodes overtime and then retiring them so that further innovations have space to thrive.
+Time binds the ability for these nodes to maintain their attractiveness.  As common interest in each becomes diluted, innovative nodes will find an opportunity to gain the communities interest.  This generates a natural cycle of delivering value to innovative nodes overtime and then retiring them so that further innovations have space to thrive.
 

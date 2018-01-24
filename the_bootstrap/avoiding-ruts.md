@@ -7,7 +7,7 @@ As a short summary, static societies can hinder the advancement of knowledge. Th
 
 We must call out sacredness as muck and mire. If you spread enough of it around you can grow some amazing and vibrant societies, but ultimately, they reside in decay. Even in our western, and mostly enlightened, religions we still plow this muck into nice looking rows.
 
-Ritual and sacredness have differences. Ritual can give a rhythm to life that tie a society together and makes it stronger. But we must avoid sacred ritual. We must observe our rituals and know their substance and what they mean to accomplish. And when our knowledge exposes misguded rituals, we must consider changing them.
+Ritual and sacredness have differences. Ritual can give a rhythm to life that tie a society together and makes it stronger. But we must avoid sacred ritual. We must observe our rituals and know their substance and what they mean to accomplish. And when our knowledge exposes misguided rituals, we must consider changing them.
 
 We don't need to stop going to our manure piles on Sundays or dipping our noses in cow patties five times a day, but we do need to acknowledge the reality of the material we have to work with. After engaging in those rituals we need to set them aside and take the world and its mear reality. 
 

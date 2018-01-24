@@ -22,7 +22,7 @@ The order that items appear here have importance and reveal quite a bit about th
 
 **structure > environment** - structure creates and gives form to environment.
 
-**biodiversity > reproduction** - the definition of survival of the fittest. If you have more fittness, you reproduce. A biodiverse planet has more antifragility than a planet with just one species.
+**biodiversity > reproduction** - the definition of survival of the fittest. If you have more fitness, you reproduce. A biodiverse planet has more antifragility than a planet with just one species.
 
 **art > object creation** - we value art more than general objects. We really value beautiful things that also have utility.
 
