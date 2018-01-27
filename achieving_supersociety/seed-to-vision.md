@@ -43,3 +43,4 @@ Our Generative language follows:
 5. Nationalization - We allow the government to nationalize the currency as the dollar begins to fail.
 
 6. Democratization - Government agencies come under the authority of the citizen veto and this establishes a new era for democracy.
+
