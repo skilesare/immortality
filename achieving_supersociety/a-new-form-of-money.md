@@ -2,7 +2,7 @@
 
 ## A Generative Language for a new form of money
 
-This secion seeks to outline a (re)generative process that will allow our new form of money to become the dominant form of currency in the near future. We will also allow for some outlets for the next thing to come along. For example, our system would not work well for interplanetary and interstellar travel. These problems remain for us to solve another day.
+This section seeks to outline a (re)generative process that will allow our new form of money to become the dominant form of currency in the near future. We will also allow for some outlets for the next thing to come along. For example, our system would not work well for interplanetary and interstellar travel. These problems remain for us to solve another day.
 
 We will first discuss our ideal System.
 
