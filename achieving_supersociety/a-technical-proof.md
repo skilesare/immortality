@@ -13,7 +13,7 @@ The things we will focus on in this section are the ideas of demurrage or the de
 
 As a short review, if I buy a bottle of wine for $10, I get the wine and 10 ‘shares’ in the wine merchants account. If that $10 sits in the merchants account for 1 year at a 12% decay rate, I will receive back $1.20. If he spends the money, he gets 10 shares in someone else's account and I only get 12% of his $1.20. This builds in a recursive and cumulative manner so eventually I will see most of my cash back.
 
-Many stop here and either don’t believe me or think I’m doing some funny math. I certainly need to improve my maths. I would love to find someone interested in mentoring me through the relevant bits. I can program a computer and build models, so in this article I’m going to publish a very basic model that will hopefully intrigue the reader enough to incrase the amount of attention given to thee ideas and help me move the ball toward the goal.
+Many stop here and either don’t believe me or think I’m doing some funny math. I certainly need to improve my maths. I would love to find someone interested in mentoring me through the relevant bits. I can program a computer and build models, so in this article I’m going to publish a very basic model that will hopefully intrigue the reader enough to increase the amount of attention given to thee ideas and help me move the ball toward the goal.
 
 While capitalism does a great job of rewarding capitalistic investment, and to an extent capitalistic banking, it does a poor job of leveraging the general economic buying and selling that goes on in the economy. Investors seek value creation, but consumers seek the ‘best deal’ irrespective of the producers potential future value creation.
 

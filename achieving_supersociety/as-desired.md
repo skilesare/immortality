@@ -22,7 +22,7 @@ I have concluded 'the citizen' should stand at our center. As I lay out this for
 Christopher Alexander explains hese ideas much more thoroughly in [Nature of Order](https://www.amazon.com/Nature-Order-Phenomenon-Environmental-Structure/dp/0972652914/ref=as_li_ss_tl?ie=UTF8&qid=1484605072&sr=8-1&keywords=the+nature+of+order&linkCode=ll1&tag=everybase-20&linkId=897d28d5cd8ed759db14915a0dd4cfc7).
 
 
-I should why we have not chosen something different as our strongest center. I will include a few notes, but there much longer discussion remains about the pluses and minuses of each. These non-citizen items may also arise as centers in our system, but they will not beome the strongest center. They all have a role to play:
+I should why we have not chosen something different as our strongest center. I will include a few notes, but there much longer discussion remains about the pluses and minuses of each. These non-citizen items may also arise as centers in our system, but they will not become the strongest center. They all have a role to play:
 
 
 * The Government: We could certainly have the government at the center. In a sense The Fed does this today. They have the 'job' to maintain liquid markets so that things don't go insane among the populace. Things like the great depression make governing difficult. Ultimately though, even liberals don't want government as the centerpiece. Liberals may want a strong government but usually to the end that it help the citizens. The example of Soviet Communism also wards us away from trying to put too much stock in the government as the ultimate center.
@@ -41,7 +41,7 @@ Around the center of the citizen we will add a new form of money. I propose to c
 
 In short, this means 'Art' will:
 
-* be traded for goods, but that in addition to the goods, the purchaser will recieve a form of preferred stock called 'prefs' equal to the number of 'Art coins' that they spend.
+* be traded for goods, but that in addition to the goods, the purchaser will receive a form of preferred stock called 'prefs' equal to the number of 'Art coins' that they spend.
 
 * 'demurraged' or 'degraded' as a natural course to guard against the hoarding of money and as a means to pay a dividend to 'pref' holders and to collect taxes.
 
@@ -132,7 +132,7 @@ In a sense these new loan officers will become a type of long term venture capit
 
 ### Enhancing Education
 
-The modern world pays poor wages to educators. We do not adequately componsate teachers for the production they give to the world. To combat this the system will create a 'cohort fund' each school year. Each student gets allocated a set of prefs and the cohort fund gains that number of prefs in the student. Teachers also earn prefs in the cohort fund. This system drastically increases the long term earning potential of teachers. As students enter the workforce, their demurrage payments will begin accumulating in the cohort fund and pass through to all the teachers that helped teach them.
+The modern world pays poor wages to educators. We do not adequately compensate teachers for the production they give to the world. To combat this the system will create a 'cohort fund' each school year. Each student gets allocated a set of prefs and the cohort fund gains that number of prefs in the student. Teachers also earn prefs in the cohort fund. This system drastically increases the long term earning potential of teachers. As students enter the workforce, their demurrage payments will begin accumulating in the cohort fund and pass through to all the teachers that helped teach them.
 
 I understand that this may have some significant and ugly side effect such as teachers only wanting to teach in wealthy areas and only teaching successful students. Ways exist to correct these imbalances, perhaps by making the cohort pools statewide.
 

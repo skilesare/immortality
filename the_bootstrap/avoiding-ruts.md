@@ -9,7 +9,7 @@ We must call out sacredness as muck and mire. If you spread enough of it around 
 
 Ritual and sacredness have differences. Ritual can give a rhythm to life that tie a society together and makes it stronger. But we must avoid sacred ritual. We must observe our rituals and know their substance and what they mean to accomplish. And when our knowledge exposes misguided rituals, we must consider changing them.
 
-We don't need to stop going to our manure piles on Sundays or dipping our noses in cow patties five times a day, but we do need to acknowledge the reality of the material we have to work with. After engaging in those rituals we need to set them aside and take the world and its mear reality. 
+We don't need to stop going to our manure piles on Sundays or dipping our noses in cow patties five times a day, but we do need to acknowledge the reality of the material we have to work with. After engaging in those rituals we need to set them aside and take the world and its mere reality. 
 
 We need to recognize the superiority of the body of knowledge that we have amassed since the elders put the old words down on parchment. The world we know and the knowledge we have clearly expose the ancient writers for hacks. We can certainly appreciate their work and mastery of the world they lived in, but taking any kind of advice about the human condition and chief end of man from writers who had no concept of the DNA that drives our body stand out as  immediately suspect. We should reevaluate in light of current knowledge. This also has the implications that the great writers of today will one day look like fools. We should remember this and stay humble.
 

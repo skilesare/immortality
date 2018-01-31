@@ -4,7 +4,7 @@
 
 The secret weapon of Art is that with a tax rate of 0, and demurrage rate of 0, it is just money. Same as it ever was.
 
-I want to seed the network with a standard debit card. This will necessitate the establishment of a bank. If we can convince the public of the worthyness of this endeavor they will put their dollars with us.
+I want to seed the network with a standard debit card. This will necessitate the establishment of a bank. If we can convince the public of the worthiness of this endeavor they will put their dollars with us.
 
 When a dollar comes into us we can convert it to an Art at a 1:1 transaction rate pegged to the dollar.
 
@@ -36,7 +36,7 @@ Our Generative language follows:
 
 3. Distribution - Flip the Demurrage switch and start distributing economic rents to the participants.
 
-4. Compulsion - Art is magnetic and compelles people to use it as opposed to other coins because it has an intrinsic advantage and leads to an optimized and supercharged economy.
+4. Compulsion - Art is magnetic and compels people to use it as opposed to other coins because it has an intrinsic advantage and leads to an optimized and supercharged economy.
 
 4. Disconnect - We disconnect the exchange rate of 1:1 with the dollar.
 
