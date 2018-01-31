@@ -105,7 +105,7 @@ At this point I hope it is clear that using this type of redistribution is worth
 
 #### CONTROL GROUP
 
-We’ve missed one key consideration of science. It is one thing to compare a 0% decay fee to a 20% decay fee in a hypercatallaxian context. We haven’t yet compared a different form of redistribution to the hypercatallaxian form of redistribution. The form of redistribution I chose to compare it to was even distribution. I implemented a wealth tax equal to the demurrage rate but instead of distributing based on hypercapitalism, I did an even redistribution. When I first ran this in the model I was floored because it basically negated my theory. See Fig. 6.4.
+We’ve missed one key consideration of science. It is one thing to compare a 0% decay fee to a 20% decay fee in a hypercatallaxian context. We haven’t yet compared a different form of redistribution to the hypercatallaxian form of redistribution. The form of redistribution I chose to compare it to was even distribution. I implemented a wealth tax equal to the demurrage rate but instead of distributing based on hypercatallaxy, I did an even redistribution. When I first ran this in the model I was floored because it basically negated my theory. See Fig. 6.4.
 
 ![](./assets/image5bw.png)
 

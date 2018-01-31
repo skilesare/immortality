@@ -34,7 +34,7 @@ contract Issuer{
 
 
   function setExecutive(address newExecutive) return (bool result){
-    //both houses needs to have certified the vote
+    //both houses need to have certified the vote
     //to install an new executive
     House verifyHouse = House(houseAdress);
     bool bHouse = verifyHouse.validateExecutive(newExecutive);
